@@ -1,0 +1,324 @@
+[
+  {
+    "id": "lis-b2-001",
+    "level": "B2",
+    "kind": "radio",
+    "context": "Un reportage à la radio.",
+    "script": [
+      { "speaker": "N", "text": "Depuis six mois, une PME de Sherbrooke teste la semaine de quatre jours, sans baisse de salaire. Selon sa directrice, la productivité n'a pas diminué ; elle aurait même légèrement augmenté." },
+      { "speaker": "N", "text": "Les employés se disent moins fatigués, et les absences pour maladie ont presque disparu. Toutefois, l'entreprise reconnaît que le modèle a ses limites : le service à la clientèle, lui, doit rester ouvert cinq jours, ce qui oblige à organiser des rotations parfois compliquées." },
+      { "speaker": "N", "text": "La direction décidera en juin si l'expérience devient permanente." }
+    ],
+    "question": "Quel bilan ce reportage présente-t-il ?",
+    "options": ["Plutôt positif, malgré certaines difficultés d'organisation", "Très négatif, car la productivité a baissé", "Impossible à évaluer pour le moment", "Positif uniquement pour le service à la clientèle"],
+    "answer": 0,
+    "explanationEn": "The report lists benefits (productivity « n'a pas diminué », fewer sick days) but also admits « le modèle a ses limites » (complicated rotations for customer service). Overall positive, with organisational difficulties.",
+    "explanationZh": "报道列出了好处（生产力 « n'a pas diminué »，病假几乎消失），也承认 « le modèle a ses limites »（客服轮班安排复杂）。总体正面，但存在组织上的困难。"
+  },
+  {
+    "id": "lis-b2-002",
+    "level": "B2",
+    "kind": "interview",
+    "context": "Une urbaniste répond aux questions d'un journaliste.",
+    "script": [
+      { "speaker": "A", "text": "Les nouvelles pistes cyclables suscitent beaucoup de critiques chez les commerçants. Que leur répondez-vous ?" },
+      { "speaker": "B", "text": "Je comprends leurs inquiétudes : quand on supprime des places de stationnement, on a peur de perdre des clients. Mais les études menées dans plusieurs villes montrent que les cyclistes et les piétons dépensent autant, voire plus, que les automobilistes, parce qu'ils viennent plus souvent." },
+      { "speaker": "B", "text": "Cela dit, il faut accompagner les commerçants pendant les travaux, qui sont, eux, réellement pénalisants." }
+    ],
+    "question": "Quelle est la position de l'urbaniste ?",
+    "options": ["Les commerçants ont tort de s'inquiéter des travaux.", "Il faut conserver toutes les places de stationnement.", "Les pistes cyclables ne nuisent pas au commerce à long terme, mais les travaux posent problème.", "Les automobilistes dépensent davantage que les cyclistes."],
+    "answer": 2,
+    "explanationEn": "She says cyclists and pedestrians « dépensent autant, voire plus, que les automobilistes », but admits the construction works « sont, eux, réellement pénalisants » and that merchants need support during them.",
+    "explanationZh": "她说骑车和步行的人 « dépensent autant, voire plus, que les automobilistes »（消费和开车的人一样甚至更多），但承认施工期间 « sont, eux, réellement pénalisants »（确实造成损失），需要帮助商家。"
+  },
+  {
+    "id": "lis-b2-003",
+    "level": "B2",
+    "kind": "radio",
+    "context": "Un reportage sur l'emploi des immigrants.",
+    "script": [
+      { "speaker": "N", "text": "Au Canada, de nombreux immigrants qualifiés occupent des emplois bien en dessous de leurs compétences. Ingénieurs devenus chauffeurs de taxi, médecins qui travaillent comme préposés aux bénéficiaires : le phénomène est connu." },
+      { "speaker": "N", "text": "Le problème ne vient pas seulement de la reconnaissance des diplômes, souvent longue et coûteuse. Beaucoup d'employeurs exigent aussi une première expérience canadienne, ce qui crée un cercle vicieux : sans expérience, pas d'emploi, et sans emploi, pas d'expérience." },
+      { "speaker": "N", "text": "Certains programmes de stages rémunérés tentent aujourd'hui de briser ce cercle." }
+    ],
+    "question": "Selon ce reportage, qu'est-ce qui crée un « cercle vicieux » ?",
+    "options": ["Le coût élevé de la reconnaissance des diplômes", "L'exigence d'une expérience canadienne préalable", "Le manque de chauffeurs de taxi", "Les stages non rémunérés"],
+    "answer": 1,
+    "explanationEn": "Employers « exigent aussi une première expérience canadienne », which creates the vicious circle: « sans expérience, pas d'emploi, et sans emploi, pas d'expérience ». Diploma recognition is a separate problem.",
+    "explanationZh": "雇主 « exigent aussi une première expérience canadienne »（还要求有加拿大工作经验），形成恶性循环：« sans expérience, pas d'emploi, et sans emploi, pas d'expérience »（没有经验就没有工作，没有工作就没有经验）。学历认证是另一个问题。"
+  },
+  {
+    "id": "lis-b2-004",
+    "level": "B2",
+    "kind": "interview",
+    "context": "Une émission sur la santé.",
+    "script": [
+      { "speaker": "A", "text": "Pourquoi les adolescents ont-ils autant de mal à se lever le matin ?" },
+      { "speaker": "B", "text": "Contrairement à ce qu'on pense souvent, ce n'est pas de la paresse. À l'adolescence, l'horloge biologique se décale : la mélatonine, l'hormone du sommeil, est sécrétée plus tard le soir." },
+      { "speaker": "B", "text": "Un adolescent qui se couche à vingt-trois heures n'est donc pas forcément indiscipliné ; son corps n'est tout simplement pas prêt à dormir plus tôt. C'est pourquoi plusieurs chercheurs recommandent de commencer les cours plus tard, vers neuf heures." }
+    ],
+    "question": "Que veut démontrer la personne interviewée ?",
+    "options": ["Les adolescents dorment trop.", "Les écrans empêchent les jeunes de dormir.", "Les parents devraient imposer une heure de coucher plus tôt.", "La difficulté des adolescents à se lever a une cause biologique."],
+    "answer": 3,
+    "explanationEn": "The expert says « ce n'est pas de la paresse » and explains that « l'horloge biologique se décale » — melatonin is released later in the evening. The cause is biological; screens are never mentioned.",
+    "explanationZh": "专家说 « ce n'est pas de la paresse »（这不是懒惰），并解释 « l'horloge biologique se décale »（生物钟推迟了），褪黑素分泌更晚。原因是生理性的，录音没有提到屏幕。"
+  },
+  {
+    "id": "lis-b2-005",
+    "level": "B2",
+    "kind": "radio",
+    "context": "Une chronique sur la consommation.",
+    "script": [
+      { "speaker": "N", "text": "Retourner un colis gratuitement : voilà un argument de vente devenu banal. Pourtant, derrière ce geste anodin se cache une réalité moins séduisante." },
+      { "speaker": "N", "text": "Une partie importante des articles retournés n'est jamais remise en vente : trier, nettoyer et remballer coûte parfois plus cher que de les détruire. Résultat, des vêtements neufs finissent à la décharge." },
+      { "speaker": "N", "text": "Certains détaillants commencent d'ailleurs à faire payer les retours, une décision impopulaire, mais qui pourrait inciter les consommateurs à réfléchir avant de cliquer." }
+    ],
+    "question": "Quelle est l'idée principale de cette chronique ?",
+    "options": ["Les retours gratuits sont un avantage indispensable pour les consommateurs.", "Les détaillants perdent des clients en faisant payer les retours.", "Les retours gratuits ont un coût environnemental caché.", "Les vêtements achetés en ligne sont de mauvaise qualité."],
+    "answer": 2,
+    "explanationEn": "The chronicle reveals « une réalité moins séduisante »: returned items are often destroyed, and « des vêtements neufs finissent à la décharge ». Main idea: free returns have a hidden environmental cost.",
+    "explanationZh": "评论揭示了 « une réalité moins séduisante »（不那么美好的现实）：退回的商品常被销毁，« des vêtements neufs finissent à la décharge »（全新的衣服最后进了垃圾场）。主旨：免费退货有隐藏的环境代价。"
+  },
+  {
+    "id": "lis-b2-006",
+    "level": "B2",
+    "kind": "dialogue",
+    "context": "Deux collègues discutent d'un nouvel outil.",
+    "script": [
+      { "speaker": "A", "text": "Tu as vu ? La direction veut qu'on utilise l'outil d'intelligence artificielle pour rédiger nos rapports." },
+      { "speaker": "B", "text": "Oui. Remarque, si ça me permet de finir avant dix-neuf heures pour une fois…" },
+      { "speaker": "A", "text": "Moi, ça m'inquiète un peu. Si une machine fait la moitié de notre travail, combien de temps avant qu'on réduise l'équipe ?" },
+      { "speaker": "B", "text": "Tu as peut-être raison. Mais l'année dernière, on disait la même chose du nouveau logiciel de comptabilité, et on est toujours là. On a juste arrêté de faire de la saisie." }
+    ],
+    "question": "Que suggère la deuxième personne avec l'exemple du logiciel de comptabilité ?",
+    "options": ["Que les outils informatiques suppriment toujours des postes", "Que les nouveaux outils changent les tâches sans forcément supprimer d'emplois", "Que le logiciel de comptabilité ne fonctionnait pas", "Que l'équipe devrait refuser l'outil"],
+    "answer": 1,
+    "explanationEn": "With « on disait la même chose du nouveau logiciel de comptabilité, et on est toujours là. On a juste arrêté de faire de la saisie », the person implies that new tools change the tasks without necessarily cutting jobs.",
+    "explanationZh": "第二个人说 « on disait la même chose du nouveau logiciel de comptabilité, et on est toujours là. On a juste arrêté de faire de la saisie »（以前对新会计软件也这么说，我们还在，只是不用再录入数据了），暗示新工具改变工作内容，但不一定裁员。"
+  },
+  {
+    "id": "lis-b2-007",
+    "level": "B2",
+    "kind": "radio",
+    "context": "Un reportage sur l'agriculture urbaine.",
+    "script": [
+      { "speaker": "N", "text": "Sur le toit d'une ancienne usine de Québec, une jeune entreprise cultive des tomates, des laitues et des fines herbes toute l'année. L'avantage est évident : les légumes parcourent quelques kilomètres au lieu de plusieurs milliers." },
+      { "speaker": "N", "text": "Mais le fondateur reste lucide. La serre consomme beaucoup d'énergie en hiver, et ses prix restent plus élevés que ceux des légumes importés." },
+      { "speaker": "N", "text": "« Nous ne remplacerons pas l'agriculture traditionnelle, explique-t-il, nous la complétons. »" }
+    ],
+    "question": "Comment le fondateur voit-il son projet ?",
+    "options": ["Comme un complément à l'agriculture traditionnelle", "Comme une solution pour remplacer les importations", "Comme une entreprise peu rentable qu'il va fermer", "Comme un moyen de faire baisser les prix des légumes"],
+    "answer": 0,
+    "explanationEn": "The founder says « Nous ne remplacerons pas l'agriculture traditionnelle, nous la complétons » — a complement, not a replacement. He also admits his prices remain higher than imported vegetables.",
+    "explanationZh": "创始人说 « Nous ne remplacerons pas l'agriculture traditionnelle, nous la complétons »（我们不会取代传统农业，而是补充它）。他也承认价格仍高于进口蔬菜。"
+  },
+  {
+    "id": "lis-b2-008",
+    "level": "B2",
+    "kind": "interview",
+    "context": "La directrice d'une bibliothèque publique est interviewée.",
+    "script": [
+      { "speaker": "A", "text": "Les bibliothèques ont-elles encore leur place à l'ère du numérique ?" },
+      { "speaker": "B", "text": "Plus que jamais, mais pas pour les mêmes raisons. Aujourd'hui, on vient chez nous pour imprimer un CV, apprendre à utiliser une tablette, suivre un atelier de conversation en français, ou simplement pour être au chaud sans devoir consommer." },
+      { "speaker": "B", "text": "Nous sommes devenus l'un des derniers lieux publics gratuits et ouverts à tous. Le prêt de livres reste important, bien sûr, mais ce n'est plus notre seule mission." }
+    ],
+    "question": "Selon la directrice, qu'est-ce qui rend les bibliothèques importantes aujourd'hui ?",
+    "options": ["Le prêt de livres numériques", "Le nombre croissant de lecteurs", "L'accès gratuit à des jeux vidéo", "Leur rôle de lieu public gratuit offrant des services variés"],
+    "answer": 3,
+    "explanationEn": "She says « Nous sommes devenus l'un des derniers lieux publics gratuits et ouverts à tous » and lists varied services (printing a CV, workshops). Lending books « n'est plus notre seule mission ».",
+    "explanationZh": "她说 « Nous sommes devenus l'un des derniers lieux publics gratuits et ouverts à tous »（我们成了最后几个免费、向所有人开放的公共场所之一），并列举了打印简历、工作坊等服务。借书 « n'est plus notre seule mission »（不再是唯一使命）。"
+  },
+  {
+    "id": "lis-b2-009",
+    "level": "B2",
+    "kind": "radio",
+    "context": "Un reportage sur les petites villes.",
+    "script": [
+      { "speaker": "N", "text": "La pandémie a entraîné un phénomène inattendu : de nombreux citadins ont quitté Montréal et Toronto pour s'installer dans de petites villes. Pour les municipalités concernées, c'est une bonne nouvelle : des écoles rouvrent, des commerces reprennent vie." },
+      { "speaker": "N", "text": "Mais cette arrivée massive a aussi fait grimper le prix des maisons, au point que certains jeunes de la région n'ont plus les moyens de se loger là où ils ont grandi." },
+      { "speaker": "N", "text": "Une mairesse résume la situation ainsi : « On voulait de nouveaux habitants. On les a. Maintenant, il faut apprendre à vivre avec les conséquences. »" }
+    ],
+    "question": "Que veut dire la mairesse par sa dernière phrase ?",
+    "options": ["Elle regrette d'avoir accueilli de nouveaux habitants.", "Elle veut limiter le télétravail.", "Elle pense que les prix vont bientôt baisser.", "L'arrivée de nouveaux habitants est positive, mais elle pose des problèmes à gérer."],
+    "answer": 3,
+    "explanationEn": "« On voulait de nouveaux habitants. On les a. Maintenant, il faut apprendre à vivre avec les conséquences » — the newcomers were wanted, but there are consequences (rising house prices) to manage. She does not say she regrets it. (« Mairesse » is the usual Quebec form for a female mayor.)",
+    "explanationZh": "« On voulait de nouveaux habitants. On les a. Maintenant, il faut apprendre à vivre avec les conséquences »（我们想要新居民，现在有了，接下来要学会面对后果）：新居民是好事，但房价上涨等后果需要处理。她没有说后悔。（« mairesse » 是魁北克对女市长的常用说法。）"
+  },
+  {
+    "id": "lis-b2-010",
+    "level": "B2",
+    "kind": "interview",
+    "context": "Une infirmière parle de ses conditions de travail.",
+    "script": [
+      { "speaker": "A", "text": "On parle beaucoup de pénurie de personnel infirmier. Comment la vivez-vous au quotidien ?" },
+      { "speaker": "B", "text": "Concrètement, ça veut dire des heures supplémentaires obligatoires, parfois à la dernière minute. On termine un quart de huit heures, et on nous annonce qu'on doit rester huit heures de plus." },
+      { "speaker": "B", "text": "Ce n'est pas le salaire qui fait partir mes collègues, c'est l'impossibilité de prévoir sa vie. Quand on ne sait pas si on pourra aller chercher ses enfants à la garderie, on finit par changer de métier." }
+    ],
+    "question": "Selon l'infirmière, pourquoi beaucoup de ses collègues quittent-ils la profession ?",
+    "options": ["Parce qu'ils ne peuvent pas organiser leur vie personnelle", "Parce que les salaires sont trop bas", "Parce que les quarts de travail sont trop courts", "Parce qu'il n'y a pas de garderies près des hôpitaux"],
+    "answer": 0,
+    "explanationEn": "« Ce n'est pas le salaire qui fait partir mes collègues, c'est l'impossibilité de prévoir sa vie » — mandatory, last-minute overtime makes it impossible to plan one's personal life. Salary is explicitly ruled out.",
+    "explanationZh": "« Ce n'est pas le salaire qui fait partir mes collègues, c'est l'impossibilité de prévoir sa vie »（让同事离开的不是工资，而是无法安排自己的生活）——临时的强制加班让人无法规划个人生活。工资被明确排除了。"
+  },
+  {
+    "id": "lis-b2-011",
+    "level": "B2",
+    "kind": "radio",
+    "context": "Une chronique sur les habitudes des jeunes adultes.",
+    "script": [
+      { "speaker": "N", "text": "Les jeunes adultes n'ont jamais autant acheté d'occasion. Vêtements, téléphones, meubles : selon un sondage récent, plus de la moitié des dix-huit à trente-quatre ans ont acheté un objet usagé au cours du dernier mois." },
+      { "speaker": "N", "text": "Faut-il y voir une conscience écologique ? En partie seulement. Les personnes interrogées citent d'abord le prix, loin devant l'environnement." },
+      { "speaker": "N", "text": "Autrement dit, c'est souvent le portefeuille qui guide le geste, et la planète en profite au passage." }
+    ],
+    "question": "Selon le chroniqueur, quelle est la principale motivation des jeunes ?",
+    "options": ["La protection de l'environnement", "La mode du style rétro", "Les économies d'argent", "La qualité des objets anciens"],
+    "answer": 2,
+    "explanationEn": "« Les personnes interrogées citent d'abord le prix, loin devant l'environnement » and « c'est souvent le portefeuille qui guide le geste » — saving money comes first; the environment benefits only « au passage » (incidentally).",
+    "explanationZh": "« Les personnes interrogées citent d'abord le prix, loin devant l'environnement »（受访者首先提到价格，远在环保之前），« c'est souvent le portefeuille qui guide le geste »（往往是钱包决定行为）。环保只是 « au passage »（顺带）的好处。"
+  },
+  {
+    "id": "lis-b2-012",
+    "level": "B2",
+    "kind": "dialogue",
+    "context": "Deux parents parlent de leur fille de onze ans.",
+    "script": [
+      { "speaker": "A", "text": "Tous ses amis ont un téléphone. Si on lui dit non, elle va se sentir exclue." },
+      { "speaker": "B", "text": "Je sais. Mais « tous ses amis », d'après ce qu'elle m'a raconté, ça fait trois personnes." },
+      { "speaker": "A", "text": "Bon, peut-être. Mais pour rentrer seule de l'école, ce serait rassurant de pouvoir la joindre." },
+      { "speaker": "B", "text": "Là, je suis d'accord. Alors pourquoi pas un téléphone simple, sans Internet ? Elle pourrait appeler et envoyer des textos, sans réseaux sociaux." }
+    ],
+    "question": "Que propose finalement la deuxième personne ?",
+    "options": ["Refuser complètement le téléphone", "Un compromis : un téléphone sans Internet", "Un téléphone intelligent avec contrôle parental", "Attendre que plus d'amis aient un téléphone"],
+    "answer": 1,
+    "explanationEn": "The second parent accepts the safety argument (« Là, je suis d'accord ») and proposes « un téléphone simple, sans Internet » — calls and texts but no social media: a compromise. The remark about « trois personnes » is gently ironic.",
+    "explanationZh": "第二位家长接受安全方面的理由（« Là, je suis d'accord »），并提议 « un téléphone simple, sans Internet »（一部不能上网的简单手机），可以打电话发短信但没有社交媒体，是折中方案。« trois personnes » 那句带有轻微讽刺。"
+  },
+  {
+    "id": "lis-b2-013",
+    "level": "B2",
+    "kind": "radio",
+    "context": "Une émission sur la langue française.",
+    "script": [
+      { "speaker": "N", "text": "Au Québec, l'Office québécois de la langue française propose régulièrement des équivalents français aux mots anglais : courriel pour email, clavardage pour chat, ou encore balado pour podcast." },
+      { "speaker": "N", "text": "Certains de ces mots se sont imposés dans l'usage ; d'autres font sourire et restent cantonnés aux documents officiels." },
+      { "speaker": "N", "text": "Pour les linguistes, ce n'est pas un échec : une langue vivante choisit elle-même ses mots, et l'essentiel est que les locuteurs aient le choix." }
+    ],
+    "question": "Quelle est l'opinion des linguistes cités ?",
+    "options": ["Les mots proposés par l'Office sont un échec.", "Il est normal que l'usage décide quels mots s'imposent.", "Il faudrait interdire les mots anglais.", "Les documents officiels devraient utiliser les mots anglais."],
+    "answer": 1,
+    "explanationEn": "For linguists « ce n'est pas un échec : une langue vivante choisit elle-même ses mots » — it is normal that everyday usage decides which proposed words catch on.",
+    "explanationZh": "语言学家认为 « ce n'est pas un échec : une langue vivante choisit elle-même ses mots »（这不是失败：活的语言会自己选择词汇），由实际使用决定哪些词流行是正常的。"
+  },
+  {
+    "id": "lis-b2-014",
+    "level": "B2",
+    "kind": "interview",
+    "context": "Une diététiste répond aux questions d'une animatrice.",
+    "script": [
+      { "speaker": "A", "text": "Les superaliments, comme les baies de goji ou les graines de chia, sont-ils vraiment meilleurs pour la santé ?" },
+      { "speaker": "B", "text": "Ils sont nutritifs, personne ne dit le contraire. Mais le mot « superaliment » est avant tout un terme de marketing. Un bol de bleuets du Québec ou une poignée de lentilles apporte des bienfaits comparables, pour une fraction du prix." },
+      { "speaker": "B", "text": "Ce qui compte, ce n'est pas un aliment miracle, c'est l'équilibre de l'alimentation dans son ensemble." }
+    ],
+    "question": "Quel est le message principal de la diététiste ?",
+    "options": ["Les superaliments sont dangereux pour la santé.", "Il faut manger des baies de goji tous les jours.", "Les bleuets du Québec sont les meilleurs superaliments.", "Une alimentation équilibrée compte plus qu'un aliment « miracle »."],
+    "answer": 3,
+    "explanationEn": "« Ce qui compte, ce n'est pas un aliment miracle, c'est l'équilibre de l'alimentation dans son ensemble. » She calls « superaliment » « avant tout un terme de marketing », without saying these foods are dangerous.",
+    "explanationZh": "« Ce qui compte, ce n'est pas un aliment miracle, c'est l'équilibre de l'alimentation dans son ensemble. »（重要的不是神奇食物，而是整体饮食均衡。）她称“超级食物”« avant tout un terme de marketing »（首先是营销用语），但并没有说它们有害。"
+  },
+  {
+    "id": "lis-b2-015",
+    "level": "B2",
+    "kind": "radio",
+    "context": "Un éditorial sur le bénévolat.",
+    "script": [
+      { "speaker": "N", "text": "Les organismes communautaires tirent la sonnette d'alarme : les bénévoles se font rares. Les retraités, longtemps piliers du bénévolat, s'occupent de plus en plus de leurs petits-enfants ou travaillent plus longtemps." },
+      { "speaker": "N", "text": "Quant aux jeunes, contrairement à une idée reçue, ils ne sont pas moins généreux. Ils préfèrent simplement s'engager ponctuellement, pour un projet précis, plutôt que de promettre trois heures chaque mardi pendant un an." },
+      { "speaker": "N", "text": "Aux organismes, donc, de s'adapter." }
+    ],
+    "question": "Selon l'éditorialiste, que devraient faire les organismes ?",
+    "options": ["Proposer des formes d'engagement plus ponctuelles", "Recruter uniquement des retraités", "Convaincre les jeunes d'être plus généreux", "Rémunérer leurs bénévoles"],
+    "answer": 0,
+    "explanationEn": "Young people « préfèrent simplement s'engager ponctuellement, pour un projet précis », and the conclusion is « Aux organismes, donc, de s'adapter » — organisations should offer more one-off, project-based ways to help.",
+    "explanationZh": "年轻人 « préfèrent simplement s'engager ponctuellement, pour un projet précis »（更喜欢为具体项目临时参与），结论是 « Aux organismes, donc, de s'adapter »（因此机构应该调整），即提供更灵活、按项目的参与方式。"
+  },
+  {
+    "id": "lis-b2-016",
+    "level": "B2",
+    "kind": "dialogue",
+    "context": "Deux amis parlent d'un achat récent.",
+    "script": [
+      { "speaker": "A", "text": "Alors, ton nouveau téléphone à mille cinq cents dollars, tu en es content ?" },
+      { "speaker": "B", "text": "Ah oui, c'est le bonheur. Il prend des photos magnifiques… de la même qualité que l'ancien, d'ailleurs. Et la batterie tient presque une journée entière, quand je ne m'en sers pas." },
+      { "speaker": "A", "text": "Tu regrettes, quoi." },
+      { "speaker": "B", "text": "Disons que la prochaine fois, je lirai les critiques avant d'acheter." }
+    ],
+    "question": "Quelle est l'attitude réelle de la deuxième personne envers son téléphone ?",
+    "options": ["Elle en est très satisfaite.", "Elle trouve que les photos sont meilleures qu'avant.", "Elle est déçue et l'exprime avec ironie.", "Elle va le rapporter au magasin."],
+    "answer": 2,
+    "explanationEn": "The praise is ironic: the photos are « de la même qualité que l'ancien » and the battery lasts a day « quand je ne m'en sers pas ». The conclusion « la prochaine fois, je lirai les critiques avant d'acheter » confirms the disappointment.",
+    "explanationZh": "称赞是反话：照片 « de la même qualité que l'ancien »（和旧手机一样），电池能撑一天 « quand je ne m'en sers pas »（前提是不用它）。最后 « la prochaine fois, je lirai les critiques avant d'acheter »（下次买之前我会先看评测）证实了失望。"
+  },
+  {
+    "id": "lis-b2-017",
+    "level": "B2",
+    "kind": "interview",
+    "context": "Une entrepreneure immigrante raconte son parcours.",
+    "script": [
+      { "speaker": "A", "text": "Qu'est-ce qui a été le plus difficile quand vous avez lancé votre entreprise à Montréal ?" },
+      { "speaker": "B", "text": "Pas la paperasse, étonnamment. Il y a beaucoup de ressources pour ça. Le plus difficile, c'était le réseau. Dans mon pays, je connaissais tout le monde : les fournisseurs, les banquiers, les clients potentiels. Ici, je repartais de zéro." },
+      { "speaker": "B", "text": "Pendant la première année, j'ai passé plus de temps dans des cinq à sept et des événements de chambres de commerce que dans mon bureau. Et c'est ce qui a tout changé." }
+    ],
+    "question": "Selon l'entrepreneure, qu'est-ce qui a été décisif pour sa réussite ?",
+    "options": ["Se construire un réseau de contacts", "Bien remplir les documents administratifs", "Obtenir un prêt bancaire", "Travailler plus longtemps au bureau"],
+    "answer": 0,
+    "explanationEn": "« Le plus difficile, c'était le réseau » — and the time spent at networking events (« cinq à sept », chambers of commerce) « c'est ce qui a tout changé ». Paperwork was not the problem. (A « cinq à sept » is a Quebec after-work social gathering.)",
+    "explanationZh": "« Le plus difficile, c'était le réseau »（最难的是人脉），而花时间参加社交活动（« cinq à sept »、商会活动）« c'est ce qui a tout changé »（正是这改变了一切）。文书手续不是问题。（« cinq à sept » 是魁北克的下班后社交聚会。）"
+  },
+  {
+    "id": "lis-b2-018",
+    "level": "B2",
+    "kind": "radio",
+    "context": "Un débat à la radio sur les transports.",
+    "script": [
+      { "speaker": "N", "text": "Faut-il rendre les transports en commun gratuits ? Plusieurs villes européennes ont fait le pas. Les partisans y voient un moyen de réduire la circulation et d'aider les ménages modestes." },
+      { "speaker": "N", "text": "Les sceptiques font remarquer que, dans certaines villes, la gratuité a surtout attiré des piétons et des cyclistes, et non des automobilistes." },
+      { "speaker": "N", "text": "Selon eux, ce qui convainc vraiment les gens de laisser leur voiture, c'est la fréquence et la fiabilité du service, bien plus que son prix." }
+    ],
+    "question": "Quel est l'argument principal des sceptiques ?",
+    "options": ["La gratuité coûte trop cher aux villes.", "Les transports gratuits sont moins sûrs.", "La gratuité n'aide pas les ménages modestes.", "Pour attirer les automobilistes, la qualité du service compte plus que le prix."],
+    "answer": 3,
+    "explanationEn": "Skeptics argue that « ce qui convainc vraiment les gens de laisser leur voiture, c'est la fréquence et la fiabilité du service, bien plus que son prix ». Free transit mainly attracted pedestrians and cyclists.",
+    "explanationZh": "怀疑者认为 « ce qui convainc vraiment les gens de laisser leur voiture, c'est la fréquence et la fiabilité du service, bien plus que son prix »（真正让人放弃开车的是班次频率和可靠性，而不是价格）。免费主要吸引的是步行和骑车的人。"
+  },
+  {
+    "id": "lis-b2-019",
+    "level": "B2",
+    "kind": "interview",
+    "context": "Le directeur d'une école primaire est interviewé.",
+    "script": [
+      { "speaker": "A", "text": "Vous avez décidé de supprimer les devoirs dans votre école primaire. Pourquoi ?" },
+      { "speaker": "B", "text": "Nous avons constaté que les devoirs creusaient les inégalités. Un enfant dont les parents ont le temps et les connaissances pour l'aider avance. Un autre, dont les parents travaillent le soir ou maîtrisent mal le français, prend du retard et se décourage." },
+      { "speaker": "B", "text": "Nous préférons que les exercices se fassent en classe, avec l'enseignant. À la maison, nous encourageons simplement la lecture, pour le plaisir." }
+    ],
+    "question": "Pourquoi l'école a-t-elle supprimé les devoirs ?",
+    "options": ["Parce que les enfants n'aimaient pas lire", "Parce que les parents se plaignaient", "Parce que les devoirs aggravaient les inégalités entre élèves", "Parce que les enseignants manquaient de temps"],
+    "answer": 2,
+    "explanationEn": "« Nous avons constaté que les devoirs creusaient les inégalités » — children whose parents can help progress, while others fall behind and get discouraged.",
+    "explanationZh": "« Nous avons constaté que les devoirs creusaient les inégalités »（我们发现家庭作业加剧了不平等）——父母能辅导的孩子进步，其他孩子则落后、灰心。"
+  },
+  {
+    "id": "lis-b2-020",
+    "level": "B2",
+    "kind": "radio",
+    "context": "Un bulletin d'information à la radio.",
+    "script": [
+      { "speaker": "N", "text": "Avec la canicule annoncée pour les prochains jours, la santé publique appelle à la vigilance. Les personnes âgées qui vivent seules sont particulièrement à risque, car elles ressentent moins la soif et hésitent souvent à demander de l'aide." },
+      { "speaker": "N", "text": "Les autorités invitent donc chacun à prendre des nouvelles de ses voisins âgés, au moins une fois par jour. Plusieurs arrondissements ouvrent également des haltes climatisées, accessibles gratuitement." }
+    ],
+    "question": "Que demande-t-on surtout à la population ?",
+    "options": ["De rester à la maison pendant la canicule", "De prendre régulièrement des nouvelles des voisins âgés", "D'acheter des climatiseurs", "D'appeler la santé publique en cas de soif"],
+    "answer": 1,
+    "explanationEn": "The authorities invite everyone « à prendre des nouvelles de ses voisins âgés, au moins une fois par jour », because elderly people living alone are most at risk.",
+    "explanationZh": "当局请大家 « à prendre des nouvelles de ses voisins âgés, au moins une fois par jour »（每天至少问候一次年长的邻居），因为独居老人风险最高。"
+  }
+]

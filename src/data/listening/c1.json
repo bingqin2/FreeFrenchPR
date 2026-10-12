@@ -1,0 +1,228 @@
+[
+  {
+    "id": "lis-c1-001",
+    "level": "C1",
+    "kind": "dialogue",
+    "context": "Un débat sur l'interdiction des téléphones à l'école.",
+    "script": [
+      { "speaker": "A", "text": "L'interdiction des téléphones à l'école est une mesure de bon sens. Les enseignants le disent : les élèves sont plus attentifs, et les récréations redeviennent des moments d'échange." },
+      { "speaker": "B", "text": "Je ne conteste pas les effets immédiats. Ce qui me gêne, c'est qu'on traite le symptôme en laissant de côté la cause. Interdire, c'est facile ; apprendre aux jeunes à gérer leur rapport aux écrans, c'est autrement plus exigeant. Et cet apprentissage-là, l'école ne pourra pas l'éviter éternellement." },
+      { "speaker": "A", "text": "Mais l'un n'empêche pas l'autre." },
+      { "speaker": "B", "text": "Justement. Mon inquiétude, c'est que l'interdiction serve d'alibi pour ne rien faire d'autre." }
+    ],
+    "question": "Quelle est la position de la deuxième personne ?",
+    "options": ["Elle s'oppose à toute interdiction des téléphones.", "Elle pense que l'interdiction n'a aucun effet sur l'attention.", "Elle accepte l'interdiction, mais craint qu'elle remplace une véritable éducation au numérique.", "Elle veut que les parents décident à la place de l'école."],
+    "answer": 2,
+    "explanationEn": "The speaker grants « Je ne conteste pas les effets immédiats », but fears « que l'interdiction serve d'alibi pour ne rien faire d'autre » — i.e. that banning phones replaces the harder work of teaching young people to manage screens.",
+    "explanationZh": "第二个人承认 « Je ne conteste pas les effets immédiats »（我不否认短期效果），但担心 « que l'interdiction serve d'alibi pour ne rien faire d'autre »（禁令成为什么都不做的借口），即用禁令代替更难的数字素养教育。"
+  },
+  {
+    "id": "lis-c1-002",
+    "level": "C1",
+    "kind": "interview",
+    "context": "Un économiste est interrogé sur le salaire minimum.",
+    "script": [
+      { "speaker": "A", "text": "Les opposants à la hausse du salaire minimum affirment qu'elle va détruire des emplois. Ont-ils raison ?" },
+      { "speaker": "B", "text": "La réponse honnête, c'est : ça dépend. Les études récentes suggèrent que des hausses modérées ont peu d'effets sur l'emploi global, en partie parce que les salariés mieux payés dépensent davantage et restent plus longtemps en poste." },
+      { "speaker": "B", "text": "En revanche, une hausse brutale, dans une région où les salaires sont faibles, peut effectivement pousser de petites entreprises à embaucher moins. Tout est donc une question de rythme et de contexte. Ceux qui vous promettent une réponse tranchée, dans un sens ou dans l'autre, simplifient." }
+    ],
+    "question": "Quelle est la position de l'économiste ?",
+    "options": ["Les effets dépendent de l'ampleur de la hausse et du contexte local.", "Toute hausse du salaire minimum détruit des emplois.", "Une hausse du salaire minimum n'a jamais d'effet négatif.", "Il faut éviter toute hausse dans les régions où les salaires sont faibles."],
+    "answer": 0,
+    "explanationEn": "« La réponse honnête, c'est : ça dépend » … « Tout est donc une question de rythme et de contexte. » Moderate increases have little effect; only a « hausse brutale » in a low-wage region may reduce hiring. The last option overgeneralises.",
+    "explanationZh": "« La réponse honnête, c'est : ça dépend »（老实说，要看情况）……« Tout est donc une question de rythme et de contexte. »（一切取决于节奏和背景。）温和上调影响很小；只有在低工资地区 « hausse brutale »（大幅上调）才可能减少招聘。最后一个选项以偏概全。"
+  },
+  {
+    "id": "lis-c1-003",
+    "level": "C1",
+    "kind": "radio",
+    "context": "Une chronique humoristique à la radio.",
+    "script": [
+      { "speaker": "N", "text": "Je voudrais aujourd'hui rendre hommage à une invention géniale : la réunion qui aurait pu être un courriel. Elle a tout pour plaire." },
+      { "speaker": "N", "text": "Elle commence avec dix minutes de retard, le temps que chacun active son micro. Elle permet à ceux qui n'ont rien à dire de le dire longuement. Et elle se termine invariablement par la décision de… planifier une autre réunion." },
+      { "speaker": "N", "text": "Les entreprises cherchent à augmenter leur productivité ? Je leur suggère une méthode révolutionnaire : avant d'envoyer une invitation, se demander si elle est vraiment nécessaire." }
+    ],
+    "question": "Quelle est l'intention du chroniqueur ?",
+    "options": ["Faire l'éloge des réunions en ligne", "Proposer une nouvelle technologie de communication", "Expliquer comment bien animer une réunion", "Critiquer avec ironie les réunions inutiles"],
+    "answer": 3,
+    "explanationEn": "The « hommage à une invention géniale : la réunion qui aurait pu être un courriel » is mock praise. The details (people who have nothing to say « le disent longuement ») and the « méthode révolutionnaire » — simply asking if the meeting is necessary — are ironic criticism of useless meetings.",
+    "explanationZh": "« rendre hommage à une invention géniale : la réunion qui aurait pu être un courriel »（向“本可以用一封邮件解决的会议”致敬）是假意称赞。细节（没话说的人 « le disent longuement »，说得很长）以及所谓的 « méthode révolutionnaire »（革命性方法，其实只是先问问会议是否必要）都是对无用会议的讽刺。"
+  },
+  {
+    "id": "lis-c1-004",
+    "level": "C1",
+    "kind": "interview",
+    "context": "Une historienne parle des monuments controversés.",
+    "script": [
+      { "speaker": "A", "text": "Faut-il déboulonner les statues de personnages historiques controversés ?" },
+      { "speaker": "B", "text": "Je me méfie des deux réflexes opposés. Les déboulonner toutes, c'est effacer des traces qui nous permettent justement de comprendre le passé, y compris ses violences. Les laisser telles quelles, sans un mot d'explication, c'est faire comme si l'hommage rendu il y a un siècle allait de soi aujourd'hui." },
+      { "speaker": "B", "text": "Entre les deux, il existe des solutions : ajouter des plaques explicatives, déplacer certaines œuvres dans des musées, commander des œuvres nouvelles qui dialoguent avec les anciennes. Une statue n'est pas un livre d'histoire ; c'est un hommage. Et un hommage, ça se rediscute." }
+    ],
+    "question": "Que signifie la dernière phrase de l'historienne ?",
+    "options": ["Toutes les statues doivent être retirées.", "Le choix d'honorer quelqu'un dans l'espace public peut être réexaminé.", "Les livres d'histoire sont plus fiables que les statues.", "Il ne faut jamais modifier un monument."],
+    "answer": 1,
+    "explanationEn": "« Une statue n'est pas un livre d'histoire ; c'est un hommage. Et un hommage, ça se rediscute » — honouring someone in public space is a choice that each era may reconsider. She rejects both removing everything and leaving everything unexplained.",
+    "explanationZh": "« Une statue n'est pas un livre d'histoire ; c'est un hommage. Et un hommage, ça se rediscute »（雕像不是历史书，而是致敬；而致敬是可以重新讨论的）——在公共空间纪念某人是一种可以重新审视的选择。她既反对全部拆除，也反对不加解释地保留。"
+  },
+  {
+    "id": "lis-c1-005",
+    "level": "C1",
+    "kind": "dialogue",
+    "context": "Un débat sur la location touristique à court terme.",
+    "script": [
+      { "speaker": "A", "text": "Les plateformes de location à court terme ont permis à des milliers de familles d'arrondir leurs fins de mois. Pourquoi les diaboliser ?" },
+      { "speaker": "B", "text": "Personne ne reproche à une famille de louer sa maison pendant ses vacances. Le problème, ce sont les investisseurs qui achètent des immeubles entiers pour les transformer en hôtels déguisés." },
+      { "speaker": "B", "text": "Dans certains secteurs du Vieux-Québec, des rues entières n'ont presque plus de résidents permanents. Quand l'épicerie du coin ferme parce qu'il n'y a plus de clients à l'année, ce n'est plus de l'économie du partage, c'est autre chose." }
+    ],
+    "question": "Que critique précisément la deuxième personne ?",
+    "options": ["L'achat de logements par des investisseurs pour en faire des locations touristiques", "Les familles qui louent leur maison pendant les vacances", "L'existence même des plateformes de location", "Les touristes qui visitent le Vieux-Québec"],
+    "answer": 0,
+    "explanationEn": "« Personne ne reproche à une famille de louer sa maison » — the target is « les investisseurs qui achètent des immeubles entiers pour les transformer en hôtels déguisés ». The criticism is precise, not aimed at platforms or tourists in general.",
+    "explanationZh": "« Personne ne reproche à une famille de louer sa maison »（没人指责家庭出租自己的房子）——批评对象是 « les investisseurs qui achètent des immeubles entiers pour les transformer en hôtels déguisés »（买下整栋楼改成变相酒店的投资者）。批评很具体，并非针对平台或游客本身。"
+  },
+  {
+    "id": "lis-c1-006",
+    "level": "C1",
+    "kind": "interview",
+    "context": "Une psychologue est invitée à la radio.",
+    "script": [
+      { "speaker": "A", "text": "On nous répète sans cesse de rester positifs. Est-ce un bon conseil ?" },
+      { "speaker": "B", "text": "Pris à petite dose, oui. Mais lorsque l'optimisme devient une injonction, il peut se retourner contre ceux qui souffrent. Une personne endeuillée ou en dépression qui entend qu'il suffit de voir le bon côté des choses risque de se sentir doublement coupable : d'aller mal, et de ne pas réussir à aller mieux." },
+      { "speaker": "B", "text": "Accepter ses émotions négatives, ce n'est pas s'y complaire ; c'est souvent la première étape pour les traverser." }
+    ],
+    "question": "Quelle nuance la psychologue apporte-t-elle ?",
+    "options": ["La pensée positive est toujours inutile.", "Les émotions négatives doivent être évitées à tout prix.", "Imposer l'optimisme peut culpabiliser les personnes qui souffrent.", "Les personnes en dépression manquent de volonté."],
+    "answer": 2,
+    "explanationEn": "Optimism is fine « pris à petite dose », but « lorsque l'optimisme devient une injonction, il peut se retourner contre ceux qui souffrent », who may feel « doublement coupable ». She does not reject positive thinking altogether.",
+    "explanationZh": "乐观 « pris à petite dose »（适量）是好的，但 « lorsque l'optimisme devient une injonction, il peut se retourner contre ceux qui souffrent »（当乐观变成命令时，会反过来伤害正在受苦的人），让他们 « doublement coupable »（加倍内疚）。她并没有完全否定积极思维。"
+  },
+  {
+    "id": "lis-c1-007",
+    "level": "C1",
+    "kind": "radio",
+    "context": "Un éditorial sur l'intelligence artificielle et la création.",
+    "script": [
+      { "speaker": "N", "text": "On entend souvent dire que l'intelligence artificielle va tuer la créativité. L'argument n'est pas neuf : on l'a opposé à la photographie, qui devait signer la mort de la peinture, puis au synthétiseur, qui devait remplacer les musiciens. Chaque fois, l'art s'est transformé plutôt qu'il n'a disparu." },
+      { "speaker": "N", "text": "Faut-il pour autant balayer les inquiétudes d'un revers de main ? Certainement pas. Car la question n'est pas tant artistique qu'économique : qui sera rémunéré lorsque des œuvres seront produites à partir du travail d'artistes qui n'ont jamais donné leur accord ?" }
+    ],
+    "question": "Selon l'éditorialiste, quel est le véritable enjeu de l'intelligence artificielle dans l'art ?",
+    "options": ["La disparition de la créativité humaine", "La concurrence entre la photographie et la peinture", "La qualité technique des œuvres produites", "La rémunération et le consentement des artistes"],
+    "answer": 3,
+    "explanationEn": "« La question n'est pas tant artistique qu'économique : qui sera rémunéré lorsque des œuvres seront produites à partir du travail d'artistes qui n'ont jamais donné leur accord ? » The fear of creativity dying is presented as an old, exaggerated argument.",
+    "explanationZh": "« La question n'est pas tant artistique qu'économique »（问题与其说是艺术的，不如说是经济的）：当作品基于未经同意的艺术家的劳动生成时，谁能得到报酬？“创造力将死”被描述为一个老旧、夸大的论点。"
+  },
+  {
+    "id": "lis-c1-008",
+    "level": "C1",
+    "kind": "interview",
+    "context": "Un sociologue parle de l'embourgeoisement des quartiers.",
+    "script": [
+      { "speaker": "A", "text": "La revitalisation d'un quartier, n'est-ce pas une bonne chose ?" },
+      { "speaker": "B", "text": "Tout dépend pour qui. Quand un quartier ouvrier voit arriver des cafés branchés et des galeries d'art, les nouveaux venus parlent de renouveau. Les anciens habitants, eux, voient surtout leur loyer augmenter, et finissent souvent par partir." },
+      { "speaker": "B", "text": "On présente le phénomène comme naturel, presque inévitable. Il ne l'est pas : il résulte de choix politiques, en matière de logement social notamment. Ce que je reproche au discours dominant, c'est de transformer des décisions en fatalité." }
+    ],
+    "question": "Que reproche le sociologue au « discours dominant » ?",
+    "options": ["D'exagérer la hausse des loyers", "De présenter comme inévitable ce qui relève de choix politiques", "De critiquer les cafés et les galeries d'art", "D'ignorer l'avis des nouveaux habitants"],
+    "answer": 1,
+    "explanationEn": "« Ce que je reproche au discours dominant, c'est de transformer des décisions en fatalité. » Gentrification is presented as « naturel, presque inévitable », whereas it « résulte de choix politiques ».",
+    "explanationZh": "« Ce que je reproche au discours dominant, c'est de transformer des décisions en fatalité. »（我批评主流话语的是，它把决策说成了宿命。）士绅化被说成 « naturel, presque inévitable »（自然、几乎不可避免），而实际上它 « résulte de choix politiques »（源于政治选择）。"
+  },
+  {
+    "id": "lis-c1-009",
+    "level": "C1",
+    "kind": "dialogue",
+    "context": "Un débat sur le vote obligatoire.",
+    "script": [
+      { "speaker": "A", "text": "Le vote obligatoire réglerait le problème de l'abstention en une seule élection. L'Australie le pratique depuis un siècle." },
+      { "speaker": "B", "text": "Il réglerait le chiffre, pas le problème. Forcer quelqu'un à se déplacer ne le rend ni plus informé ni plus confiant envers les institutions. On risque d'obtenir des votes au hasard, ou des bulletins blancs en masse." },
+      { "speaker": "A", "text": "Ou d'obliger les partis à s'adresser enfin à ceux qu'ils ignorent, parce qu'ils ne votent pas." },
+      { "speaker": "B", "text": "Là, je vous l'accorde, c'est l'argument le plus solide. Mais il ne répond pas à la question de la confiance." }
+    ],
+    "question": "Quel argument la deuxième personne reconnaît-elle comme valable ?",
+    "options": ["Le vote obligatoire augmente la confiance envers les institutions.", "Il obligerait les partis à s'intéresser aux citoyens qui ne votent pas aujourd'hui.", "Les bulletins blancs sont une bonne chose pour la démocratie.", "L'exemple australien prouve l'efficacité du système."],
+    "answer": 1,
+    "explanationEn": "After the point that parties would have to address « ceux qu'ils ignorent, parce qu'ils ne votent pas », the second speaker concedes « Là, je vous l'accorde, c'est l'argument le plus solide » — while maintaining that it does not solve the trust problem.",
+    "explanationZh": "对方提出政党将不得不关注 « ceux qu'ils ignorent, parce qu'ils ne votent pas »（因为不投票而被忽视的人）后，第二个人让步说 « Là, je vous l'accorde, c'est l'argument le plus solide »（这点我承认，是最有力的论据），但仍认为它解决不了信任问题。"
+  },
+  {
+    "id": "lis-c1-010",
+    "level": "C1",
+    "kind": "interview",
+    "context": "Une climatologue répond à une question du public.",
+    "script": [
+      { "speaker": "A", "text": "Les gestes individuels, comme trier ses déchets ou éviter l'avion, servent-ils vraiment à quelque chose ?" },
+      { "speaker": "B", "text": "Je refuse de choisir entre le personnel et le collectif. Il est vrai que l'essentiel des émissions dépend de choix structurels : l'énergie, les transports, l'aménagement du territoire. Mais présenter les gestes individuels comme insignifiants est tout aussi trompeur." },
+      { "speaker": "B", "text": "D'abord parce que certains, comme renoncer à l'avion, pèsent lourd dans le bilan d'une personne. Ensuite parce que les comportements individuels créent des normes sociales, et que ces normes finissent par rendre possibles des décisions politiques qui semblaient impensables." }
+    ],
+    "question": "Quelle thèse la climatologue défend-elle ?",
+    "options": ["Les actions individuelles et collectives sont complémentaires.", "Seules les décisions politiques comptent.", "Les gestes individuels suffisent à régler le problème.", "Il faut interdire les voyages en avion."],
+    "answer": 0,
+    "explanationEn": "« Je refuse de choisir entre le personnel et le collectif. » She admits structural choices matter most, but individual actions also count and « créent des normes sociales » that make political decisions possible — the two are complementary.",
+    "explanationZh": "« Je refuse de choisir entre le personnel et le collectif. »（我拒绝在个人与集体之间二选一。）她承认结构性选择最重要，但个人行为同样有意义，并且 « créent des normes sociales »（形成社会规范），使政治决策成为可能——两者相辅相成。"
+  },
+  {
+    "id": "lis-c1-011",
+    "level": "C1",
+    "kind": "radio",
+    "context": "Une chronique sur les modes de vie.",
+    "script": [
+      { "speaker": "N", "text": "Le minimalisme est à la mode. Pour vivre avec moins, il suffit, nous dit-on, de se débarrasser du superflu." },
+      { "speaker": "N", "text": "Et pour bien s'en débarrasser, rien de tel que d'acheter le livre d'une influenceuse, les boîtes de rangement assorties, l'application de méditation et le carnet spécial pour noter sa gratitude." },
+      { "speaker": "N", "text": "On voit le paradoxe : même le renoncement à la consommation est devenu un produit. Il y a quelque chose de savoureux à voir l'économie recycler jusqu'à sa propre critique." }
+    ],
+    "question": "Quel paradoxe le chroniqueur souligne-t-il ?",
+    "options": ["Les minimalistes possèdent en réalité beaucoup d'objets.", "Les influenceuses refusent de vendre des produits.", "Le minimalisme, censé réduire la consommation, est lui-même devenu un marché.", "Les applications de méditation sont inefficaces."],
+    "answer": 2,
+    "explanationEn": "« Même le renoncement à la consommation est devenu un produit » — to consume less, people are told to buy books, boxes and apps. The economy « recycle jusqu'à sa propre critique ».",
+    "explanationZh": "« même le renoncement à la consommation est devenu un produit »（连放弃消费本身都变成了商品）——为了少消费，人们被劝去买书、收纳盒和应用。经济 « recycle jusqu'à sa propre critique »（连对自身的批评都能回收利用）。"
+  },
+  {
+    "id": "lis-c1-012",
+    "level": "C1",
+    "kind": "interview",
+    "context": "Une linguiste parle du français au Canada.",
+    "script": [
+      { "speaker": "A", "text": "Beaucoup de francophones canadiens disent ressentir une forme d'insécurité linguistique. De quoi s'agit-il ?" },
+      { "speaker": "B", "text": "C'est le sentiment de ne pas parler la « bonne » langue. Un Acadien ou une Franco-Ontarienne qui se sent jugé sur son accent ou ses expressions va parfois préférer se taire, ou passer à l'anglais." },
+      { "speaker": "B", "text": "Le paradoxe, c'est que cette insécurité est souvent alimentée par d'autres francophones, qui croient défendre la langue en corrigeant tout le monde. Or une langue ne se défend pas en décourageant ceux qui la parlent." }
+    ],
+    "question": "Que laisse entendre la linguiste au sujet de ceux qui « corrigent tout le monde » ?",
+    "options": ["Ils protègent efficacement le français.", "Ils parlent mieux que les autres francophones.", "Ils devraient plutôt corriger l'anglais.", "Ils nuisent, sans le vouloir, à la langue qu'ils veulent défendre."],
+    "answer": 3,
+    "explanationEn": "These people « croient défendre la langue en corrigeant tout le monde », but « une langue ne se défend pas en décourageant ceux qui la parlent ». By pushing speakers to stay silent or switch to English, they harm French without meaning to.",
+    "explanationZh": "这些人 « croient défendre la langue en corrigeant tout le monde »（以为纠正所有人就是在捍卫语言），但 « une langue ne se défend pas en décourageant ceux qui la parlent »（打击说这门语言的人并不能捍卫它）。他们让人沉默或改说英语，反而无意中伤害了法语。"
+  },
+  {
+    "id": "lis-c1-013",
+    "level": "C1",
+    "kind": "dialogue",
+    "context": "Un débat sur le revenu de base universel.",
+    "script": [
+      { "speaker": "A", "text": "Un revenu de base universel libérerait les gens de la précarité et leur permettrait de se former ou de créer une entreprise." },
+      { "speaker": "B", "text": "Sur le papier, c'est séduisant. Mais versé à tout le monde, même modestement, il coûterait une fortune. Pour le financer, il faudrait supprimer d'autres programmes sociaux, et certaines personnes vulnérables pourraient y perdre." },
+      { "speaker": "A", "text": "Les expériences menées en Finlande ou en Ontario n'ont pas montré que les gens arrêtaient de travailler." },
+      { "speaker": "B", "text": "Je n'ai jamais prétendu ça. Ma réserve porte sur le financement, pas sur la paresse supposée des bénéficiaires." }
+    ],
+    "question": "Sur quoi porte précisément la réserve de la deuxième personne ?",
+    "options": ["Sur le coût du dispositif et ses effets sur les autres aides sociales", "Sur le risque que les gens arrêtent de travailler", "Sur les résultats des expériences en Finlande", "Sur la difficulté de créer une entreprise"],
+    "answer": 0,
+    "explanationEn": "« Ma réserve porte sur le financement, pas sur la paresse supposée des bénéficiaires. » Earlier: funding it would mean cutting « d'autres programmes sociaux », and vulnerable people « pourraient y perdre ».",
+    "explanationZh": "« Ma réserve porte sur le financement, pas sur la paresse supposée des bénéficiaires. »（我的保留意见在于资金，而不是所谓受益人会变懒。）此前提到：为了筹资需要削减 « d'autres programmes sociaux »（其他社会项目），弱势群体 « pourraient y perdre »（可能因此受损）。"
+  },
+  {
+    "id": "lis-c1-014",
+    "level": "C1",
+    "kind": "radio",
+    "context": "Une chronique sur la désinformation.",
+    "script": [
+      { "speaker": "N", "text": "Face à la désinformation, on réclame souvent davantage de vérification des faits. C'est utile, mais insuffisant." },
+      { "speaker": "N", "text": "Car une fausse nouvelle ne se propage pas parce que les gens manquent d'informations ; elle se propage parce qu'elle confirme ce qu'ils pensent déjà, ou parce qu'elle provoque une émotion forte. Corriger un fait ne suffit donc pas à changer une conviction." },
+      { "speaker": "N", "text": "Ne faudrait-il pas plutôt apprendre, dès l'école, à se méfier de ses propres réactions, à se demander pourquoi une information nous plaît autant ?" }
+    ],
+    "question": "Que propose le chroniqueur à travers sa question finale ?",
+    "options": ["Augmenter le nombre de vérificateurs de faits", "Développer un esprit critique envers ses propres émotions et convictions", "Interdire les réseaux sociaux aux élèves", "Supprimer les informations qui provoquent des émotions fortes"],
+    "answer": 1,
+    "explanationEn": "The rhetorical question « Ne faudrait-il pas plutôt apprendre, dès l'école, à se méfier de ses propres réactions » is a proposal: teach people to question their own emotions and beliefs. Fact-checking is « utile, mais insuffisant ».",
+    "explanationZh": "反问句 « Ne faudrait-il pas plutôt apprendre, dès l'école, à se méfier de ses propres réactions »（难道不应该从学校开始学会警惕自己的反应吗？）其实是一个建议：培养对自身情绪和成见的批判意识。事实核查 « utile, mais insuffisant »（有用但不够）。"
+  }
+]

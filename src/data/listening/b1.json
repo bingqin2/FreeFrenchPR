@@ -1,0 +1,327 @@
+[
+  {
+    "id": "lis-b1-001",
+    "level": "B1",
+    "kind": "radio",
+    "context": "Une publicité à la radio.",
+    "script": [
+      { "speaker": "N", "text": "Vous venez d'arriver au Québec et vous voulez améliorer votre français ? Le Centre Horizon offre des cours de francisation gratuits pour les nouveaux arrivants." },
+      { "speaker": "N", "text": "Les cours ont lieu le jour ou le soir, en classe ou en ligne. Une halte-garderie est disponible pour les parents de jeunes enfants." },
+      { "speaker": "N", "text": "Inscrivez-vous avant le trente août sur notre site Web, ou en personne, du lundi au vendredi." }
+    ],
+    "question": "Qu'est-ce que le centre propose aux parents de jeunes enfants ?",
+    "options": ["Des cours de français pour leurs enfants", "Des cours uniquement le soir", "Une réduction sur le prix des cours", "Un service de garde pour leurs enfants"],
+    "answer": 3,
+    "explanationEn": "The ad says « Une halte-garderie est disponible pour les parents de jeunes enfants » — a drop-in childcare service so parents can attend class. The courses are already free and offered day or evening.",
+    "explanationZh": "广告说 « Une halte-garderie est disponible pour les parents de jeunes enfants »（为有小孩的家长提供临时托儿服务），让家长可以上课。课程本来就免费，白天晚上都有。"
+  },
+  {
+    "id": "lis-b1-002",
+    "level": "B1",
+    "kind": "dialogue",
+    "context": "Deux collègues parlent au bureau.",
+    "script": [
+      { "speaker": "A", "text": "Dis, Julien, tu as vu le courriel du directeur sur le télétravail ?" },
+      { "speaker": "B", "text": "Oui. À partir du mois prochain, on doit venir au bureau trois jours par semaine au lieu de deux." },
+      { "speaker": "A", "text": "Trois jours ! Avec mon trajet d'une heure et demie, ça va être difficile." },
+      { "speaker": "B", "text": "Je te comprends. Mais il a dit qu'on peut choisir nos jours. Tu pourrais éviter les jours où il y a le plus de circulation." },
+      { "speaker": "A", "text": "C'est vrai. Bon, c'est déjà ça." }
+    ],
+    "question": "Que ressent la première personne à la fin de la conversation ?",
+    "options": ["Une colère grandissante", "Un certain soulagement", "Une grande joie", "Une totale indifférence"],
+    "answer": 1,
+    "explanationEn": "At first the person is worried (« ça va être difficile »), but after learning that employees can choose their days, they say « C'est vrai. Bon, c'est déjà ça » (well, that's something) — partial relief, not joy.",
+    "explanationZh": "一开始这个人很担心（« ça va être difficile »），得知可以自己选上班日后说 « C'est vrai. Bon, c'est déjà ça »（好吧，总算有点安慰），表示有些释然，而不是很高兴。"
+  },
+  {
+    "id": "lis-b1-003",
+    "level": "B1",
+    "kind": "message",
+    "context": "Un message laissé par un garage.",
+    "script": [
+      { "speaker": "N", "text": "Bonjour Monsieur Diallo, ici Patrick, du garage Lavoie. On a vérifié votre voiture. Les freins sont en bon état, mais il faut changer deux pneus : ils sont trop usés pour l'hiver." },
+      { "speaker": "N", "text": "Ça coûterait environ quatre cents dollars, installation comprise. Je ne fais rien sans votre accord, alors rappelez-moi avant seize heures si vous voulez qu'on s'en occupe aujourd'hui. Sinon, on fera seulement la vidange d'huile prévue." }
+    ],
+    "question": "Pourquoi le garagiste demande-t-il à Monsieur Diallo de le rappeler ?",
+    "options": ["Pour fixer la date de la vidange d'huile", "Pour lui dire que les freins sont usés", "Pour obtenir son accord avant de changer les pneus", "Pour qu'il vienne chercher sa voiture à 16 heures"],
+    "answer": 2,
+    "explanationEn": "The mechanic says « Je ne fais rien sans votre accord, alors rappelez-moi avant seize heures » — he needs approval before replacing the two worn tires. The brakes are fine (« en bon état »).",
+    "explanationZh": "修车师傅说 « Je ne fais rien sans votre accord, alors rappelez-moi avant seize heures »（没有您的同意我不会动手，请在 16 点前回电），他需要客户同意才能更换两个磨损的轮胎。刹车没问题（« en bon état »）。"
+  },
+  {
+    "id": "lis-b1-004",
+    "level": "B1",
+    "kind": "dialogue",
+    "context": "Dans une banque.",
+    "script": [
+      { "speaker": "A", "text": "Bonjour, je viens d'arriver au Canada et je voudrais ouvrir un compte." },
+      { "speaker": "B", "text": "Bienvenue ! Vous avez deux pièces d'identité ? Votre passeport et votre carte de résident permanent, par exemple." },
+      { "speaker": "A", "text": "J'ai mon passeport, mais je n'ai pas encore reçu ma carte de résident permanent." },
+      { "speaker": "B", "text": "Ce n'est pas grave, votre confirmation de résidence permanente suffit pour l'instant. Et nous avons un forfait pour les nouveaux arrivants, sans frais mensuels pendant un an." }
+    ],
+    "question": "Quel avantage la banque offre-t-elle aux nouveaux arrivants ?",
+    "options": ["Pas de frais mensuels pendant un an", "Une carte de crédit gratuite", "Un compte sans aucune pièce d'identité", "Une carte de résident permanent plus rapide"],
+    "answer": 0,
+    "explanationEn": "The employee mentions « un forfait pour les nouveaux arrivants, sans frais mensuels pendant un an » — no monthly fees for one year. ID is still required: the passport plus the PR confirmation.",
+    "explanationZh": "职员提到 « un forfait pour les nouveaux arrivants, sans frais mensuels pendant un an »（新移民套餐，一年内免月费）。身份证件仍然需要：护照加永久居民确认函。"
+  },
+  {
+    "id": "lis-b1-005",
+    "level": "B1",
+    "kind": "radio",
+    "context": "Une annonce à la radio locale.",
+    "script": [
+      { "speaker": "N", "text": "Ce samedi, la bibliothèque municipale de Gatineau organise une grande vente de livres usagés. Romans, livres pour enfants, bandes dessinées : tout est à un ou deux dollars." },
+      { "speaker": "N", "text": "Les profits serviront à acheter des livres en langues étrangères pour les nouveaux résidents de la ville. Vous pouvez aussi apporter vos propres livres en bon état avant vendredi." }
+    ],
+    "question": "À quoi servira l'argent de la vente ?",
+    "options": ["À acheter des livres en langues étrangères", "À rénover la bibliothèque", "À organiser des cours de français", "À acheter des bandes dessinées pour les enfants"],
+    "answer": 0,
+    "explanationEn": "« Les profits serviront à acheter des livres en langues étrangères pour les nouveaux résidents de la ville » — the money will buy foreign-language books for newcomers.",
+    "explanationZh": "« Les profits serviront à acheter des livres en langues étrangères pour les nouveaux résidents de la ville »（收益将用于为城市新居民购买外语书籍）。"
+  },
+  {
+    "id": "lis-b1-006",
+    "level": "B1",
+    "kind": "dialogue",
+    "context": "Deux amis sortent du cinéma.",
+    "script": [
+      { "speaker": "A", "text": "Alors, ce film, tu l'as trouvé comment ?" },
+      { "speaker": "B", "text": "Franchement, les acteurs étaient excellents et les images, magnifiques. Mais l'histoire, je l'ai trouvée beaucoup trop longue. Deux heures quarante, c'est trop pour une histoire aussi simple." },
+      { "speaker": "A", "text": "Moi, j'ai adoré du début à la fin !" },
+      { "speaker": "B", "text": "Tant mieux pour toi. Je ne regrette pas de l'avoir vu, mais je ne le reverrais pas." }
+    ],
+    "question": "Quelle est l'opinion de la deuxième personne sur le film ?",
+    "options": ["Elle l'a détesté.", "Elle l'a adoré du début à la fin.", "Elle a un avis partagé.", "Elle n'a pas compris l'histoire."],
+    "answer": 2,
+    "explanationEn": "The person praises the actors and the images but finds the story « beaucoup trop longue », and concludes « Je ne regrette pas de l'avoir vu, mais je ne le reverrais pas » — a mixed opinion. « J'ai adoré » is the first person's view.",
+    "explanationZh": "这个人称赞演员和画面，但觉得故事 « beaucoup trop longue »（太长了），最后说 « Je ne regrette pas de l'avoir vu, mais je ne le reverrais pas »（不后悔看了，但不会再看），所以是褒贬参半。« j'ai adoré » 是第一个人的看法。"
+  },
+  {
+    "id": "lis-b1-007",
+    "level": "B1",
+    "kind": "dialogue",
+    "context": "Un appel au service à la clientèle.",
+    "script": [
+      { "speaker": "A", "text": "Service à la clientèle, bonjour." },
+      { "speaker": "B", "text": "Bonjour. J'ai commandé un bureau sur votre site il y a trois semaines. On m'avait promis une livraison en cinq jours, et je n'ai toujours rien reçu." },
+      { "speaker": "A", "text": "Toutes mes excuses. Pouvez-vous me donner votre numéro de commande ?" },
+      { "speaker": "B", "text": "Oui, c'est le quatre-vingt-sept, quarante-deux, dix-neuf." },
+      { "speaker": "A", "text": "Je vois. Votre colis est resté bloqué dans notre entrepôt de Laval. Je le fais partir aujourd'hui, et je vous rembourse les frais de livraison." }
+    ],
+    "question": "Quelle solution le service à la clientèle propose-t-il ?",
+    "options": ["Annuler la commande", "Envoyer le colis aujourd'hui et rembourser la livraison", "Rembourser le prix du bureau", "Envoyer un autre modèle de bureau"],
+    "answer": 1,
+    "explanationEn": "The agent says « Je le fais partir aujourd'hui, et je vous rembourse les frais de livraison » — ship it today and refund the delivery fees (not the price of the desk).",
+    "explanationZh": "客服说 « Je le fais partir aujourd'hui, et je vous rembourse les frais de livraison »（我今天就把包裹发出，并退还运费），退的是运费，不是书桌的钱。"
+  },
+  {
+    "id": "lis-b1-008",
+    "level": "B1",
+    "kind": "message",
+    "context": "Un message du concierge aux locataires.",
+    "script": [
+      { "speaker": "N", "text": "Bonjour à tous les locataires, ici Gilles, le concierge. Je vous informe que l'eau sera coupée dans tout l'immeuble jeudi, de neuf heures à quinze heures, pour réparer un tuyau au sous-sol. Je vous conseille de prévoir quelques bouteilles d'eau." },
+      { "speaker": "N", "text": "Par ailleurs, le stationnement sera fermé vendredi matin pour le déneigement. Merci de déplacer vos voitures dans la rue avant huit heures. Bonne semaine !" }
+    ],
+    "question": "Que doivent faire les locataires vendredi ?",
+    "options": ["Prévoir des bouteilles d'eau", "Réparer un tuyau au sous-sol", "Rester chez eux jusqu'à 15 heures", "Déplacer leur voiture avant 8 heures"],
+    "answer": 3,
+    "explanationEn": "On Friday the parking lot closes for snow removal: « Merci de déplacer vos voitures dans la rue avant huit heures ». The water cut and the bottles concern Thursday.",
+    "explanationZh": "周五停车场要除雪关闭：« Merci de déplacer vos voitures dans la rue avant huit heures »（请在 8 点前把车移到街上）。停水和准备瓶装水是周四的事。"
+  },
+  {
+    "id": "lis-b1-009",
+    "level": "B1",
+    "kind": "dialogue",
+    "context": "Deux parents parlent de la garderie de leur fille.",
+    "script": [
+      { "speaker": "A", "text": "Il faut vite décider pour la garderie de Mia." },
+      { "speaker": "B", "text": "La garderie près du bureau est moderne et pas chère, mais il y a une liste d'attente d'au moins six mois." },
+      { "speaker": "A", "text": "Et celle du quartier ?" },
+      { "speaker": "B", "text": "Elle coûte un peu plus cher, mais il y a une place dès septembre, et c'est à cinq minutes à pied." },
+      { "speaker": "A", "text": "Alors pour moi, c'est clair : on ne peut pas attendre six mois." }
+    ],
+    "question": "Quelle garderie la première personne préfère-t-elle, et pourquoi ?",
+    "options": ["Celle près du bureau, parce qu'elle est moins chère", "Celle du quartier, parce qu'une place est disponible rapidement", "Celle près du bureau, parce qu'elle est moderne", "Celle du quartier, parce qu'elle est moins chère"],
+    "answer": 1,
+    "explanationEn": "The first parent concludes « on ne peut pas attendre six mois », so they prefer the neighbourhood daycare, which has « une place dès septembre ». It is actually a bit more expensive.",
+    "explanationZh": "第一位家长说 « on ne peut pas attendre six mois »（我们不能等六个月），所以更倾向社区托儿所，因为那里 « une place dès septembre »（九月就有名额）。它其实还贵一点。"
+  },
+  {
+    "id": "lis-b1-010",
+    "level": "B1",
+    "kind": "announcement",
+    "context": "Une annonce à la radio.",
+    "script": [
+      { "speaker": "N", "text": "Le collège Vallée-Verte organise une séance d'information sur ses programmes de formation professionnelle le mercredi douze octobre, à dix-huit heures. Vous découvrirez nos programmes en soins infirmiers, en mécanique automobile et en comptabilité." },
+      { "speaker": "N", "text": "Des conseillers seront sur place pour répondre à vos questions sur l'aide financière. L'entrée est gratuite, mais l'inscription est obligatoire, car le nombre de places est limité." }
+    ],
+    "question": "Que faut-il faire pour assister à la séance ?",
+    "options": ["S'inscrire à l'avance", "Payer des frais d'entrée", "Choisir un programme avant de venir", "Faire une demande d'aide financière"],
+    "answer": 0,
+    "explanationEn": "« L'entrée est gratuite, mais l'inscription est obligatoire, car le nombre de places est limité » — it is free, but you must register in advance.",
+    "explanationZh": "« L'entrée est gratuite, mais l'inscription est obligatoire »（免费入场，但必须报名），因为名额有限。"
+  },
+  {
+    "id": "lis-b1-011",
+    "level": "B1",
+    "kind": "dialogue",
+    "context": "Un entretien d'embauche.",
+    "script": [
+      { "speaker": "A", "text": "Pourquoi voulez-vous travailler chez nous ?" },
+      { "speaker": "B", "text": "J'ai travaillé cinq ans comme comptable dans une grande entreprise à Lyon. J'ai beaucoup appris, mais j'aimerais maintenant travailler dans une structure plus petite, où je pourrais avoir plus de responsabilités et être en contact direct avec les clients." },
+      { "speaker": "A", "text": "Vous savez que le poste demande parfois de travailler le samedi pendant la période des impôts ?" },
+      { "speaker": "B", "text": "Oui, ça ne me pose aucun problème." }
+    ],
+    "question": "Pourquoi cette personne veut-elle changer d'emploi ?",
+    "options": ["Pour gagner un meilleur salaire", "Parce qu'elle ne veut plus être comptable", "Pour pouvoir travailler le samedi", "Pour avoir plus de responsabilités dans une structure plus petite"],
+    "answer": 3,
+    "explanationEn": "The candidate says « j'aimerais maintenant travailler dans une structure plus petite, où je pourrais avoir plus de responsabilités ». Salary is never mentioned, and Saturday work is only accepted, not a reason.",
+    "explanationZh": "求职者说 « j'aimerais maintenant travailler dans une structure plus petite, où je pourrais avoir plus de responsabilités »（我现在想在规模更小、能承担更多责任的单位工作）。没有提到工资；周六上班只是可以接受，不是原因。"
+  },
+  {
+    "id": "lis-b1-012",
+    "level": "B1",
+    "kind": "radio",
+    "context": "Un message de la Ville à la radio.",
+    "script": [
+      { "speaker": "N", "text": "La Ville rappelle aux automobilistes qu'une opération de déneigement commence ce soir à dix-neuf heures. Si vous voyez des panneaux orange temporaires dans votre rue, vous devez déplacer votre véhicule, sinon il sera remorqué." },
+      { "speaker": "N", "text": "Pour savoir quand votre rue sera déneigée, consultez l'application de la Ville ou composez le trois cent onze." }
+    ],
+    "question": "Que risquent les automobilistes qui ne déplacent pas leur voiture ?",
+    "options": ["De recevoir un appel du 311", "De devoir payer eux-mêmes le déneigement", "Que leur voiture soit remorquée", "Que leur rue ne soit pas déneigée"],
+    "answer": 2,
+    "explanationEn": "« Vous devez déplacer votre véhicule, sinon il sera remorqué » — otherwise the car will be towed. 311 is the number to call for information.",
+    "explanationZh": "« vous devez déplacer votre véhicule, sinon il sera remorqué »（必须移车，否则会被拖走）。311 是查询信息时拨打的号码。"
+  },
+  {
+    "id": "lis-b1-013",
+    "level": "B1",
+    "kind": "dialogue",
+    "context": "Une personne frappe à la porte de son voisin du dessus.",
+    "script": [
+      { "speaker": "A", "text": "Bonsoir, excusez-moi de vous déranger. J'habite juste en dessous de chez vous." },
+      { "speaker": "B", "text": "Ah, bonsoir. Il y a un problème ?" },
+      { "speaker": "A", "text": "Eh bien, depuis quelques semaines, j'entends de la musique assez forte après minuit. Je commence à travailler à six heures, alors c'est un peu difficile pour moi." },
+      { "speaker": "B", "text": "Oh, toutes mes excuses, je ne me rendais pas compte que ça s'entendait autant. Je vais mettre un tapis et baisser le volume après vingt-deux heures, promis." }
+    ],
+    "question": "Comment la personne qui habite au-dessus réagit-elle ?",
+    "options": ["Elle se fâche.", "Elle nie faire du bruit.", "Elle s'excuse et propose des solutions.", "Elle propose de changer d'appartement."],
+    "answer": 2,
+    "explanationEn": "The upstairs neighbour says « toutes mes excuses » and promises solutions: « Je vais mettre un tapis et baisser le volume après vingt-deux heures ».",
+    "explanationZh": "楼上邻居说 « toutes mes excuses »（非常抱歉），并承诺解决办法：« Je vais mettre un tapis et baisser le volume après vingt-deux heures »（我会铺地毯，晚上十点后调低音量）。"
+  },
+  {
+    "id": "lis-b1-014",
+    "level": "B1",
+    "kind": "message",
+    "context": "Un message d'une agence de voyages.",
+    "script": [
+      { "speaker": "N", "text": "Bonjour Madame Côté, ici Kevin, de l'agence Voyages Soleil. J'ai une mauvaise et une bonne nouvelle concernant votre voyage en Martinique. La mauvaise : votre vol du vingt février a été annulé par la compagnie aérienne." },
+      { "speaker": "N", "text": "La bonne : je vous ai trouvé une place sur un vol le lendemain, sans frais supplémentaires, et l'hôtel accepte de décaler votre réservation d'une nuit. J'ai seulement besoin de votre confirmation d'ici vendredi." }
+    ],
+    "question": "Quelle solution l'agent de voyages propose-t-il ?",
+    "options": ["Partir un jour plus tard, sans payer plus", "Partir un jour plus tôt", "Changer de destination", "Se faire rembourser et réserver un autre voyage"],
+    "answer": 0,
+    "explanationEn": "Kevin found « une place sur un vol le lendemain, sans frais supplémentaires » — a seat on a flight the next day at no extra cost, and the hotel booking is shifted by one night.",
+    "explanationZh": "Kevin 找到了 « une place sur un vol le lendemain, sans frais supplémentaires »（第二天航班的座位，不额外收费），酒店预订也顺延一晚。"
+  },
+  {
+    "id": "lis-b1-015",
+    "level": "B1",
+    "kind": "interview",
+    "context": "Une entrevue à la radio locale.",
+    "script": [
+      { "speaker": "A", "text": "Vous êtes bénévole à la banque alimentaire depuis combien de temps ?" },
+      { "speaker": "B", "text": "Depuis deux ans. Au début, je venais seulement pour trier les produits. Maintenant, je m'occupe aussi d'accueillir les familles." },
+      { "speaker": "A", "text": "Qu'est-ce qui vous motive ?" },
+      { "speaker": "B", "text": "Quand j'ai immigré au Canada, des bénévoles ont fait beaucoup pour moi. C'est ma façon de rendre ce qu'on m'a donné." }
+    ],
+    "question": "Pourquoi cette personne fait-elle du bénévolat ?",
+    "options": ["Pour trouver un emploi plus facilement", "Pour pratiquer son français", "Parce qu'elle a besoin de l'aide alimentaire", "Pour rendre l'aide qu'elle a reçue"],
+    "answer": 3,
+    "explanationEn": "The volunteer explains: « des bénévoles ont fait beaucoup pour moi. C'est ma façon de rendre ce qu'on m'a donné » — giving back the help received as a newcomer.",
+    "explanationZh": "志愿者解释：« des bénévoles ont fait beaucoup pour moi. C'est ma façon de rendre ce qu'on m'a donné »（志愿者曾给我很多帮助，这是我回馈的方式）。"
+  },
+  {
+    "id": "lis-b1-016",
+    "level": "B1",
+    "kind": "announcement",
+    "context": "Un avis de l'arrondissement.",
+    "script": [
+      { "speaker": "N", "text": "Avis aux résidents de l'arrondissement. À partir du premier avril, la collecte des ordures ménagères aura lieu toutes les deux semaines, le mardi, au lieu d'une fois par semaine." },
+      { "speaker": "N", "text": "En revanche, pendant l'été, la collecte des matières compostables se fera deux fois par semaine. Ce changement vise à réduire la quantité de déchets envoyés au site d'enfouissement." }
+    ],
+    "question": "Quel est le but de ce changement ?",
+    "options": ["Économiser de l'argent sur les camions", "Réduire les déchets envoyés à l'enfouissement", "Changer le jour de la collecte du compost", "Supprimer la collecte des ordures en été"],
+    "answer": 1,
+    "explanationEn": "The notice states: « Ce changement vise à réduire la quantité de déchets envoyés au site d'enfouissement » — the goal is to send less waste to landfill.",
+    "explanationZh": "通知说 « Ce changement vise à réduire la quantité de déchets envoyés au site d'enfouissement »（此变化旨在减少送往填埋场的垃圾量）。"
+  },
+  {
+    "id": "lis-b1-017",
+    "level": "B1",
+    "kind": "dialogue",
+    "context": "Deux collègues parlent d'une formation.",
+    "script": [
+      { "speaker": "A", "text": "Tu vas à la formation sur le nouveau logiciel jeudi ?" },
+      { "speaker": "B", "text": "Je n'ai pas le choix, elle est obligatoire. Mais c'est dommage qu'elle dure toute la journée. Avec la fin du trimestre, j'ai plein de dossiers à terminer." },
+      { "speaker": "A", "text": "Tu pourrais demander à faire la version en ligne. Elle se fait en trois modules d'une heure, quand tu veux." },
+      { "speaker": "B", "text": "Ah bon ? Je ne savais pas que ça existait. Je vais écrire à la responsable tout de suite." }
+    ],
+    "question": "Qu'est-ce que la deuxième personne va probablement faire ?",
+    "options": ["Annuler sa participation à la formation", "Terminer ses dossiers jeudi", "Aller à la formation toute la journée", "Demander à suivre la formation en ligne"],
+    "answer": 3,
+    "explanationEn": "After hearing about the online version, the person says « Je vais écrire à la responsable tout de suite » — to ask to take the training online. The training is mandatory (« obligatoire »), so cancelling is not an option.",
+    "explanationZh": "听说有在线版本后，这个人说 « Je vais écrire à la responsable tout de suite »（我马上给负责人写信），要申请参加在线培训。培训是必修的（« obligatoire »），不能取消。"
+  },
+  {
+    "id": "lis-b1-018",
+    "level": "B1",
+    "kind": "radio",
+    "context": "Une publicité à la radio.",
+    "script": [
+      { "speaker": "N", "text": "Vous en avez assez de jeter des vêtements encore en bon état ? Le samedi vingt-trois, venez à la grande friperie solidaire du centre communautaire de Rosemont." },
+      { "speaker": "N", "text": "Apportez jusqu'à dix vêtements propres et repartez avec le même nombre de vêtements, gratuitement. Les vêtements qui restent à la fin de la journée seront donnés à un refuge pour personnes sans abri." }
+    ],
+    "question": "Quel est le principe de cet événement ?",
+    "options": ["Échanger ses vêtements contre d'autres", "Acheter des vêtements à petit prix", "Donner de l'argent à un refuge", "Faire réparer ses vêtements"],
+    "answer": 0,
+    "explanationEn": "« Apportez jusqu'à dix vêtements propres et repartez avec le même nombre de vêtements, gratuitement » — it is a free clothing swap. Leftover clothes go to a shelter.",
+    "explanationZh": "« Apportez jusqu'à dix vêtements propres et repartez avec le même nombre de vêtements, gratuitement »（最多带十件干净衣服，免费换回同样数量的衣服），即免费换衣活动。剩下的衣服捐给收容所。"
+  },
+  {
+    "id": "lis-b1-019",
+    "level": "B1",
+    "kind": "dialogue",
+    "context": "Chez le médecin.",
+    "script": [
+      { "speaker": "A", "text": "Alors, ces maux de tête, ça a commencé quand ?" },
+      { "speaker": "B", "text": "Il y a environ un mois. Surtout le soir, après le travail." },
+      { "speaker": "A", "text": "Vous passez beaucoup de temps devant un écran ?" },
+      { "speaker": "B", "text": "Oui, au moins huit heures par jour, et je n'ai pas de lunettes." },
+      { "speaker": "A", "text": "Je pense que vos yeux sont fatigués. Je vais vous envoyer chez un optométriste. En attendant, faites une pause de quelques minutes toutes les heures." }
+    ],
+    "question": "Selon le médecin, quelle est probablement la cause des maux de tête ?",
+    "options": ["Le stress au travail", "La fatigue des yeux", "Le manque de sommeil", "Une mauvaise alimentation"],
+    "answer": 1,
+    "explanationEn": "The doctor says « Je pense que vos yeux sont fatigués » (I think your eyes are tired), linked to eight hours a day in front of a screen without glasses.",
+    "explanationZh": "医生说 « Je pense que vos yeux sont fatigués »（我认为是你的眼睛疲劳），原因是每天看屏幕八小时且没戴眼镜。"
+  },
+  {
+    "id": "lis-b1-020",
+    "level": "B1",
+    "kind": "message",
+    "context": "Un message du centre sportif municipal.",
+    "script": [
+      { "speaker": "N", "text": "Bonjour, ici Caroline, du centre sportif municipal. Vous avez inscrit votre fille au camp de jour de cet été. Malheureusement, le groupe des huit à dix ans est déjà complet. Nous l'avons donc mise sur la liste d'attente." },
+      { "speaker": "N", "text": "Si une place se libère, nous vous appellerons. Sinon, vous serez entièrement remboursés avant le début du camp, le vingt-six juin." }
+    ],
+    "question": "Quelle est la situation de la fille pour le moment ?",
+    "options": ["Elle est inscrite dans le groupe des 8 à 10 ans.", "Son inscription est annulée et remboursée.", "Elle est sur une liste d'attente.", "Elle doit choisir un autre camp."],
+    "answer": 2,
+    "explanationEn": "« Nous l'avons donc mise sur la liste d'attente » — she is on the waiting list. A refund will happen only if no place becomes available.",
+    "explanationZh": "« Nous l'avons donc mise sur la liste d'attente »（我们把她列入了候补名单）。只有在一直没有空位的情况下才会退款。"
+  }
+]

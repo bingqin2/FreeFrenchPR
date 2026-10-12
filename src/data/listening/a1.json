@@ -1,0 +1,315 @@
+[
+  {
+    "id": "lis-a1-001",
+    "level": "A1",
+    "kind": "dialogue",
+    "context": "Dans une boulangerie.",
+    "script": [
+      { "speaker": "A", "text": "Bonjour, je voudrais deux croissants, s'il vous plaît." },
+      { "speaker": "B", "text": "Voilà. Ça fait trois euros quarante." },
+      { "speaker": "A", "text": "Voici cinq euros." },
+      { "speaker": "B", "text": "Merci, et voilà votre monnaie." }
+    ],
+    "question": "Combien coûtent les deux croissants ?",
+    "options": ["2,40 euros", "3,40 euros", "5 euros", "4,30 euros"],
+    "answer": 1,
+    "explanationEn": "The baker says « Ça fait trois euros quarante » (that comes to 3.40 euros). The customer pays with a 5-euro note, but 5 euros is not the price.",
+    "explanationZh": "店员说 « Ça fait trois euros quarante »（一共 3.40 欧元）。顾客给的是 5 欧元，但那不是价格。"
+  },
+  {
+    "id": "lis-a1-002",
+    "level": "A1",
+    "kind": "dialogue",
+    "script": [
+      { "speaker": "A", "text": "Bonjour, un billet pour Québec, s'il vous plaît." },
+      { "speaker": "B", "text": "Aller simple ou aller-retour ?" },
+      { "speaker": "A", "text": "Aller-retour, s'il vous plaît." },
+      { "speaker": "B", "text": "Voilà. Le train part du quai numéro trois, à dix heures." }
+    ],
+    "question": "Où sont ces personnes ?",
+    "options": ["Dans un aéroport", "Dans un restaurant", "Dans une banque", "Dans une gare"],
+    "answer": 3,
+    "explanationEn": "The words « billet » (ticket), « aller-retour » (return ticket) and especially « Le train part du quai numéro trois » (the train leaves from platform 3) show they are in a train station (une gare).",
+    "explanationZh": "« billet »（票）、« aller-retour »（往返）以及 « Le train part du quai numéro trois »（火车从 3 号站台出发）说明他们在火车站（une gare）。"
+  },
+  {
+    "id": "lis-a1-003",
+    "level": "A1",
+    "kind": "dialogue",
+    "context": "Dans la rue.",
+    "script": [
+      { "speaker": "A", "text": "Excuse-moi, tu as l'heure ?" },
+      { "speaker": "B", "text": "Oui, il est dix heures et quart." },
+      { "speaker": "A", "text": "Merci ! Oh là là, je suis en retard." }
+    ],
+    "question": "Quelle heure est-il ?",
+    "options": ["10 h 15", "10 h 45", "2 h 15", "10 h 05"],
+    "answer": 0,
+    "explanationEn": "« Dix heures et quart » means a quarter past ten, i.e. 10:15. « Et quart » adds 15 minutes; « moins le quart » would take away 15 minutes.",
+    "explanationZh": "« dix heures et quart » 表示十点一刻，即 10:15。« et quart » 是加 15 分钟，« moins le quart » 才是差一刻。"
+  },
+  {
+    "id": "lis-a1-004",
+    "level": "A1",
+    "kind": "message",
+    "context": "Un message sur le répondeur d'une professeure.",
+    "script": [
+      { "speaker": "N", "text": "Bonjour Madame Dubois, c'est Julie, votre étudiante. Je suis malade aujourd'hui. Je ne viens pas au cours de français. Excusez-moi. À jeudi !" }
+    ],
+    "question": "Pourquoi Julie téléphone-t-elle ?",
+    "options": ["Elle va arriver en retard.", "Elle veut changer de cours.", "Elle ne vient pas au cours aujourd'hui.", "Elle ne vient pas au cours jeudi."],
+    "answer": 2,
+    "explanationEn": "Julie says « Je suis malade aujourd'hui. Je ne viens pas au cours de français. » (I'm sick today. I'm not coming to French class.) « À jeudi ! » means she will be back on Thursday.",
+    "explanationZh": "Julie 说 « Je suis malade aujourd'hui. Je ne viens pas au cours de français. »（我今天生病了，不来上法语课。）« À jeudi ! » 意思是周四见，她周四会来。"
+  },
+  {
+    "id": "lis-a1-005",
+    "level": "A1",
+    "kind": "dialogue",
+    "context": "Dans la rue.",
+    "script": [
+      { "speaker": "A", "text": "Pardon, où est la pharmacie, s'il vous plaît ?" },
+      { "speaker": "B", "text": "C'est tout droit, puis la deuxième rue à gauche. La pharmacie est à côté de la banque." },
+      { "speaker": "A", "text": "Merci beaucoup !" }
+    ],
+    "question": "Où est la pharmacie ?",
+    "options": ["En face de la banque", "À droite de la poste", "À côté de la banque", "Derrière la gare"],
+    "answer": 2,
+    "explanationEn": "The answer is « La pharmacie est à côté de la banque » (the pharmacy is next to the bank). « En face de » means opposite, which is not what was said.",
+    "explanationZh": "对方说 « La pharmacie est à côté de la banque »（药店在银行旁边）。« en face de » 是“在……对面”，录音里没有这样说。"
+  },
+  {
+    "id": "lis-a1-006",
+    "level": "A1",
+    "kind": "dialogue",
+    "context": "Le premier jour du cours de français.",
+    "script": [
+      { "speaker": "A", "text": "Bonjour, je m'appelle Karim. Et toi ?" },
+      { "speaker": "B", "text": "Moi, c'est Lin. Je viens de Chine, mais maintenant, j'habite à Montréal." },
+      { "speaker": "A", "text": "Moi aussi, j'habite à Montréal !" }
+    ],
+    "question": "Où habite Lin maintenant ?",
+    "options": ["À Montréal", "En Chine", "À Paris", "À Toronto"],
+    "answer": 0,
+    "explanationEn": "Lin says « Je viens de Chine, mais maintenant, j'habite à Montréal ». Lin comes from China but now lives in Montreal.",
+    "explanationZh": "Lin 说 « Je viens de Chine, mais maintenant, j'habite à Montréal »（我来自中国，但现在住在蒙特利尔）。“来自中国”不等于“住在中国”。"
+  },
+  {
+    "id": "lis-a1-007",
+    "level": "A1",
+    "kind": "dialogue",
+    "context": "Dans un café.",
+    "script": [
+      { "speaker": "A", "text": "Bonjour, qu'est-ce que vous prenez ?" },
+      { "speaker": "B", "text": "Pour moi, un thé au citron, s'il vous plaît. Et un jus d'orange pour mon fils." },
+      { "speaker": "A", "text": "Très bien. Autre chose ?" },
+      { "speaker": "B", "text": "Non merci, c'est tout." }
+    ],
+    "question": "Que boit la personne qui commande ?",
+    "options": ["Un café", "Un jus d'orange", "Un thé au lait", "Un thé au citron"],
+    "answer": 3,
+    "explanationEn": "The customer says « Pour moi, un thé au citron » (for me, a lemon tea). The orange juice is for the son (« pour mon fils »).",
+    "explanationZh": "顾客说 « Pour moi, un thé au citron »（我要一杯柠檬茶）。橙汁是给儿子的（« pour mon fils »）。"
+  },
+  {
+    "id": "lis-a1-008",
+    "level": "A1",
+    "kind": "announcement",
+    "context": "Un message enregistré au téléphone.",
+    "script": [
+      { "speaker": "N", "text": "Bonjour, vous êtes bien à la librairie Le Coin des livres. Le magasin est ouvert du lundi au samedi, de neuf heures à dix-neuf heures. Le dimanche, nous sommes fermés. Merci et à bientôt !" }
+    ],
+    "question": "Quand le magasin est-il fermé ?",
+    "options": ["Le samedi", "Le dimanche", "Le lundi", "Le soir à 17 heures"],
+    "answer": 1,
+    "explanationEn": "The message says « Le dimanche, nous sommes fermés » (on Sundays we are closed). It is open Monday to Saturday, from 9 a.m. to 7 p.m.",
+    "explanationZh": "录音说 « Le dimanche, nous sommes fermés »（周日我们不营业）。周一到周六 9 点到 19 点营业。"
+  },
+  {
+    "id": "lis-a1-009",
+    "level": "A1",
+    "kind": "dialogue",
+    "context": "Au téléphone.",
+    "script": [
+      { "speaker": "A", "text": "Allô, c'est moi ! Il fait quel temps à Québec aujourd'hui ?" },
+      { "speaker": "B", "text": "Oh, il fait très froid ! Il neige depuis ce matin." },
+      { "speaker": "A", "text": "Ici, à Vancouver, il pleut." }
+    ],
+    "question": "Quel temps fait-il à Québec ?",
+    "options": ["Il neige.", "Il pleut.", "Il fait chaud.", "Il y a du soleil."],
+    "answer": 0,
+    "explanationEn": "The person in Quebec City says « Il fait très froid ! Il neige depuis ce matin. » (It's very cold! It has been snowing since this morning.) The rain (« il pleut ») is in Vancouver.",
+    "explanationZh": "在魁北克市的人说 « Il fait très froid ! Il neige depuis ce matin. »（很冷！从早上开始一直下雪。）下雨（« il pleut »）的是温哥华。"
+  },
+  {
+    "id": "lis-a1-010",
+    "level": "A1",
+    "kind": "short",
+    "context": "Une personne parle de sa famille.",
+    "script": [
+      { "speaker": "N", "text": "Voici ma famille. J'ai un frère et deux sœurs. Mon frère a douze ans. Mes sœurs sont étudiantes à l'université." }
+    ],
+    "question": "Combien de sœurs a cette personne ?",
+    "options": ["Une", "Trois", "Deux", "Douze"],
+    "answer": 2,
+    "explanationEn": "« J'ai un frère et deux sœurs » — one brother and two sisters. Twelve (« douze ») is the brother's age.",
+    "explanationZh": "« J'ai un frère et deux sœurs »（我有一个兄弟和两个姐妹）。“十二”（« douze »）是兄弟的年龄。"
+  },
+  {
+    "id": "lis-a1-011",
+    "level": "A1",
+    "kind": "dialogue",
+    "context": "Deux collègues parlent.",
+    "script": [
+      { "speaker": "A", "text": "Quel est ton numéro de téléphone ?" },
+      { "speaker": "B", "text": "C'est le cinq, un, quatre, deux, trois, huit, sept, six, zéro, neuf." },
+      { "speaker": "A", "text": "Merci, je t'appelle ce soir." }
+    ],
+    "question": "Quel est le numéro de téléphone ?",
+    "options": ["541 238 7609", "514 238 7609", "514 283 7609", "514 238 6709"],
+    "answer": 1,
+    "explanationEn": "The digits are « cinq, un, quatre, deux, trois, huit, sept, six, zéro, neuf » = 514 238 7609. (514 is a Montreal area code.)",
+    "explanationZh": "数字依次是 « cinq, un, quatre, deux, trois, huit, sept, six, zéro, neuf »，即 514 238 7609（514 是蒙特利尔的区号）。"
+  },
+  {
+    "id": "lis-a1-012",
+    "level": "A1",
+    "kind": "dialogue",
+    "context": "Au supermarché.",
+    "script": [
+      { "speaker": "A", "text": "Excusez-moi, où sont les pommes, s'il vous plaît ?" },
+      { "speaker": "B", "text": "Les fruits et légumes sont au fond du magasin, à droite, après le pain." },
+      { "speaker": "A", "text": "Merci !" }
+    ],
+    "question": "Que cherche la personne ?",
+    "options": ["Du pain", "Des légumes", "Des oranges", "Des pommes"],
+    "answer": 3,
+    "explanationEn": "The customer asks « où sont les pommes ? » (where are the apples?). Bread and vegetables are only mentioned to give directions.",
+    "explanationZh": "顾客问 « où sont les pommes ? »（苹果在哪里？）。面包和蔬菜只是用来指路的。"
+  },
+  {
+    "id": "lis-a1-013",
+    "level": "A1",
+    "kind": "dialogue",
+    "context": "Au téléphone.",
+    "script": [
+      { "speaker": "A", "text": "Le rendez-vous chez le dentiste, c'est quand ?" },
+      { "speaker": "B", "text": "Jeudi prochain, à quatorze heures." },
+      { "speaker": "A", "text": "D'accord, jeudi à quatorze heures. Merci !" }
+    ],
+    "question": "Quand est le rendez-vous ?",
+    "options": ["Mardi à 14 heures", "Jeudi à 4 heures", "Vendredi à 14 heures", "Jeudi à 14 heures"],
+    "answer": 3,
+    "explanationEn": "« Jeudi prochain, à quatorze heures » = next Thursday at 2 p.m. (14:00). « Quatorze » is 14, not 4 (« quatre »).",
+    "explanationZh": "« Jeudi prochain, à quatorze heures »（下周四 14 点，即下午两点）。« quatorze » 是 14，不是 4（« quatre »）。"
+  },
+  {
+    "id": "lis-a1-014",
+    "level": "A1",
+    "kind": "dialogue",
+    "context": "À la réception d'un hôtel.",
+    "script": [
+      { "speaker": "A", "text": "Bonsoir, j'ai une réservation au nom de Martin." },
+      { "speaker": "B", "text": "Oui, une chambre pour deux nuits. Voici votre clé. C'est la chambre vingt-trois, au deuxième étage." },
+      { "speaker": "A", "text": "Merci beaucoup." }
+    ],
+    "question": "Quel est le numéro de la chambre ?",
+    "options": ["La chambre 13", "La chambre 23", "La chambre 32", "La chambre 2"],
+    "answer": 1,
+    "explanationEn": "The receptionist says « C'est la chambre vingt-trois » — room 23. « Deuxième étage » is the floor and « deux nuits » is the length of the stay.",
+    "explanationZh": "前台说 « C'est la chambre vingt-trois »（23 号房间）。« deuxième étage » 是楼层，« deux nuits » 是住两晚。"
+  },
+  {
+    "id": "lis-a1-015",
+    "level": "A1",
+    "kind": "dialogue",
+    "context": "Dans un magasin de vêtements.",
+    "script": [
+      { "speaker": "A", "text": "Bonjour, je cherche un pantalon noir, taille quarante." },
+      { "speaker": "B", "text": "Malheureusement, en noir, nous avons seulement la taille trente-huit. Mais en bleu, nous avons la taille quarante." },
+      { "speaker": "A", "text": "Bon, je vais essayer le bleu." }
+    ],
+    "question": "Quel pantalon le magasin a-t-il en taille 40 ?",
+    "options": ["Un pantalon noir", "Un pantalon gris", "Un pantalon bleu", "Aucun pantalon"],
+    "answer": 2,
+    "explanationEn": "The seller says « en bleu, nous avons la taille quarante » (in blue, we have size 40). In black, there is only size 38.",
+    "explanationZh": "店员说 « en bleu, nous avons la taille quarante »（蓝色的有 40 码）。黑色的只有 38 码。"
+  },
+  {
+    "id": "lis-a1-016",
+    "level": "A1",
+    "kind": "announcement",
+    "context": "Dans une gare.",
+    "script": [
+      { "speaker": "N", "text": "Mesdames et messieurs, le train pour Ottawa a quinze minutes de retard. Merci de votre patience." }
+    ],
+    "question": "Quel est le problème ?",
+    "options": ["Le train est en retard.", "Le train est annulé.", "Le train part en avance.", "Le train change de quai."],
+    "answer": 0,
+    "explanationEn": "« Le train pour Ottawa a quinze minutes de retard » — the train to Ottawa is 15 minutes late.",
+    "explanationZh": "« Le train pour Ottawa a quinze minutes de retard »（开往渥太华的火车晚点 15 分钟）。"
+  },
+  {
+    "id": "lis-a1-017",
+    "level": "A1",
+    "kind": "dialogue",
+    "context": "Deux amis parlent.",
+    "script": [
+      { "speaker": "A", "text": "C'est quand, ton anniversaire ?" },
+      { "speaker": "B", "text": "C'est le douze mars. Cette année, c'est un samedi !" },
+      { "speaker": "A", "text": "Super, on peut faire une fête !" }
+    ],
+    "question": "Quand est l'anniversaire ?",
+    "options": ["Le 2 mars", "Le 12 mars", "Le 12 mai", "Le 22 mars"],
+    "answer": 1,
+    "explanationEn": "« C'est le douze mars » — March 12. Be careful: « mars » (March) and « mai » (May) sound a little alike.",
+    "explanationZh": "« C'est le douze mars »（3 月 12 日）。注意 « mars »（三月）和 « mai »（五月）发音有点像。"
+  },
+  {
+    "id": "lis-a1-018",
+    "level": "A1",
+    "kind": "dialogue",
+    "context": "Deux collègues parlent.",
+    "script": [
+      { "speaker": "A", "text": "Comment tu vas au travail ?" },
+      { "speaker": "B", "text": "D'habitude, je prends le métro. Mais quand il fait beau, je vais au travail à vélo." },
+      { "speaker": "A", "text": "C'est une bonne idée !" }
+    ],
+    "question": "Comment cette personne va-t-elle au travail quand il fait beau ?",
+    "options": ["À vélo", "En métro", "En voiture", "À pied"],
+    "answer": 0,
+    "explanationEn": "« Quand il fait beau, je vais au travail à vélo » — by bike when the weather is nice. The metro is the usual way (« d'habitude »).",
+    "explanationZh": "« Quand il fait beau, je vais au travail à vélo »（天气好的时候骑自行车上班）。地铁是平时（« d'habitude »）的方式。"
+  },
+  {
+    "id": "lis-a1-019",
+    "level": "A1",
+    "kind": "dialogue",
+    "context": "Au restaurant.",
+    "script": [
+      { "speaker": "A", "text": "L'addition, s'il vous plaît." },
+      { "speaker": "B", "text": "Voilà. Vous payez par carte ?" },
+      { "speaker": "A", "text": "Non, en espèces. Voici trente dollars." },
+      { "speaker": "B", "text": "Merci, bonne soirée !" }
+    ],
+    "question": "Comment cette personne paie-t-elle ?",
+    "options": ["Par carte de crédit", "Par chèque", "Avec son téléphone", "En espèces"],
+    "answer": 3,
+    "explanationEn": "The server asks « Vous payez par carte ? » (paying by card?) and the customer answers « Non, en espèces » (no, in cash).",
+    "explanationZh": "服务员问 « Vous payez par carte ? »（刷卡吗？），顾客回答 « Non, en espèces »（不，付现金）。"
+  },
+  {
+    "id": "lis-a1-020",
+    "level": "A1",
+    "kind": "message",
+    "context": "Un message sur le téléphone de Paul.",
+    "script": [
+      { "speaker": "N", "text": "Salut Paul, c'est ta sœur Sophie. On mange à dix-neuf heures ce soir, chez moi. Apporte du pain, s'il te plaît. J'ai déjà le fromage et le vin. À ce soir !" }
+    ],
+    "question": "Qu'est-ce que Paul doit apporter ?",
+    "options": ["Du vin", "Du fromage", "Du pain", "Des fleurs"],
+    "answer": 2,
+    "explanationEn": "Sophie asks « Apporte du pain, s'il te plaît » (please bring bread). She already has the cheese and the wine (« J'ai déjà le fromage et le vin »).",
+    "explanationZh": "Sophie 说 « Apporte du pain, s'il te plaît »（请带面包来）。奶酪和葡萄酒她已经有了（« J'ai déjà le fromage et le vin »）。"
+  }
+]

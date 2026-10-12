@@ -1,0 +1,915 @@
+[
+  {
+    "id": "b2-01",
+    "level": "B2",
+    "titleFr": "La voix passive et ses alternatives",
+    "titleEn": "The passive voice and its alternatives",
+    "titleZh": "被动语态及其替代形式",
+    "goalsEn": [
+      "Form the passive with être + past participle in the main tenses",
+      "Introduce the agent with par or de",
+      "Use the alternatives French prefers: on, se faire + infinitive and the pronominal passive"
+    ],
+    "goalsZh": [
+      "用 être + 过去分词构成各主要时态的被动语态",
+      "用 par 或 de 引出施动者",
+      "使用法语更常用的替代形式：on、se faire + 不定式和代词式被动"
+    ],
+    "sections": [
+      {
+        "type": "text",
+        "en": "In the **passive voice**, the direct object of the active sentence becomes the subject. The verb is **être**, conjugated in the **same tense as the active verb**, + the **past participle**, which agrees with the subject.\n*La ville **a construit** un pont.* → *Un pont **a été construit** par la ville.*\nOnly verbs with a **direct object** can normally be made passive. *On a répondu à la lettre* cannot become ~~la lettre a été répondue~~.",
+        "zh": "在**被动语态**中，主动句的直接宾语变成主语。动词由 **être**（与主动句动词**时态相同**）+ **过去分词**构成，过去分词与主语性数配合。\n*La ville **a construit** un pont.*（市政府建了一座桥。）→ *Un pont **a été construit** par la ville.*（一座桥由市政府建成。）\n通常只有**带直接宾语**的动词才能变为被动态。*On a répondu à la lettre* 不能改成 ~~la lettre a été répondue~~。"
+      },
+      {
+        "type": "table",
+        "caption": "Le passif à différents temps / 不同时态的被动语态",
+        "headers": ["Temps", "Actif", "Passif"],
+        "rows": [
+          ["présent", "Le comité choisit les candidats.", "Les candidats sont choisis par le comité."],
+          ["passé composé", "La ville a construit un pont.", "Un pont a été construit par la ville."],
+          ["imparfait", "Un expert vérifiait les dossiers.", "Les dossiers étaient vérifiés par un expert."],
+          ["futur", "Le ministère annoncera les résultats.", "Les résultats seront annoncés par le ministère."],
+          ["subjonctif", "Il faut que les deux parties signent le contrat.", "Il faut que le contrat soit signé par les deux parties."]
+        ]
+      },
+      {
+        "type": "text",
+        "en": "**Par or de?**\n• **par** introduces the agent of a concrete action: *arrêté **par** la police, écrit **par** une journaliste*.\n• **de** is used with verbs of **feeling** and **description/state**: *aimé **de**, respecté **de**, connu **de**, entouré **de**, couvert **de**, rempli **de**, composé **de**, accompagné **de***.\nThe agent is often left out when it is unknown, obvious or unimportant: *Les demandes sont traitées en ligne.*",
+        "zh": "**用 par 还是 de？**\n• **par** 引出具体动作的施动者：*arrêté **par** la police, écrit **par** une journaliste*。\n• **de** 用于表示**情感**以及**描写或状态**的动词：*aimé **de**, respecté **de**, connu **de**, entouré **de**, couvert **de**, rempli **de**, composé **de**, accompagné **de***。\n当施动者未知、显而易见或不重要时，通常省略：*Les demandes sont traitées en ligne.*（申请在网上处理。）"
+      },
+      {
+        "type": "examples",
+        "items": [
+          { "fr": "Le nouveau pont a été inauguré par la mairesse.", "en": "The new bridge was opened by the mayor.", "zh": "新桥由市长主持落成。" },
+          { "fr": "Les demandes sont traitées en ligne.", "en": "Applications are processed online.", "zh": "申请在网上处理。" },
+          { "fr": "Cette chanteuse est aimée de tous les Québécois.", "en": "This singer is loved by all Quebecers.", "zh": "这位歌手深受所有魁北克人的喜爱。" },
+          { "fr": "Le village était entouré de forêts.", "en": "The village was surrounded by forests.", "zh": "村庄被森林环绕。" },
+          { "fr": "Les résultats vous seront envoyés par courriel.", "en": "The results will be sent to you by email.", "zh": "结果将通过电子邮件发送给您。" },
+          { "fr": "Il faut que le formulaire soit signé avant vendredi.", "en": "The form must be signed before Friday.", "zh": "表格必须在周五之前签好。" }
+        ]
+      },
+      {
+        "type": "text",
+        "en": "French uses the passive **less often than English**. Three common alternatives:\n1. **on + active verb**: *On a volé mon vélo.* (My bike was stolen.)\n2. **se faire + infinitive**: the subject undergoes an action (often unpleasant) or has something done: *Il s'est fait voler son portefeuille.* · *Je me suis fait couper les cheveux.*\n3. **pronominal passive** (*se* + verb) for habits, rules and general truths, without an agent: *Ce vin se boit frais.* · *Le français se parle dans plusieurs provinces.* · *Ça ne se fait pas.*",
+        "zh": "法语使用被动语态**比英语少**。三种常见替代形式：\n1. **on + 主动动词**：*On a volé mon vélo.*（我的自行车被偷了。）\n2. **se faire + 不定式**：主语遭受某个动作（常为不愉快的事），或让别人为自己做某事：*Il s'est fait voler son portefeuille.*（他的钱包被偷了。）· *Je me suis fait couper les cheveux.*（我去剪了头发。）\n3. **代词式被动**（*se* + 动词）用于习惯、规则和普遍事实，不带施动者：*Ce vin se boit frais.*（这种酒要冰着喝。）· *Le français se parle dans plusieurs provinces.* · *Ça ne se fait pas.*（这样做不合适。）"
+      },
+      {
+        "type": "table",
+        "caption": "Quatre façons d'exprimer le passif / 表达被动的四种方式",
+        "headers": ["Structure", "Exemple", "When? (EN)", "何时用？"],
+        "rows": [
+          ["être + participe passé", "Le contrat a été signé.", "Formal, written; focus on the result", "正式、书面，强调结果"],
+          ["on + verbe actif", "On a fermé la route.", "Agent unknown or general; very common in speech", "施动者未知或泛指，口语中很常见"],
+          ["se faire + infinitif", "Il s'est fait arrêter.", "The subject undergoes or arranges the action", "主语遭受或安排某个动作"],
+          ["verbe pronominal passif", "Ce livre se lit facilement.", "General truths, habits, how things are done", "普遍事实、习惯、做事的方式"]
+        ]
+      },
+      {
+        "type": "examples",
+        "items": [
+          { "fr": "On m'a proposé un poste à Winnipeg.", "en": "I was offered a job in Winnipeg.", "zh": "有人给我提供了一份在温尼伯的工作。" },
+          { "fr": "Elle s'est fait voler son téléphone dans le métro.", "en": "She had her phone stolen on the subway.", "zh": "她的手机在地铁里被偷了。" },
+          { "fr": "Je me suis fait expliquer la procédure par un conseiller.", "en": "I had the procedure explained to me by an advisor.", "zh": "我请一位顾问给我讲解了办理流程。" },
+          { "fr": "Ce plat se mange chaud.", "en": "This dish is eaten hot.", "zh": "这道菜要趁热吃。" },
+          { "fr": "Ces billets se vendent très vite.", "en": "These tickets sell very quickly.", "zh": "这些票卖得很快。" }
+        ]
+      },
+      {
+        "type": "tip",
+        "en": "**Traps:** (1) In *se faire* + infinitive, **fait never agrees**: *Elle s'est **fait** opérer* (not ~~faite~~). (2) English *I was asked / I was told* cannot be translated with a French passive because *demander à* and *dire à* take an indirect object: say **On m'a demandé… / On m'a dit…** (3) In TCF writing, a passive adds formality (*Une hausse des loyers a été observée*), but don't stack several in a row.",
+        "zh": "**陷阱：**（1）*se faire* + 不定式中，**fait 永不配合**：*Elle s'est **fait** opérer*（不能写成 ~~faite~~）。（2）英语的 *I was asked / I was told* 不能直译为法语被动态，因为 *demander à*、*dire à* 带的是间接宾语：要说 **On m'a demandé… / On m'a dit…**（3）TCF 写作中，被动态能增加正式感（*Une hausse des loyers a été observée*），但不要连续堆砌。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "mcq",
+        "prompt": "Le rapport ___ par la directrice hier.",
+        "options": ["a écrit", "a été écrit", "était écrivant", "s'est écrit"],
+        "answer": 1,
+        "explanationEn": "Passive passé composé: a été + past participle.",
+        "explanationZh": "复合过去时的被动态：a été + 过去分词。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Les résultats ___ annoncés demain.",
+        "answers": ["seront"],
+        "hint": "(être, futur)",
+        "en": "The results will be announced tomorrow.",
+        "zh": "结果将于明天公布。"
+      },
+      {
+        "type": "fill",
+        "prompt": "La table était couverte ___ papiers.",
+        "answers": ["de"],
+        "en": "The table was covered with papers.",
+        "zh": "桌子上堆满了纸。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "« We were asked to wait. » Best French version: / 最佳法语译文：",
+        "options": ["Nous avons été demandés d'attendre.", "Nous étions demandés attendre.", "On nous a demandé d'attendre.", "Nous nous sommes demandé d'attendre."],
+        "answer": 2,
+        "explanationEn": "Demander à takes an indirect object, so use on: On nous a demandé d'attendre.",
+        "explanationZh": "demander à 带间接宾语，不能用被动态，要用 on：On nous a demandé d'attendre。"
+      },
+      {
+        "type": "listen",
+        "text": "Il s'est fait voler sa voiture.",
+        "options": ["Il a volé sa voiture.", "Il s'est fait voler sa voiture.", "Il a fait voler sa voiture.", "Sa voiture s'est vendue."],
+        "answer": 1
+      },
+      {
+        "type": "order",
+        "words": ["boit", "Ce", "frais.", "se", "très", "vin"],
+        "answer": "Ce vin se boit très frais.",
+        "en": "This wine is drunk well chilled.",
+        "zh": "这种酒要冰镇后饮用。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Elle s'est ___ couper les cheveux.",
+        "answers": ["fait"],
+        "en": "She had her hair cut.",
+        "zh": "她去剪了头发。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Mettez au passif : « La police a arrêté le suspect. » / 改为被动态：",
+        "options": ["Le suspect a été arrêté par la police.", "Le suspect est arrêté par la police.", "Le suspect avait arrêté la police.", "Le suspect s'est arrêté par la police."],
+        "answer": 0,
+        "explanationEn": "Keep the tense: a arrêté (passé composé) → a été arrêté.",
+        "explanationZh": "保持时态：a arrêté（复合过去时）→ a été arrêté。"
+      },
+      {
+        "type": "listen",
+        "text": "Les inscriptions seront acceptées jusqu'au 30 juin.",
+        "options": ["Les inscriptions sont acceptées jusqu'au 30 juin.", "Les inscriptions ont été acceptées jusqu'au 30 juin.", "Les inscriptions seraient acceptées jusqu'au 30 juin.", "Les inscriptions seront acceptées jusqu'au 30 juin."],
+        "answer": 3
+      },
+      {
+        "type": "fill",
+        "prompt": "Le français ___ parle dans plusieurs provinces canadiennes.",
+        "answers": ["se"],
+        "en": "French is spoken in several Canadian provinces.",
+        "zh": "加拿大有好几个省份说法语。"
+      },
+      {
+        "type": "order",
+        "words": ["été", "La", "courriel.", "envoyée", "lettre", "par", "a"],
+        "answer": "La lettre a été envoyée par courriel.",
+        "en": "The letter was sent by email.",
+        "zh": "这封信是通过电子邮件发送的。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Which sentence is correct? / 哪个句子正确？",
+        "options": ["Les fenêtres ont été réparé hier.", "Les fenêtres ont réparées hier.", "Les fenêtres ont été réparées hier.", "Les fenêtres sont été réparées hier."],
+        "answer": 2,
+        "explanationEn": "Passive: ont été + participle agreeing with the subject (fenêtres, f. pl.).",
+        "explanationZh": "被动态：ont été + 与主语配合的过去分词（fenêtres 为阴性复数）。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Il faut que ce document ___ signé par les deux parties.",
+        "answers": ["soit"],
+        "hint": "(être, subjonctif)",
+        "en": "This document must be signed by both parties.",
+        "zh": "这份文件必须由双方签字。"
+      }
+    ]
+  },
+  {
+    "id": "b2-02",
+    "level": "B2",
+    "titleFr": "Le gérondif et le participe présent",
+    "titleEn": "The gerund and the present participle",
+    "titleZh": "副动词与现在分词",
+    "goalsEn": [
+      "Form the present participle (-ant) and the gerund (en + -ant)",
+      "Use the gerund for simultaneity, manner, means and condition",
+      "Use the present participle and its compound form (ayant terminé, étant arrivé) in formal writing, and tell it apart from the verbal adjective"
+    ],
+    "goalsZh": [
+      "构成现在分词（-ant）和副动词（en + -ant）",
+      "用副动词表达同时性、方式、手段和条件",
+      "在正式书面语中使用现在分词及其复合形式（ayant terminé, étant arrivé），并区分动词性形容词"
+    ],
+    "sections": [
+      {
+        "type": "text",
+        "en": "**Formation:** take the *nous* form of the present, remove **-ons**, add **-ant**: *nous parlons → parl**ant***, *nous finissons → finiss**ant***, *nous prenons → pren**ant***.\nOnly three exceptions: **être → étant**, **avoir → ayant**, **savoir → sachant**.\nThe **gerund** is simply **en + present participle**: *en parlant*. Both forms are **invariable**.",
+        "zh": "**构成：**取直陈式现在时 *nous* 的形式，去掉 **-ons**，加上 **-ant**：*nous parlons → parl**ant***，*nous finissons → finiss**ant***，*nous prenons → pren**ant***。\n只有三个例外：**être → étant**，**avoir → ayant**，**savoir → sachant**。\n**副动词**就是 **en + 现在分词**：*en parlant*。两者都**没有性数变化**。"
+      },
+      {
+        "type": "table",
+        "caption": "Formation / 构成",
+        "headers": ["Infinitif", "nous (présent)", "Participe présent", "Gérondif"],
+        "rows": [
+          ["parler", "nous parlons", "parlant", "en parlant"],
+          ["finir", "nous finissons", "finissant", "en finissant"],
+          ["faire", "nous faisons", "faisant", "en faisant"],
+          ["lire", "nous lisons", "lisant", "en lisant"],
+          ["être", "(exception)", "étant", "en étant"],
+          ["avoir", "(exception)", "ayant", "en ayant"],
+          ["savoir", "(exception)", "sachant", "en sachant"]
+        ]
+      },
+      {
+        "type": "text",
+        "en": "**The gerund** describes an action done by the **same subject** as the main verb. It expresses:\n• **simultaneity**: *Il chante **en conduisant**.* (while driving)\n• **manner or means**: *C'est **en pratiquant** qu'on progresse.* (by practising)\n• **condition**: ***En partant** maintenant, tu arriveras à temps.* (if you leave now)\n**Tout en** adds contrast or insists on simultaneity: ***Tout en** reconnaissant ses qualités, je reste critique.* (while acknowledging…)",
+        "zh": "**副动词**表示与主句动词**主语相同**的动作，可以表达：\n• **同时性**：*Il chante **en conduisant**.*（他边开车边唱歌。）\n• **方式或手段**：*C'est **en pratiquant** qu'on progresse.*（通过练习才能进步。）\n• **条件**：***En partant** maintenant, tu arriveras à temps.*（如果你现在出发，就能准时到。）\n**Tout en** 增加对比意味或强调同时性：***Tout en** reconnaissant ses qualités, je reste critique.*（虽然承认他的优点，我仍持批评态度。）"
+      },
+      {
+        "type": "examples",
+        "items": [
+          { "fr": "J'écoute des balados en faisant la cuisine.", "en": "I listen to podcasts while cooking.", "zh": "我边做饭边听播客。" },
+          { "fr": "C'est en parlant tous les jours qu'on améliore son français.", "en": "It's by speaking every day that you improve your French.", "zh": "每天说法语才能提高法语水平。" },
+          { "fr": "En prenant le train de 7 h, vous arriverez avant la réunion.", "en": "If you take the 7 o'clock train, you'll arrive before the meeting.", "zh": "如果您坐七点的火车，就能在会议前到达。" },
+          { "fr": "Elle s'est blessée en faisant du ski.", "en": "She hurt herself while skiing.", "zh": "她滑雪时受伤了。" },
+          { "fr": "Tout en travaillant à temps plein, il suit des cours du soir.", "en": "While working full time, he takes evening classes.", "zh": "他一边全职工作，一边上夜校。" },
+          { "fr": "Il est entré en souriant.", "en": "He came in smiling.", "zh": "他笑着走了进来。" }
+        ]
+      },
+      {
+        "type": "text",
+        "en": "**The present participle (without en)** belongs mainly to formal and written French:\n• it can replace **qui + verb**: *les candidats **possédant** un diplôme* = *qui possèdent*;\n• it can express **cause**: ***Étant** malade, il n'est pas venu.*\nThe **compound participle** (*ayant* / *étant* + past participle) shows that an action was **completed before** the main one: ***Ayant terminé** son rapport, elle est partie.* · ***Étant arrivés** en retard, nous avons manqué le début.*",
+        "zh": "**现在分词（不带 en）**主要用于正式的书面语：\n• 可以代替 **qui + 动词**：*les candidats **possédant** un diplôme* = *qui possèdent*（持有文凭的候选人）；\n• 可以表示**原因**：***Étant** malade, il n'est pas venu.*（因为生病，他没来。）\n**复合分词**（*ayant* / *étant* + 过去分词）表示动作**先于**主句动作完成：***Ayant terminé** son rapport, elle est partie.*（写完报告后，她走了。）· ***Étant arrivés** en retard, nous avons manqué le début.*（因为迟到，我们错过了开头。）"
+      },
+      {
+        "type": "table",
+        "caption": "Participe ou gérondif ? / 分词还是副动词？",
+        "headers": ["Forme", "Exemple", "Sens"],
+        "rows": [
+          ["participe présent (= qui…)", "Nous cherchons un employé parlant espagnol.", "who speaks / 会说……的"],
+          ["participe présent (cause)", "Étant fatiguée, elle s'est couchée tôt.", "as she was tired / 因为累了"],
+          ["ayant + p.p.", "Ayant terminé ses études, il a commencé à travailler.", "having finished / 完成……之后"],
+          ["étant + p.p.", "Étant partis tôt, ils ont évité les bouchons.", "having left / 由于已经……"],
+          ["gérondif", "Il lit en mangeant.", "while eating / 一边……一边……"]
+        ]
+      },
+      {
+        "type": "text",
+        "en": "**Verbal adjective vs participle.** Some *-ant* words are adjectives: they describe a quality and **agree**: *des enfants obéissant**s***, *une histoire intéressant**e***. A few are spelled differently from the participle:\n*fatiguant* (participle) / *fatigant* (adj.) · *convainquant* / *convaincant* · *précédant* / *précédent* · *différant* / *différent* · *négligeant* / *négligent*.",
+        "zh": "**动词性形容词与现在分词。**有些以 *-ant* 结尾的词是形容词，描述性质，**需要配合**：*des enfants obéissant**s***，*une histoire intéressant**e***。少数几个与分词拼写不同：\n*fatiguant*（分词）/ *fatigant*（形容词）· *convainquant* / *convaincant* · *précédant* / *précédent* · *différant* / *différent* · *négligeant* / *négligent*。"
+      },
+      {
+        "type": "tip",
+        "en": "**Dangling gerund:** the gerund always refers to the subject of the main verb. *En arrivant au bureau, **le patron** m'a appelé* means the **boss** was arriving! Say: *Quand je suis arrivé au bureau, le patron m'a appelé.*\nAlso, English *-ing* is not always a gerund: *I like reading* = *J'aime **lire*** · *I'm working* = *Je **travaille*** or *Je suis en train de travailler*.",
+        "zh": "**副动词主语错位：**副动词总是指主句的主语。*En arrivant au bureau, **le patron** m'a appelé* 的意思是**老板**到了办公室！应该说：*Quand je suis arrivé au bureau, le patron m'a appelé.*\n另外，英语的 *-ing* 不一定对应副动词：*I like reading* = *J'aime **lire*** · *I'm working* = *Je **travaille*** 或 *Je suis en train de travailler*。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "mcq",
+        "prompt": "Le participe présent de « faire » est : / « faire » 的现在分词是：",
+        "options": ["fait", "faisé", "faisant", "fasant"],
+        "answer": 2,
+        "explanationEn": "nous faisons → faisant.",
+        "explanationZh": "nous faisons → faisant。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Il s'est cassé la jambe ___ du vélo.",
+        "answers": ["en faisant"],
+        "hint": "(en + faire)",
+        "en": "He broke his leg while cycling.",
+        "zh": "他骑自行车时摔断了腿。"
+      },
+      {
+        "type": "fill",
+        "prompt": "___ fini ses devoirs, Léa est allée jouer.",
+        "answers": ["Ayant"],
+        "hint": "(avoir, participe présent)",
+        "en": "Having finished her homework, Léa went to play.",
+        "zh": "做完作业后，莱娅去玩了。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "C'est ___ qu'on devient forgeron.",
+        "options": ["forgeant", "en forgeant", "en forger", "à forgeant"],
+        "answer": 1,
+        "explanationEn": "Means → gerund: en forgeant (practice makes perfect).",
+        "explanationZh": "表示手段 → 副动词：en forgeant（熟能生巧）。"
+      },
+      {
+        "type": "listen",
+        "text": "En arrivant à la gare, j'ai vu mon ancien professeur.",
+        "options": ["Arrivé à la gare, j'ai vu mon ancien professeur.", "En allant à la gare, j'ai vu mon ancien professeur.", "En arrivant à la gare, j'ai vu mon ancien professeur.", "Avant d'arriver à la gare, j'ai vu mon ancien professeur."],
+        "answer": 2
+      },
+      {
+        "type": "order",
+        "words": ["musique.", "Elle", "en", "de", "travaille", "écoutant", "la"],
+        "answer": "Elle travaille en écoutant de la musique.",
+        "en": "She works while listening to music.",
+        "zh": "她边听音乐边工作。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Nous cherchons une personne ___ le français et l'anglais.",
+        "options": ["parlante", "parlant", "en parlant", "parlants"],
+        "answer": 1,
+        "explanationEn": "Present participle = qui parle; it is invariable.",
+        "explanationZh": "现在分词 = qui parle，没有性数变化。"
+      },
+      {
+        "type": "fill",
+        "prompt": "___ malade, il n'est pas venu au travail.",
+        "answers": ["Étant"],
+        "hint": "(être, participe présent)",
+        "en": "Being sick, he didn't come to work.",
+        "zh": "由于生病，他没来上班。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Which sentence is correct? / 哪个句子正确？",
+        "options": ["Ce travail est très fatiguant.", "Ce travail est très fatigants.", "Ce travail est très en fatiguant.", "Ce travail est très fatigant."],
+        "answer": 3,
+        "explanationEn": "The adjective is spelled fatigant (the participle is fatiguant).",
+        "explanationZh": "形容词拼作 fatigant（分词才是 fatiguant）。"
+      },
+      {
+        "type": "listen",
+        "text": "Ayant perdu ses clés, elle a dû appeler un serrurier.",
+        "options": ["Ayant perdu ses clés, elle a dû appeler un serrurier.", "En perdant ses clés, elle a dû appeler un serrurier.", "Ayant pris ses clés, elle a dû appeler un serrurier.", "Ayant perdu ses clés, elle va appeler un serrurier."],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "words": ["étudiant,", "Tout", "soir.", "il", "le", "en", "travaille"],
+        "answer": "Tout en étudiant, il travaille le soir.",
+        "en": "While studying, he works in the evenings.",
+        "zh": "他一边读书，一边晚上打工。"
+      },
+      {
+        "type": "fill",
+        "prompt": "En ___ maintenant, tu arriveras à l'heure.",
+        "answers": ["partant"],
+        "hint": "(partir)",
+        "en": "If you leave now, you'll arrive on time.",
+        "zh": "你现在出发的话，就能准时到。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "« En prenant ce médicament, vous dormirez mieux. » The gerund expresses… / 副动词在此表达……",
+        "options": ["opposition / 对立", "purpose / 目的", "condition or means / 条件或手段", "an earlier action / 先发生的动作"],
+        "answer": 2,
+        "explanationEn": "= If you take / By taking this medicine → condition or means.",
+        "explanationZh": "= 如果服用／通过服用这种药 → 条件或手段。"
+      }
+    ]
+  },
+  {
+    "id": "b2-03",
+    "level": "B2",
+    "titleFr": "Hypothèse et concession : à condition que, même si, au cas où",
+    "titleEn": "Hypothesis and concession: à condition que, même si, au cas où",
+    "titleZh": "假设与让步：à condition que、même si、au cas où",
+    "goalsEn": [
+      "Express conditions with à condition que, à moins que and pourvu que + subjunctive",
+      "Express concession with quoique / bien que + subjunctive and même si + indicative",
+      "Use au cas où + conditional to talk about precautions"
+    ],
+    "goalsZh": [
+      "用 à condition que、à moins que、pourvu que + 虚拟式表达条件",
+      "用 quoique / bien que + 虚拟式和 même si + 直陈式表达让步",
+      "用 au cas où + 条件式表达预防措施"
+    ],
+    "sections": [
+      {
+        "type": "text",
+        "en": "To go beyond *si*, B2 speakers use a range of connectors for **conditions** and **concessions**. The key difficulty is the **mood** that follows each one: some take the subjunctive, some the indicative, and *au cas où* takes the conditional. Learn each connector together with its mood.",
+        "zh": "除了 *si*，B2 水平的学习者还应掌握一系列表达**条件**和**让步**的连接词。难点在于每个连接词后面的**语式**：有的接虚拟式，有的接直陈式，而 *au cas où* 接条件式。学习每个连接词时要连同它的语式一起记。"
+      },
+      {
+        "type": "table",
+        "caption": "L'hypothèse et la condition / 假设与条件",
+        "headers": ["Connecteur", "Sens", "Mode", "Exemple"],
+        "rows": [
+          ["à condition que", "provided that / 只要、条件是", "subjonctif", "Je t'aide à condition que tu m'aides aussi."],
+          ["à moins que (ne)", "unless / 除非", "subjonctif", "Nous partirons à 8 h, à moins qu'il (ne) neige."],
+          ["pourvu que", "as long as / 只要；但愿", "subjonctif", "Tu peux sortir pourvu que tu rentres avant minuit."],
+          ["en supposant que", "supposing that / 假设", "subjonctif", "En supposant qu'il accepte, qui paiera ?"],
+          ["au cas où", "in case / 万一", "conditionnel", "Prends un parapluie au cas où il pleuvrait."]
+        ]
+      },
+      {
+        "type": "table",
+        "caption": "La concession / 让步",
+        "headers": ["Connecteur", "Sens", "Mode", "Exemple"],
+        "rows": [
+          ["bien que / quoique", "although / 虽然、尽管", "subjonctif", "Quoiqu'il soit riche, il vit simplement."],
+          ["même si", "even if / 即使", "indicatif", "Même s'il pleut, nous irons."],
+          ["quand bien même", "even if (formel) / 即便（正式）", "conditionnel", "Quand bien même il insisterait, je refuserais."],
+          ["avoir beau + infinitif", "however much / 不管怎么……也", "infinitif", "J'ai beau chercher, je ne trouve pas mes clés."]
+        ]
+      },
+      {
+        "type": "text",
+        "en": "**Same subject → infinitive** for some connectors: **à condition de**, **à moins de** + infinitive: *Tu réussiras **à condition de travailler**.* · *Je ne pourrai pas venir, **à moins de trouver** quelqu'un pour garder les enfants.*\n*Bien que* and *quoique* have no infinitive form, but they can be followed directly by an adjective or participle: ***Bien que fatigué**, il a continué.*\nDon't confuse **quoique** (although) with **quoi que** (whatever): ***Quoi que** tu fasses, je te soutiendrai.*",
+        "zh": "部分连接词在**主语相同时用不定式**：**à condition de**、**à moins de** + 不定式：*Tu réussiras **à condition de travailler**.*（只要你努力，就会成功。）· *Je ne pourrai pas venir, **à moins de trouver** quelqu'un pour garder les enfants.*（除非找到人照看孩子，否则我来不了。）\n*Bien que* 和 *quoique* 没有不定式结构，但可以直接接形容词或分词：***Bien que fatigué**, il a continué.*（虽然很累，他还是坚持了下来。）\n不要混淆 **quoique**（虽然）和 **quoi que**（无论什么）：***Quoi que** tu fasses, je te soutiendrai.*（无论你做什么，我都支持你。）"
+      },
+      {
+        "type": "examples",
+        "items": [
+          { "fr": "Vous pouvez vous inscrire en ligne, à condition que votre dossier soit complet.", "en": "You can register online, provided your file is complete.", "zh": "只要材料齐全，您就可以在网上注册。" },
+          { "fr": "Le vol partira à l'heure, à moins que la tempête ne s'aggrave.", "en": "The flight will leave on time, unless the storm gets worse.", "zh": "除非暴风雪加剧，否则航班会准时起飞。" },
+          { "fr": "Pourvu qu'il fasse beau demain !", "en": "Let's hope the weather is nice tomorrow!", "zh": "但愿明天天气好！" },
+          { "fr": "Je vous laisse mon numéro au cas où vous auriez des questions.", "en": "I'll leave you my number in case you have any questions.", "zh": "我把电话号码留给您，万一您有问题可以联系我。" },
+          { "fr": "Même si le loyer est élevé, cet appartement vaut la peine.", "en": "Even if the rent is high, this apartment is worth it.", "zh": "即使房租很高，这套公寓也值得。" },
+          { "fr": "Quoiqu'elle ait peu d'expérience, elle a obtenu le poste.", "en": "Although she has little experience, she got the job.", "zh": "尽管她经验不多，她还是得到了这份工作。" },
+          { "fr": "Bien qu'épuisés, les bénévoles ont continué à travailler.", "en": "Although exhausted, the volunteers kept working.", "zh": "尽管筋疲力尽，志愿者们仍在继续工作。" }
+        ]
+      },
+      {
+        "type": "table",
+        "caption": "Même si + temps / même si 的时态搭配",
+        "headers": ["Structure", "Exemple"],
+        "rows": [
+          ["même si + présent → présent / futur", "Même s'il pleut, je sortirai."],
+          ["même si + imparfait → conditionnel présent", "Même si j'étais riche, je continuerais à travailler."],
+          ["même si + plus-que-parfait → conditionnel passé", "Même si tu m'avais prévenu, je serais venu quand même."]
+        ]
+      },
+      {
+        "type": "tip",
+        "en": "**Never** use the subjunctive or conditional after *même si* — it follows the same tense rules as *si*. **Never** use the subjunctive after *au cas où*. At the start of a sentence, *Pourvu que…!* expresses a **hope**: *Pourvu qu'il ne pleuve pas !* The *ne* after *à moins que* is formal and **not negative**.",
+        "zh": "*même si* 后**绝不**用虚拟式或条件式，它的时态规则与 *si* 相同。*au cas où* 后**绝不**用虚拟式。放在句首的 *Pourvu que…!* 表示**愿望**：*Pourvu qu'il ne pleuve pas !*（但愿别下雨！）*à moins que* 后面的 *ne* 是正式用法，**没有否定意义**。"
+      },
+      {
+        "type": "tip",
+        "en": "**TCF tip:** in Expression orale task 3, these connectors let you nuance your opinion instead of saying just yes or no: *Je suis favorable au télétravail, **à condition qu'il soit** bien encadré.* · ***Même si** cette mesure coûte cher, elle me semble nécessaire.*",
+        "zh": "**TCF 小贴士：**在口语第三项任务中，这些连接词能让你的观点更有层次，而不只是简单地说“是”或“不是”：*Je suis favorable au télétravail, **à condition qu'il soit** bien encadré.*（我支持远程办公，前提是管理得当。）· ***Même si** cette mesure coûte cher, elle me semble nécessaire.*（即使这项措施代价高，我认为它也是必要的。）"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "mcq",
+        "prompt": "Je viendrai à condition que tu ___ là.",
+        "options": ["sois", "es", "seras", "serais"],
+        "answer": 0,
+        "explanationEn": "À condition que + subjunctive: que tu sois.",
+        "explanationZh": "à condition que + 虚拟式：que tu sois。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Même s'il ___ demain, nous ferons la randonnée.",
+        "options": ["pleuve", "pleuvrait", "pleut", "ait plu"],
+        "answer": 2,
+        "explanationEn": "Même si + indicative (present) → future in the main clause.",
+        "explanationZh": "même si + 直陈式现在时 → 主句用将来时。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Prends ta carte de crédit au cas où tu ___ besoin d'argent.",
+        "answers": ["aurais"],
+        "hint": "(avoir)",
+        "en": "Take your credit card in case you need money.",
+        "zh": "带上信用卡，以防你需要用钱。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Quoiqu'il ___ tard, elle travaille encore.",
+        "answers": ["soit"],
+        "hint": "(être)",
+        "en": "Although it's late, she is still working.",
+        "zh": "虽然已经很晚了，她还在工作。"
+      },
+      {
+        "type": "listen",
+        "text": "Nous sortirons, à moins qu'il ne fasse trop froid.",
+        "options": ["Nous sortirons, même s'il fait trop froid.", "Nous sortirons, à moins qu'il ne fasse trop froid.", "Nous sortirons, au cas où il ferait trop froid.", "Nous sortirons, pourvu qu'il ne fasse pas trop froid."],
+        "answer": 1
+      },
+      {
+        "type": "order",
+        "words": ["à", "Je", "patient.", "condition", "t'aiderai", "sois", "tu", "que"],
+        "answer": "Je t'aiderai à condition que tu sois patient.",
+        "en": "I'll help you provided you are patient.",
+        "zh": "只要你有耐心，我就会帮你。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "« Pourvu qu'elle réussisse ! » means… / 意思是……",
+        "options": ["She will surely succeed. / 她一定会成功。", "She succeeded. / 她成功了。", "Although she succeeds… / 虽然她成功了……", "Let's hope she succeeds! / 但愿她成功！"],
+        "answer": 3,
+        "explanationEn": "Pourvu que at the start of an exclamation expresses a hope.",
+        "explanationZh": "感叹句开头的 pourvu que 表示愿望。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Tu réussiras, à condition ___ travailler régulièrement.",
+        "answers": ["de"],
+        "en": "You'll succeed, provided you work regularly.",
+        "zh": "只要你坚持学习，就会成功。"
+      },
+      {
+        "type": "listen",
+        "text": "Même si j'avais le temps, je n'irais pas.",
+        "options": ["Même si j'ai le temps, je n'irai pas.", "Même si j'avais eu le temps, je ne serais pas allé.", "Bien que j'aie le temps, je n'irai pas.", "Même si j'avais le temps, je n'irais pas."],
+        "answer": 3
+      },
+      {
+        "type": "fill",
+        "prompt": "Laissez-moi un message au cas où je ne ___ pas là.",
+        "answers": ["serais"],
+        "hint": "(être)",
+        "en": "Leave me a message in case I'm not there.",
+        "zh": "万一我不在，请给我留言。"
+      },
+      {
+        "type": "order",
+        "words": ["parc.", "Même", "irons", "pleut,", "au", "nous", "s'il"],
+        "answer": "Même s'il pleut, nous irons au parc.",
+        "en": "Even if it rains, we'll go to the park.",
+        "zh": "即使下雨，我们也要去公园。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Which sentence is INCORRECT? / 哪个句子是错误的？",
+        "options": ["Bien qu'il soit malade, il travaille.", "Même s'il soit malade, il travaille.", "Au cas où il serait malade, appelez-moi.", "À moins qu'il ne soit malade, il viendra."],
+        "answer": 1,
+        "explanationEn": "Même si takes the indicative: Même s'il est malade.",
+        "explanationZh": "même si 后接直陈式：Même s'il est malade。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "« ___ tu fasses, fais-le bien. »",
+        "options": ["Quoi que", "Quoique", "Bien que", "Même si"],
+        "answer": 0,
+        "explanationEn": "Quoi que (two words) = whatever.",
+        "explanationZh": "quoi que（分开写）= 无论什么。"
+      }
+    ]
+  },
+  {
+    "id": "b2-04",
+    "level": "B2",
+    "titleFr": "Structurer une argumentation (TCF, tâche 3)",
+    "titleEn": "Structuring an argument (TCF Task 3)",
+    "titleZh": "构建论证（TCF 第三项任务）",
+    "goalsEn": [
+      "Plan a clear argument: introduction, development, nuance and conclusion",
+      "Use set phrases to introduce, illustrate, nuance and conclude",
+      "Apply these tools to Expression écrite task 3 and Expression orale task 3"
+    ],
+    "goalsZh": [
+      "规划清晰的论证结构：引言、展开、让步与结论",
+      "使用固定表达来引入话题、举例、表达细微差别和总结",
+      "将这些方法运用到写作第三项任务和口语第三项任务中"
+    ],
+    "sections": [
+      {
+        "type": "text",
+        "en": "In **Expression écrite task 3**, you read two short documents presenting opposing views on a topic, summarise them and then give your own opinion. In **Expression orale task 3**, you state and defend your point of view on a question, without preparation time.\nIn both cases, examiners reward a **clear structure**, **relevant examples** and the ability to **nuance**.",
+        "zh": "在**写作第三项任务**中，你需要阅读两篇观点相反的短文，概括其内容，然后发表自己的看法。在**口语第三项任务**中，你需要在没有准备时间的情况下，就一个问题表达并论证自己的观点。\n两项任务中，考官都看重**清晰的结构**、**恰当的例子**以及**表达细微差别**的能力。"
+      },
+      {
+        "type": "table",
+        "caption": "Le plan et les formules utiles / 结构与常用表达",
+        "headers": ["Étape", "Rôle", "Formules utiles"],
+        "rows": [
+          ["Introduction", "présenter le sujet / 引出话题", "De nos jours, … ; La question de … fait débat. ; On peut se demander si …"],
+          ["Arguments", "développer deux ou trois idées / 展开论点", "D'une part, … d'autre part, … ; Tout d'abord, … Ensuite, … Enfin, …"],
+          ["Exemples", "illustrer / 举例说明", "Par exemple, … ; Prenons l'exemple de … ; C'est le cas de … ; comme le montre …"],
+          ["Nuance", "reconnaître l'autre point de vue / 承认对立观点", "Certes, … mais … ; Il est vrai que … ; toutefois … ; Cela dit, …"],
+          ["Conclusion", "répondre clairement / 明确作答", "En définitive, … ; En conclusion, … ; Pour toutes ces raisons, …"]
+        ]
+      },
+      {
+        "type": "text",
+        "en": "**Key formal phrases:**\n• **d'une part… d'autre part** = *on the one hand… on the other hand*: often lists two complementary aspects (to contrast two sides, *d'un côté… de l'autre* is common).\n• **certes… mais** = *admittedly… but*: you concede a point, then rebut it.\n• **il convient de** + infinitive = *it is appropriate / necessary to* (formal).\n• **force est de constater que** = *one has to admit that* (the facts leave no choice).\n• **en définitive** = *ultimately, all things considered*.",
+        "zh": "**重要的正式表达：**\n• **d'une part… d'autre part** = “一方面……另一方面……”：常用于列举两个互补的方面（要对比两方，常用 *d'un côté… de l'autre*）。\n• **certes… mais** = “诚然……但是……”：先让步，再反驳。\n• **il convient de** + 不定式 = “应当、宜于……”（正式）。\n• **force est de constater que** = “不得不承认……”（事实摆在眼前）。\n• **en définitive** = “归根结底、总而言之”。"
+      },
+      {
+        "type": "examples",
+        "items": [
+          { "fr": "De nos jours, le télétravail fait partie du quotidien de nombreux Canadiens.", "en": "Nowadays, remote work is part of daily life for many Canadians.", "zh": "如今，远程办公已成为许多加拿大人日常生活的一部分。" },
+          { "fr": "D'une part, il permet de gagner du temps ; d'autre part, il réduit la pollution liée aux transports.", "en": "On the one hand, it saves time; on the other hand, it reduces transport-related pollution.", "zh": "一方面，它节省时间；另一方面，它减少了交通带来的污染。" },
+          { "fr": "Prenons l'exemple des grandes villes comme Toronto, où les trajets dépassent souvent une heure.", "en": "Take the example of big cities like Toronto, where commutes often exceed an hour.", "zh": "以多伦多这样的大城市为例，通勤时间常常超过一小时。" },
+          { "fr": "Certes, travailler à la maison peut isoler les employés, mais des réunions régulières permettent de garder le lien.", "en": "Admittedly, working from home can isolate employees, but regular meetings help maintain contact.", "zh": "诚然，居家办公可能让员工感到孤立，但定期开会可以保持联系。" },
+          { "fr": "Force est de constater que beaucoup d'entreprises n'ont pas perdu en productivité.", "en": "One has to admit that many companies have not lost productivity.", "zh": "不得不承认，许多企业的生产力并没有下降。" },
+          { "fr": "Il convient toutefois de fixer des règles claires.", "en": "However, clear rules should be set.", "zh": "不过，应当制定明确的规则。" },
+          { "fr": "En définitive, je suis favorable au télétravail, à condition qu'il reste un choix.", "en": "All things considered, I am in favour of remote work, provided it remains a choice.", "zh": "总而言之，我支持远程办公，前提是它仍然是一种选择。" }
+        ]
+      },
+      {
+        "type": "table",
+        "caption": "Donner son avis et résumer / 表达观点与概括",
+        "headers": ["Fonction", "Formules"],
+        "rows": [
+          ["Donner son avis / 表达观点", "À mon avis, … ; Selon moi, … ; Je suis convaincu(e) que … ; Il me semble que …"],
+          ["Être d'accord / 同意", "Je partage ce point de vue. ; Je suis tout à fait d'accord avec …"],
+          ["Être en désaccord / 反对", "Je ne partage pas cet avis. ; Je ne suis pas convaincu(e) que + subjonctif"],
+          ["Résumer les documents / 概括文本", "Le premier document affirme que … ; Selon l'auteur du second texte, … ; Les deux documents s'opposent sur …"]
+        ]
+      },
+      {
+        "type": "text",
+        "en": "**Speaking task 3 strategy** (no preparation time):\n1. State your position in the first sentence.\n2. Give two arguments, each with a concrete example (ideally Canadian or from your own experience).\n3. Mention the opposing view and answer it with *certes… mais*.\n4. Conclude by restating your opinion.\nIf you need time to think, use natural fillers: *C'est une question intéressante…*, *Comment dire…*",
+        "zh": "**口语第三项任务策略**（没有准备时间）：\n1. 第一句话就表明立场。\n2. 给出两个论点，每个论点配一个具体例子（最好与加拿大或个人经历相关）。\n3. 提及对立观点，并用 *certes… mais* 回应。\n4. 结尾重申自己的观点。\n需要思考时间时，可以自然地使用过渡语：*C'est une question intéressante…*，*Comment dire…*"
+      },
+      {
+        "type": "tip",
+        "en": "**Avoid:** memorised paragraphs that don't fit the question, a pile of connectors with no real logic, or *En conclusion* followed by a new idea. Use the **certes… mais** move at least once: it is a clear sign of B2 nuance.",
+        "zh": "**避免：**背诵与题目不符的段落、堆砌没有实际逻辑的连接词，或在 *En conclusion* 后面提出新观点。至少使用一次 **certes… mais** 结构：这是 B2 水平表达细微差别的明显标志。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "mcq",
+        "prompt": "Which expression introduces a concession followed by a counter-argument? / 哪个表达用于先让步再反驳？",
+        "options": ["En définitive…", "Certes… mais…", "D'une part… d'autre part…", "Par exemple…"],
+        "answer": 1,
+        "explanationEn": "Certes concedes a point; mais introduces the rebuttal.",
+        "explanationZh": "certes 表示让步，mais 引出反驳。"
+      },
+      {
+        "type": "fill",
+        "prompt": "___ de constater que les loyers ont fortement augmenté.",
+        "answers": ["Force est"],
+        "en": "One has to admit that rents have risen sharply.",
+        "zh": "不得不承认，房租大幅上涨了。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Il ___ de distinguer deux aspects du problème.",
+        "answers": ["convient"],
+        "hint": "(convenir)",
+        "en": "Two aspects of the problem should be distinguished.",
+        "zh": "应当区分这个问题的两个方面。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "« En définitive » is used to… / 「En définitive」用于……",
+        "options": ["give an example / 举例", "add an argument / 补充论点", "conclude / 总结", "contradict / 反驳"],
+        "answer": 2,
+        "explanationEn": "En définitive = all things considered → conclusion.",
+        "explanationZh": "en définitive = 总而言之 → 用于总结。"
+      },
+      {
+        "type": "listen",
+        "text": "Certes, cette mesure coûte cher, mais elle est indispensable.",
+        "options": ["Certes, cette mesure coûte cher, donc elle est indispensable.", "Certes, cette mesure coûte cher, mais elle est indispensable.", "En effet, cette mesure coûte cher, mais elle est indispensable.", "Certes, cette mesure coûte cher, et elle est inutile."],
+        "answer": 1
+      },
+      {
+        "type": "order",
+        "words": ["l'exemple", "canadiennes.", "Prenons", "grandes", "des", "villes"],
+        "answer": "Prenons l'exemple des grandes villes canadiennes.",
+        "en": "Let's take the example of large Canadian cities.",
+        "zh": "以加拿大的大城市为例。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Choose the best opening for a TCF opinion text. / 选出最适合 TCF 议论文的开头。",
+        "options": ["Je pense que oui.", "Bon, alors, le télétravail, c'est bien.", "En conclusion, le télétravail est bien.", "De nos jours, la question du télétravail suscite un vif débat."],
+        "answer": 3,
+        "explanationEn": "It introduces the topic and the debate in a formal register.",
+        "explanationZh": "它用正式语体引出了话题和争议。"
+      },
+      {
+        "type": "fill",
+        "prompt": "D'une part, les transports en commun sont économiques ; d'___ part, ils sont écologiques.",
+        "answers": ["autre"],
+        "en": "On the one hand, public transit is economical; on the other hand, it is eco-friendly.",
+        "zh": "一方面，公共交通很经济；另一方面，它很环保。"
+      },
+      {
+        "type": "listen",
+        "text": "Force est de constater que la situation a changé.",
+        "options": ["Force est de constater que la situation a changé.", "Il faut constater que la situation changera.", "Il convient de constater que la situation a changé.", "Force est de constater que la situation n'a pas changé."],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "words": ["favorable", "En", "réforme.", "je", "définitive,", "cette", "suis", "à"],
+        "answer": "En définitive, je suis favorable à cette réforme.",
+        "en": "All things considered, I am in favour of this reform.",
+        "zh": "总而言之，我赞成这项改革。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "« Selon l'auteur du premier document, … » is useful for… / 这个表达用于……",
+        "options": ["summarising a document / 概括文本", "concluding / 总结", "giving your own opinion / 表达个人观点", "giving an example / 举例"],
+        "answer": 0,
+        "explanationEn": "It reports the author's view, as required when summarising the documents.",
+        "explanationZh": "它转述作者的观点，适合用来概括文本内容。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Il est vrai que la voiture est pratique. ___, elle pollue beaucoup.",
+        "answers": ["Toutefois", "Cependant", "Néanmoins", "Pourtant", "Cela dit"],
+        "en": "It's true that cars are convenient. However, they pollute a lot.",
+        "zh": "诚然，汽车很方便。然而，它污染严重。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Which sentence best nuances an opinion? / 哪句话最能体现有分寸的观点？",
+        "options": ["Le télétravail est parfait.", "Le télétravail est nul.", "Le télétravail présente des avantages, à condition d'être bien organisé.", "Je ne sais pas."],
+        "answer": 2,
+        "explanationEn": "It states a position and adds a condition — a typical B2 nuance.",
+        "explanationZh": "它既表明了立场又加上了条件，是典型的 B2 式表达。"
+      }
+    ]
+  },
+  {
+    "id": "b2-05",
+    "level": "B2",
+    "titleFr": "Le registre formel : lettres, nominalisation, reprises",
+    "titleEn": "Formal register: letters, nominalisation, avoiding repetition",
+    "titleZh": "正式语体：书信、名词化与避免重复",
+    "goalsEn": [
+      "Write a formal letter or email with the right opening, structure and closing formula",
+      "Turn verbs and adjectives into nouns (augmenter → l'augmentation) for a more formal style",
+      "Avoid repetition with pronouns, synonyms and general nouns"
+    ],
+    "goalsZh": [
+      "用正确的称呼、结构和结尾礼貌用语撰写正式信件或邮件",
+      "把动词和形容词变为名词（augmenter → l'augmentation），使文风更正式",
+      "用代词、同义词和概括性名词避免重复"
+    ],
+    "sections": [
+      {
+        "type": "text",
+        "en": "French distinguishes three main registers: **familier** (friends), **courant** (everyday neutral) and **soutenu** (formal). TCF writing tasks often ask you to write to an employer, a landlord or an administration: use **vous**, full negation (*ne… pas*), no slang and no abbreviations.",
+        "zh": "法语主要分为三种语体：**familier**（亲密、随意）、**courant**（日常中性）和 **soutenu**（正式）。TCF 写作任务常要求你给雇主、房东或行政机构写信：要用 **vous**，否定要完整（*ne… pas*），不用俚语，也不用缩写。"
+      },
+      {
+        "type": "table",
+        "caption": "Trois registres / 三种语体",
+        "headers": ["Familier", "Courant", "Soutenu"],
+        "rows": [
+          ["T'es où ?", "Où es-tu ?", "Où vous trouvez-vous ?"],
+          ["J'ai pas le temps.", "Je n'ai pas le temps.", "Je ne dispose pas du temps nécessaire."],
+          ["C'est super cher.", "C'est très cher.", "Le coût est particulièrement élevé."],
+          ["le boulot", "le travail", "l'emploi, le poste"],
+          ["Je veux…", "Je voudrais…", "Je souhaiterais…"]
+        ]
+      },
+      {
+        "type": "table",
+        "caption": "La lettre formelle / 正式信件的结构",
+        "headers": ["Partie", "Formules"],
+        "rows": [
+          ["Appel / 称呼", "Madame, Monsieur, (destinataire inconnu) ; Madame, ; Monsieur le Directeur,"],
+          ["Objet / 事由", "Objet : Demande de renseignements"],
+          ["Introduction / 开头", "Je me permets de vous écrire afin de … ; À la suite de notre conversation téléphonique, … ; Je vous écris au sujet de …"],
+          ["Demande / 请求", "Je vous serais reconnaissant(e) de bien vouloir … ; Pourriez-vous m'indiquer … ?"],
+          ["Conclusion / 结尾", "Dans l'attente de votre réponse, … ; Je reste à votre disposition pour tout renseignement complémentaire."],
+          ["Formule de politesse / 礼貌结语", "Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées. ; Veuillez agréer, Madame, Monsieur, mes sincères salutations."],
+          ["Courriel / 电子邮件", "Bonjour Madame Tremblay, … Cordialement, ; Bien cordialement, ; Salutations distinguées,"]
+        ]
+      },
+      {
+        "type": "tip",
+        "en": "The title in the closing formula must **repeat the opening exactly**: if you start with *Madame,* you end with *Je vous prie d'agréer, **Madame**, …*. In Canada, professional emails often open with *Bonjour Madame X,* and close with *Cordialement* or *Salutations distinguées*. Avoid *Cher Monsieur* with a stranger: it sounds too familiar in French.",
+        "zh": "结尾礼貌用语中的称呼必须**与开头完全一致**：如果开头是 *Madame,*，结尾就要写 *Je vous prie d'agréer, **Madame**, …*。在加拿大，职业邮件常以 *Bonjour Madame X,* 开头，以 *Cordialement* 或 *Salutations distinguées* 结尾。对陌生人不要用 *Cher Monsieur*，在法语中这显得过于亲近。"
+      },
+      {
+        "type": "text",
+        "en": "**Nominalisation** means turning a verb or adjective into a noun. It makes writing more concise and impersonal — typical of formal letters, reports and headlines.\n*Les loyers ont beaucoup augmenté, ce qui inquiète les locataires.* → *L'**augmentation** importante des loyers inquiète les locataires.*\nCommon suffixes: **-tion / -ation, -ment, -age, -ure, -ée, -ité / -té, -ance / -ence**.",
+        "zh": "**名词化**是指把动词或形容词变成名词。它让文字更简洁、更客观，是正式信件、报告和新闻标题的典型特点。\n*Les loyers ont beaucoup augmenté, ce qui inquiète les locataires.* → *L'**augmentation** importante des loyers inquiète les locataires.*（房租大幅上涨令租户担忧。）\n常见后缀：**-tion / -ation, -ment, -age, -ure, -ée, -ité / -té, -ance / -ence**。"
+      },
+      {
+        "type": "table",
+        "caption": "Nominalisation / 名词化",
+        "headers": ["Verbe / adjectif", "Nom", "Exemple"],
+        "rows": [
+          ["augmenter", "l'augmentation (f.)", "l'augmentation des loyers"],
+          ["développer", "le développement", "le développement des transports"],
+          ["arriver", "l'arrivée (f.)", "dès votre arrivée"],
+          ["fermer", "la fermeture", "la fermeture de l'usine"],
+          ["nettoyer", "le nettoyage", "le nettoyage des rues"],
+          ["réduire", "la réduction", "une réduction des impôts"],
+          ["choisir", "le choix", "le choix d'un quartier"],
+          ["difficile", "la difficulté", "les difficultés d'intégration"],
+          ["rapide", "la rapidité", "la rapidité du service"],
+          ["important", "l'importance (f.)", "l'importance du bilinguisme"]
+        ]
+      },
+      {
+        "type": "examples",
+        "items": [
+          { "fr": "Depuis l'ouverture du nouveau centre, les délais d'attente ont diminué.", "en": "Since the new centre opened, waiting times have gone down.", "zh": "自新中心开放以来，等待时间缩短了。" },
+          { "fr": "La construction de logements abordables est une priorité pour la ville.", "en": "Building affordable housing is a priority for the city.", "zh": "建设经济适用房是该市的一项优先任务。" },
+          { "fr": "Je vous remercie de la rapidité de votre réponse.", "en": "Thank you for your prompt reply.", "zh": "感谢您的及时回复。" },
+          { "fr": "Je vous écris au sujet de la résiliation de mon bail.", "en": "I am writing to you regarding the termination of my lease.", "zh": "我写信是关于解除租约的事宜。" },
+          { "fr": "Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.", "en": "Yours faithfully.", "zh": "此致敬礼。" },
+          { "fr": "Dans l'attente de votre réponse, je reste à votre disposition.", "en": "I look forward to your reply and remain at your disposal.", "zh": "期待您的回复，如有需要请随时联系我。" }
+        ]
+      },
+      {
+        "type": "text",
+        "en": "**Avoiding repetition** is part of the \"cohesion\" criterion. Tools:\n• **pronouns**: *le, la, en, y, celui-ci, celle-ci*, and **ce dernier / cette dernière** (= the latter);\n• **synonyms**: *la ville → la métropole, cette agglomération*;\n• **general nouns** that sum up the previous idea: *cette mesure, ce phénomène, cette situation, cette décision*;\n• **nominalisation** of the previous verb: *Le gouvernement a réduit les impôts. **Cette réduction**…*",
+        "zh": "**避免重复**属于“衔接”评分标准。方法有：\n• **代词**：*le, la, en, y, celui-ci, celle-ci*，以及 **ce dernier / cette dernière**（= 后者）；\n• **同义词**：*la ville → la métropole, cette agglomération*；\n• 概括前文的**泛指名词**：*cette mesure, ce phénomène, cette situation, cette décision*；\n• 把前面的动词**名词化**：*Le gouvernement a réduit les impôts. **Cette réduction**…*"
+      },
+      {
+        "type": "examples",
+        "items": [
+          { "fr": "Le gouvernement a annoncé une hausse du salaire minimum. Cette mesure entrera en vigueur en mai.", "en": "The government announced a minimum wage increase. This measure will take effect in May.", "zh": "政府宣布提高最低工资。这项措施将于五月生效。" },
+          { "fr": "Montréal attire de nombreux immigrants : la métropole offre en effet beaucoup d'emplois.", "en": "Montreal attracts many immigrants: the city does indeed offer many jobs.", "zh": "蒙特利尔吸引了大量移民：这座大都市确实提供了很多工作机会。" },
+          { "fr": "J'ai contacté Mme Roy et son adjoint ; ce dernier m'a rappelé le jour même.", "en": "I contacted Ms. Roy and her assistant; the latter called me back the same day.", "zh": "我联系了罗伊女士和她的助理，后者当天就给我回了电话。" }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "mcq",
+        "prompt": "Which opening suits a letter to an unknown recipient? / 写给不认识的收信人，哪个称呼合适？",
+        "options": ["Salut,", "Cher ami,", "Madame, Monsieur,", "Coucou,"],
+        "answer": 2,
+        "explanationEn": "Madame, Monsieur, is the standard opening when you don't know the recipient.",
+        "explanationZh": "不知道收信人是谁时，标准称呼是 Madame, Monsieur,。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Je vous prie d'___, Madame, l'expression de mes salutations distinguées.",
+        "answers": ["agréer"],
+        "en": "Yours faithfully (formal closing).",
+        "zh": "此致敬礼（正式结尾）。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Nominalisez : réduire → la ___",
+        "answers": ["réduction"],
+        "en": "Nominalise: to reduce → the reduction",
+        "zh": "名词化：减少 → 减少（名词）"
+      },
+      {
+        "type": "fill",
+        "prompt": "Nominalisez : arriver → l'___",
+        "answers": ["arrivée"],
+        "en": "Nominalise: to arrive → the arrival",
+        "zh": "名词化：到达 → 到达（名词）"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Choose the most formal version. / 选出最正式的说法。",
+        "options": ["Je veux un rendez-vous.", "Je voudrais bien un rendez-vous, svp.", "Donnez-moi un rendez-vous.", "Je souhaiterais obtenir un rendez-vous."],
+        "answer": 3,
+        "explanationEn": "Souhaiter in the conditional + a precise verb (obtenir) is the most formal.",
+        "explanationZh": "条件式的 souhaiter + 精确动词 obtenir 最为正式。"
+      },
+      {
+        "type": "listen",
+        "text": "Je vous serais reconnaissant de bien vouloir me répondre rapidement.",
+        "options": ["Je vous serais reconnaissant de bien vouloir me répondre rapidement.", "Je vous suis reconnaissant de m'avoir répondu rapidement.", "Je vous serais reconnaissant de bien vouloir me rappeler rapidement.", "Je serais content que vous me répondiez rapidement."],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "words": ["réponse,", "Dans", "remercie.", "l'attente", "vous", "de", "je", "votre"],
+        "answer": "Dans l'attente de votre réponse, je vous remercie.",
+        "en": "Looking forward to your reply, I thank you.",
+        "zh": "期待您的回复，在此致谢。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "« Les loyers ont beaucoup augmenté. » → Nominal version: / 名词化形式：",
+        "options": ["Les loyers augmentants", "L'augmenté des loyers", "L'augmentation importante des loyers", "Les loyers en augmentation beaucoup"],
+        "answer": 2,
+        "explanationEn": "augmenter → l'augmentation; beaucoup becomes the adjective importante.",
+        "explanationZh": "augmenter → l'augmentation；副词 beaucoup 变为形容词 importante。"
+      },
+      {
+        "type": "listen",
+        "text": "La fermeture de l'usine a surpris les employés.",
+        "options": ["L'ouverture de l'usine a surpris les employés.", "La fermeture de l'usine a surpris les employés.", "La fermeture de l'usine a surpris les employeurs.", "La fermeture de l'usine surprendra les employés."],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "prompt": "La ville a construit un nouveau parc. Cette ___ a coûté deux millions de dollars.",
+        "answers": ["construction"],
+        "hint": "(construire → nom)",
+        "en": "The city built a new park. This construction cost two million dollars.",
+        "zh": "市政府建了一座新公园。这项建设花费了两百万加元。"
+      },
+      {
+        "type": "order",
+        "words": ["bail.", "Je", "sujet", "me", "de", "écrire", "permets", "mon", "vous", "au", "de"],
+        "answer": "Je me permets de vous écrire au sujet de mon bail.",
+        "en": "I am writing to you regarding my lease.",
+        "zh": "冒昧致信，是关于我的租约事宜。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Which closing suits a professional email? / 哪个结尾适合职业邮件？",
+        "options": ["Bisous,", "Cordialement,", "À plus,", "Ciao,"],
+        "answer": 1,
+        "explanationEn": "Cordialement is the standard neutral closing for professional emails.",
+        "explanationZh": "Cordialement 是职业邮件中标准的中性结尾。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "« J'ai écrit à M. Gagnon et à sa collègue. Sa collègue m'a répondu. » Avoid the repetition: / 避免重复：",
+        "options": ["J'ai écrit à M. Gagnon et à sa collègue ; cette dernière m'a répondu.", "J'ai écrit à M. Gagnon et à sa collègue ; celui-ci m'a répondu.", "J'ai écrit à M. Gagnon et à sa collègue ; il m'a répondu.", "J'ai écrit à M. Gagnon et à sa collègue ; elle-même lui a répondu."],
+        "answer": 0,
+        "explanationEn": "Cette dernière (feminine) clearly refers to the colleague, the last person mentioned.",
+        "explanationZh": "cette dernière（阴性）明确指最后提到的那位女同事。"
+      }
+    ]
+  }
+]

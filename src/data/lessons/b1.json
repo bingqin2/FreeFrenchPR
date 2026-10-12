@@ -1,0 +1,1467 @@
+[
+  {
+    "id": "b1-01",
+    "level": "B1",
+    "titleFr": "Le subjonctif présent : formation et « il faut que »",
+    "titleEn": "The present subjunctive: forms and « il faut que »",
+    "titleZh": "虚拟式现在时：变位与 « il faut que »",
+    "goalsEn": [
+      "Form the present subjunctive of regular verbs from the ils-form of the present",
+      "Learn the irregular subjunctive of être, avoir, aller, faire, pouvoir, savoir and vouloir",
+      "Use il faut que + subjunctive to express an obligation"
+    ],
+    "goalsZh": [
+      "以直陈式现在时 ils 的形式为基础，构成规则动词的虚拟式现在时",
+      "掌握 être、avoir、aller、faire、pouvoir、savoir、vouloir 的不规则虚拟式",
+      "用 il faut que + 虚拟式表达义务"
+    ],
+    "sections": [
+      {
+        "type": "text",
+        "en": "The **subjunctive** (*le subjonctif*) is a **mood**, not a tense. The indicative presents facts; the subjunctive presents an action as something **necessary, wanted, feared or doubted** — an action seen through someone's eyes.\nIt almost always appears in a subordinate clause introduced by **que**, usually with a different subject from the main clause: *Il faut **que** tu **viennes**.* (You have to come.)",
+        "zh": "**虚拟式**（*le subjonctif*）是一种**语式**，而不是时态。直陈式陈述事实；虚拟式则把动作表现为**必要的、希望的、担心的或怀疑的**事情，带有说话人的主观色彩。\n它几乎总是出现在由 **que** 引导的从句中，并且从句主语通常与主句不同：*Il faut **que** tu **viennes**.*（你必须来。）"
+      },
+      {
+        "type": "text",
+        "en": "**Regular formation** (all -er, -ir and -re verbs, plus many irregular ones):\n1. Take the **ils/elles** form of the present indicative: *ils parlent, ils finissent, ils vendent*.\n2. Remove **-ent**: *parl-, finiss-, vend-*.\n3. Add the endings **-e, -es, -e, -ions, -iez, -ent**.\nThe *nous* and *vous* forms look exactly like the imparfait: *que nous parlions, que vous parliez*.",
+        "zh": "**规则变位**（所有 -er、-ir、-re 动词，以及许多不规则动词）：\n1. 取直陈式现在时 **ils/elles** 的形式：*ils parlent, ils finissent, ils vendent*。\n2. 去掉词尾 **-ent**：*parl-, finiss-, vend-*。\n3. 加上词尾 **-e, -es, -e, -ions, -iez, -ent**。\n*nous* 和 *vous* 的形式与未完成过去时完全相同：*que nous parlions, que vous parliez*。"
+      },
+      {
+        "type": "table",
+        "caption": "Verbes réguliers / Regular verbs / 规则动词",
+        "headers": ["Sujet", "parler", "finir", "vendre", "partir"],
+        "rows": [
+          ["que je (j')", "parle", "finisse", "vende", "parte"],
+          ["que tu", "parles", "finisses", "vendes", "partes"],
+          ["qu'il / elle / on", "parle", "finisse", "vende", "parte"],
+          ["que nous", "parlions", "finissions", "vendions", "partions"],
+          ["que vous", "parliez", "finissiez", "vendiez", "partiez"],
+          ["qu'ils / elles", "parlent", "finissent", "vendent", "partent"]
+        ]
+      },
+      {
+        "type": "tip",
+        "en": "Some verbs have **two stems**: *je, tu, il, ils* use the ils-stem, while *nous* and *vous* use the stem of the *nous* form of the present.\n*venir*: que je **vienne**, que nous **venions** · *prendre*: que je **prenne**, que nous **prenions** · *boire*: que je **boive**, que nous **buvions** · *devoir*: que je **doive**, que nous **devions** · *voir*: que je **voie**, que nous **voyions**.",
+        "zh": "有些动词有**两个词根**：*je, tu, il, ils* 用 ils 形式的词根，而 *nous* 和 *vous* 用现在时 *nous* 形式的词根。\n*venir*：que je **vienne**，que nous **venions** · *prendre*：que je **prenne**，que nous **prenions** · *boire*：que je **boive**，que nous **buvions** · *devoir*：que je **doive**，que nous **devions** · *voir*：que je **voie**，que nous **voyions**。"
+      },
+      {
+        "type": "table",
+        "caption": "Irréguliers (1) : être, avoir, aller, faire / 不规则动词（一）",
+        "headers": ["Sujet", "être", "avoir", "aller", "faire"],
+        "rows": [
+          ["que je (j')", "sois", "aie", "aille", "fasse"],
+          ["que tu", "sois", "aies", "ailles", "fasses"],
+          ["qu'il / elle / on", "soit", "ait", "aille", "fasse"],
+          ["que nous", "soyons", "ayons", "allions", "fassions"],
+          ["que vous", "soyez", "ayez", "alliez", "fassiez"],
+          ["qu'ils / elles", "soient", "aient", "aillent", "fassent"]
+        ]
+      },
+      {
+        "type": "table",
+        "caption": "Irréguliers (2) : pouvoir, savoir, vouloir / 不规则动词（二）",
+        "headers": ["Sujet", "pouvoir", "savoir", "vouloir"],
+        "rows": [
+          ["que je", "puisse", "sache", "veuille"],
+          ["que tu", "puisses", "saches", "veuilles"],
+          ["qu'il / elle / on", "puisse", "sache", "veuille"],
+          ["que nous", "puissions", "sachions", "voulions"],
+          ["que vous", "puissiez", "sachiez", "vouliez"],
+          ["qu'ils / elles", "puissent", "sachent", "veuillent"]
+        ]
+      },
+      {
+        "type": "text",
+        "en": "**Il faut que + subjunctive** expresses an obligation for a specific person: *Il faut que **tu** partes.* For a general obligation, simply use **il faut + infinitive**: *Il faut **partir**.* (We have to leave / One must leave.)\nCareful with the negative: **il ne faut pas que** means *must not* (a prohibition), not *don't have to*. To say *there is no need*, use **il n'est pas nécessaire que** + subjunctive, or **pas besoin de** + infinitive in speech.",
+        "zh": "**Il faut que + 虚拟式**表示某个具体的人必须做某事：*Il faut que **tu** partes.*（你得走了。）如果是泛指的义务，直接用 **il faut + 不定式**：*Il faut **partir**.*（得走了／应该走了。）\n注意否定形式：**il ne faut pas que** 的意思是“**不许、不可以**”（禁止），而不是“不必”。要表达“没有必要”，用 **il n'est pas nécessaire que** + 虚拟式，口语中也可以说 **pas besoin de** + 不定式。"
+      },
+      {
+        "type": "examples",
+        "items": [
+          { "fr": "Il faut que je finisse ce rapport avant midi.", "en": "I have to finish this report before noon.", "zh": "我得在中午之前完成这份报告。" },
+          { "fr": "Il faut que tu sois à l'heure pour ton entrevue.", "en": "You need to be on time for your interview.", "zh": "你面试必须准时。" },
+          { "fr": "Il faut que nous fassions nos valises ce soir.", "en": "We have to pack our suitcases tonight.", "zh": "我们今晚得收拾行李。" },
+          { "fr": "Il faut qu'elle aille à la banque pour ouvrir un compte.", "en": "She has to go to the bank to open an account.", "zh": "她得去银行开个账户。" },
+          { "fr": "Il faut que vous sachiez remplir ce formulaire en français.", "en": "You need to know how to fill out this form in French.", "zh": "您得会用法语填写这张表格。" },
+          { "fr": "Il ne faut pas que les enfants aient peur.", "en": "The children mustn't be afraid.", "zh": "不能让孩子们害怕。" },
+          { "fr": "Il faut qu'ils puissent travailler dès leur arrivée au Canada.", "en": "They need to be able to work as soon as they arrive in Canada.", "zh": "他们必须一到加拿大就能工作。" }
+        ]
+      },
+      {
+        "type": "tip",
+        "en": "**Listen carefully:** for most -er verbs, the *je, tu, il, ils* forms sound the same in the indicative and the subjunctive (*je parle / que je parle*). The difference is audible with irregular verbs (*il fait → qu'il **fasse***) and in the *nous/vous* forms (*nous parlons → que nous parl**ions***). Learn the seven irregular verbs by heart: they come up constantly.",
+        "zh": "**仔细听：**大多数 -er 动词的 *je, tu, il, ils* 形式在直陈式和虚拟式中发音相同（*je parle / que je parle*）。差别主要体现在不规则动词（*il fait → qu'il **fasse***）以及 *nous/vous* 形式上（*nous parlons → que nous parl**ions***）。请把这七个不规则动词背熟，它们出现得非常频繁。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "mcq",
+        "prompt": "Il faut que tu ___ tes devoirs.",
+        "options": ["fais", "fasses", "feras", "faisais"],
+        "answer": 1,
+        "explanationEn": "After il faut que, use the subjunctive: que tu fasses.",
+        "explanationZh": "il faut que 后面用虚拟式：que tu fasses。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Il faut que nous ___ patients.",
+        "answers": ["soyons"],
+        "hint": "(être)",
+        "en": "We have to be patient.",
+        "zh": "我们必须要有耐心。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Il faut qu'elle ___ à la pharmacie.",
+        "answers": ["aille"],
+        "hint": "(aller)",
+        "en": "She has to go to the pharmacy.",
+        "zh": "她得去药店。"
+      },
+      {
+        "type": "listen",
+        "text": "Il faut que vous sachiez la vérité.",
+        "options": ["Il faut que vous savez la vérité.", "Il faut que vous saviez la vérité.", "Il faut que vous sachiez la vérité.", "Il faut que vous saurez la vérité."],
+        "answer": 2
+      },
+      {
+        "type": "order",
+        "words": ["tôt", "que", "demain.", "Il", "parte", "je", "faut"],
+        "answer": "Il faut que je parte tôt demain.",
+        "en": "I have to leave early tomorrow.",
+        "zh": "我明天得早点走。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Subjonctif de « pouvoir » avec « nous » : / Subjunctive of « pouvoir » with « nous »:",
+        "options": ["que nous pouvons", "que nous pouvions", "que nous pourrions", "que nous puissions"],
+        "answer": 3,
+        "explanationEn": "Pouvoir has a single irregular stem puiss-: que nous puissions.",
+        "explanationZh": "pouvoir 的虚拟式词根是 puiss-：que nous puissions。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Il faut que vous ___ rendez-vous chez le médecin.",
+        "answers": ["preniez"],
+        "hint": "(prendre)",
+        "en": "You need to make an appointment with the doctor.",
+        "zh": "您得预约看医生。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "« Il ne faut pas que tu partes. » What does it mean? / 这句话是什么意思？",
+        "options": ["You don't have to leave. / 你不必走。", "You must not leave. / 你不可以走。", "You didn't leave. / 你没有走。", "You won't leave. / 你不会走。"],
+        "answer": 1,
+        "explanationEn": "Il ne faut pas que = must not (prohibition). 'Don't have to' is il n'est pas nécessaire que.",
+        "explanationZh": "il ne faut pas que 表示禁止（不可以）；“不必”要说 il n'est pas nécessaire que。"
+      },
+      {
+        "type": "listen",
+        "text": "Il faut qu'ils aient leur passeport.",
+        "options": ["Il faut qu'ils ont leur passeport.", "Il faut qu'il ait son passeport.", "Il faut qu'ils aient leur passeport.", "Il faut qu'ils avaient leur passeport."],
+        "answer": 2
+      },
+      {
+        "type": "fill",
+        "prompt": "Il faut que je ___ mes parents ce week-end.",
+        "answers": ["voie"],
+        "hint": "(voir)",
+        "en": "I have to see my parents this weekend.",
+        "zh": "这个周末我得去看我父母。"
+      },
+      {
+        "type": "order",
+        "words": ["attention.", "fassiez", "que", "Il", "vous", "faut"],
+        "answer": "Il faut que vous fassiez attention.",
+        "en": "You have to be careful.",
+        "zh": "您得小心。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Il faut que tu ___ ce qui s'est passé.",
+        "options": ["saches", "sais", "sache", "sachiez"],
+        "answer": 0,
+        "explanationEn": "Savoir → que tu saches (with -s for tu).",
+        "explanationZh": "savoir 的虚拟式：que tu saches（tu 的词尾是 -s）。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Il faut qu'ils ___ avant 17 h.",
+        "answers": ["finissent"],
+        "hint": "(finir)",
+        "en": "They have to finish before 5 p.m.",
+        "zh": "他们必须在下午五点前完成。"
+      }
+    ]
+  },
+  {
+    "id": "b1-02",
+    "level": "B1",
+    "titleFr": "Subjonctif ou indicatif ? Volonté, sentiments, doute",
+    "titleEn": "Subjunctive or indicative? Wishes, feelings and doubt",
+    "titleZh": "虚拟式还是直陈式？意愿、情感与怀疑",
+    "goalsEn": [
+      "Recognise the triggers of the subjunctive: wishes, emotions, doubt, necessity and the conjunctions bien que, pour que, avant que",
+      "Use the indicative after penser que, croire que and être sûr que — and the subjunctive when they are negative",
+      "Replace que + subjunctive with an infinitive when both subjects are the same"
+    ],
+    "goalsZh": [
+      "识别引出虚拟式的情况：意愿、情感、怀疑、必要性，以及连词 bien que、pour que、avant que",
+      "在 penser que、croire que、être sûr que 后用直陈式，它们变为否定时用虚拟式",
+      "主句与从句主语相同时，用不定式代替 que + 虚拟式"
+    ],
+    "sections": [
+      {
+        "type": "text",
+        "en": "**The big idea:** use the subjunctive when the main clause presents the action as something **wanted, felt, doubted or necessary**, rather than as a fact. Use the indicative when the speaker presents the action as **true or probable**.\nCompare: *Je sais qu'il **vient**.* (fact → indicative) / *Je veux qu'il **vienne**.* (wish → subjunctive).",
+        "zh": "**核心思想：**当主句把动作表现为**希望的、感受到的、怀疑的或必要的**事情，而不是事实时，用虚拟式；当说话人认为动作**真实或很可能发生**时，用直陈式。\n比较：*Je sais qu'il **vient**.*（我知道他会来——事实 → 直陈式）／ *Je veux qu'il **vienne**.*（我希望他来——意愿 → 虚拟式）。"
+      },
+      {
+        "type": "table",
+        "caption": "Déclencheurs du subjonctif / Subjunctive triggers / 引出虚拟式的表达",
+        "headers": ["Catégorie", "Expressions", "Exemple"],
+        "rows": [
+          ["Volonté / wish / 意愿", "vouloir que, souhaiter que, préférer que, exiger que", "Je veux que tu viennes."],
+          ["Sentiment / emotion / 情感", "être content que, être triste que, avoir peur que, regretter que, être surpris que", "Je suis content que tu sois là."],
+          ["Doute / doubt / 怀疑", "douter que, ne pas être sûr que, il est possible que", "Je doute qu'il ait raison."],
+          ["Nécessité / necessity / 必要", "il faut que, il est important que, il est nécessaire que", "Il est important que vous arriviez tôt."],
+          ["Conjonctions / conjunctions / 连词", "bien que, pour que, avant que, sans que, jusqu'à ce que", "Rentrons avant qu'il pleuve."]
+        ]
+      },
+      {
+        "type": "text",
+        "en": "**The indicative** follows verbs of opinion and certainty used affirmatively: **penser que, croire que, trouver que, être sûr que, il est certain que, il est probable que** — and also **espérer que**!\nWhen these verbs are **negative**, the idea becomes uncertain, so the subjunctive is normally used: *Je pense qu'il **est** malade.* → *Je ne pense pas qu'il **soit** malade.*\nIn formal questions with inversion, the subjunctive is also possible: *Penses-tu qu'il **vienne** ?* In everyday speech, people keep the indicative: *Tu penses qu'il va venir ?*",
+        "zh": "**直陈式**用于肯定形式的观点和确信类动词之后：**penser que、croire que、trouver que、être sûr que、il est certain que、il est probable que**，以及 **espérer que**（希望）！\n这些动词变为**否定**时，事情变得不确定，因此通常用虚拟式：*Je pense qu'il **est** malade.*（我认为他病了。）→ *Je ne pense pas qu'il **soit** malade.*（我不认为他病了。）\n在使用倒装的正式疑问句中，也可以用虚拟式：*Penses-tu qu'il **vienne** ?* 日常口语中则保留直陈式：*Tu penses qu'il va venir ?*"
+      },
+      {
+        "type": "table",
+        "caption": "Indicatif ou subjonctif ? / 直陈式还是虚拟式？",
+        "headers": ["Indicatif (fait, opinion affirmée)", "Subjonctif (doute, volonté, sentiment)"],
+        "rows": [
+          ["Je pense qu'il est malade.", "Je ne pense pas qu'il soit malade."],
+          ["Je crois que c'est vrai.", "Je doute que ce soit vrai."],
+          ["Je suis sûr qu'elle peut venir.", "Je ne suis pas sûr qu'elle puisse venir."],
+          ["J'espère que tu réussiras.", "Je veux que tu réussisses."],
+          ["Il est certain qu'il viendra.", "Il est possible qu'il vienne."]
+        ]
+      },
+      {
+        "type": "text",
+        "en": "**Same subject → infinitive.** If the person who wants, feels or acts is the same in both clauses, French uses an infinitive instead of que + subjunctive:\n*Je veux **partir**.* (not ~~Je veux que je parte~~) · *Je suis content **d'être** ici.* · *Je travaille **pour gagner** ma vie.* · *Mange **avant de partir**.*\nException: **bien que** has no infinitive form, so keep the subjunctive: *Bien que je **sois** fatigué, je continue.*",
+        "zh": "**主语相同 → 用不定式。**如果“希望、感受或行动”的人在主句和从句中是同一个人，法语用不定式代替 que + 虚拟式：\n*Je veux **partir**.*（不能说 ~~Je veux que je parte~~）· *Je suis content **d'être** ici.* · *Je travaille **pour gagner** ma vie.* · *Mange **avant de partir**.*\n例外：**bien que** 没有对应的不定式结构，所以仍用虚拟式：*Bien que je **sois** fatigué, je continue.*（虽然我累了，我还是继续。）"
+      },
+      {
+        "type": "examples",
+        "items": [
+          { "fr": "Mes parents veulent que je fasse des études de médecine.", "en": "My parents want me to study medicine.", "zh": "我父母希望我学医。" },
+          { "fr": "Je suis contente que vous puissiez venir à la fête.", "en": "I'm glad you can come to the party.", "zh": "我很高兴您能来参加聚会。" },
+          { "fr": "Je doute que le train arrive à l'heure avec cette neige.", "en": "I doubt the train will arrive on time with this snow.", "zh": "下这么大的雪，我怀疑火车能否准时到达。" },
+          { "fr": "Bien qu'il fasse froid, les enfants jouent dehors.", "en": "Although it's cold, the children are playing outside.", "zh": "虽然天气很冷，孩子们还是在外面玩。" },
+          { "fr": "Je vous explique la démarche pour que vous compreniez bien.", "en": "I'm explaining the procedure so that you understand it well.", "zh": "我给您解释一下流程，好让您完全明白。" },
+          { "fr": "Appelle-moi avant que le magasin ferme.", "en": "Call me before the store closes.", "zh": "在商店关门之前给我打电话。" },
+          { "fr": "Je pense que Montréal est une ville idéale pour les étudiants.", "en": "I think Montreal is an ideal city for students.", "zh": "我认为蒙特利尔是非常适合学生的城市。" },
+          { "fr": "Je ne crois pas que ce soit une bonne idée.", "en": "I don't think it's a good idea.", "zh": "我不认为这是个好主意。" }
+        ]
+      },
+      {
+        "type": "tip",
+        "en": "**Two traps:** (1) **espérer que** takes the indicative: *J'espère que tu **vas** bien.* (2) **après que** takes the indicative in standard French (*après qu'il **est** parti*), unlike *avant que* + subjunctive.\nAfter *avant que, à moins que, avoir peur que*, formal French may add a **ne explétif** that is NOT negative: *avant qu'il **ne** parte* = before he leaves. It is optional.",
+        "zh": "**两个陷阱：**（1）**espérer que** 后面用直陈式：*J'espère que tu **vas** bien.*（2）在标准法语中，**après que** 后面用直陈式（*après qu'il **est** parti*），这与 *avant que* + 虚拟式不同。\n在 *avant que、à moins que、avoir peur que* 之后，正式法语可能会加一个**赘词 ne**，它**没有否定意义**：*avant qu'il **ne** parte* = 在他离开之前。这个 ne 可加可不加。"
+      },
+      {
+        "type": "tip",
+        "en": "**TCF tip:** in Expression orale and écrite, structures like *il est essentiel que*, *je souhaiterais que*, *je ne suis pas convaincu que* + subjunctive show examiners a B2-level range of grammar.",
+        "zh": "**TCF 小贴士：**在口语和写作中使用 *il est essentiel que*、*je souhaiterais que*、*je ne suis pas convaincu que* + 虚拟式等结构，能向考官展示 B2 水平的语法广度。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "mcq",
+        "prompt": "Je veux que tu ___ avec nous.",
+        "options": ["viens", "viennes", "viendras", "venais"],
+        "answer": 1,
+        "explanationEn": "Vouloir que (a wish) → subjunctive: que tu viennes.",
+        "explanationZh": "vouloir que 表示意愿 → 用虚拟式：que tu viennes。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Je pense qu'elle ___ raison.",
+        "options": ["ait", "a", "aies", "ayez"],
+        "answer": 1,
+        "explanationEn": "Penser que (affirmative) → indicative: elle a raison.",
+        "explanationZh": "肯定形式的 penser que → 用直陈式：elle a raison。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Je suis content que vous ___ là.",
+        "answers": ["soyez"],
+        "hint": "(être)",
+        "en": "I'm glad you're here.",
+        "zh": "我很高兴您在这里。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Bien qu'elle ___ fatiguée, elle va à son cours du soir.",
+        "answers": ["soit"],
+        "hint": "(être)",
+        "en": "Although she is tired, she is going to her evening class.",
+        "zh": "虽然她很累，她还是去上夜校课。"
+      },
+      {
+        "type": "listen",
+        "text": "Je doute qu'il puisse venir demain.",
+        "options": ["Je doute qu'il peut venir demain.", "Je doute qu'il pourra venir demain.", "Je doute qu'il pourrait venir demain.", "Je doute qu'il puisse venir demain."],
+        "answer": 3
+      },
+      {
+        "type": "order",
+        "words": ["soit", "Je", "malade.", "pense", "ne", "qu'il", "pas"],
+        "answer": "Je ne pense pas qu'il soit malade.",
+        "en": "I don't think he is sick.",
+        "zh": "我不认为他病了。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "J'espère que tu ___ ton examen.",
+        "options": ["réussisses", "réussiras", "réussir", "réussisse"],
+        "answer": 1,
+        "explanationEn": "Espérer que takes the indicative (here the future): tu réussiras.",
+        "explanationZh": "espérer que 后接直陈式（此处为将来时）：tu réussiras。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Je t'envoie l'adresse pour que tu ___ nous trouver.",
+        "answers": ["puisses"],
+        "hint": "(pouvoir)",
+        "en": "I'm sending you the address so that you can find us.",
+        "zh": "我把地址发给你，好让你能找到我们。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Which sentence is correct? / 哪个句子正确？",
+        "options": ["Je veux que je parte.", "Je veux que partir.", "Je veux de partir.", "Je veux partir."],
+        "answer": 3,
+        "explanationEn": "Same subject → infinitive: Je veux partir.",
+        "explanationZh": "主语相同 → 用不定式：Je veux partir。"
+      },
+      {
+        "type": "listen",
+        "text": "Il est important que vous soyez à l'heure.",
+        "options": ["Il est important que vous soyez à l'heure.", "Il est important que vous êtes à l'heure.", "Il est important que vous serez à l'heure.", "Il est important que vous étiez à l'heure."],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "prompt": "Finissons ce travail avant que le directeur ___.",
+        "answers": ["revienne", "ne revienne"],
+        "hint": "(revenir)",
+        "en": "Let's finish this work before the director comes back.",
+        "zh": "我们在主任回来之前把这项工作做完吧。"
+      },
+      {
+        "type": "order",
+        "words": ["que", "triste", "partes.", "Elle", "tu", "est"],
+        "answer": "Elle est triste que tu partes.",
+        "en": "She is sad that you're leaving.",
+        "zh": "你要走了，她很难过。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Je crois que c'___ une bonne solution.",
+        "options": ["soit", "sois", "est", "soient"],
+        "answer": 2,
+        "explanationEn": "Croire que (affirmative) → indicative: c'est.",
+        "explanationZh": "肯定形式的 croire que → 用直陈式：c'est。"
+      }
+    ]
+  },
+  {
+    "id": "b1-03",
+    "level": "B1",
+    "titleFr": "Le plus-que-parfait et l'enchaînement des actions passées",
+    "titleEn": "The pluperfect and sequencing past events",
+    "titleZh": "愈过去时与过去动作的先后顺序",
+    "goalsEn": [
+      "Form the plus-que-parfait with avoir or être in the imparfait + past participle",
+      "Use it to show that one past action happened before another",
+      "Link actions with après avoir / après être + past participle and avant de + infinitive"
+    ],
+    "goalsZh": [
+      "用 avoir 或 être 的未完成过去时 + 过去分词构成愈过去时",
+      "用愈过去时表示某个过去动作发生在另一个过去动作之前",
+      "用 après avoir / après être + 过去分词和 avant de + 不定式连接动作"
+    ],
+    "sections": [
+      {
+        "type": "text",
+        "en": "The **plus-que-parfait** corresponds to English *had done*. It is the \"past of the past\": it describes an action that was **already completed before another past action** (in the passé composé or imparfait).\n*Quand je suis arrivé, le film **avait** déjà **commencé**.* → First the film started, then I arrived.",
+        "zh": "**愈过去时**（plus-que-parfait）相当于英语的 *had done*，是“过去的过去”：它表示一个动作在**另一个过去动作之前就已经完成**（另一个动作用复合过去时或未完成过去时）。\n*Quand je suis arrivé, le film **avait** déjà **commencé**.*（我到的时候，电影已经开始了。）→ 先是电影开始，然后我才到。"
+      },
+      {
+        "type": "table",
+        "caption": "Formation : auxiliaire à l'imparfait + participe passé / 构成：助动词未完成过去时 + 过去分词",
+        "headers": ["finir (avoir)", "partir (être)", "se lever (pronominal)"],
+        "rows": [
+          ["j'avais fini", "j'étais parti(e)", "je m'étais levé(e)"],
+          ["tu avais fini", "tu étais parti(e)", "tu t'étais levé(e)"],
+          ["il / elle avait fini", "il / elle était parti(e)", "il / elle s'était levé(e)"],
+          ["nous avions fini", "nous étions parti(e)s", "nous nous étions levé(e)s"],
+          ["vous aviez fini", "vous étiez parti(e)(s)", "vous vous étiez levé(e)(s)"],
+          ["ils / elles avaient fini", "ils / elles étaient parti(e)s", "ils / elles s'étaient levé(e)s"]
+        ]
+      },
+      {
+        "type": "text",
+        "en": "The rules are the same as for the passé composé: verbs of movement/change of state (*aller, venir, partir, arriver, naître, mourir, rester…*) and all pronominal verbs take **être**, and the participle agrees with the subject. With **avoir**, the participle agrees only with a direct object placed before the verb: *les lettres qu'il avait **écrites***.",
+        "zh": "规则与复合过去时相同：表示移动或状态变化的动词（*aller, venir, partir, arriver, naître, mourir, rester……*）以及所有代词式动词用 **être**，过去分词与主语配合。用 **avoir** 时，过去分词只与放在动词前面的直接宾语配合：*les lettres qu'il avait **écrites***（他写过的那些信）。"
+      },
+      {
+        "type": "examples",
+        "items": [
+          { "fr": "Quand je suis arrivé à la gare, le train était déjà parti.", "en": "When I got to the station, the train had already left.", "zh": "我到火车站的时候，火车已经开走了。" },
+          { "fr": "Elle a réussi le TCF parce qu'elle s'était bien préparée.", "en": "She passed the TCF because she had prepared well.", "zh": "她通过了 TCF，因为她之前准备得很充分。" },
+          { "fr": "Nous avions déjà mangé quand nos amis ont appelé.", "en": "We had already eaten when our friends called.", "zh": "朋友们打电话来时，我们已经吃过饭了。" },
+          { "fr": "Les enfants dormaient parce qu'ils avaient beaucoup joué.", "en": "The children were sleeping because they had played a lot.", "zh": "孩子们在睡觉，因为他们玩了很久。" },
+          { "fr": "Il m'a dit qu'il avait trouvé un appartement à Québec.", "en": "He told me he had found an apartment in Quebec City.", "zh": "他告诉我他在魁北克城找到了一套公寓。" }
+        ]
+      },
+      {
+        "type": "text",
+        "en": "**Sequencing with the same subject.** To say *after doing* and *before doing*, French uses:\n• **après + past infinitive** = *après avoir* / *après être* + past participle (agreement as with être verbs)\n• **avant de + infinitive**\nBoth require the **same subject** in both parts of the sentence. *Après avoir mangé, **il** a fait la vaisselle.* (He ate, then he washed the dishes.)",
+        "zh": "**主语相同时表达先后顺序。**表示“做了……之后”和“做……之前”，法语用：\n• **après + 不定式过去时** = *après avoir* / *après être* + 过去分词（用 être 时需要配合）\n• **avant de + 不定式**\n两种结构都要求句子前后**主语相同**。*Après avoir mangé, **il** a fait la vaisselle.*（他吃完饭后洗了碗。）"
+      },
+      {
+        "type": "table",
+        "caption": "Enchaîner les actions / 连接动作",
+        "headers": ["Structure", "Exemple", "English / 中文"],
+        "rows": [
+          ["après avoir + p.p.", "Après avoir mangé, il a fait la vaisselle.", "After eating, he did the dishes. / 吃完饭后，他洗了碗。"],
+          ["après être + p.p. (accord)", "Après être arrivée, elle a appelé sa mère.", "After arriving, she called her mother. / 到了之后，她给妈妈打了电话。"],
+          ["après s'être + p.p. (accord)", "Après s'être levés, ils ont pris un café.", "After getting up, they had a coffee. / 起床后，他们喝了杯咖啡。"],
+          ["avant de + infinitif", "Avant de partir, j'ai fermé les fenêtres.", "Before leaving, I closed the windows. / 出门前，我关了窗户。"]
+        ]
+      },
+      {
+        "type": "examples",
+        "items": [
+          { "fr": "Après avoir obtenu son diplôme, Karim a immigré au Canada.", "en": "After getting his degree, Karim immigrated to Canada.", "zh": "拿到学位后，卡里姆移民到了加拿大。" },
+          { "fr": "Après être rentrés du travail, nous avons préparé le souper.", "en": "After coming home from work, we made dinner.", "zh": "下班回家后，我们做了晚饭。" },
+          { "fr": "Avant de signer le bail, lisez-le attentivement.", "en": "Before signing the lease, read it carefully.", "zh": "签租约之前，请仔细阅读。" },
+          { "fr": "Après nous être installés à Ottawa, nous avons cherché une école pour les enfants.", "en": "After settling in Ottawa, we looked for a school for the children.", "zh": "在渥太华安顿下来后，我们给孩子们找了学校。" }
+        ]
+      },
+      {
+        "type": "tip",
+        "en": "**Common mistakes:** *Après manger* is colloquial — in writing say **après avoir mangé**. With a pronominal verb, the pronoun matches the subject: *Après **m'**être levé, **j'**ai…* / *Après **nous** être levés, **nous** avons…* If the subjects are different, use **avant que + subjunctive** or **après que + indicative** instead.",
+        "zh": "**常见错误：***Après manger* 是口语说法，书面语要写 **après avoir mangé**。代词式动词的代词要与主语一致：*Après **m'**être levé, **j'**ai…* / *Après **nous** être levés, **nous** avons…* 如果前后主语不同，就要改用 **avant que + 虚拟式**或 **après que + 直陈式**。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "mcq",
+        "prompt": "Quand nous sommes arrivés, le film ___ déjà commencé.",
+        "options": ["a", "avait", "était", "aurait"],
+        "answer": 1,
+        "explanationEn": "The film started before we arrived → plus-que-parfait with avoir: avait commencé.",
+        "explanationZh": "电影在我们到达之前已开始 → 用 avoir 的愈过去时：avait commencé。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Elle était fatiguée parce qu'elle ___ mal dormi.",
+        "answers": ["avait"],
+        "hint": "(avoir)",
+        "en": "She was tired because she had slept badly.",
+        "zh": "她很累，因为她之前没睡好。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Quand je suis arrivé, mes amis étaient déjà ___.",
+        "answers": ["partis"],
+        "hint": "(partir)",
+        "en": "When I arrived, my friends had already left.",
+        "zh": "我到的时候，朋友们已经走了。"
+      },
+      {
+        "type": "listen",
+        "text": "Il avait oublié ses clés au bureau.",
+        "options": ["Il a oublié ses clés au bureau.", "Il oubliait ses clés au bureau.", "Il avait oublié ses clés au bureau.", "Il aura oublié ses clés au bureau."],
+        "answer": 2
+      },
+      {
+        "type": "order",
+        "words": ["sommes", "Après", "mangé,", "sortis.", "avoir", "nous"],
+        "answer": "Après avoir mangé, nous sommes sortis.",
+        "en": "After eating, we went out.",
+        "zh": "吃完饭后，我们出去了。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Après ___ arrivée à Toronto, elle a cherché du travail.",
+        "options": ["avoir", "étant", "être", "été"],
+        "answer": 2,
+        "explanationEn": "Arriver takes être: après être arrivée (feminine agreement).",
+        "explanationZh": "arriver 用 être 作助动词：après être arrivée（阴性配合）。"
+      },
+      {
+        "type": "fill",
+        "prompt": "___ partir, n'oublie pas d'éteindre la lumière.",
+        "answers": ["Avant de"],
+        "en": "Before leaving, don't forget to turn off the light.",
+        "zh": "走之前，别忘了关灯。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Which sentence is correct in written French? / 哪个句子符合书面法语？",
+        "options": ["Après avoir mangé, il a lu.", "Après manger, il a lu.", "Après avoir manger, il a lu.", "Après être mangé, il a lu."],
+        "answer": 0,
+        "explanationEn": "Après + past infinitive: avoir + past participle (mangé).",
+        "explanationZh": "après + 不定式过去时：avoir + 过去分词（mangé）。"
+      },
+      {
+        "type": "listen",
+        "text": "Nous nous étions déjà couchés quand le téléphone a sonné.",
+        "options": ["Nous nous sommes déjà couchés quand le téléphone a sonné.", "Nous nous étions déjà couchés quand le téléphone a sonné.", "Nous nous couchions déjà quand le téléphone a sonné.", "Nous nous serions déjà couchés quand le téléphone a sonné."],
+        "answer": 1
+      },
+      {
+        "type": "fill",
+        "prompt": "Après s'être ___, elle a pris sa douche.",
+        "answers": ["réveillée"],
+        "hint": "(se réveiller)",
+        "en": "After waking up, she took her shower.",
+        "zh": "醒来后，她洗了个澡。"
+      },
+      {
+        "type": "order",
+        "words": ["parti", "Le", "quand", "était", "arrivé.", "train", "suis", "déjà", "je"],
+        "answer": "Le train était déjà parti quand je suis arrivé.",
+        "en": "The train had already left when I arrived.",
+        "zh": "我到的时候火车已经开走了。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Translate: « When I arrived, she had already left. » / 翻译：「我到的时候，她已经走了。」",
+        "options": ["Quand je suis arrivé, elle est déjà partie.", "Quand j'arrivais, elle partait déjà.", "Quand je suis arrivé, elle avait déjà parti.", "Quand je suis arrivé, elle était déjà partie."],
+        "answer": 3,
+        "explanationEn": "Partir takes être in the plus-que-parfait: elle était partie.",
+        "explanationZh": "partir 的愈过去时用 être：elle était partie。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Il a réussi l'entrevue parce qu'il s'___ bien préparé.",
+        "answers": ["était"],
+        "hint": "(être)",
+        "en": "He did well in the interview because he had prepared well.",
+        "zh": "他面试很成功，因为他事先准备得很好。"
+      }
+    ]
+  },
+  {
+    "id": "b1-04",
+    "level": "B1",
+    "titleFr": "Les pronoms y et en, et les doubles pronoms",
+    "titleEn": "The pronouns y and en, and double pronouns",
+    "titleZh": "代词 y 和 en 以及双代词",
+    "goalsEn": [
+      "Use y for à + thing or place, and en for de + noun or a quantity",
+      "Put two object pronouns in the right order (je le lui donne, il y en a)",
+      "Place pronouns correctly in compound tenses, with infinitives and in the imperative"
+    ],
+    "goalsZh": [
+      "用 y 代替 à + 事物或地点，用 en 代替 de + 名词或数量",
+      "掌握两个宾语代词的正确顺序（je le lui donne, il y en a）",
+      "在复合时态、不定式结构和命令式中正确放置代词"
+    ],
+    "sections": [
+      {
+        "type": "text",
+        "en": "**Y** replaces:\n• **à + a thing or an idea**: *penser à, répondre à (une question), participer à, s'intéresser à* → *Tu penses à ton examen ? — Oui, j'**y** pense.*\n• **a place** introduced by *à, en, dans, chez, sur…* → *Elle va au Québec. → Elle **y** va.*\nFor **people** after à, use *lui/leur* (*je lui réponds*), or *à lui / à elle* with verbs like *penser à* and *s'intéresser à*: *Je pense **à elle**.*",
+        "zh": "**Y** 代替：\n• **à + 事物或想法**：*penser à, répondre à（une question）, participer à, s'intéresser à* → *Tu penses à ton examen ? — Oui, j'**y** pense.*（你在想考试吗？——是的，我在想。）\n• 由 *à, en, dans, chez, sur……* 引导的**地点** → *Elle va au Québec. → Elle **y** va.*\n如果 à 后面是**人**，用 *lui/leur*（*je lui réponds*）；但 *penser à、s'intéresser à* 这类动词要用 *à lui / à elle*：*Je pense **à elle**.*（我在想她。）"
+      },
+      {
+        "type": "text",
+        "en": "**En** replaces:\n• **de + noun**: *parler de, avoir besoin de, s'occuper de* → *J'ai besoin de ce document. → J'**en** ai besoin.*\n• a **partitive or indefinite** noun (*du, de la, des*): *Tu bois du café ? → Tu **en** bois ?*\n• a **quantity** — keep the number or quantity word at the end: *Il a deux enfants. → Il **en** a **deux**.* / *J'**en** ai **beaucoup**.*\n• a place you **come from**: *Je reviens de l'épicerie. → J'**en** reviens.*\nFor people after *de*, use *de lui / d'elle*: *Il parle **de sa sœur**. → Il parle **d'elle**.*",
+        "zh": "**En** 代替：\n• **de + 名词**：*parler de, avoir besoin de, s'occuper de* → *J'ai besoin de ce document. → J'**en** ai besoin.*\n• 带**部分冠词或不定冠词**的名词（*du, de la, des*）：*Tu bois du café ? → Tu **en** bois ?*\n• **数量**——数词或数量词要保留在句末：*Il a deux enfants. → Il **en** a **deux**.* / *J'**en** ai **beaucoup**.*\n• 表示**从某地来**：*Je reviens de l'épicerie. → J'**en** reviens.*\n如果 de 后面是人，用 *de lui / d'elle*：*Il parle **de sa sœur**. → Il parle **d'elle**.*"
+      },
+      {
+        "type": "table",
+        "caption": "Y, en ou pronom tonique ? / 用 y、en 还是重读人称代词？",
+        "headers": ["Construction", "Phrase", "Avec pronom"],
+        "rows": [
+          ["penser à (chose)", "Je pense à mon examen.", "J'y pense."],
+          ["aller à / en / chez", "Elle va au Québec.", "Elle y va."],
+          ["avoir besoin de", "J'ai besoin de ce document.", "J'en ai besoin."],
+          ["partitif (du, des)", "Tu bois du café ?", "Tu en bois ?"],
+          ["quantité", "Il a deux enfants.", "Il en a deux."],
+          ["parler de (personne)", "Il parle de sa sœur.", "Il parle d'elle."],
+          ["penser à (personne)", "Je pense à mes parents.", "Je pense à eux."]
+        ]
+      },
+      {
+        "type": "table",
+        "caption": "Ordre des pronoms devant le verbe / 动词前代词的顺序",
+        "headers": ["1", "2", "3", "4", "5"],
+        "rows": [
+          ["me, te, se, nous, vous", "le, la, l', les", "lui, leur", "y", "en"],
+          ["Il me le dit.", "Je la leur montre.", "Je le lui donne.", "Il y en a.", "Je lui en parle."]
+        ]
+      },
+      {
+        "type": "text",
+        "en": "**Position:**\n• Before the conjugated verb: *Je **le lui** donne.*\n• In compound tenses, before the auxiliary: *Je **le lui** ai donné.* The past participle agrees with a preceding direct object *le/la/les* — but **never with en**: *Les clés ? Je **les** lui ai donn**ées**.* / *Des pommes ? J'**en** ai acheté.*\n• With an infinitive, before the infinitive: *Je vais **le lui** dire.*\n• In the negative, *ne* comes before the pronouns: *Je **ne le lui** ai **pas** dit.*",
+        "zh": "**位置：**\n• 放在变位动词前：*Je **le lui** donne.*\n• 复合时态中放在助动词前：*Je **le lui** ai donné.* 过去分词与前置的直接宾语 *le/la/les* 配合，但**绝不与 en 配合**：*Les clés ? Je **les** lui ai donn**ées**.* / *Des pommes ? J'**en** ai acheté.*\n• 有不定式时，放在不定式前：*Je vais **le lui** dire.*\n• 否定句中，*ne* 放在所有代词之前：*Je **ne le lui** ai **pas** dit.*"
+      },
+      {
+        "type": "examples",
+        "items": [
+          { "fr": "Le dossier ? Je le lui ai envoyé hier.", "en": "The file? I sent it to him yesterday.", "zh": "那份材料？我昨天发给他了。" },
+          { "fr": "Tu me prêtes ton dictionnaire ? — Oui, je te le prête.", "en": "Will you lend me your dictionary? — Yes, I'll lend it to you.", "zh": "你能把词典借给我吗？——好的，借给你。" },
+          { "fr": "Il y a des places libres ? — Oui, il y en a encore quelques-unes.", "en": "Are there any free seats? — Yes, there are still a few.", "zh": "还有空位吗？——有，还有几个。" },
+          { "fr": "Des conseils, elle nous en donne toujours.", "en": "Advice — she always gives us some.", "zh": "建议嘛，她总是给我们很多。" },
+          { "fr": "Ces photos, je vais les leur montrer ce soir.", "en": "These photos — I'm going to show them to them tonight.", "zh": "这些照片，我今晚要给他们看。" },
+          { "fr": "Tu as parlé de ton projet à ton patron ? — Oui, je lui en ai parlé.", "en": "Did you talk to your boss about your project? — Yes, I talked to him about it.", "zh": "你跟老板谈过你的项目了吗？——谈过了。" },
+          { "fr": "Tu t'intéresses à la politique ? — Oui, je m'y intéresse beaucoup.", "en": "Are you interested in politics? — Yes, I'm very interested in it.", "zh": "你对政治感兴趣吗？——是的，我很感兴趣。" }
+        ]
+      },
+      {
+        "type": "table",
+        "caption": "L'impératif / 命令式",
+        "headers": ["Affirmatif (verbe-COD-COI-y-en)", "Négatif (ordre normal)"],
+        "rows": [
+          ["Donne-le-moi.", "Ne me le donne pas."],
+          ["Envoie-la-leur.", "Ne la leur envoie pas."],
+          ["Donnez-m'en.", "Ne m'en donnez pas."],
+          ["Vas-y !", "N'y va pas !"],
+          ["Parles-en à ton médecin.", "N'en parle pas à ton médecin."]
+        ]
+      },
+      {
+        "type": "tip",
+        "en": "**Il y en a** = *there is/are some*: *il y a* + *en*. Negative: *Il **n'y en a plus**.* (There's none left.) In the affirmative imperative, **moi/toi** become **m'/t'** before *en* (*Donne-m'en*), and -er verbs regain their **-s** before *y* and *en* for easier pronunciation: *Vas-y ! Parles-en !*",
+        "zh": "**Il y en a** = “有一些”，即 *il y a* + *en*。否定：*Il **n'y en a plus**.*（一点都不剩了。）肯定命令式中，**moi/toi** 在 *en* 前变成 **m'/t'**（*Donne-m'en*）；-er 动词在 *y* 和 *en* 前恢复词尾 **-s**，便于发音：*Vas-y ! Parles-en !*"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "mcq",
+        "prompt": "Tu vas à la bibliothèque ? — Oui, j'___ vais cet après-midi.",
+        "options": ["en", "y", "le", "lui"],
+        "answer": 1,
+        "explanationEn": "Y replaces a place introduced by à: j'y vais.",
+        "explanationZh": "y 代替由 à 引导的地点：j'y vais。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Tu as des frères ? — Oui, j'___ ai deux.",
+        "answers": ["en"],
+        "en": "Do you have brothers? — Yes, I have two.",
+        "zh": "你有兄弟吗？——有，我有两个。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Tu as donné le livre à Marie ? — Oui, je ___ ai donné.",
+        "options": ["lui le", "la lui", "lui en", "le lui"],
+        "answer": 3,
+        "explanationEn": "Direct object (le) comes before indirect object (lui): je le lui ai donné.",
+        "explanationZh": "直接宾语 le 放在间接宾语 lui 之前：je le lui ai donné。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Tu penses à tes vacances ? — Oui, j'___ pense souvent.",
+        "answers": ["y"],
+        "en": "Are you thinking about your vacation? — Yes, I often think about it.",
+        "zh": "你在想假期吗？——是的，我经常想。"
+      },
+      {
+        "type": "listen",
+        "text": "Il n'y en a plus.",
+        "options": ["Il n'y a plus.", "Il n'en a plus.", "Il n'y en a plus.", "Il y en a plus."],
+        "answer": 2
+      },
+      {
+        "type": "order",
+        "words": ["ai", "lui", "Je", "hier.", "le", "envoyé"],
+        "answer": "Je le lui ai envoyé hier.",
+        "en": "I sent it to him yesterday.",
+        "zh": "我昨天把它发给他了。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Elle parle souvent de son frère. → Elle parle souvent ___.",
+        "options": ["en", "d'elle", "de lui", "lui"],
+        "answer": 2,
+        "explanationEn": "For a person after de, use de + stressed pronoun: de lui.",
+        "explanationZh": "de 后面是人时，用 de + 重读人称代词：de lui。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Ces documents ? Je vais ___ leur envoyer demain.",
+        "answers": ["les"],
+        "en": "These documents? I'm going to send them to them tomorrow.",
+        "zh": "这些文件？我明天发给他们。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Imperative: « Give me some! » / 命令式：「给我一些！」",
+        "options": ["Donne-moi-en !", "Donne-m'en !", "M'en donne !", "Donne-en-moi !"],
+        "answer": 1,
+        "explanationEn": "Moi becomes m' before en: Donne-m'en !",
+        "explanationZh": "moi 在 en 前变成 m'：Donne-m'en !"
+      },
+      {
+        "type": "listen",
+        "text": "Je te le promets.",
+        "options": ["Je te le promets.", "Je le te promets.", "Je te la promets.", "Je te les promets."],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "words": ["trois", "a", "frigo.", "Il", "le", "y", "en", "dans"],
+        "answer": "Il y en a trois dans le frigo.",
+        "en": "There are three in the fridge.",
+        "zh": "冰箱里有三个。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Tu as parlé de ton projet à ton patron ? — Oui, je ___ en ai parlé.",
+        "answers": ["lui"],
+        "en": "Did you tell your boss about your project? — Yes, I told him about it.",
+        "zh": "你跟老板说过你的项目了吗？——说过了。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Les clés ? Je ne ___ ai pas données.",
+        "options": ["les lui", "lui les", "leur", "en lui"],
+        "answer": 0,
+        "explanationEn": "Order: les before lui. The participle données agrees with les (= les clés).",
+        "explanationZh": "顺序：les 在 lui 之前。过去分词 données 与前置的 les（= les clés）配合。"
+      }
+    ]
+  },
+  {
+    "id": "b1-05",
+    "level": "B1",
+    "titleFr": "Les pronoms relatifs : dont, ce qui, ce que, lequel",
+    "titleEn": "Relative pronouns: dont, ce qui, ce que, lequel",
+    "titleZh": "关系代词：dont、ce qui、ce que、lequel",
+    "goalsEn": [
+      "Use dont to replace a complement introduced by de",
+      "Distinguish ce qui (subject) from ce que (object), both meaning 'what'",
+      "Use lequel, auquel, duquel and their forms after prepositions"
+    ],
+    "goalsZh": [
+      "用 dont 代替由 de 引导的补语",
+      "区分 ce qui（作主语）和 ce que（作宾语），二者都相当于 what",
+      "在介词后使用 lequel、auquel、duquel 及其各种形式"
+    ],
+    "sections": [
+      {
+        "type": "text",
+        "en": "Quick review: **qui** = subject (*l'homme **qui** parle*), **que** = direct object (*le livre **que** je lis*), **où** = place or time (*la ville **où** j'habite, le jour **où** je suis arrivé*).\n**Dont** replaces **de + antecedent**. Use it:\n• with verbs and adjectives built with *de*: *parler de, avoir besoin de, se souvenir de, être fier de*;\n• to mean **whose**: *une collègue **dont** le mari est infirmier*.",
+        "zh": "快速复习：**qui** 作主语（*l'homme **qui** parle*），**que** 作直接宾语（*le livre **que** je lis*），**où** 表示地点或时间（*la ville **où** j'habite, le jour **où** je suis arrivé*）。\n**Dont** 代替 **de + 先行词**。用于：\n• 带 *de* 的动词或形容词结构：*parler de, avoir besoin de, se souvenir de, être fier de*；\n• 表示“**……的**”（英语 whose）：*une collègue **dont** le mari est infirmier*（一位丈夫是护士的同事）。"
+      },
+      {
+        "type": "examples",
+        "items": [
+          { "fr": "Voici le livre dont je t'ai parlé.", "en": "Here is the book I told you about.", "zh": "这就是我跟你提过的那本书。" },
+          { "fr": "C'est le formulaire dont vous avez besoin pour votre demande.", "en": "This is the form you need for your application.", "zh": "这就是您申请需要的表格。" },
+          { "fr": "J'ai une collègue dont le mari est infirmier.", "en": "I have a colleague whose husband is a nurse.", "zh": "我有一位同事，她丈夫是护士。" },
+          { "fr": "Le quartier dont je me souviens le mieux, c'est le Plateau.", "en": "The neighbourhood I remember best is the Plateau.", "zh": "我记得最清楚的街区是高原区。" },
+          { "fr": "C'est un résultat dont nous sommes très fiers.", "en": "It's a result we are very proud of.", "zh": "这是一个让我们非常自豪的成绩。" }
+        ]
+      },
+      {
+        "type": "text",
+        "en": "**Ce qui, ce que, ce dont** mean *what* / *the thing that*. They are used when there is **no noun antecedent**.\n• **ce qui** is the **subject** of the next verb: *Ce qui m'inquiète, c'est…*\n• **ce que** (ce qu') is the **direct object**: *Je comprends ce que tu dis.*\n• **ce dont** goes with verbs built with *de*: *Ce dont j'ai besoin, c'est…*\nThey are also common in indirect questions: *Je ne sais pas **ce qui** se passe.* and after **tout**: *tout ce que je veux*.",
+        "zh": "**Ce qui、ce que、ce dont** 相当于 *what* / “……的事情”，在**没有名词先行词**时使用。\n• **ce qui** 作后面动词的**主语**：*Ce qui m'inquiète, c'est…*（让我担心的是……）\n• **ce que**（ce qu'）作**直接宾语**：*Je comprends ce que tu dis.*（我明白你说的话。）\n• **ce dont** 用于带 *de* 的动词：*Ce dont j'ai besoin, c'est…*（我需要的是……）\n它们也常用于间接疑问句：*Je ne sais pas **ce qui** se passe.*，以及 **tout** 之后：*tout ce que je veux*（我想要的一切）。"
+      },
+      {
+        "type": "table",
+        "caption": "Ce qui / ce que / ce dont",
+        "headers": ["Pronom", "Fonction", "Exemple"],
+        "rows": [
+          ["ce qui", "sujet / subject / 主语", "Ce qui m'inquiète, c'est le coût du logement."],
+          ["ce que (ce qu')", "complément d'objet direct / object / 直接宾语", "Je comprends ce que tu veux dire."],
+          ["ce dont", "complément avec « de » / with de / de 的补语", "Ce dont j'ai besoin, c'est d'un peu de temps."]
+        ]
+      },
+      {
+        "type": "text",
+        "en": "**Lequel** is used after a **preposition** (*avec, pour, sans, dans, sur, par, parmi…*), mostly for things. It agrees with its antecedent: **lequel, laquelle, lesquels, lesquelles**.\nWith **à**, it contracts: **auquel, auxquels, auxquelles** (but *à laquelle*).\nWith **de** inside a compound preposition (*près de, à côté de, en face de, au bout de*), it becomes **duquel, desquels, desquelles** (but *de laquelle*). *Dont* cannot be used after these compound prepositions.\nFor people, **préposition + qui** is usually preferred: *la personne avec **qui** je travaille*.",
+        "zh": "**Lequel** 用在**介词**之后（*avec, pour, sans, dans, sur, par, parmi……*），多指事物，并与先行词性数配合：**lequel, laquelle, lesquels, lesquelles**。\n与 **à** 缩合：**auquel, auxquels, auxquelles**（但 *à laquelle* 不缩合）。\n在含 **de** 的复合介词后（*près de, à côté de, en face de, au bout de*），变成 **duquel, desquels, desquelles**（但 *de laquelle* 不缩合）。这些复合介词后面不能用 *dont*。\n指人时，通常更常用**介词 + qui**：*la personne avec **qui** je travaille*（和我一起工作的人）。"
+      },
+      {
+        "type": "table",
+        "caption": "Les formes de lequel / lequel 的各种形式",
+        "headers": ["Forme", "masc. sing.", "fém. sing.", "masc. pl.", "fém. pl."],
+        "rows": [
+          ["préposition +", "lequel", "laquelle", "lesquels", "lesquelles"],
+          ["à +", "auquel", "à laquelle", "auxquels", "auxquelles"],
+          ["de +", "duquel", "de laquelle", "desquels", "desquelles"]
+        ]
+      },
+      {
+        "type": "examples",
+        "items": [
+          { "fr": "L'entreprise pour laquelle je travaille est à Calgary.", "en": "The company I work for is in Calgary.", "zh": "我工作的公司在卡尔加里。" },
+          { "fr": "Ce sont des questions auxquelles je n'ai pas de réponse.", "en": "These are questions I have no answer to.", "zh": "这些问题我答不上来。" },
+          { "fr": "Le parc près duquel nous habitons est très calme.", "en": "The park we live near is very quiet.", "zh": "我们家附近的那个公园非常安静。" },
+          { "fr": "La raison pour laquelle j'apprends le français, c'est la résidence permanente.", "en": "The reason I'm learning French is permanent residence.", "zh": "我学法语的原因是为了申请永久居民。" },
+          { "fr": "Le projet auquel elle participe est financé par la ville.", "en": "The project she is taking part in is funded by the city.", "zh": "她参与的项目由市政府资助。" }
+        ]
+      },
+      {
+        "type": "tip",
+        "en": "**How to choose:** look at the preposition the verb needs. *parler **de*** → **dont** · *penser **à*** → **auquel / à laquelle** · *travailler **pour*** → **pour lequel / pour laquelle** · *habiter **à côté de*** → **à côté duquel**. *La raison pour laquelle…* is a very useful phrase for TCF writing and speaking.",
+        "zh": "**怎么选：**看动词需要什么介词。*parler **de*** → **dont** · *penser **à*** → **auquel / à laquelle** · *travailler **pour*** → **pour lequel / pour laquelle** · *habiter **à côté de*** → **à côté duquel**。*La raison pour laquelle…*（……的原因）在 TCF 写作和口语中非常实用。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "mcq",
+        "prompt": "C'est le film ___ tout le monde parle.",
+        "options": ["que", "dont", "qui", "lequel"],
+        "answer": 1,
+        "explanationEn": "Parler de → dont.",
+        "explanationZh": "parler de → 用 dont。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Je ne comprends pas ___ tu dis.",
+        "answers": ["ce que"],
+        "en": "I don't understand what you're saying.",
+        "zh": "我不明白你在说什么。"
+      },
+      {
+        "type": "fill",
+        "prompt": "___ me plaît dans cette ville, c'est la nature.",
+        "answers": ["Ce qui"],
+        "en": "What I like about this city is the nature.",
+        "zh": "这座城市让我喜欢的是它的自然环境。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "La table sur ___ j'ai posé mes clés est en bois.",
+        "options": ["lequel", "laquelle", "quoi", "dont"],
+        "answer": 1,
+        "explanationEn": "After a preposition, table (feminine) → laquelle.",
+        "explanationZh": "介词后，table 是阴性 → laquelle。"
+      },
+      {
+        "type": "listen",
+        "text": "Voici l'outil dont j'ai besoin.",
+        "options": ["Voici l'outil que j'ai besoin.", "Voici l'outil où j'ai besoin.", "Voici l'outil qu'il a besoin.", "Voici l'outil dont j'ai besoin."],
+        "answer": 3
+      },
+      {
+        "type": "order",
+        "words": ["raison", "C'est", "venu.", "laquelle", "la", "suis", "pour", "je"],
+        "answer": "C'est la raison pour laquelle je suis venu.",
+        "en": "That's the reason why I came.",
+        "zh": "这就是我来的原因。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Ce sont des problèmes ___ nous pensons tous les jours.",
+        "answers": ["auxquels"],
+        "hint": "(à + lesquels)",
+        "en": "These are problems we think about every day.",
+        "zh": "这些是我们每天都在思考的问题。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "J'ai un ami ___ la sœur habite à Vancouver.",
+        "options": ["dont", "que", "qui", "duquel"],
+        "answer": 0,
+        "explanationEn": "'Whose' = dont: un ami dont la sœur…",
+        "explanationZh": "表示“……的”（whose）用 dont：un ami dont la sœur…"
+      },
+      {
+        "type": "listen",
+        "text": "Dis-moi ce qui ne va pas.",
+        "options": ["Dis-moi ce que tu ne veux pas.", "Dis-moi qui ne va pas.", "Dis-moi ce qui ne va pas.", "Dis-moi ce dont tu as besoin."],
+        "answer": 2
+      },
+      {
+        "type": "fill",
+        "prompt": "Le restaurant à côté ___ j'habite est excellent.",
+        "answers": ["duquel"],
+        "hint": "(de + lequel)",
+        "en": "The restaurant next to where I live is excellent.",
+        "zh": "我家旁边的那家餐厅非常好。"
+      },
+      {
+        "type": "order",
+        "words": ["j'ai", "dictionnaire.", "Ce", "c'est", "besoin,", "bon", "dont", "d'un"],
+        "answer": "Ce dont j'ai besoin, c'est d'un bon dictionnaire.",
+        "en": "What I need is a good dictionary.",
+        "zh": "我需要的是一本好词典。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Tout ___ brille n'est pas or.",
+        "options": ["ce que", "ce dont", "ce qui", "que"],
+        "answer": 2,
+        "explanationEn": "Subject of brille → ce qui.",
+        "explanationZh": "作 brille 的主语 → ce qui。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Voici les dossiers sur ___ je travaille.",
+        "options": ["lesquels", "lesquelles", "qui", "dont"],
+        "answer": 0,
+        "explanationEn": "Dossiers is masculine plural → sur lesquels.",
+        "explanationZh": "dossiers 是阳性复数 → sur lesquels。"
+      }
+    ]
+  },
+  {
+    "id": "b1-06",
+    "level": "B1",
+    "titleFr": "Les phrases avec si et le conditionnel passé",
+    "titleEn": "Si clauses and the past conditional",
+    "titleZh": "si 条件句与条件式过去时",
+    "goalsEn": [
+      "Match the tenses in the three types of si clauses",
+      "Form and use the conditionnel passé for regrets and unreal past situations",
+      "Avoid the classic error: no future or conditional right after si"
+    ],
+    "goalsZh": [
+      "掌握三类 si 条件句的时态搭配",
+      "构成并使用条件式过去时，表达遗憾和与过去事实相反的假设",
+      "避免典型错误：si 后面不用将来时或条件式"
+    ],
+    "sections": [
+      {
+        "type": "text",
+        "en": "A *si* sentence has two parts: the **condition** (*si* + verb) and the **result** (main clause). The tense after *si* determines the tense of the result.\n**Golden rule:** when *si* means *if*, it is **never** followed by the future or the conditional. ~~Si j'aurais~~ → *Si j'**avais***.",
+        "zh": "*si* 条件句由两部分组成：**条件**（*si* + 动词）和**结果**（主句）。*si* 后面的时态决定了主句的时态。\n**黄金法则：**当 *si* 表示“如果”时，后面**绝不**用将来时或条件式。~~Si j'aurais~~ → *Si j'**avais***。"
+      },
+      {
+        "type": "table",
+        "caption": "Les trois types / 三种类型",
+        "headers": ["Type", "Si + …", "Proposition principale", "Exemple"],
+        "rows": [
+          ["Réel / real / 真实条件", "présent", "présent, futur ou impératif", "Si tu as le temps, viens ! / Si tu as le temps, tu viendras."],
+          ["Hypothèse / unreal present / 与现在事实相反", "imparfait", "conditionnel présent", "Si j'avais plus d'argent, j'achèterais une maison."],
+          ["Irréel du passé / unreal past / 与过去事实相反", "plus-que-parfait", "conditionnel passé", "Si j'avais su, je serais venu."]
+        ]
+      },
+      {
+        "type": "text",
+        "en": "**Conditionnel passé** = *avoir* or *être* in the conditionnel présent + past participle (*j'aurais parlé, je serais allé(e)*). Uses:\n• the result of an unreal past condition: *Si j'avais su, je **serais venu**.*\n• **regret**: *J'**aurais aimé** voyager plus.* / *J'**aurais dû** étudier.* (I should have)\n• **reproach**: *Tu **aurais pu** m'appeler !* (You could have)\n• **unconfirmed information** in the news: *Selon la police, l'incendie **aurait fait** deux blessés.*",
+        "zh": "**条件式过去时** = *avoir* 或 *être* 的条件式现在时 + 过去分词（*j'aurais parlé, je serais allé(e)*）。用法：\n• 与过去事实相反的假设的结果：*Si j'avais su, je **serais venu**.*（早知道的话，我就来了。）\n• **遗憾**：*J'**aurais aimé** voyager plus.* / *J'**aurais dû** étudier.*（我本该学习的。）\n• **责备**：*Tu **aurais pu** m'appeler !*（你本可以给我打个电话的！）\n• 新闻中**未经证实的消息**：*Selon la police, l'incendie **aurait fait** deux blessés.*（据警方称，火灾可能造成两人受伤。）"
+      },
+      {
+        "type": "table",
+        "caption": "Conditionnel passé",
+        "headers": ["aimer (avoir)", "partir (être)"],
+        "rows": [
+          ["j'aurais aimé", "je serais parti(e)"],
+          ["tu aurais aimé", "tu serais parti(e)"],
+          ["il / elle aurait aimé", "il / elle serait parti(e)"],
+          ["nous aurions aimé", "nous serions parti(e)s"],
+          ["vous auriez aimé", "vous seriez parti(e)(s)"],
+          ["ils / elles auraient aimé", "ils / elles seraient parti(e)s"]
+        ]
+      },
+      {
+        "type": "examples",
+        "items": [
+          { "fr": "Si tu arrives avant 18 h, on ira au cinéma.", "en": "If you arrive before 6 p.m., we'll go to the movies.", "zh": "如果你六点前到，我们就去看电影。" },
+          { "fr": "Si je parlais mieux français, je pourrais travailler dans la fonction publique.", "en": "If I spoke better French, I could work in the public service.", "zh": "如果我法语说得更好，我就能在政府部门工作。" },
+          { "fr": "Si nous avions réservé plus tôt, nous aurions eu de meilleurs billets.", "en": "If we had booked earlier, we would have had better tickets.", "zh": "如果我们早点预订，就能买到更好的票了。" },
+          { "fr": "Si elle était partie à l'heure, elle n'aurait pas raté son vol.", "en": "If she had left on time, she wouldn't have missed her flight.", "zh": "如果她准时出发，就不会误机了。" },
+          { "fr": "J'aurais dû étudier davantage pour l'examen.", "en": "I should have studied more for the exam.", "zh": "我本该为考试多学习一些的。" },
+          { "fr": "Tu aurais pu me prévenir !", "en": "You could have warned me!", "zh": "你本可以提前告诉我的！" },
+          { "fr": "Si j'étais toi, je demanderais conseil à un avocat en immigration.", "en": "If I were you, I would ask an immigration lawyer for advice.", "zh": "如果我是你，我会去咨询移民律师。" }
+        ]
+      },
+      {
+        "type": "text",
+        "en": "**Mixed sentences** are possible when a past condition has a present result: **si + plus-que-parfait → conditionnel présent**.\n*Si j'**avais appris** le français à l'école, je **serais** bilingue aujourd'hui.* (past condition → present consequence)",
+        "zh": "当过去的条件产生现在的结果时，可以使用**混合句**：**si + 愈过去时 → 条件式现在时**。\n*Si j'**avais appris** le français à l'école, je **serais** bilingue aujourd'hui.*（如果我上学时学了法语，今天我就是双语者了。）"
+      },
+      {
+        "type": "tip",
+        "en": "*si* + *il/ils* → **s'il, s'ils**, but *si elle* never elides. ~~Si j'aurais~~ is sometimes heard in casual speech — avoid it in the exam. In Expression orale task 3, si clauses are perfect for speculating: *Si le gouvernement investissait davantage dans le transport en commun, il y aurait moins de pollution.*",
+        "zh": "*si* + *il/ils* → **s'il, s'ils**，但 *si elle* 永远不省音。口语中有时会听到 ~~Si j'aurais~~，考试中一定要避免。在口语第三项任务中，si 条件句非常适合用来做假设：*Si le gouvernement investissait davantage dans le transport en commun, il y aurait moins de pollution.*（如果政府更多投资公共交通，污染就会减少。）"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "mcq",
+        "prompt": "Si j'___ le temps, je t'aiderais.",
+        "options": ["ai", "avais", "aurais", "aurai"],
+        "answer": 1,
+        "explanationEn": "Conditionnel présent in the result → imparfait after si.",
+        "explanationZh": "主句是条件式现在时 → si 后用未完成过去时。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Si tu viens samedi, nous ___ un barbecue.",
+        "answers": ["ferons"],
+        "hint": "(faire, futur)",
+        "en": "If you come on Saturday, we'll have a barbecue.",
+        "zh": "如果你周六来，我们就烧烤。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Si j'avais su, je ___ venu plus tôt.",
+        "answers": ["serais"],
+        "hint": "(être)",
+        "en": "If I had known, I would have come earlier.",
+        "zh": "早知道的话，我就早点来了。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Si elle avait étudié, elle ___ l'examen.",
+        "options": ["réussira", "avait réussi", "aurait réussi", "réussit"],
+        "answer": 2,
+        "explanationEn": "Si + plus-que-parfait → conditionnel passé: aurait réussi.",
+        "explanationZh": "si + 愈过去时 → 条件式过去时：aurait réussi。"
+      },
+      {
+        "type": "listen",
+        "text": "Si nous avions su, nous serions restés.",
+        "options": ["Si nous savions, nous resterions.", "Si nous avions su, nous serions restés.", "Si nous avons su, nous sommes restés.", "Si nous saurons, nous resterons."],
+        "answer": 1
+      },
+      {
+        "type": "order",
+        "words": ["je", "Si", "partout.", "riche,", "voyagerais", "j'étais"],
+        "answer": "Si j'étais riche, je voyagerais partout.",
+        "en": "If I were rich, I would travel everywhere.",
+        "zh": "如果我有钱，我会到处旅行。"
+      },
+      {
+        "type": "fill",
+        "prompt": "J'___ dû appeler mon propriétaire hier.",
+        "answers": ["aurais"],
+        "hint": "(avoir, conditionnel)",
+        "en": "I should have called my landlord yesterday.",
+        "zh": "我昨天本该给房东打电话的。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Which sentence is correct? / 哪个句子正确？",
+        "options": ["Si je serais toi, je partirais.", "Si j'étais toi, je partirai.", "Si je suis toi, je partirais.", "Si j'étais toi, je partirais."],
+        "answer": 3,
+        "explanationEn": "Si + imparfait → conditionnel présent.",
+        "explanationZh": "si + 未完成过去时 → 条件式现在时。"
+      },
+      {
+        "type": "listen",
+        "text": "S'il pleut demain, on restera à la maison.",
+        "options": ["S'il pleut demain, on restera à la maison.", "S'il pleuvait demain, on resterait à la maison.", "S'il avait plu, on serait resté à la maison.", "S'il pleut demain, on reste à la maison."],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "prompt": "Si vous ___ plus tôt, vous auriez vu le début du spectacle.",
+        "answers": ["étiez arrivés", "étiez arrivé", "étiez arrivée", "étiez arrivées"],
+        "hint": "(arriver, plus-que-parfait)",
+        "en": "If you had arrived earlier, you would have seen the beginning of the show.",
+        "zh": "如果你们早点到，就能看到演出的开头了。"
+      },
+      {
+        "type": "order",
+        "words": ["pu", "Tu", "le", "dire.", "me", "aurais"],
+        "answer": "Tu aurais pu me le dire.",
+        "en": "You could have told me.",
+        "zh": "你本可以告诉我的。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "« Selon les médias, le ministre aurait démissionné. » This means… / 这句话的意思是…",
+        "options": ["The minister will resign. / 部长将会辞职。", "The minister has definitely resigned. / 部长肯定已经辞职了。", "The minister has reportedly resigned (not confirmed). / 据报道部长已辞职（未经证实）。", "The minister should resign. / 部长应该辞职。"],
+        "answer": 2,
+        "explanationEn": "The conditionnel passé in the news presents unconfirmed information.",
+        "explanationZh": "新闻中的条件式过去时表示未经证实的消息。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Si j'avais appris le français plus jeune, je ___ bilingue aujourd'hui.",
+        "answers": ["serais"],
+        "hint": "(être)",
+        "en": "If I had learned French younger, I would be bilingual today.",
+        "zh": "如果我小时候就学了法语，今天我就是双语者了。"
+      }
+    ]
+  },
+  {
+    "id": "b1-07",
+    "level": "B1",
+    "titleFr": "Les connecteurs logiques pour le TCF",
+    "titleEn": "Logical connectors for the TCF",
+    "titleZh": "TCF 写作与口语中的逻辑连接词",
+    "goalsEn": [
+      "Express cause and consequence (parce que, puisque, en effet, donc, c'est pourquoi)",
+      "Express opposition and concession (cependant, pourtant, en revanche, alors que)",
+      "Add arguments (de plus, d'ailleurs) and punctuate connectors correctly"
+    ],
+    "goalsZh": [
+      "表达原因和结果（parce que, puisque, en effet, donc, c'est pourquoi）",
+      "表达对立和让步（cependant, pourtant, en revanche, alors que）",
+      "补充论点（de plus, d'ailleurs），并正确使用连接词的标点"
+    ],
+    "sections": [
+      {
+        "type": "text",
+        "en": "TCF examiners assess the **coherence** of your writing and speaking: connectors make your logic visible. Learn their grammar as well as their meaning:\n• **conjunctions** join two clauses: *parce que, puisque, alors que, bien que*;\n• **adverbs** usually start a new sentence or follow a semicolon, and are followed by a comma: *Cependant, … / En effet, … / De plus, …*",
+        "zh": "TCF 考官会评估你写作和口语的**连贯性**，连接词能让你的逻辑一目了然。除了意思，还要掌握它们的语法：\n• **连词**连接两个分句：*parce que, puisque, alors que, bien que*；\n• **副词性连接词**通常放在新句子开头或分号之后，后面加逗号：*Cependant, … / En effet, … / De plus, …*"
+      },
+      {
+        "type": "table",
+        "caption": "La cause / 原因",
+        "headers": ["Connecteur", "Nuance", "Exemple"],
+        "rows": [
+          ["parce que", "cause neutre, répond à « pourquoi ? » / 中性原因", "Je prends le métro parce que c'est plus rapide."],
+          ["puisque", "cause connue ou évidente / 已知或显而易见的原因", "Puisque tu es libre, aide-moi."],
+          ["comme", "cause placée en début de phrase / 放在句首", "Comme il neigeait, le vol a été annulé."],
+          ["en effet", "confirme ou explique ce qui précède / 证实或解释前文", "Le logement coûte cher. En effet, les loyers ont augmenté de 10 %."],
+          ["grâce à / à cause de + nom", "cause positive / négative / 积极或消极原因", "Grâce à ses efforts, il a réussi."]
+        ]
+      },
+      {
+        "type": "table",
+        "caption": "La conséquence / 结果",
+        "headers": ["Connecteur", "Nuance", "Exemple"],
+        "rows": [
+          ["donc", "conséquence logique / 逻辑结果", "Il pleut, donc je prends un parapluie."],
+          ["c'est pourquoi", "conséquence, registre soigné / 较正式", "Le français est essentiel au Québec, c'est pourquoi je l'étudie."],
+          ["alors", "conséquence, surtout à l'oral / 多用于口语", "J'étais fatigué, alors je suis rentré."],
+          ["par conséquent", "conséquence, registre formel / 正式书面语", "Les inscriptions sont closes ; par conséquent, aucune demande ne sera acceptée."]
+        ]
+      },
+      {
+        "type": "table",
+        "caption": "L'opposition et la concession / 对立与让步",
+        "headers": ["Connecteur", "Nuance", "Exemple"],
+        "rows": [
+          ["mais", "opposition simple / 简单转折", "C'est cher, mais c'est pratique."],
+          ["cependant", "opposition, registre soigné / 转折，较正式", "Le projet est intéressant ; cependant, il coûte trop cher."],
+          ["pourtant", "contraste inattendu / 出乎意料的反差", "Il a beaucoup étudié ; pourtant, il a échoué."],
+          ["en revanche", "contraste entre deux éléments / 两者对比", "Le centre-ville est bruyant ; en revanche, la banlieue est calme."],
+          ["alors que / tandis que", "opposition entre deux faits / 两个事实的对比", "Mon frère adore l'hiver alors que je le déteste."],
+          ["bien que + subjonctif", "concession / 让步", "Bien qu'il soit tard, je continue."]
+        ]
+      },
+      {
+        "type": "table",
+        "caption": "L'addition / 补充",
+        "headers": ["Connecteur", "Nuance", "Exemple"],
+        "rows": [
+          ["de plus / en outre", "ajoute un argument / 补充论点", "De plus, le transport en commun pollue moins."],
+          ["d'ailleurs", "ajoute un argument qui renforce / 补充并加强论点", "Je n'aime pas conduire ; d'ailleurs, je n'ai pas de voiture."],
+          ["non seulement… mais aussi", "double argument / 不仅……而且……", "Non seulement c'est économique, mais c'est aussi écologique."]
+        ]
+      },
+      {
+        "type": "text",
+        "en": "**Nuances that matter:**\n• **Pourtant** stresses a contradiction with what we expected; **cependant** is more neutral and formal.\n• **En effet** means *indeed*: it **confirms or justifies** what was just said. To correct or contradict, use **en fait** or **au contraire**.\n• **Puisque** introduces a cause the listener already knows; you cannot answer *Pourquoi ?* with *puisque* — use *parce que*.",
+        "zh": "**重要的细微差别：**\n• **Pourtant** 强调与预期相反；**cependant** 更中性、更正式。\n• **En effet** 意为“确实、的确”，用来**证实或解释**刚说过的话。要纠正或反驳，用 **en fait** 或 **au contraire**。\n• **Puisque** 引出对方已经知道的原因；回答 *Pourquoi ?* 时不能用 *puisque*，要用 *parce que*。"
+      },
+      {
+        "type": "examples",
+        "items": [
+          { "fr": "Je voudrais immigrer au Canada parce que je cherche de meilleures possibilités d'emploi.", "en": "I'd like to immigrate to Canada because I'm looking for better job opportunities.", "zh": "我想移民加拿大，因为我在寻找更好的就业机会。" },
+          { "fr": "Puisque vous parlez déjà anglais, le français vous ouvrira encore plus de portes.", "en": "Since you already speak English, French will open even more doors for you.", "zh": "既然您已经会说英语，法语会为您打开更多的大门。" },
+          { "fr": "Le télétravail réduit les déplacements ; c'est pourquoi beaucoup d'employés le préfèrent.", "en": "Remote work reduces commuting; that's why many employees prefer it.", "zh": "远程办公减少了通勤，这就是为什么许多员工更喜欢它。" },
+          { "fr": "Les loyers sont élevés à Toronto. En revanche, ils sont plus abordables à Moncton.", "en": "Rents are high in Toronto. On the other hand, they are more affordable in Moncton.", "zh": "多伦多的房租很高。相比之下，蒙克顿的房租更便宜。" },
+          { "fr": "Il a obtenu un excellent score, alors qu'il n'avait étudié que trois mois.", "en": "He got an excellent score, even though he had only studied for three months.", "zh": "他只学了三个月，却取得了很好的成绩。" },
+          { "fr": "Ce quartier est bien desservi par le métro. De plus, il y a beaucoup d'écoles.", "en": "This neighbourhood is well served by the subway. Moreover, there are many schools.", "zh": "这个街区地铁很方便。此外，这里还有很多学校。" },
+          { "fr": "Les hivers sont longs ; pourtant, la plupart des habitants adorent vivre ici.", "en": "The winters are long; yet most residents love living here.", "zh": "冬天很漫长，然而大多数居民都很喜欢住在这里。" },
+          { "fr": "Cette solution est efficace ; d'ailleurs, plusieurs villes l'ont déjà adoptée.", "en": "This solution works; in fact, several cities have already adopted it.", "zh": "这个方案很有效；而且，好几个城市已经采用了。" }
+        ]
+      },
+      {
+        "type": "tip",
+        "en": "**Writing tip:** vary your connectors instead of repeating *et* and *mais*, but don't overload: one connector every sentence or two is enough. In French typography, put a space before a semicolon: *… cher ; cependant, …*",
+        "zh": "**写作小贴士：**变换使用不同的连接词，不要一直重复 *et* 和 *mais*，但也不要堆砌，每一两句用一个就够了。法语排版中，分号前要加空格：*… cher ; cependant, …*"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "mcq",
+        "prompt": "Je reste à la maison ___ je suis malade.",
+        "options": ["donc", "parce que", "pourtant", "de plus"],
+        "answer": 1,
+        "explanationEn": "Being sick is the cause → parce que.",
+        "explanationZh": "生病是原因 → parce que。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Il fait très froid ; ___, les enfants jouent dehors.",
+        "options": ["pourtant", "donc", "en effet", "parce que"],
+        "answer": 0,
+        "explanationEn": "Unexpected contrast → pourtant.",
+        "explanationZh": "出乎意料的反差 → pourtant。"
+      },
+      {
+        "type": "fill",
+        "prompt": "J'ai raté le bus, ___ je suis arrivé en retard.",
+        "answers": ["donc", "alors", "c'est pourquoi", "par conséquent"],
+        "en": "I missed the bus, so I arrived late.",
+        "zh": "我错过了公交车，所以迟到了。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Ma sœur aime la ville ___ moi, je préfère la campagne.",
+        "options": ["puisque", "donc", "alors que", "en effet"],
+        "answer": 2,
+        "explanationEn": "Opposition between two facts → alors que.",
+        "explanationZh": "两个事实的对比 → alors que。"
+      },
+      {
+        "type": "listen",
+        "text": "Le logement est cher. En revanche, les salaires sont élevés.",
+        "options": ["Le logement est cher. En effet, les salaires sont élevés.", "Le logement est cher. En revanche, les salaires sont élevés.", "Le logement est cher. De plus, les salaires sont élevés.", "Le logement est cher. Donc, les salaires sont élevés."],
+        "answer": 1
+      },
+      {
+        "type": "order",
+        "words": ["je", "Il", "parapluie.", "c'est", "pleut,", "un", "pourquoi", "prends"],
+        "answer": "Il pleut, c'est pourquoi je prends un parapluie.",
+        "en": "It's raining, that's why I'm taking an umbrella.",
+        "zh": "下雨了，所以我带上伞。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Ce quartier est calme. ___, il est proche du métro.",
+        "answers": ["De plus", "En outre", "D'ailleurs", "Par ailleurs"],
+        "en": "This neighbourhood is quiet. Moreover, it's close to the subway.",
+        "zh": "这个街区很安静。此外，离地铁也很近。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Which connector confirms or explains the previous sentence? / 哪个连接词用于证实或解释前一句？",
+        "options": ["en revanche", "en effet", "cependant", "alors que"],
+        "answer": 1,
+        "explanationEn": "En effet = indeed; it justifies what was just said.",
+        "explanationZh": "en effet = 确实，用来解释或证实前文。"
+      },
+      {
+        "type": "listen",
+        "text": "Bien qu'il soit fatigué, il continue à travailler.",
+        "options": ["Parce qu'il est fatigué, il continue à travailler.", "Puisqu'il est fatigué, il continue à travailler.", "Alors qu'il est fatigué, il continue à travailler.", "Bien qu'il soit fatigué, il continue à travailler."],
+        "answer": 3
+      },
+      {
+        "type": "order",
+        "words": ["c'est", "Non", "mais", "rapide,", "aussi", "seulement", "économique.", "c'est"],
+        "answer": "Non seulement c'est rapide, mais c'est aussi économique.",
+        "en": "Not only is it fast, but it's also economical.",
+        "zh": "这不仅快，而且还经济实惠。"
+      },
+      {
+        "type": "fill",
+        "prompt": "___ il neigeait beaucoup, l'école a fermé.",
+        "answers": ["Comme"],
+        "hint": "(cause, début de phrase)",
+        "en": "As it was snowing heavily, the school closed.",
+        "zh": "由于雪下得很大，学校停课了。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Le centre-ville est animé ; ___, la banlieue est plus calme.",
+        "options": ["en revanche", "c'est pourquoi", "en effet", "de plus"],
+        "answer": 0,
+        "explanationEn": "Contrast between two places → en revanche.",
+        "explanationZh": "两个地方的对比 → en revanche。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Choose the sentence where the connector is used logically. / 选出连接词使用合乎逻辑的句子。",
+        "options": ["Il est malade ; en effet, il va très bien.", "Il a perdu son emploi ; par conséquent, il cherche du travail.", "Il fait beau ; pourtant, je vais me promener.", "Puisqu'il pleut, je n'ai pas de parapluie."],
+        "answer": 1,
+        "explanationEn": "Losing a job logically leads to looking for work → par conséquent.",
+        "explanationZh": "失业的结果是找工作，逻辑成立 → par conséquent。"
+      }
+    ]
+  },
+  {
+    "id": "b1-08",
+    "level": "B1",
+    "titleFr": "Le discours indirect et la concordance des temps",
+    "titleEn": "Reported speech and tense shifts",
+    "titleZh": "间接引语与时态配合",
+    "goalsEn": [
+      "Report statements, questions and orders with dire que, demander si and demander de",
+      "Shift tenses when the reporting verb is in the past",
+      "Change pronouns and time expressions (demain → le lendemain)"
+    ],
+    "goalsZh": [
+      "用 dire que、demander si、demander de 转述陈述句、疑问句和命令句",
+      "当引述动词为过去时时进行时态转换",
+      "转换人称代词和时间表达（demain → le lendemain）"
+    ],
+    "sections": [
+      {
+        "type": "text",
+        "en": "**Reported speech** (*le discours indirect*) reports someone's words without quoting them. The linking word depends on the type of sentence:\n• statement → **que**\n• yes/no question → **si** (*si + il* → *s'il*)\n• question with a question word → keep the word: **où, quand, comment, pourquoi, combien**\n• *qu'est-ce que* → **ce que**; *qu'est-ce qui* → **ce qui**\n• order or request → **de + infinitive**\nPronouns and possessives change to fit the new speaker: *« Je suis fatigué »* → *Il dit qu'**il** est fatigué.*",
+        "zh": "**间接引语**（*le discours indirect*）不加引号地转述别人的话。连接词取决于句子类型：\n• 陈述句 → **que**\n• 一般疑问句（是/否）→ **si**（*si + il* → *s'il*）\n• 带疑问词的问句 → 保留疑问词：**où, quand, comment, pourquoi, combien**\n• *qu'est-ce que* → **ce que**；*qu'est-ce qui* → **ce qui**\n• 命令或请求 → **de + 不定式**\n人称代词和主有形容词要根据新的说话人改变：*« Je suis fatigué »* → *Il dit qu'**il** est fatigué.*"
+      },
+      {
+        "type": "table",
+        "caption": "Du discours direct au discours indirect / 从直接引语到间接引语",
+        "headers": ["Discours direct", "Discours indirect"],
+        "rows": [
+          ["Il dit : « Je suis fatigué. »", "Il dit qu'il est fatigué."],
+          ["Elle demande : « Tu viens ? »", "Elle demande si je viens."],
+          ["Il demande : « Où habites-tu ? »", "Il demande où j'habite."],
+          ["Elle demande : « Qu'est-ce que tu fais ? »", "Elle demande ce que je fais."],
+          ["Il demande : « Qu'est-ce qui se passe ? »", "Il demande ce qui se passe."],
+          ["Le prof dit : « Fermez vos livres. »", "Le prof nous dit de fermer nos livres."]
+        ]
+      },
+      {
+        "type": "text",
+        "en": "**Tense shifts (concordance des temps).** If the reporting verb is in the **present** (*il dit, elle demande*), the tenses do not change. If it is in the **past** (*il a dit, elle disait*), the tenses shift back one step:",
+        "zh": "**时态配合（concordance des temps）。**如果引述动词是**现在时**（*il dit, elle demande*），从句时态不变；如果引述动词是**过去时**（*il a dit, elle disait*），从句时态要往前推一步："
+      },
+      {
+        "type": "table",
+        "caption": "Concordance des temps / 时态配合",
+        "headers": ["Discours direct", "Discours indirect au passé", "Exemple"],
+        "rows": [
+          ["présent", "imparfait", "« J'ai faim. » → Il a dit qu'il avait faim."],
+          ["passé composé", "plus-que-parfait", "« J'ai fini. » → Elle a dit qu'elle avait fini."],
+          ["futur simple", "conditionnel présent", "« Je viendrai. » → Il a dit qu'il viendrait."],
+          ["futur proche", "aller à l'imparfait + infinitif", "« Je vais partir. » → Elle a dit qu'elle allait partir."],
+          ["imparfait, plus-que-parfait, conditionnel", "pas de changement", "« J'étais malade. » → Il a dit qu'il était malade."]
+        ]
+      },
+      {
+        "type": "table",
+        "caption": "Les indicateurs de temps et de lieu / 时间和地点表达的变化",
+        "headers": ["Discours direct", "Discours indirect au passé"],
+        "rows": [
+          ["aujourd'hui", "ce jour-là"],
+          ["hier", "la veille"],
+          ["demain", "le lendemain"],
+          ["la semaine prochaine", "la semaine suivante"],
+          ["la semaine dernière", "la semaine précédente"],
+          ["maintenant", "à ce moment-là"],
+          ["il y a deux jours", "deux jours plus tôt"],
+          ["ici", "là"]
+        ]
+      },
+      {
+        "type": "examples",
+        "items": [
+          { "fr": "Mon patron m'a dit qu'il était satisfait de mon travail.", "en": "My boss told me he was pleased with my work.", "zh": "老板跟我说他对我的工作很满意。" },
+          { "fr": "Elle m'a demandé si j'avais déjà visité Québec.", "en": "She asked me if I had already visited Quebec City.", "zh": "她问我是否去过魁北克城。" },
+          { "fr": "L'agent nous a demandé combien de temps nous resterions au Canada.", "en": "The officer asked us how long we would stay in Canada.", "zh": "工作人员问我们会在加拿大待多久。" },
+          { "fr": "Il a expliqué qu'il avait perdu son passeport la veille.", "en": "He explained that he had lost his passport the day before.", "zh": "他解释说他前一天把护照弄丢了。" },
+          { "fr": "Le médecin m'a conseillé de faire plus d'exercice.", "en": "The doctor advised me to exercise more.", "zh": "医生建议我多运动。" },
+          { "fr": "Ils voulaient savoir ce qui s'était passé.", "en": "They wanted to know what had happened.", "zh": "他们想知道发生了什么事。" },
+          { "fr": "Elle a annoncé qu'elle allait déménager à Halifax le mois suivant.", "en": "She announced she was going to move to Halifax the following month.", "zh": "她宣布下个月要搬到哈利法克斯。" }
+        ]
+      },
+      {
+        "type": "tip",
+        "en": "**Go beyond dire:** *affirmer, expliquer, annoncer, répondre, préciser, ajouter, se plaindre que…* · *promettre de, conseiller de, ordonner de…* · *vouloir savoir si…* These verbs are very useful when you summarise a document or a conversation.\nIndirect questions have **no inversion and no question mark**: *Il demande où **j'habite**.* (not ~~où habité-je ?~~)",
+        "zh": "**不要只用 dire：***affirmer、expliquer、annoncer、répondre、préciser、ajouter、se plaindre que……* · *promettre de、conseiller de、ordonner de……* · *vouloir savoir si……* 在概括文章或对话内容时，这些动词非常有用。\n间接疑问句**不倒装，也不用问号**：*Il demande où **j'habite**.*（不能说 ~~où habité-je ?~~）"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "mcq",
+        "prompt": "« Je suis malade. » → Il a dit qu'il ___ malade.",
+        "options": ["est", "était", "sera", "soit"],
+        "answer": 1,
+        "explanationEn": "Past reporting verb: présent → imparfait.",
+        "explanationZh": "引述动词为过去时：现在时 → 未完成过去时。"
+      },
+      {
+        "type": "fill",
+        "prompt": "« Tu viens ce soir ? » → Elle m'a demandé ___ je venais ce soir.",
+        "answers": ["si"],
+        "en": "She asked me if I was coming tonight.",
+        "zh": "她问我今晚来不来。"
+      },
+      {
+        "type": "fill",
+        "prompt": "« Je finirai demain. » → Il a dit qu'il ___ le lendemain.",
+        "answers": ["finirait"],
+        "hint": "(finir)",
+        "en": "He said he would finish the next day.",
+        "zh": "他说他第二天会完成。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "« Qu'est-ce que tu veux ? » → Il m'a demandé ___ je voulais.",
+        "options": ["ce que", "qu'est-ce que", "que", "ce qui"],
+        "answer": 0,
+        "explanationEn": "Qu'est-ce que becomes ce que in reported speech.",
+        "explanationZh": "间接引语中 qu'est-ce que 变为 ce que。"
+      },
+      {
+        "type": "listen",
+        "text": "Elle m'a dit qu'elle avait trouvé un emploi.",
+        "options": ["Elle m'a dit qu'elle a trouvé un emploi.", "Elle m'a dit qu'elle trouverait un emploi.", "Elle m'a dit qu'elle avait trouvé un emploi.", "Elle m'a dit qu'elle trouvait un emploi."],
+        "answer": 2
+      },
+      {
+        "type": "order",
+        "words": ["demandé", "Il", "j'habitais.", "m'a", "où"],
+        "answer": "Il m'a demandé où j'habitais.",
+        "en": "He asked me where I lived.",
+        "zh": "他问我住在哪里。"
+      },
+      {
+        "type": "fill",
+        "prompt": "« Fermez la porte ! » → Le professeur nous a demandé ___ fermer la porte.",
+        "answers": ["de"],
+        "en": "The teacher asked us to close the door.",
+        "zh": "老师让我们把门关上。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "« Je pars demain. » (said last week / 上周说的) → Elle a dit qu'elle partait ___.",
+        "options": ["demain", "le lendemain", "la veille", "hier"],
+        "answer": 1,
+        "explanationEn": "Demain becomes le lendemain when the moment of speaking is in the past.",
+        "explanationZh": "说话时间在过去时，demain 变为 le lendemain。"
+      },
+      {
+        "type": "listen",
+        "text": "Il voulait savoir ce qui s'était passé.",
+        "options": ["Il voulait savoir ce qui s'était passé.", "Il voudrait savoir ce qui se passe.", "Il veut savoir ce qui s'est passé.", "Il voulait savoir ce qui se passerait."],
+        "answer": 0
+      },
+      {
+        "type": "fill",
+        "prompt": "« Nous allons déménager. » → Ils ont annoncé qu'ils ___ déménager.",
+        "answers": ["allaient"],
+        "hint": "(aller)",
+        "en": "They announced they were going to move.",
+        "zh": "他们宣布他们要搬家了。"
+      },
+      {
+        "type": "order",
+        "words": ["conseillé", "Elle", "train.", "de", "m'a", "le", "prendre"],
+        "answer": "Elle m'a conseillé de prendre le train.",
+        "en": "She advised me to take the train.",
+        "zh": "她建议我坐火车。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "« Avez-vous déjà travaillé au Canada ? » → L'agent m'a demandé…",
+        "options": ["si avez-vous déjà travaillé au Canada.", "que j'ai déjà travaillé au Canada.", "est-ce que j'avais déjà travaillé au Canada.", "si j'avais déjà travaillé au Canada."],
+        "answer": 3,
+        "explanationEn": "Yes/no question → si, no inversion, passé composé → plus-que-parfait.",
+        "explanationZh": "一般疑问句 → si，不倒装；复合过去时 → 愈过去时。"
+      },
+      {
+        "type": "fill",
+        "prompt": "« Je t'appellerai. » → Il m'a promis qu'il m'___.",
+        "answers": ["appellerait"],
+        "hint": "(appeler)",
+        "en": "He promised me he would call me.",
+        "zh": "他答应我会给我打电话。"
+      }
+    ]
+  }
+]

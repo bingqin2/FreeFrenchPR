@@ -1,0 +1,175 @@
+[
+  {
+    "id": "lis-c2-001",
+    "level": "C2",
+    "kind": "radio",
+    "context": "Extrait d'une conférence d'histoire.",
+    "script": [
+      { "speaker": "N", "text": "On confond volontiers la mémoire et l'histoire, comme si l'une n'était que la version vivante de l'autre. Or elles obéissent à des logiques presque opposées." },
+      { "speaker": "N", "text": "La mémoire est affective, sélective, attachée à un groupe qui s'y reconnaît ; elle retient ce qui fait sens pour lui et oublie le reste, sans même s'en apercevoir. L'histoire, à l'inverse, se veut critique : elle confronte les sources, met à distance les émotions et, ce faisant, dérange souvent les récits auxquels les communautés tiennent le plus." },
+      { "speaker": "N", "text": "C'est pourquoi les historiens sont parfois accueillis avec méfiance lors des commémorations : on attend d'eux qu'ils célèbrent, ils s'obstinent à nuancer." },
+      { "speaker": "N", "text": "Faut-il en conclure que la mémoire serait illégitime ? Nullement. Une société sans mémoire serait une société sans attaches. Mais une société qui laisserait la mémoire tenir lieu d'histoire se condamnerait à ne jamais regarder en face ce qui la dérange." },
+      { "speaker": "N", "text": "Le travail de l'historien n'est donc pas de remplacer la mémoire, mais de l'empêcher de se refermer sur elle-même." }
+    ],
+    "question": "Quelle conception du rapport entre mémoire et histoire l'orateur défend-il ?",
+    "options": ["L'histoire doit remplacer la mémoire, jugée trop émotionnelle.", "L'histoire doit maintenir la mémoire ouverte à la critique, sans la supprimer.", "La mémoire et l'histoire sont deux noms pour une même réalité.", "Les historiens devraient participer davantage aux célébrations."],
+    "answer": 1,
+    "explanationEn": "The conclusion is explicit: « Le travail de l'historien n'est donc pas de remplacer la mémoire, mais de l'empêcher de se refermer sur elle-même. » Memory is legitimate (« Nullement »), but it must not take the place of critical history.",
+    "explanationZh": "结论很明确：« Le travail de l'historien n'est donc pas de remplacer la mémoire, mais de l'empêcher de se refermer sur elle-même. »（史学家的工作不是取代记忆，而是防止它自我封闭。）记忆是正当的（« Nullement »），但不能取代批判性的历史。"
+  },
+  {
+    "id": "lis-c2-002",
+    "level": "C2",
+    "kind": "radio",
+    "context": "Une chronique sur le vocabulaire à la mode.",
+    "script": [
+      { "speaker": "N", "text": "Il est des mots qui, à force de servir, finissent par ne plus rien dire. « Résilience » est de ceux-là." },
+      { "speaker": "N", "text": "Emprunté à la physique des matériaux, puis à la psychologie, le terme désignait à l'origine la capacité à se reconstruire après un traumatisme. Il s'applique désormais à tout : aux villes, aux chaînes d'approvisionnement, aux budgets, et même, ai-je lu récemment, à une marque de yogourt." },
+      { "speaker": "N", "text": "On aurait tort de n'y voir qu'une mode lexicale. Car le mot porte en lui une morale discrète : il invite chacun à encaisser, à s'adapter, à rebondir, plutôt qu'à interroger ce qui l'a fait tomber." },
+      { "speaker": "N", "text": "Félicitons donc les travailleurs épuisés pour leur résilience ; cela coûte moins cher que d'alléger leur charge. Le vocabulaire, on le sait, n'est jamais tout à fait innocent." }
+    ],
+    "question": "Quelle critique le chroniqueur formule-t-il implicitement ?",
+    "options": ["Le mot « résilience » est mal traduit de l'anglais.", "Les travailleurs manquent de résilience.", "La psychologie a eu tort d'emprunter ce terme à la physique.", "L'éloge de la résilience peut détourner l'attention des causes des difficultés."],
+    "answer": 3,
+    "explanationEn": "The word invites people « à encaisser, à s'adapter, à rebondir, plutôt qu'à interroger ce qui l'a fait tomber ». The ironic « Félicitons donc les travailleurs épuisés pour leur résilience ; cela coûte moins cher que d'alléger leur charge » shows that praising resilience can mask the real causes.",
+    "explanationZh": "这个词鼓励人们 « à encaisser, à s'adapter, à rebondir, plutôt qu'à interroger ce qui l'a fait tomber »（忍受、适应、反弹，而不是追问是什么让自己跌倒）。反讽句 « Félicitons donc les travailleurs épuisés pour leur résilience ; cela coûte moins cher que d'alléger leur charge »（那就表扬疲惫员工的韧性吧，这比减轻他们的负担便宜）说明，赞美韧性可能掩盖真正的原因。"
+  },
+  {
+    "id": "lis-c2-003",
+    "level": "C2",
+    "kind": "dialogue",
+    "context": "Un débat philosophique sur la méritocratie.",
+    "script": [
+      { "speaker": "A", "text": "La méritocratie reste le moins mauvais des principes : récompenser l'effort et le talent plutôt que la naissance." },
+      { "speaker": "B", "text": "Sur le principe, qui s'y opposerait ? Le problème, c'est l'écart entre l'idéal et son fonctionnement réel. Quand les enfants de diplômés réussissent massivement mieux que les autres, on peut toujours parler de mérite, mais il devient difficile de distinguer ce qui relève de l'effort de ce qui relève de l'héritage." },
+      { "speaker": "A", "text": "Vous jetez le bébé avec l'eau du bain." },
+      { "speaker": "B", "text": "Pas du tout. Je dis seulement que la méritocratie a un effet pervers : elle persuade les gagnants qu'ils ne doivent tout qu'à eux-mêmes, et les perdants qu'ils ne méritent pas mieux. Une inégalité qu'on croit méritée est bien plus difficile à contester qu'une inégalité qu'on sait injuste." },
+      { "speaker": "A", "text": "Alors, que proposez-vous ?" },
+      { "speaker": "B", "text": "De garder l'idéal, mais d'en finir avec la naïveté : corriger les inégalités en amont, au lieu de célébrer en aval ceux qui en ont profité." }
+    ],
+    "question": "Quelle est la position de la deuxième personne ?",
+    "options": ["Elle conserve l'idéal méritocratique, mais dénonce son usage pour légitimer les inégalités.", "Elle rejette complètement le principe du mérite.", "Elle pense que l'héritage familial n'a aucune influence sur la réussite.", "Elle estime que les perdants ne méritent pas mieux."],
+    "answer": 0,
+    "explanationEn": "B refuses to « jeter le bébé avec l'eau du bain » (« Pas du tout ») and proposes « De garder l'idéal, mais d'en finir avec la naïveté ». The criticism targets the perverse effect: « Une inégalité qu'on croit méritée est bien plus difficile à contester ».",
+    "explanationZh": "第二个人否认自己要全盘否定（« Pas du tout »），并提出 « De garder l'idéal, mais d'en finir avec la naïveté »（保留理想，但不再天真）。批评针对的是其副作用：« Une inégalité qu'on croit méritée est bien plus difficile à contester »（被认为是应得的不平等更难被质疑）。"
+  },
+  {
+    "id": "lis-c2-004",
+    "level": "C2",
+    "kind": "radio",
+    "context": "Extrait d'une conférence sur la traduction littéraire.",
+    "script": [
+      { "speaker": "N", "text": "On répète à l'envi la vieille formule italienne selon laquelle traduire, c'est trahir. La formule est jolie ; elle est surtout paresseuse." },
+      { "speaker": "N", "text": "Elle suppose qu'il existerait, quelque part, un sens pur, détachable des mots, que le traducteur aurait pour mission de transvaser intact d'une langue à l'autre. Or aucun texte ne fonctionne ainsi. Le sens d'un poème tient autant à son rythme, à ses sonorités, à ses ambiguïtés, qu'à ce qu'il affirme." },
+      { "speaker": "N", "text": "Le traducteur ne peut donc tout conserver ; il doit choisir ce qu'il sacrifie. Ce choix n'est pas une trahison, c'est une interprétation, au même titre que celle d'un musicien qui joue une partition." },
+      { "speaker": "N", "text": "Personne ne reproche à une pianiste de trahir Chopin parce que son jeu diffère de celui de son voisin. Pourquoi exiger du traducteur une neutralité que l'on n'attend d'aucun autre interprète ?" }
+    ],
+    "question": "Quelle est la thèse de l'orateur ?",
+    "options": ["La traduction de la poésie est impossible.", "Le traducteur doit rester parfaitement neutre.", "Traduire est un acte d'interprétation légitime, et non une trahison.", "Les musiciens trahissent davantage les œuvres que les traducteurs."],
+    "answer": 2,
+    "explanationEn": "« Ce choix n'est pas une trahison, c'est une interprétation, au même titre que celle d'un musicien. » The final rhetorical question rejects the demand for neutrality; the speaker calls the « traduire, c'est trahir » formula « paresseuse ».",
+    "explanationZh": "« Ce choix n'est pas une trahison, c'est une interprétation, au même titre que celle d'un musicien. »（这种取舍不是背叛，而是诠释，就像音乐家演奏乐谱一样。）结尾的反问否定了对译者“中立”的要求；演讲者称“翻译即背叛”这一说法 « paresseuse »（懒惰）。"
+  },
+  {
+    "id": "lis-c2-005",
+    "level": "C2",
+    "kind": "interview",
+    "context": "Une philosophe est interviewée sur l'économie de l'attention.",
+    "script": [
+      { "speaker": "A", "text": "Vous parlez d'une « crise de l'attention ». N'est-ce pas un discours un peu nostalgique ?" },
+      { "speaker": "B", "text": "Le soupçon est légitime : chaque génération a accusé une nouveauté de ruiner l'esprit des jeunes, du roman-feuilleton à la télévision. Je ne veux pas rejouer ce couplet." },
+      { "speaker": "B", "text": "Ce qui me semble nouveau, ce n'est pas que nous soyons distraits ; nous l'avons toujours été. C'est que notre distraction soit devenue l'objet d'une ingénierie délibérée, financée par des entreprises dont le modèle économique repose précisément sur le temps qu'elles nous soustraient." },
+      { "speaker": "B", "text": "Le livre ne mesurait pas combien de pages vous lisiez pour ajuster la suivante à vos faiblesses. L'application, si. Il ne s'agit donc pas de déplorer une décadence morale, mais de reconnaître un rapport de force profondément asymétrique." }
+    ],
+    "question": "Comment la philosophe se distingue-t-elle du discours nostalgique ?",
+    "options": ["En situant la nouveauté dans l'exploitation industrielle et calculée de la distraction", "En affirmant que les jeunes sont plus distraits qu'autrefois", "En regrettant l'époque du roman-feuilleton", "En niant que la distraction soit un problème"],
+    "answer": 0,
+    "explanationEn": "She concedes « nous l'avons toujours été » (we have always been distracted); what is new is that distraction is « l'objet d'une ingénierie délibérée » by companies profiting from our time. Hence « un rapport de force profondément asymétrique », not « une décadence morale ».",
+    "explanationZh": "她承认 « nous l'avons toujours été »（我们一直都容易分心）；新的是分心成了 « l'objet d'une ingénierie délibérée »（被刻意设计的对象），由靠占用我们时间获利的公司推动。因此这是 « un rapport de force profondément asymétrique »（严重不对等的力量关系），而不是 « une décadence morale »（道德堕落）。"
+  },
+  {
+    "id": "lis-c2-006",
+    "level": "C2",
+    "kind": "radio",
+    "context": "Une chronique sur la science dans les médias.",
+    "script": [
+      { "speaker": "N", "text": "Mesdames et messieurs, l'heure est grave. Selon une étude dont je ne doute pas un instant de la rigueur, financée, détail sans importance, par un fabricant de boissons énergisantes, ces boissons amélioreraient la concentration des étudiants. On s'en réjouit." },
+      { "speaker": "N", "text": "On se réjouit un peu moins en découvrant que l'échantillon comptait vingt-deux personnes, toutes recrutées parmi les clients de la marque, et que l'on a omis de les comparer à un groupe témoin. Mais enfin, ne soyons pas mesquins : vingt-deux convaincus valent bien une méthode." },
+      { "speaker": "N", "text": "Le communiqué de presse parlait d'ailleurs d'une « percée scientifique majeure ». Plusieurs médias ont relayé l'information avec l'enthousiasme qu'on leur connaît, sans juger utile de lire au-delà de ce communiqué." },
+      { "speaker": "N", "text": "Il serait cruel de rappeler que le doute méthodique fut jadis une vertu journalistique. Je m'en abstiendrai donc." }
+    ],
+    "question": "Quel procédé le chroniqueur utilise-t-il principalement pour critiquer l'étude ?",
+    "options": ["Une analyse statistique détaillée", "Un témoignage personnel émouvant", "Une comparaison avec d'autres études plus sérieuses", "L'ironie, en feignant d'approuver ce qu'il dénonce"],
+    "answer": 3,
+    "explanationEn": "Every « approval » is ironic: « une étude dont je ne doute pas un instant de la rigueur », « détail sans importance » for the industry funding, « vingt-deux convaincus valent bien une méthode », and « Il serait cruel de rappeler… Je m'en abstiendrai donc » (while doing exactly that — a preterition).",
+    "explanationZh": "每一句“赞同”都是反讽：« une étude dont je ne doute pas un instant de la rigueur »（我丝毫不怀疑其严谨性的研究）、把厂商资助说成 « détail sans importance »（无关紧要的细节）、« vingt-deux convaincus valent bien une méthode »（二十二个信徒抵得上一套方法），以及 « Il serait cruel de rappeler… Je m'en abstiendrai donc »（提醒这一点太残忍了……所以我就不说了）——其实已经说了，这是“欲擒故纵”的修辞（假省笔法）。"
+  },
+  {
+    "id": "lis-c2-007",
+    "level": "C2",
+    "kind": "radio",
+    "context": "Extrait d'un cours de philosophie du droit.",
+    "script": [
+      { "speaker": "N", "text": "Il est tentant de croire que tout ce qui est légal est moral, et que tout ce qui est immoral devrait être interdit. Les deux propositions sont fausses, et leur confusion est lourde de conséquences." },
+      { "speaker": "N", "text": "Le droit n'a pas pour vocation de rendre les citoyens vertueux, mais de rendre possible leur coexistence. Il interdit le vol, non parce que le vol serait un péché, mais parce qu'aucune société ne survit sans un minimum de sécurité des biens." },
+      { "speaker": "N", "text": "À l'inverse, une loi peut être parfaitement valide et profondément injuste : l'histoire en offre suffisamment d'exemples pour qu'on ne s'y attarde pas." },
+      { "speaker": "N", "text": "Si l'on exige du droit qu'il incarne toute la morale, on lui confie un pouvoir exorbitant sur les consciences. Si l'on renonce à le juger moralement, on se prive du seul recours contre les lois iniques. Toute la difficulté consiste à tenir ensemble ces deux exigences : ne pas confondre le droit et la morale, sans jamais les dissocier tout à fait." }
+    ],
+    "question": "Quelle conclusion l'orateur tire-t-il ?",
+    "options": ["Le droit doit imposer la morale à tous les citoyens.", "Le droit et la morale doivent rester distincts, mais le droit doit pouvoir être jugé moralement.", "Une loi valide est nécessairement juste.", "La morale n'a aucun rôle à jouer dans l'évaluation des lois."],
+    "answer": 1,
+    "explanationEn": "The conclusion: « ne pas confondre le droit et la morale, sans jamais les dissocier tout à fait ». Law should not embody all of morality (« un pouvoir exorbitant sur les consciences »), yet giving up judging it morally removes « le seul recours contre les lois iniques ».",
+    "explanationZh": "结论是：« ne pas confondre le droit et la morale, sans jamais les dissocier tout à fait »（不把法律和道德混为一谈，但也绝不完全割裂）。法律不应承载全部道德（否则会获得 « un pouvoir exorbitant sur les consciences »，对良知的过度权力），但放弃从道德上评判法律，就失去了 « le seul recours contre les lois iniques »（对抗不义之法的唯一手段）。"
+  },
+  {
+    "id": "lis-c2-008",
+    "level": "C2",
+    "kind": "dialogue",
+    "context": "Un débat sur l'expertise scientifique et la démocratie.",
+    "script": [
+      { "speaker": "A", "text": "En période de crise, les décisions devraient revenir aux experts. Les citoyens n'ont ni les connaissances ni le temps nécessaires." },
+      { "speaker": "B", "text": "Les experts éclairent, ils ne tranchent pas. Une épidémiologiste peut vous dire combien de vies sauverait la fermeture des écoles ; elle ne peut pas vous dire combien de mois de retard scolaire valent ces vies. Cette pondération-là n'est pas scientifique, elle est politique." },
+      { "speaker": "A", "text": "Vous reconnaissez tout de même que certaines opinions ne se valent pas." },
+      { "speaker": "B", "text": "Sur les faits, évidemment. Sur les valeurs, en démocratie, chacun pèse le même poids. Le danger, c'est précisément de déguiser des choix de valeurs en vérités techniques, pour les soustraire au débat. On croit gagner en efficacité ; on perd en légitimité, et la confiance finit par s'effondrer." }
+    ],
+    "question": "Selon la deuxième personne, quel est le principal danger ?",
+    "options": ["Que les citoyens ignorent les faits scientifiques", "Que les experts se trompent dans leurs calculs", "Que des choix de valeurs soient présentés comme des vérités techniques", "Que les écoles restent fermées trop longtemps"],
+    "answer": 2,
+    "explanationEn": "« Le danger, c'est précisément de déguiser des choix de valeurs en vérités techniques, pour les soustraire au débat. » Experts inform (« éclairent ») but weighing lives against school delays is political, not scientific.",
+    "explanationZh": "« Le danger, c'est précisément de déguiser des choix de valeurs en vérités techniques, pour les soustraire au débat. »（危险恰恰在于把价值选择伪装成技术真理，从而逃避辩论。）专家负责 « éclairent »（提供依据），但在生命与学业延误之间权衡是政治问题，而非科学问题。"
+  },
+  {
+    "id": "lis-c2-009",
+    "level": "C2",
+    "kind": "interview",
+    "context": "Une romancière est interviewée sur l'autofiction.",
+    "script": [
+      { "speaker": "A", "text": "On reproche souvent à l'autofiction d'être nombriliste. Que répondez-vous ?" },
+      { "speaker": "B", "text": "Que le reproche est parfois fondé. Il existe des livres où l'auteur se contemple avec une complaisance que je ne souhaite à aucun lecteur." },
+      { "speaker": "B", "text": "Mais la question n'est pas de savoir si l'on parle de soi ; Montaigne ne faisait rien d'autre. Elle est de savoir ce que l'on en fait. Le « je » peut être un miroir ou une fenêtre." },
+      { "speaker": "B", "text": "Quand il n'est qu'un miroir, le lecteur reste à la porte. Quand il devient une fenêtre, l'expérience la plus singulière peut éclairer quelque chose de commun. Ce n'est pas le genre qui est en cause, c'est l'usage qu'on en fait." }
+    ],
+    "question": "Quelle est l'attitude de la romancière face au reproche ?",
+    "options": ["Elle en admet une part de vérité, mais refuse de condamner le genre lui-même.", "Elle le rejette entièrement comme injuste.", "Elle l'accepte totalement et renonce à l'autofiction.", "Elle l'attribue à une méconnaissance de Montaigne."],
+    "answer": 0,
+    "explanationEn": "She first concedes « Que le reproche est parfois fondé », then shifts the question: « Ce n'est pas le genre qui est en cause, c'est l'usage qu'on en fait ». The « miroir / fenêtre » image distinguishes self-absorbed from illuminating writing.",
+    "explanationZh": "她先让步说 « Que le reproche est parfois fondé »（这种批评有时是有道理的），然后转换问题：« Ce n'est pas le genre qui est en cause, c'est l'usage qu'on en fait »（问题不在体裁，而在于如何运用）。“镜子/窗户”的比喻区分了自我陶醉与能照亮共同经验的写作。"
+  },
+  {
+    "id": "lis-c2-010",
+    "level": "C2",
+    "kind": "radio",
+    "context": "Extrait d'une conférence sur l'idée de progrès.",
+    "script": [
+      { "speaker": "N", "text": "L'idée de progrès a longtemps fonctionné comme une promesse implicite : demain serait meilleur qu'aujourd'hui, et nos enfants vivraient mieux que nous." },
+      { "speaker": "N", "text": "Cette promesse reposait sur une confusion féconde entre progrès technique, progrès économique et progrès moral, comme si les trois avançaient nécessairement du même pas. Le vingtième siècle s'est chargé de dissiper l'illusion : les mêmes avancées scientifiques ont permis de vaincre des maladies et de perfectionner des armes." },
+      { "speaker": "N", "text": "Faut-il pour autant renoncer à l'idée même de progrès ? Ce serait, me semble-t-il, céder à un pessimisme aussi naïf que l'optimisme qu'il prétend corriger." },
+      { "speaker": "N", "text": "Le progrès n'est ni une loi de l'histoire ni une chimère ; c'est un projet, c'est-à-dire quelque chose qui ne se réalise que si l'on en débat les fins. La vraie question n'est donc plus de savoir si nous progressons, mais vers quoi nous voulons progresser, et qui en décide." }
+    ],
+    "question": "Comment l'orateur conçoit-il finalement le progrès ?",
+    "options": ["Comme une loi inévitable de l'histoire", "Comme un projet collectif dont les finalités doivent être débattues", "Comme une illusion dangereuse qu'il faut abandonner", "Comme un synonyme du progrès technique"],
+    "answer": 1,
+    "explanationEn": "« Le progrès n'est ni une loi de l'histoire ni une chimère ; c'est un projet », one that is realised only « si l'on en débat les fins ». Abandoning the idea would be « un pessimisme aussi naïf que l'optimisme » it criticises.",
+    "explanationZh": "« Le progrès n'est ni une loi de l'histoire ni une chimère ; c'est un projet »（进步既非历史规律，也非幻想，而是一项计划），只有 « si l'on en débat les fins »（对其目标进行辩论）才能实现。放弃这一观念将是 « un pessimisme aussi naïf que l'optimisme »（与乐观主义同样天真的悲观主义）。"
+  }
+]

@@ -1,0 +1,598 @@
+[
+  {
+    "id": "tcf-canada",
+    "titleEn": "TCF Canada: format, scoring and registration",
+    "titleZh": "TCF Canada：考试形式、评分与报名",
+    "summaryEn": "What the TCF Canada is, how its four tests are structured and scored, how long results stay valid for IRCC, and how to register and prepare for test day.",
+    "summaryZh": "介绍 TCF Canada 是什么、四项考试的结构与评分方式、成绩对 IRCC 的有效期，以及如何报名和准备考试当天。",
+    "updated": "2026-10-11",
+    "sections": [
+      {
+        "headingEn": "What is TCF Canada?",
+        "headingZh": "TCF Canada 是什么？",
+        "bodyEn": "The **Test de connaissance du français pour le Canada (TCF Canada)** is a French test designed by **France Éducation International (FEI)**, a public body under France's Ministry of Education. It is one of the two French tests IRCC accepts for Express Entry; the other is TEF Canada.\n\nFor Express Entry you must take **all four tests** (listening, reading, writing and speaking), because IRCC needs a separate NCLC level for each skill. The test is taken in person at approved test centres around the world, which are often Alliance Française branches, universities or language schools.",
+        "bodyZh": "**TCF Canada（加拿大法语知识测试）** 由 **France Éducation International（FEI，法国教育国际中心）** 设计，这是隶属于法国教育部的公共机构。它是 IRCC 在 Express Entry（快速通道）中认可的两种法语考试之一，另一种是 TEF Canada。\n\n申请 Express Entry 必须考 **全部四项**（听力、阅读、写作和口语），因为 IRCC 需要每项技能各自的 NCLC 等级。考试在全球各地的认可考点线下进行，考点通常是法语联盟、大学或语言学校。"
+      },
+      {
+        "headingEn": "The four tests at a glance",
+        "headingZh": "四项考试一览",
+        "bodyEn": "The format published by FEI is summarised below. Total testing time is about **2 hours 47 minutes**. Listening and reading are multiple-choice questions with four options and one correct answer. Writing and speaking are marked by trained examiners.",
+        "bodyZh": "下表概括了 FEI 公布的考试形式，总考试时长约 **2 小时 47 分钟**。听力和阅读为四选一的选择题；写作和口语由经过培训的考官评分。",
+        "table": {
+          "headers": ["Test 考试", "Format 形式", "Length 时长", "Score 计分"],
+          "rows": [
+            ["Listening 听力 (compréhension orale)", "39 multiple-choice questions 39 道选择题", "35 min", "out of 699 满分 699"],
+            ["Reading 阅读 (compréhension écrite)", "39 multiple-choice questions 39 道选择题", "60 min", "out of 699 满分 699"],
+            ["Writing 写作 (expression écrite)", "3 tasks 3 个任务", "60 min", "out of 20 满分 20"],
+            ["Speaking 口语 (expression orale)", "3 tasks, face to face with an examiner 3 个任务，与考官面对面", "12 min, incl. 2 min prep for task 2 含任务 2 的 2 分钟准备", "out of 20 满分 20"]
+          ]
+        }
+      },
+      {
+        "headingEn": "Writing and speaking tasks",
+        "headingZh": "写作与口语任务",
+        "bodyEn": "**Writing (60 minutes, 3 tasks).** You must complete all three tasks and stay within the minimum and maximum word counts. FEI warns that ignoring the limits can pull your result down sharply. The limits most often published are:\n- Task 1: a short message such as an email or invitation, 60–120 words\n- Task 2: an article, blog post or account of an experience, 120–150 words\n- Task 3: compare two short documents with opposing views and give your own opinion, 120–180 words\n\n**Speaking (12 minutes, 3 tasks)** is one-on-one with an examiner and is recorded so it can be marked a second time:\n- Task 1, *entretien dirigé*: a guided interview about yourself (about 2 minutes, no preparation)\n- Task 2, *exercice en interaction*: a role-play in which you ask the examiner questions (about 5.5 minutes, including 2 minutes of preparation)\n- Task 3, *expression d'un point de vue*: you state and defend an opinion on a topic (about 4.5 minutes)\n\nThe per-task word counts and timings above are the widely published figures; confirm them in FEI's current candidate handbook before relying on them. You can practise all six task types in this site's **Writing** and **Speaking** sections.",
+        "bodyZh": "**写作（60 分钟，3 个任务）**：三个任务都必须完成，并且字数要在规定的最少和最多范围内。FEI 提醒，不遵守字数要求可能导致成绩大幅下降。最常见的字数要求是：\n- 任务 1：一则简短信息，如邮件或邀请，60–120 词\n- 任务 2：一篇文章、博客或经历叙述，120–150 词\n- 任务 3：比较两篇观点相反的短文并给出自己的看法，120–180 词\n\n**口语（12 分钟，3 个任务）** 与一位考官一对一进行，全程录音以便二次评分：\n- 任务 1，*entretien dirigé*（引导式面谈）：谈论你自己（约 2 分钟，无准备时间）\n- 任务 2，*exercice en interaction*（互动练习）：角色扮演，由你向考官提问（约 5.5 分钟，含 2 分钟准备）\n- 任务 3，*expression d'un point de vue*（表达观点）：就某个话题陈述并论证自己的观点（约 4.5 分钟）\n\n以上各任务的字数和时长是广泛流传的数据，请先以 FEI 最新考生手册为准再作依据。你可以在本站的 **写作** 和 **口语** 板块练习这六类任务。"
+      },
+      {
+        "headingEn": "How scores are reported",
+        "headingZh": "成绩如何呈现",
+        "bodyEn": "- **Listening and reading** each get a score on a scale that tops out at **699**. FEI also converts every score into a CEFR level, from « A1 non atteint » (below A1) up to C2.\n- **Writing and speaking** each get a mark **out of 20**, which is also converted into a CEFR level.\n- IRCC then converts each of your four results into an **NCLC level** with its own chart (see the NCLC guide). NCLC 7, the key Express Entry threshold, starts at 458 in listening, 453 in reading and 10/20 in writing and speaking.\n\nThe CEFR bands below are the ones commonly published for the TCF. Treat them as a rough guide: the level printed on your certificate is the official one.",
+        "bodyZh": "- **听力和阅读** 各自得到一个最高为 **699** 的分数。FEI 还会把每个分数换算成欧框（CEFR）等级，从 « A1 non atteint »（未达 A1）到 C2。\n- **写作和口语** 各自得到一个 **满分 20** 的分数，同样会换算成欧框等级。\n- 之后 IRCC 会用自己的换算表把四项成绩分别换算成 **NCLC 等级**（见 NCLC 指南）。快速通道的关键门槛 NCLC 7 起点为：听力 458、阅读 453、写作和口语 10/20。\n\n下表是 TCF 常见公布的欧框分段，仅作粗略参考；以成绩单上印的等级为准。",
+        "table": {
+          "headers": ["CEFR 欧框", "Listening / Reading (out of 699) 听力/阅读", "Writing / Speaking (out of 20) 写作/口语"],
+          "rows": [
+            ["A1", "100–199", "1–3"],
+            ["A2", "200–299", "4–5"],
+            ["B1", "300–399", "6–9"],
+            ["B2", "400–499", "10–13"],
+            ["C1", "500–599", "14–15"],
+            ["C2", "600–699", "16–20"]
+          ]
+        }
+      },
+      {
+        "headingEn": "The unofficial question weighting",
+        "headingZh": "非官方的题目分值说法",
+        "bodyEn": "FEI does not publish how many points each multiple-choice question is worth. Preparation sites widely cite the weighting below, in which questions get harder as the test goes on and harder questions are worth far more. **This is unofficial.** Use it to understand why the difficult questions matter, not to calculate an exact score.\n\nUnder this model, with a typical (also unofficial) mix of 4 A1, 6 A2, 9 B1, 10 B2, 6 C1 and 4 C2 questions, a perfect paper scores 699. Answering every A1–B2 question correctly plus about two C1 questions lands near 460, roughly the NCLC 7 threshold. This site's **Mock exam** uses the same unofficial weighting to give you an estimate.",
+        "bodyZh": "FEI 并未公布每道选择题的分值。备考网站普遍引用下表的分值：题目越往后越难，难题的分值也高得多。**这并非官方数据。** 它只用来帮助你理解难题为什么重要，不能用来精确计算分数。\n\n按此模型，并假设常见的（同样非官方的）题目分布为 4 道 A1、6 道 A2、9 道 B1、10 道 B2、6 道 C1 和 4 道 C2，全部答对为 699 分。答对所有 A1–B2 题目再加约两道 C1 题，分数大约在 460 左右，接近 NCLC 7 的门槛。本站的 **模拟考试** 也使用这一非官方分值给出估算成绩。",
+        "table": {
+          "headers": ["Question level 题目难度", "Points per question (unofficial) 每题分值（非官方）"],
+          "rows": [
+            ["A1", "3"],
+            ["A2", "9"],
+            ["B1", "15"],
+            ["B2", "21"],
+            ["C1", "26"],
+            ["C2", "33"]
+          ]
+        }
+      },
+      {
+        "headingEn": "Results, validity and retakes",
+        "headingZh": "成绩、有效期与重考",
+        "bodyEn": "- **Results:** FEI states that results are sent to your test centre within 15 working days of FEI receiving the exam materials; the centre then issues your certificate (*attestation*). Ask your centre how long it usually takes in practice.\n- **Validity:** the certificate is valid for 2 years. For Express Entry, IRCC requires your results to be **less than 2 years old both when you create your profile and when you submit your permanent residence application**, so time your test with that in mind.\n- **Retakes:** there is no limit on the number of attempts, but there is a minimum waiting period between two sittings of TCF Canada. FEI's current page gives **20 days**; older pages and many preparation sites still say 30 days, so check the official page and your centre before booking.",
+        "bodyZh": "- **出分：** FEI 表示，在其收到试卷材料后的 15 个工作日内将成绩发送至考点，再由考点发放成绩证明（*attestation*）。实际需要多久，请询问你的考点。\n- **有效期：** 成绩证明有效期为 2 年。对于快速通道，IRCC 要求你的成绩 **在创建档案时和递交永久居民申请时都必须未满 2 年**，请据此安排考试时间。\n- **重考：** 考试次数不限，但两次参加 TCF Canada 之间有最短间隔。FEI 目前的页面写的是 **20 天**；一些旧页面和许多备考网站仍写 30 天，报名前请查看官方页面并向考点确认。"
+      },
+      {
+        "headingEn": "How to register",
+        "headingZh": "如何报名",
+        "bodyEn": "- **Find a centre:** use the centre search on France Éducation International's website. Only approved centres can deliver TCF Canada.\n- **Check dates and fees:** each centre sets its own sessions and price. Popular centres can be booked out weeks or months ahead.\n- **Use the right ID:** register with the **same identity document you will use for your immigration application** (usually your passport), with your name spelled exactly the same way.\n- **Confirm the details:** ask what to bring on the day, the arrival time, and whether the multiple-choice parts are on paper or on computer at that centre.\n\nBook when your mock-exam estimates are consistently **above** your target in every skill, not just at it.",
+        "bodyZh": "- **查找考点：** 在 France Éducation International 官网使用考点搜索功能。只有认可考点才能举办 TCF Canada。\n- **查看日期和费用：** 各考点自行安排考期和定价。热门考点可能提前数周甚至数月就约满。\n- **使用正确的证件：** 报名时使用 **与你移民申请相同的身份证件**（通常是护照），姓名拼写必须完全一致。\n- **确认细节：** 询问考试当天需携带的物品、到场时间，以及该考点的选择题部分是纸笔考试还是机考。\n\n建议在模拟考试估分在每一项上都稳定 **高于** 目标（而不是刚好达到）时再报名。"
+      },
+      {
+        "headingEn": "Test-day tips",
+        "headingZh": "考试当天小贴士",
+        "bodyEn": "- Arrive early with the exact ID you registered with; without it you may be refused entry.\n- **Listening:** read the four options before each recording starts, and expect to hear each recording only once.\n- **Reading:** 60 minutes for 39 questions is about 1.5 minutes per question. The last questions are the longest and reportedly worth the most, so do not spend too long early on.\n- Unanswered questions earn nothing, so it is generally better to guess than to leave a blank.\n- **Writing:** a common split is about 10, 20 and 30 minutes for tasks 1, 2 and 3. Count your words and keep 3–4 minutes to check agreement, accents and verb endings.\n- **Speaking:** in task 2, ask many different questions and use *tu* or *vous* as the situation requires. In task 3, give a clear position, two or three arguments with examples, and a short conclusion.",
+        "bodyZh": "- 提前到场，携带报名时使用的同一证件；没有证件可能会被拒绝入场。\n- **听力：** 每段录音开始前先读完四个选项，并做好每段录音只播放一次的准备。\n- **阅读：** 60 分钟 39 道题，每题约 1.5 分钟。最后几道题最长，据说分值也最高，所以前面不要花太多时间。\n- 不作答的题目不得分，所以一般来说猜一个答案比留空好。\n- **写作：** 常见的时间分配是任务 1、2、3 分别约 10、20、30 分钟。数清字数，并留出 3–4 分钟检查性数配合、重音符号和动词变位。\n- **口语：** 任务 2 中尽量提出多种不同的问题，并根据情境使用 *tu* 或 *vous*。任务 3 中要立场清晰，给出两到三个论点并配以例子，最后简短总结。"
+      },
+      {
+        "headingEn": "Important: general information only",
+        "headingZh": "重要提示：仅供一般参考",
+        "bodyEn": "This guide is general information, not legal or immigration advice. Test formats, fees and IRCC rules change. Always check France Éducation International, your test centre and IRCC's official pages (linked below) before making decisions. For advice about your own case, consult a licensed immigration consultant (RCIC) or a lawyer.",
+        "bodyZh": "本指南仅为一般性信息，不构成法律或移民建议。考试形式、费用和 IRCC 规定都会变化。做决定前请务必查看 France Éducation International、你的考点以及 IRCC 的官方网页（见下方链接）。如需针对个人情况的建议，请咨询持牌移民顾问（RCIC）或律师。"
+      }
+    ],
+    "sources": [
+      { "label": "France Éducation International — TCF Canada", "url": "https://www.france-education-international.fr/test/tcf-canada" },
+      { "label": "France Éducation International — Understanding your TCF results", "url": "https://www.france-education-international.fr/en/node/752?langue=en" },
+      { "label": "IRCC — Express Entry: language test results", "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/language-test.html" },
+      { "label": "IRCC — Language testing for Express Entry (score charts)", "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/language-requirements/language-testing.html" }
+    ]
+  },
+  {
+    "id": "nclc",
+    "titleEn": "NCLC / CLB levels and score conversion tables",
+    "titleZh": "NCLC / CLB 等级与分数换算表",
+    "summaryEn": "What NCLC and CLB levels mean, IRCC's official tables for converting TCF Canada and TEF Canada scores into NCLC levels, and why your weakest skill decides your eligibility.",
+    "summaryZh": "解释 NCLC 和 CLB 等级的含义，列出 IRCC 官方的 TCF Canada 与 TEF Canada 分数到 NCLC 的换算表，并说明为什么最弱的一项决定你的资格。",
+    "updated": "2026-10-11",
+    "sections": [
+      {
+        "headingEn": "What are CLB and NCLC?",
+        "headingZh": "什么是 CLB 和 NCLC？",
+        "bodyEn": "The **Canadian Language Benchmarks (CLB)** and their French counterpart, the **Niveaux de compétence linguistique canadiens (NCLC)**, are Canada's national standards for describing the language ability of adult immigrants. They are maintained by the Centre for Canadian Language Benchmarks. There are 12 levels in three stages (1–4 basic, 5–8 intermediate, 9–12 advanced), and each skill (listening, speaking, reading, writing) gets its own level.\n\nIRCC never uses your raw test score directly. It converts each skill's result on an approved test into a CLB level (English) or an NCLC level (French), and every Express Entry rule (minimum requirements, CRS points, the French bonus, category draws) is written in those levels. IRCC's charts stop at « 10 and above » because no Express Entry rule goes higher.",
+        "bodyZh": "**加拿大语言基准（CLB）** 及其法语对应标准 **Niveaux de compétence linguistique canadiens（NCLC）**，是加拿大用来描述成年移民语言能力的国家标准，由加拿大语言基准中心（Centre for Canadian Language Benchmarks）维护。共有 12 个等级，分为三个阶段（1–4 基础、5–8 中级、9–12 高级），每项技能（听、说、读、写）各有自己的等级。\n\nIRCC 从不直接使用你的原始考试分数。它把认可考试中每项技能的成绩换算成 CLB 等级（英语）或 NCLC 等级（法语），快速通道的所有规则（最低要求、CRS 分数、法语附加分、类别抽签）都以这些等级来表述。IRCC 的换算表最高只列到 « 10 及以上 »，因为快速通道没有更高等级的规则。"
+      },
+      {
+        "headingEn": "Your lowest skill decides",
+        "headingZh": "最弱的一项决定结果",
+        "bodyEn": "Most thresholds say « in all four abilities ». That means your **weakest skill** decides whether you qualify:\n- Federal Skilled Worker Program: CLB/NCLC 7 in all four abilities of your first official language.\n- French bonus points and the French-language proficiency draws: NCLC 7 in **each** of the four French skills.\n- Example: NCLC 9 in listening, reading and speaking but NCLC 6 in writing does **not** qualify for the French bonus.\n\nCRS language points, on the other hand, are counted skill by skill, so a strong skill still earns its own points. Practical rule: aim for at least one level of safety margin in every skill, and give extra time to the skill you find hardest (often writing or speaking).",
+        "bodyZh": "大多数门槛都写着 « 四项能力均须达到 »。这意味着你 **最弱的一项** 决定你是否符合条件：\n- 联邦技术移民（FSW）：第一官方语言四项均须达到 CLB/NCLC 7。\n- 法语附加分和法语专项抽签：法语四项技能 **每一项** 都须达到 NCLC 7。\n- 例如：听力、阅读、口语均为 NCLC 9，但写作只有 NCLC 6，就 **不能** 获得法语附加分。\n\n而 CRS 的语言分是按单项分别计算的，所以强项仍能拿到自己的分数。实用原则：每一项都至少留出一个等级的余量，并把更多时间花在你最弱的一项上（通常是写作或口语）。"
+      },
+      {
+        "headingEn": "TCF Canada → NCLC",
+        "headingZh": "TCF Canada → NCLC 换算",
+        "bodyEn": "IRCC's equivalency chart for TCF Canada. Listening and reading are scored out of 699; writing and speaking out of 20. IRCC shows the same TCF Canada chart on its Express Entry pages and other program pages.",
+        "bodyZh": "IRCC 公布的 TCF Canada 换算表。听力和阅读满分 699，写作和口语满分 20。IRCC 在快速通道及其他项目页面上使用的是同一张 TCF Canada 换算表。",
+        "table": {
+          "headers": ["NCLC", "Listening 听力", "Reading 阅读", "Writing 写作", "Speaking 口语"],
+          "rows": [
+            ["10+", "549–699", "549–699", "16–20", "16–20"],
+            ["9", "523–548", "524–548", "14–15", "14–15"],
+            ["8", "503–522", "499–523", "12–13", "12–13"],
+            ["7", "458–502", "453–498", "10–11", "10–11"],
+            ["6", "398–457", "406–452", "7–9", "7–9"],
+            ["5", "369–397", "375–405", "6", "6"],
+            ["4", "331–368", "342–374", "4–5", "4–5"]
+          ]
+        }
+      },
+      {
+        "headingEn": "TEF Canada → NCLC (tests taken after December 10, 2023)",
+        "headingZh": "TEF Canada → NCLC（2023 年 12 月 10 日之后参加的考试）",
+        "bodyEn": "The current TEF Canada certificate shows a score from 0 to 699 for each skill, together with CEFR and NCLC levels. IRCC publishes the chart below for TEF Canada tests taken **after December 10, 2023**. It lists different ranges for tests taken earlier, so check the date on your certificate. Note that the bands differ between skills.",
+        "bodyZh": "现行的 TEF Canada 成绩证明为每项技能给出 0 到 699 的分数，同时标注欧框等级和 NCLC 等级。IRCC 针对 **2023 年 12 月 10 日之后** 参加的 TEF Canada 公布了下表；更早参加的考试使用不同的分数段，请核对成绩证明上的考试日期。注意各项技能的分数段并不相同。",
+        "table": {
+          "headers": ["NCLC", "Listening 听力", "Reading 阅读", "Writing 写作", "Speaking 口语"],
+          "rows": [
+            ["10+", "546–699", "546–699", "558–699", "556–699"],
+            ["9", "503–545", "503–545", "512–557", "518–555"],
+            ["8", "462–502", "462–502", "472–511", "494–517"],
+            ["7", "434–461", "434–461", "428–471", "456–493"],
+            ["6", "393–433", "393–433", "379–427", "422–455"],
+            ["5", "352–392", "352–392", "330–378", "387–421"],
+            ["4", "306–351", "306–351", "268–329", "328–386"]
+          ]
+        }
+      },
+      {
+        "headingEn": "Entering TEF Canada results in your Express Entry profile",
+        "headingZh": "在快速通道档案中填写 TEF Canada 成绩",
+        "bodyEn": "For Express Entry, both IRCC and the TEF organizer say to enter the numbers from the **« Équivalence ancien score »** (previous-score equivalency) column of your TEF Canada certificate, **not** the score out of 699, because the profile still uses the old scale. That column maps to NCLC as shown below (listening out of 360, reading out of 300, writing and speaking out of 450).\n\nIRCC also notes that a temporary change to how TEF raw scores were converted, for tests taken between December 11, 2023 and May 6, 2024, has been reverted. Affected candidates should have received corrected scores from the test organizer and need to update their profile.",
+        "bodyZh": "对于快速通道，IRCC 和 TEF 主办方都要求填写 TEF Canada 成绩证明上 **« Équivalence ancien score »**（旧分数对应值）一栏的数字，**而不是** 满分 699 的分数，因为档案系统仍使用旧的计分尺度。该栏与 NCLC 的对应关系如下（听力满分 360，阅读满分 300，写作和口语满分 450）。\n\nIRCC 还说明，对 2023 年 12 月 11 日至 2024 年 5 月 6 日期间参加的考试，TEF 原始分换算方式曾临时调整，现已恢复原状。受影响的考生应已收到主办方发出的更正成绩，并需要更新自己的档案。",
+        "table": {
+          "headers": ["NCLC", "Listening 听力 /360", "Reading 阅读 /300", "Writing 写作 /450", "Speaking 口语 /450"],
+          "rows": [
+            ["10+", "316–360", "263–300", "393–450", "393–450"],
+            ["9", "298–315", "248–262", "371–392", "371–392"],
+            ["8", "280–297", "233–247", "349–370", "349–370"],
+            ["7", "249–279", "207–232", "310–348", "310–348"],
+            ["6", "217–248", "181–206", "271–309", "271–309"],
+            ["5", "181–216", "151–180", "226–270", "226–270"],
+            ["4", "145–180", "121–150", "181–225", "181–225"]
+          ]
+        }
+      },
+      {
+        "headingEn": "Rough comparison with CEFR levels",
+        "headingZh": "与欧框（CEFR）等级的大致对应",
+        "bodyEn": "Courses and textbooks usually use the Common European Framework of Reference (CEFR: A1–C2). There is no official one-to-one conversion between CEFR and NCLC, and the match varies by skill and by test. The rough correspondence below is widely used and fits how the TCF Canada bands line up.\n\nIn short: **NCLC 7, the key target for Express Entry, is roughly a solid B2.**",
+        "bodyZh": "课程和教材通常使用欧洲语言共同参考框架（CEFR：A1–C2）。CEFR 与 NCLC 之间没有官方的一一对应关系，具体对应还因技能和考试而异。下表是广泛使用的大致对应，也与 TCF Canada 的分数段基本吻合。\n\n简而言之：**快速通道的关键目标 NCLC 7，大致相当于扎实的 B2。**",
+        "table": {
+          "headers": ["NCLC", "Approx. CEFR 大致欧框等级", "What it means 含义"],
+          "rows": [
+            ["4", "A2", "Simple everyday exchanges 简单的日常交流"],
+            ["5–6", "B1", "Handles familiar topics and short opinions 能应对熟悉话题并简短表达观点"],
+            ["7–8", "B2", "Discusses and argues on a wide range of topics 能就广泛话题进行讨论和论证"],
+            ["9–10", "C1", "Fluent and precise, handles complex texts 流利准确，能处理复杂文本"],
+            ["11–12", "C2", "Near-native mastery 接近母语水平"]
+          ]
+        }
+      },
+      {
+        "headingEn": "Important: general information only",
+        "headingZh": "重要提示：仅供一般参考",
+        "bodyEn": "This guide is general information, not legal or immigration advice. IRCC can change its equivalency charts and rules at any time. Always check the official IRCC pages (linked below) and your own test certificate before making decisions, and consult a licensed immigration consultant (RCIC) or a lawyer for advice about your own case.",
+        "bodyZh": "本指南仅为一般性信息，不构成法律或移民建议。IRCC 可能随时修改换算表和相关规定。做决定前请务必查看 IRCC 官方网页（见下方链接）和你自己的成绩证明；如需针对个人情况的建议，请咨询持牌移民顾问（RCIC）或律师。"
+      }
+    ],
+    "sources": [
+      { "label": "IRCC — How to find your language level based on your test results (TCF and TEF charts)", "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/eligibility/language-results.html" },
+      { "label": "IRCC — Francophone Community Immigration Pilot: language tests (TEF charts by test date)", "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/rural-franco-pilots/franco-immigration/eligibility/language-test.html" },
+      { "label": "IRCC — Language testing for Express Entry (« Équivalence ancien score » charts)", "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/language-requirements/language-testing.html" },
+      { "label": "IRCC — Express Entry: language test results", "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/language-test.html" },
+      { "label": "Le français des affaires — TEF Canada: understanding your results", "url": "https://www.lefrancaisdesaffaires.fr/en/candidate/test-evaluation-francais/tef-canada/results/" },
+      { "label": "Centre for Canadian Language Benchmarks", "url": "https://www.language.ca/" }
+    ]
+  },
+  {
+    "id": "ee-french-bonus",
+    "titleEn": "Express Entry: how French earns extra points",
+    "titleZh": "快速通道：法语如何带来额外加分",
+    "summaryEn": "French at NCLC 7 or higher can add up to 50 additional CRS points plus second-language points, and opens the French-language proficiency draws, whose cut-offs have often been much lower than other rounds.",
+    "summaryZh": "法语达到 NCLC 7 及以上，最多可带来 50 分附加分和第二官方语言分，还能参加法语专项抽签，其分数线往往明显低于其他轮次。",
+    "updated": "2026-10-11",
+    "sections": [
+      {
+        "headingEn": "Three ways French helps",
+        "headingZh": "法语带来优势的三种方式",
+        "bodyEn": "If English is your stronger language, adding French at a good level can help your Express Entry profile in three separate ways:\n- **Additional points for French** (up to 50) in the « additional points » part of the CRS.\n- **Second official language points** (up to 24 if you have no accompanying spouse, 22 if you do) in the core part of the CRS.\n- Eligibility for **French-language proficiency category draws**, which have often had much lower cut-off scores than Canadian Experience Class or general rounds.\n\nAll three depend on reaching set NCLC levels in **each** French skill on a valid TCF Canada or TEF Canada result.",
+        "bodyZh": "如果你的英语更强，再把法语提高到较好的水平，可以从三个方面分别帮助你的快速通道档案：\n- CRS « 附加分 » 部分中的 **法语附加分**（最高 50 分）。\n- CRS 核心部分中的 **第二官方语言分**（无随行配偶最高 24 分，有随行配偶最高 22 分）。\n- 获得参加 **法语专项类别抽签** 的资格，这类抽签的分数线往往远低于加拿大经验类（CEC）或综合轮次。\n\n这三项都要求在有效的 TCF Canada 或 TEF Canada 成绩中，法语 **每一项** 技能都达到规定的 NCLC 等级。"
+      },
+      {
+        "headingEn": "Additional points for French",
+        "headingZh": "法语附加分",
+        "bodyEn": "According to IRCC's CRS criteria (checked October 2026), you get additional points if you score **NCLC 7 or higher in all four French skills**. How many depends on your English:\n- **25 points** if you have no English test result, or CLB 4 or lower in English.\n- **50 points** if you also have **CLB 5 or higher in all four English skills**.\n\nSo a candidate with a decent English test result gains the full 50 points by reaching NCLC 7 in every French skill.",
+        "bodyZh": "根据 IRCC 的 CRS 评分标准（2026 年 10 月核对），如果你的 **法语四项均达到 NCLC 7 及以上**，即可获得附加分，具体分数取决于你的英语成绩：\n- 没有英语成绩，或英语为 CLB 4 及以下：**25 分**。\n- 英语 **四项均达到 CLB 5 及以上**：**50 分**。\n\n因此，已有不错英语成绩的候选人，只要法语每项都达到 NCLC 7，就能拿到完整的 50 分。",
+        "table": {
+          "headers": ["French result 法语成绩", "English result 英语成绩", "Additional points 附加分"],
+          "rows": [
+            ["NCLC 7+ in all four skills 四项均 NCLC 7+", "No test, or CLB 4 or lower 未考或 CLB 4 及以下", "25"],
+            ["NCLC 7+ in all four skills 四项均 NCLC 7+", "CLB 5+ in all four skills 四项均 CLB 5+", "50"],
+            ["Below NCLC 7 in any skill 任一项低于 NCLC 7", "Any 任意", "0"]
+          ]
+        }
+      },
+      {
+        "headingEn": "Second official language points",
+        "headingZh": "第二官方语言分",
+        "bodyEn": "Separately, the core part of the CRS gives points for your second official language, skill by skill, starting at NCLC 5. The maximum is 24 points without an accompanying spouse or partner and 22 with one.\n\nThese are **in addition** to the bonus above. For example, NCLC 7 in all four French skills plus CLB 5+ English adds 4 × 3 + 50 = **62 points**; NCLC 9 in all four adds up to 24 + 50 = **74 points**.\n\nFor the Federal Skilled Worker eligibility grid (the separate 67-point pass mark), NCLC 5 in all four French skills as a second official language also gives 4 points.",
+        "bodyZh": "此外，CRS 核心部分还会按单项为第二官方语言计分，从 NCLC 5 开始得分。无随行配偶最高 24 分，有随行配偶最高 22 分。\n\n这些分数是在上面附加分之外 **额外** 获得的。例如：法语四项均为 NCLC 7、英语四项 CLB 5+，共增加 4 × 3 + 50 = **62 分**；法语四项均为 NCLC 9，最多增加 24 + 50 = **74 分**。\n\n在联邦技术移民的资格评分表（独立的 67 分及格线）中，法语作为第二官方语言四项均达到 NCLC 5，也可获得 4 分。",
+        "table": {
+          "headers": ["NCLC level (per skill) 单项等级", "Points per skill 每项得分"],
+          "rows": [
+            ["4 or lower 及以下", "0"],
+            ["5–6", "1"],
+            ["7–8", "3"],
+            ["9+", "6"]
+          ]
+        }
+      },
+      {
+        "headingEn": "French-language proficiency draws",
+        "headingZh": "法语专项抽签",
+        "bodyEn": "Since 2023 IRCC has held **category-based selection** rounds that invite only candidates with a specific attribute. French-language proficiency is one of the current categories; the 2026 list also includes healthcare and social services, STEM, trades, education and several others.\n\nTo be eligible for the French category you need **NCLC 7 or higher in all four French abilities** on a valid test result. You must also be eligible for an Express Entry program and meet any extra conditions in that round's instructions. Within the category, candidates are still ranked by CRS score: the category narrows the competition, it does not replace the score.",
+        "bodyZh": "自 2023 年起，IRCC 开始举行 **按类别筛选** 的抽签，只邀请具备特定条件的候选人。法语能力是现行类别之一；2026 年的类别名单还包括医疗与社会服务、STEM、技工、教育等。\n\n要符合法语类别，你需要有效成绩中 **法语四项能力均达到 NCLC 7 及以上**，同时必须符合某个快速通道项目的资格，并满足该轮抽签说明中的其他条件。在类别内部，候选人仍按 CRS 分数排名：类别只是缩小了竞争范围，并不取代分数。"
+      },
+      {
+        "headingEn": "Recent French-language draws",
+        "headingZh": "近期法语专项抽签",
+        "bodyEn": "Selected French-language proficiency rounds from IRCC's official rounds-of-invitations data. « Lowest CRS » is the score of the lowest-ranked candidate invited.\n\nFor comparison, Canadian Experience Class rounds in August and September 2026 had cut-offs of about 518–523. In 2025, the French draws we found on the official page ranged from about 2,500 to 7,500 invitations, with cut-offs between about 379 and 481. Draw sizes and cut-offs change all the time and past rounds do not predict future ones, so check the official rounds page.",
+        "bodyZh": "以下为 IRCC 官方抽签数据中部分法语专项轮次。« 最低分 » 指获邀者中排名最低者的分数。\n\n作为对比，2026 年 8 月和 9 月加拿大经验类（CEC）抽签的分数线约为 518–523。2025 年，我们在官方页面上查到的法语抽签邀请人数约 2,500 至 7,500 人，分数线约 379 至 481。抽签人数和分数线一直在变化，过去的轮次不能预测未来，请以官方抽签页面为准。",
+        "table": {
+          "headers": ["Date 日期", "Invitations 邀请人数", "Lowest CRS 最低分"],
+          "rows": [
+            ["2026-08-19", "5,000", "382"],
+            ["2026-08-06", "5,000", "391"],
+            ["2026-07-22", "5,000", "399"],
+            ["2026-07-09", "5,000", "420"],
+            ["2026-05-28", "4,500", "409"],
+            ["2026-04-29", "4,000", "400"],
+            ["2026-04-15", "4,000", "419"],
+            ["2026-03-18", "4,000", "393"],
+            ["2026-03-04", "5,500", "397"],
+            ["2026-02-06", "8,500", "400"],
+            ["2025-12-17", "6,000", "399"],
+            ["2025-11-28", "6,000", "408"]
+          ]
+        }
+      },
+      {
+        "headingEn": "Practical takeaways",
+        "headingZh": "实用建议",
+        "bodyEn": "- Aim for NCLC 7 in **every** French skill with a margin, for example 11–12/20 rather than exactly 10/20 in TCF writing and speaking.\n- Keep a valid English result at CLB 5+ in all four skills as well; without it the French bonus drops from 50 to 25.\n- Going beyond NCLC 7 still pays: at NCLC 9, second-language points rise from 3 to 6 per skill.\n- Track the 2-year validity of **both** test results against when you expect an invitation and when you will submit your application.\n- Point values and categories are set by IRCC and can change. The CRS was the subject of a public consultation in 2026 (see the CRS guide).",
+        "bodyZh": "- 法语 **每一项** 都以 NCLC 7 为目标并留出余量，例如 TCF 写作和口语争取 11–12/20，而不是刚好 10/20。\n- 同时保持一份有效且四项均达 CLB 5+ 的英语成绩；没有它，法语附加分会从 50 分降到 25 分。\n- 超过 NCLC 7 仍有回报：达到 NCLC 9 后，第二语言分每项从 3 分升到 6 分。\n- 留意 **两份** 成绩各自 2 年的有效期，与预计获邀时间和递交申请时间相对照。\n- 分值和类别由 IRCC 决定，随时可能调整。CRS 在 2026 年曾进行公开咨询（见 CRS 指南）。"
+      },
+      {
+        "headingEn": "Important: general information only",
+        "headingZh": "重要提示：仅供一般参考",
+        "bodyEn": "This guide is general information, not legal or immigration advice. CRS points, categories and draws are decided by IRCC and change often. Always check the official IRCC pages (linked below) before making decisions, and consult a licensed immigration consultant (RCIC) or a lawyer for advice about your own case.",
+        "bodyZh": "本指南仅为一般性信息，不构成法律或移民建议。CRS 分值、类别和抽签均由 IRCC 决定，且经常变化。做决定前请务必查看 IRCC 官方网页（见下方链接）；如需针对个人情况的建议，请咨询持牌移民顾问（RCIC）或律师。"
+      }
+    ],
+    "sources": [
+      { "label": "IRCC — Comprehensive Ranking System (CRS) criteria", "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/check-score/crs-criteria.html" },
+      { "label": "IRCC — Express Entry: category-based selection", "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/rounds-invitations/category-based-selection.html" },
+      { "label": "IRCC — Express Entry: rounds of invitations", "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/submit-profile/rounds-invitations.html" },
+      { "label": "IRCC — Ministerial Instructions: Express Entry rounds", "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/mandate/policies-operational-instructions-agreements/ministerial-instructions/express-entry-rounds.html" },
+      { "label": "IRCC — Language testing for Express Entry (FSW points)", "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/language-requirements/language-testing.html" }
+    ]
+  },
+  {
+    "id": "crs",
+    "titleEn": "How the CRS score works",
+    "titleZh": "CRS 综合排名分数详解",
+    "summaryEn": "The Comprehensive Ranking System scores every Express Entry candidate out of 1,200. This guide walks through each part and uses a worked example to show how French can raise a score.",
+    "summaryZh": "综合排名系统（CRS）以 1200 分为满分给每位快速通道候选人打分。本指南逐项讲解各部分，并用实例说明法语如何提高分数。",
+    "updated": "2026-10-11",
+    "sections": [
+      {
+        "headingEn": "The four parts of the score",
+        "headingZh": "分数的四个组成部分",
+        "bodyEn": "Every candidate in the Express Entry pool gets a CRS score out of **1,200**. In each round of invitations, IRCC invites the highest-ranked candidates who are eligible for that round. The score has four parts. « No accompanying spouse » includes candidates whose spouse or partner is a Canadian citizen or permanent resident, or will not come to Canada with them.",
+        "bodyZh": "快速通道池中的每位候选人都有一个满分 **1200** 的 CRS 分数。在每一轮邀请中，IRCC 会邀请符合该轮条件、排名最高的候选人。分数由四部分组成。« 无随行配偶 » 也包括配偶或伴侣是加拿大公民或永久居民、或不随同来加拿大的情况。",
+        "table": {
+          "headers": ["Part 部分", "No accompanying spouse 无随行配偶", "With accompanying spouse 有随行配偶"],
+          "rows": [
+            ["A. Core / human capital 核心人力资本", "up to 500", "up to 460"],
+            ["B. Spouse or partner factors 配偶因素", "0", "up to 40"],
+            ["C. Skill transferability 技能可转移性", "up to 100", "up to 100"],
+            ["D. Additional points 附加分", "up to 600", "up to 600"],
+            ["Maximum 满分", "1,200", "1,200"]
+          ]
+        }
+      },
+      {
+        "headingEn": "Core factors: age, education, languages, Canadian work",
+        "headingZh": "核心因素：年龄、教育、语言、加拿大工作经验",
+        "bodyEn": "Points are shown as « without / with » an accompanying spouse.\n- **Age:** the maximum is at 20–29 (110 / 100), then it falls every year: 105 / 95 at 30, 83 / 75 at 34, 50 / 45 at 40, and 0 from age 45.\n- **Education:** from 30 / 28 for a secondary diploma up to 120 / 112 for a bachelor's degree, 135 / 126 for a master's and 150 / 140 for a PhD. Education completed outside Canada needs an Educational Credential Assessment (ECA).\n- **Languages:** points per skill, from the table below; up to 136 / 128 for the first official language and 24 / 22 for the second.\n- **Canadian work experience:** from 40 / 35 for one year up to 80 / 70 for five years or more.",
+        "bodyZh": "以下分数按 « 无 / 有 » 随行配偶列出。\n- **年龄：** 20–29 岁最高（110 / 100），之后逐年递减：30 岁 105 / 95，34 岁 83 / 75，40 岁 50 / 45，45 岁起为 0。\n- **教育：** 从高中文凭的 30 / 28 分，到学士学位的 120 / 112 分、硕士的 135 / 126 分和博士的 150 / 140 分。在加拿大境外完成的学历需要做学历认证（ECA）。\n- **语言：** 按单项计分，见下表；第一官方语言最高 136 / 128 分，第二官方语言最高 24 / 22 分。\n- **加拿大工作经验：** 从一年的 40 / 35 分，到五年及以上的 80 / 70 分。",
+        "table": {
+          "headers": ["CLB / NCLC (per skill) 单项等级", "1st language, no spouse 第一语言（无配偶）", "1st language, with spouse 第一语言（有配偶）", "2nd language 第二语言"],
+          "rows": [
+            ["4", "6", "6", "0"],
+            ["5", "6", "6", "1"],
+            ["6", "9", "8", "1"],
+            ["7", "17", "16", "3"],
+            ["8", "23", "22", "3"],
+            ["9", "31", "29", "6"],
+            ["10+", "34", "32", "6"]
+          ]
+        }
+      },
+      {
+        "headingEn": "Spouse or partner factors (max 40)",
+        "headingZh": "配偶因素（最高 40 分）",
+        "bodyEn": "If your spouse or common-law partner is coming with you, your own core points are slightly lower, but your partner can add up to 40 points:\n- up to 10 for their education\n- up to 20 for their first official language (up to 5 per skill at CLB 9+)\n- up to 10 for their Canadian work experience\n\nWhen a couple decides who should prepare which test, it is worth running both versions through IRCC's calculator.",
+        "bodyZh": "如果你的配偶或同居伴侣随行，你本人的核心分数会略低，但伴侣最多可以为你增加 40 分：\n- 伴侣的教育：最高 10 分\n- 伴侣的第一官方语言：最高 20 分（CLB 9+ 时每项最高 5 分）\n- 伴侣的加拿大工作经验：最高 10 分\n\n夫妻在决定谁准备哪项考试时，值得把两种方案都放进 IRCC 的计算器里比较一下。"
+      },
+      {
+        "headingEn": "Skill transferability (max 100)",
+        "headingZh": "技能可转移性（最高 100 分）",
+        "bodyEn": "These points reward combinations of factors. Each of the two main groups is capped at 50 points and the whole section at 100.\n- **Education + language:** a post-secondary credential of one year or more gives 13 points if your first official language is CLB 7+ in all skills (with at least one below 9), or 25 if it is CLB 9+ in all four. A master's, PhD, or two credentials including one of 3+ years gives 25 or 50.\n- **Education + Canadian work experience:** the same 13 / 25 / 50 scale, with 1 or 2+ years of Canadian work.\n- **Foreign work experience + language:** 1–2 years gives 13 or 25, and 3+ years gives 25 or 50, depending on CLB 7–8 or CLB 9+.\n- **Foreign work + Canadian work experience:** a similar scale.\n- **Certificate of qualification in a trade + language:** 25 or 50.\n\nBecause many of these jumps happen at CLB 9, improving your first official language from CLB 8 to CLB 9 often adds far more than the core points alone suggest.",
+        "bodyZh": "这部分奖励多项因素的组合。两大组各自最高 50 分，整个部分最高 100 分。\n- **教育 + 语言：** 一年及以上的高等教育学历，若第一官方语言各项均为 CLB 7+（且至少一项低于 9），得 13 分；若四项均为 CLB 9+，得 25 分。硕士、博士，或两个学历且其中一个为三年及以上，得 25 或 50 分。\n- **教育 + 加拿大工作经验：** 同样是 13 / 25 / 50 的分档，对应 1 年或 2 年以上的加拿大工作经验。\n- **海外工作经验 + 语言：** 1–2 年得 13 或 25 分，3 年以上得 25 或 50 分，取决于是 CLB 7–8 还是 CLB 9+。\n- **海外工作经验 + 加拿大工作经验：** 分档类似。\n- **技工资格证书 + 语言：** 25 或 50 分。\n\n由于很多分档都在 CLB 9 处跳升，把第一官方语言从 CLB 8 提高到 CLB 9，带来的分数往往远多于核心部分本身的差额。"
+      },
+      {
+        "headingEn": "Additional points (max 600)",
+        "headingZh": "附加分（最高 600 分）",
+        "bodyEn": "The additional-points section is where a provincial nomination or French can make a large difference. **Job-offer points were removed on March 25, 2025** for everyone in the pool (they used to be 50, or 200 for senior-management roles). A job offer can still matter for eligibility in some programs and provincial streams, but it no longer adds CRS points.",
+        "bodyZh": "省提名或法语能在附加分部分带来很大差别。**工作邀请（job offer）加分已于 2025 年 3 月 25 日对池中所有人取消**（此前为 50 分，高级管理职位为 200 分）。在某些项目和省提名类别中，工作邀请仍可能影响申请资格，但已不再增加 CRS 分数。",
+        "table": {
+          "headers": ["Factor 因素", "Points 分数"],
+          "rows": [
+            ["Provincial or territorial nomination 省或地区提名", "600"],
+            ["French NCLC 7+ in all skills and English CLB 5+ in all skills 法语四项 NCLC 7+ 且英语四项 CLB 5+", "50"],
+            ["French NCLC 7+ in all skills, English CLB 4 or lower or no test 法语四项 NCLC 7+，英语 CLB 4 及以下或未考", "25"],
+            ["Canadian post-secondary credential of 3+ years 加拿大三年及以上高等教育学历", "30"],
+            ["Canadian post-secondary credential of 1–2 years 加拿大一至两年高等教育学历", "15"],
+            ["Brother or sister in Canada (citizen or PR, 18+) 在加拿大的兄弟姐妹（公民或永久居民，18 岁以上）", "15"],
+            ["Job offer 工作邀请", "0 since 2025-03-25 自 2025-03-25 起取消"]
+          ]
+        }
+      },
+      {
+        "headingEn": "Worked example: what French can do",
+        "headingZh": "实例：法语能带来什么",
+        "bodyEn": "Imagine a 30-year-old with no accompanying spouse, a bachelor's degree, three years of work experience outside Canada, no Canadian experience, and **CLB 9 in all four English skills**. Here is what happens when they add French at **NCLC 7 in all four skills**. This is an illustration only; check your own numbers in the official tool.\n\nThe score rises from 424 to **486** (+62). That is above the cut-offs of all the French-language draws listed in our French-bonus guide, although still below recent Canadian Experience Class cut-offs. With NCLC 9 in all four French skills, second-language points would rise to 24 and the total to 498.",
+        "bodyZh": "假设一位 30 岁、无随行配偶、拥有学士学位、在加拿大境外有三年工作经验、没有加拿大经验，且 **英语四项均为 CLB 9** 的候选人。下面看看当他再取得 **法语四项 NCLC 7** 时分数如何变化。此例仅作说明，请用官方工具计算你自己的分数。\n\n分数从 424 升到 **486**（+62）。这一分数高于我们在法语加分指南中列出的所有法语专项抽签分数线，但仍低于近期加拿大经验类（CEC）的分数线。如果法语四项均为 NCLC 9，第二语言分将升至 24 分，总分升至 498。",
+        "table": {
+          "headers": ["Factor 因素", "English only 仅英语", "+ French NCLC 7 加法语 NCLC 7"],
+          "rows": [
+            ["Age 30 年龄 30 岁", "105", "105"],
+            ["Bachelor's degree 学士学位", "120", "120"],
+            ["English CLB 9 × 4 英语", "124", "124"],
+            ["French NCLC 7 × 4 (2nd language) 法语（第二语言）", "0", "12"],
+            ["Education + language 教育 + 语言", "25", "25"],
+            ["Foreign work 3 yrs + language 海外工作 3 年 + 语言", "50", "50"],
+            ["French additional points 法语附加分", "0", "50"],
+            ["Total 总分", "424", "486"]
+          ]
+        }
+      },
+      {
+        "headingEn": "Changes under consideration",
+        "headingZh": "正在考虑中的改革",
+        "bodyEn": "From April 23 to May 24, 2026, IRCC held a public consultation on Express Entry reforms. The proposals included merging the three federal skilled worker programs into one, recalibrating CRS factors based on newcomers' economic outcomes, and possibly bringing back job-offer points only for high-wage occupations. IRCC's consultation paper listed French bonus points among the weaker predictors of economic success, while strong English or both official languages were among the strongest.\n\nAt our last check these were **proposals only**; IRCC says any program changes will be published in the Canada Gazette. Re-check the official CRS criteria before planning around specific point values.",
+        "bodyZh": "2026 年 4 月 23 日至 5 月 24 日，IRCC 就快速通道改革进行了公开咨询。提议内容包括：把三个联邦技术类项目合并为一个、根据新移民的经济表现重新调整 CRS 各项因素，以及可能只为高薪职业恢复工作邀请加分。IRCC 的咨询文件把法语附加分列为对经济表现预测力较弱的因素，而较强的英语或同时掌握两种官方语言则属于预测力最强的因素之一。\n\n截至我们最后一次核对，这些仍 **只是提议**；IRCC 表示任何项目调整都会在《加拿大公报》（Canada Gazette）上公布。在按具体分值做规划之前，请重新核对官方 CRS 评分标准。"
+      },
+      {
+        "headingEn": "Check your score with IRCC's tool",
+        "headingZh": "用 IRCC 官方工具计算分数",
+        "bodyEn": "IRCC's free **CRS calculator** is on the « Express Entry: Check your score » page (linked below). It is for guidance only: if it ever disagrees with the Express Entry system, the system's result applies. Use it to compare scenarios, for example « NCLC 7 vs NCLC 9 in French » or « which partner takes the test ».",
+        "bodyZh": "IRCC 免费的 **CRS 计算器** 位于 « Express Entry: Check your score » 页面（见下方链接）。它仅供参考：如果与快速通道系统的结果不一致，以系统结果为准。可以用它比较不同方案，例如 « 法语 NCLC 7 与 NCLC 9 » 或 « 由哪位伴侣参加考试 »。"
+      },
+      {
+        "headingEn": "Important: general information only",
+        "headingZh": "重要提示：仅供一般参考",
+        "bodyEn": "This guide is general information, not legal or immigration advice. CRS rules and point values are set by IRCC and change over time. Always check the official IRCC pages (linked below) before making decisions, and consult a licensed immigration consultant (RCIC) or a lawyer for advice about your own case.",
+        "bodyZh": "本指南仅为一般性信息，不构成法律或移民建议。CRS 规则和分值由 IRCC 制定，并会随时间变化。做决定前请务必查看 IRCC 官方网页（见下方链接）；如需针对个人情况的建议，请咨询持牌移民顾问（RCIC）或律师。"
+      }
+    ],
+    "sources": [
+      { "label": "IRCC — Comprehensive Ranking System (CRS) criteria", "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/check-score/crs-criteria.html" },
+      { "label": "IRCC — Express Entry: Check your score (official CRS calculator)", "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/check-score.html" },
+      { "label": "IRCC — 2026 consultation on Express Entry reforms", "url": "https://www.canada.ca/en/immigration-refugees-citizenship/corporate/transparency/consultations/2026-consultation-express-entry-reforms.html" },
+      { "label": "IRCC — Express Entry: rounds of invitations", "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/submit-profile/rounds-invitations.html" }
+    ]
+  },
+  {
+    "id": "tcf-vs-tef",
+    "titleEn": "TCF Canada vs TEF Canada: which should you take?",
+    "titleZh": "TCF Canada 与 TEF Canada 对比：该选哪个？",
+    "summaryEn": "IRCC accepts both tests for Express Entry. They differ in format, scoring scale, speed of results and task style, so compare them side by side before you book.",
+    "summaryZh": "IRCC 的快速通道认可这两种考试，但它们在考试形式、评分尺度、出分速度和任务风格上各有不同，报名前不妨逐项对比。",
+    "updated": "2026-10-11",
+    "sections": [
+      {
+        "headingEn": "Both count equally",
+        "headingZh": "两者效力相同",
+        "bodyEn": "IRCC accepts **TCF Canada** (from France Éducation International) and **TEF Canada** (from Le français des affaires, part of the Paris Île-de-France Chamber of Commerce and Industry) for Express Entry. Neither gives an advantage in the CRS: each result is converted into NCLC levels with IRCC's official charts, and only the NCLC levels count.\n\nBoth certificates are valid for 2 years, and IRCC requires results less than 2 years old when you create your profile and when you apply. Choose the test whose format suits you and that you can book soon.",
+        "bodyZh": "IRCC 的快速通道认可 **TCF Canada**（France Éducation International 主办）和 **TEF Canada**（Le français des affaires 主办，隶属巴黎大区工商会）。两者在 CRS 中没有高下之分：成绩都会按 IRCC 官方换算表转换成 NCLC 等级，只有 NCLC 等级才算数。\n\n两种成绩证明都有效 2 年，且 IRCC 要求在创建档案时和递交申请时成绩都未满 2 年。选择形式适合你、并且近期能约到考位的那一种即可。"
+      },
+      {
+        "headingEn": "Format side by side",
+        "headingZh": "考试形式对比",
+        "bodyEn": "Official formats as published by each organizer (checked October 2026). For Express Entry you need all four tests in both cases.",
+        "bodyZh": "以下为两家主办方公布的官方考试形式（2026 年 10 月核对）。无论选哪种，申请快速通道都需要考全部四项。",
+        "table": {
+          "headers": ["Item 项目", "TCF Canada", "TEF Canada"],
+          "rows": [
+            ["Listening 听力", "39 MCQ, 35 min 39 道选择题", "40 MCQ, 40 min 40 道选择题"],
+            ["Reading 阅读", "39 MCQ, 60 min 39 道选择题", "40 MCQ, 60 min 40 道选择题"],
+            ["Writing 写作", "3 tasks, 60 min 3 个任务", "2 sections, 60 min (25 + 35 min; at least 80 and 200 words) 2 个部分"],
+            ["Speaking 口语", "3 tasks, 12 min incl. 2 min prep 3 个任务", "2 sections, 15 min (5 + 10 min) 2 个部分"],
+            ["Total time 总时长", "≈ 2 h 47 min", "≈ 2 h 55 min"],
+            ["Organizer 主办方", "France Éducation International", "Le français des affaires (CCI Paris Île-de-France)"]
+          ]
+        }
+      },
+      {
+        "headingEn": "Task styles",
+        "headingZh": "任务风格",
+        "bodyEn": "- **TCF writing:** three shorter texts (a message, an article-style text, and a comparison of two documents with your opinion), each with word limits.\n- **TEF writing:** two longer texts: continue a news-style article (at least 80 words) and write a reasoned point of view (at least 200 words).\n- **TCF speaking:** a guided interview, a role-play in which you ask the questions, and an opinion task, 12 minutes in total.\n- **TEF speaking:** two sections, obtaining information (5 minutes) and arguing to convince someone (10 minutes).\n- **Listening and reading** are four-option multiple choice in both tests. TEF officially gives 0 (no penalty) for a wrong or blank answer, so never leave a blank.",
+        "bodyZh": "- **TCF 写作：** 三篇较短的文字（一则信息、一篇文章类文本、一篇比较两份材料并表达观点的文本），每篇都有字数限制。\n- **TEF 写作：** 两篇较长的文字：续写一篇新闻类文章（至少 80 词），以及写一篇有理有据的观点文章（至少 200 词）。\n- **TCF 口语：** 引导式面谈、由你提问的角色扮演，以及一个观点表达任务，共 12 分钟。\n- **TEF 口语：** 两个部分，获取信息（5 分钟）和说服对方（10 分钟）。\n- 两种考试的 **听力和阅读** 都是四选一选择题。TEF 官方规定答错或不答均得 0 分（不倒扣），所以不要留空。"
+      },
+      {
+        "headingEn": "Scoring scales",
+        "headingZh": "评分尺度",
+        "bodyEn": "- **TCF Canada:** listening and reading out of 699; writing and speaking out of 20. NCLC 7 starts at 458 (listening), 453 (reading) and 10/20 (writing and speaking).\n- **TEF Canada:** every skill gets a score from 0 to 699, and the certificate also shows CEFR and NCLC levels. For tests taken after December 10, 2023, NCLC 7 starts at 434 (listening and reading), 428 (writing) and 456 (speaking). For your Express Entry profile, however, you must enter the **« Équivalence ancien score »** (old-scale) column, not the score out of 699.\n\nBecause the scales differ, never compare a raw TCF number with a raw TEF number; compare NCLC levels. Full tables are in the NCLC guide.",
+        "bodyZh": "- **TCF Canada：** 听力和阅读满分 699；写作和口语满分 20。NCLC 7 起点为听力 458、阅读 453、写作和口语 10/20。\n- **TEF Canada：** 每项技能得到 0 到 699 的分数，成绩证明上同时标注欧框和 NCLC 等级。对于 2023 年 12 月 10 日之后参加的考试，NCLC 7 起点为听力和阅读 434、写作 428、口语 456。但在快速通道档案中，必须填写 **« Équivalence ancien score »**（旧尺度）一栏，而不是满分 699 的分数。\n\n由于尺度不同，千万不要直接比较 TCF 和 TEF 的原始分数，而应比较 NCLC 等级。完整换算表见 NCLC 指南。"
+      },
+      {
+        "headingEn": "Results, retakes and validity",
+        "headingZh": "出分、重考与有效期",
+        "bodyEn": "Both tests can be retaken as often as you like, subject to a waiting period. TEF Canada also requires all four tests to be taken on the same day for the certificate to be recognized by Canadian authorities.",
+        "bodyZh": "两种考试都可以不限次数重考，但有间隔期要求。TEF Canada 还规定四项考试必须在同一天完成，成绩证明才会被加拿大当局认可。",
+        "table": {
+          "headers": ["Item 项目", "TCF Canada", "TEF Canada"],
+          "rows": [
+            ["Results 出分", "Sent to your centre within 15 working days of FEI receiving the papers FEI 收到试卷后 15 个工作日内发至考点", "Within 1–10 business days of the test, by email (digital certificate only) 考后 1–10 个工作日内邮件发送（仅电子证书）"],
+            ["Waiting period 重考间隔", "20 days per FEI's current page (older sources say 30) 20 天（旧资料为 30 天）", "20 days 20 天"],
+            ["Attempts 考试次数", "Unlimited 不限", "Unlimited 不限"],
+            ["Validity 有效期", "2 years 2 年", "2 years 2 年"]
+          ]
+        }
+      },
+      {
+        "headingEn": "Cost and availability",
+        "headingZh": "费用与考位",
+        "bodyEn": "Neither organizer sets one worldwide price. Each approved centre sets its own fee, and fees vary a lot by country and city. Budget a few hundred Canadian dollars (or the local equivalent) for the four tests needed for Express Entry, and confirm the exact price with your centre.\n\nIn practice, **availability** often matters more than format: in many cities one test has seats next month while the other is booked out. Book early, and register with the same ID you will use for your immigration application.",
+        "bodyZh": "两家主办方都没有统一的全球价格，费用由各认可考点自行制定，并因国家和城市差异很大。快速通道需要的四项考试，大致预算为几百加元（或当地等值货币），具体价格请向考点确认。\n\n实际上，**考位** 往往比考试形式更重要：在许多城市，一种考试下个月就有位置，另一种却已约满。尽早报名，并使用与移民申请相同的证件报名。"
+      },
+      {
+        "headingEn": "Which suits whom?",
+        "headingZh": "哪种更适合你？",
+        "bodyEn": "- **You need results fast:** TEF Canada states 1–10 business days; TCF Canada can take longer.\n- **You prefer shorter writing tasks:** TCF's three shorter texts with clear word ranges may feel more manageable than TEF's 200-word argument.\n- **You are good at persuading out loud:** TEF's 10-minute « convince » section rewards this; TCF's speaking test is shorter and more varied.\n- **You want to practise on this site:** our Mock exam and practice sets follow the TCF Canada format, but everything you learn transfers to TEF.\n\nIf you can, do a timed sample of each format and choose the one where your **weakest** skill comes out highest in NCLC terms.",
+        "bodyZh": "- **需要尽快出分：** TEF Canada 官方写明 1–10 个工作日；TCF Canada 可能需要更久。\n- **偏好较短的写作任务：** TCF 的三篇短文字数范围明确，可能比 TEF 的 200 词议论文更容易把握。\n- **擅长口头说服：** TEF 口语中 10 分钟的 « 说服 » 部分对此有利；TCF 口语时间更短、任务更多样。\n- **想在本站练习：** 本站的模拟考试和练习题按 TCF Canada 形式设计，但学到的能力同样适用于 TEF。\n\n如有条件，两种形式各做一次限时样题，选择你 **最弱一项** 换算成 NCLC 后等级最高的那种考试。"
+      },
+      {
+        "headingEn": "Important: general information only",
+        "headingZh": "重要提示：仅供一般参考",
+        "bodyEn": "This guide is general information, not legal or immigration advice. Test formats, fees, waiting periods and IRCC rules change. Always check the organizers' and IRCC's official pages (linked below) and your test centre before booking, and consult a licensed immigration consultant (RCIC) or a lawyer for advice about your own case.",
+        "bodyZh": "本指南仅为一般性信息，不构成法律或移民建议。考试形式、费用、重考间隔和 IRCC 规定都会变化。报名前请务必查看主办方和 IRCC 的官方网页（见下方链接）并向考点确认；如需针对个人情况的建议，请咨询持牌移民顾问（RCIC）或律师。"
+      }
+    ],
+    "sources": [
+      { "label": "France Éducation International — TCF Canada", "url": "https://www.france-education-international.fr/test/tcf-canada" },
+      { "label": "Le français des affaires — TEF Canada: presentation", "url": "https://www.lefrancaisdesaffaires.fr/en/candidate/test-evaluation-francais/tef-canada/presentation/" },
+      { "label": "Le français des affaires — TEF Canada: getting your certificate", "url": "https://www.lefrancaisdesaffaires.fr/en/candidate/test-evaluation-francais/tef-canada/certificate/" },
+      { "label": "Le français des affaires — TEF Canada: understanding your results", "url": "https://www.lefrancaisdesaffaires.fr/en/candidate/test-evaluation-francais/tef-canada/results/" },
+      { "label": "IRCC — Express Entry: language test results", "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/language-test.html" },
+      { "label": "IRCC — How to find your language level based on your test results", "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/eligibility/language-results.html" }
+    ]
+  },
+  {
+    "id": "study-plan",
+    "titleEn": "Study plan: from zero to NCLC 7",
+    "titleZh": "学习计划：从零基础到 NCLC 7",
+    "summaryEn": "A realistic A1 → B2 roadmap for reaching NCLC 7 in all four skills, with rough hour estimates, what to study in each phase, how to use each part of this site, and a sample weekly schedule.",
+    "summaryZh": "一份从 A1 到 B2、四项均达到 NCLC 7 的务实路线图，包括大致学时估算、各阶段学习重点、如何使用本站各板块，以及每周学习安排示例。",
+    "updated": "2026-10-11",
+    "sections": [
+      {
+        "headingEn": "The target",
+        "headingZh": "目标",
+        "bodyEn": "For the Express Entry French bonus and the French-language draws you need **NCLC 7 in all four skills**, which is roughly a solid **B2** on the CEFR scale. On TCF Canada that means at least about 458 in listening, 453 in reading and 10/20 in writing and speaking; plan for a margin above each.\n\nBecause your weakest skill decides, train all four skills from the start instead of leaving writing and speaking until the end.",
+        "bodyZh": "要拿到快速通道法语附加分并参加法语专项抽签，你需要 **四项均达到 NCLC 7**，大致相当于欧框中扎实的 **B2**。在 TCF Canada 中，这意味着听力至少约 458、阅读 453、写作和口语 10/20；每一项都应留出余量。\n\n由于最弱的一项决定结果，请从一开始就同时练习四项技能，而不是把写作和口语留到最后。"
+      },
+      {
+        "headingEn": "How long does it take?",
+        "headingZh": "需要多长时间？",
+        "bodyEn": "Nobody can give you an exact number. It depends on your native language, the other languages you know (English helps a lot with French vocabulary), how intensively you study, and how much you actually speak. The figures below are rough cumulative **guided-learning hours** often quoted by language schools. They are not an official standard, and many learners need more, especially for speaking and writing.\n\nAs another reference point, the US Foreign Service Institute puts French among the languages closest to English, at roughly 30 weeks of full-time intensive classes for English speakers to reach professional working proficiency. Learners whose first language is Chinese, and who are not yet fluent in English, should expect to need more time. At about 10 hours a week, many self-learners need 12–18 months to reach B2; at 20 hours a week it can be closer to 7–10 months.",
+        "bodyZh": "没有人能给你一个确切的数字。它取决于你的母语、你掌握的其他语言（英语对法语词汇帮助很大）、学习强度，以及你实际开口说的多少。下表是语言学校常引用的大致 **累计指导学时**，并非官方标准，许多学习者需要更多时间，尤其是口语和写作。\n\n另一个参考：美国外交学院（FSI）把法语列为与英语最接近的语言之一，英语母语者大约需要 30 周全日制强化课程才能达到职业工作水平。母语为中文、且英语尚不流利的学习者，应预期需要更长时间。每周学习约 10 小时，许多自学者需要 12–18 个月达到 B2；每周 20 小时，则可能缩短到 7–10 个月左右。",
+        "table": {
+          "headers": ["Level 等级", "Rough cumulative hours 大致累计学时", "Roughly NCLC 大致对应 NCLC"],
+          "rows": [
+            ["A1", "80–120", "1–3"],
+            ["A2", "180–250", "4"],
+            ["B1", "350–450", "5–6"],
+            ["B2", "550–750+", "7–8"]
+          ]
+        }
+      },
+      {
+        "headingEn": "Phase 1 — A1: foundations",
+        "headingZh": "第一阶段——A1：打基础",
+        "bodyEn": "**Goals:** French sounds and spelling (nasal vowels, silent letters, liaison), gender and articles, the present tense of être, avoir, aller, faire and regular -er verbs, numbers, dates and times, introducing yourself and asking simple questions.\n\n**On this site:**\n- **Learn:** work through the A1 lessons in order and do every exercise.\n- **Flashcards:** start the A1 deck. Add 10–15 new words a day and do your reviews every day; spaced repetition only works if you keep it up.\n- **Listening / Reading:** do the A1 practice questions and read the explanation after each answer.\n- **Speaking:** record a one-minute self-introduction (name, origin, job, family, hobbies). This is the seed of TCF speaking task 1.",
+        "bodyZh": "**目标：** 法语发音与拼写（鼻化元音、不发音字母、联诵）、名词阴阳性与冠词、être、avoir、aller、faire 及规则 -er 动词的现在时、数字、日期和时间、自我介绍和提出简单问题。\n\n**在本站：**\n- **课程：** 按顺序学习 A1 课程，并完成所有练习。\n- **闪卡背词：** 开始 A1 词库。每天新增 10–15 个词并坚持每天复习；间隔重复只有坚持才有效。\n- **听力 / 阅读：** 做 A1 练习题，每题作答后阅读解析。\n- **口语：** 录一段一分钟的自我介绍（姓名、来自哪里、职业、家庭、爱好），这就是 TCF 口语任务 1 的雏形。"
+      },
+      {
+        "headingEn": "Phase 2 — A2: everyday life",
+        "headingZh": "第二阶段——A2：日常生活",
+        "bodyEn": "**Goals:** passé composé and imparfait, the near future (aller + infinitive), reflexive verbs, object pronouns (le, la, lui, leur, y, en), comparisons, and everyday topics such as housing, shopping, health, transport and work.\n\n**On this site:**\n- **Learn:** A2 lessons; go back to any A1 lesson whose exercises you got wrong.\n- **Flashcards:** finish A1 and move on to A2; keep daily reviews to 20–30 minutes.\n- **Listening / Reading:** A2 sets, then a few B1 questions to stretch yourself.\n- **Writing:** start TCF task 1 style messages (60–120 words: invite, thank, ask for information).\n- **Speaking:** practise task 1 until you can talk about yourself for two minutes without stopping.",
+        "bodyZh": "**目标：** 复合过去时与未完成过去时、最近将来时（aller + 动词原形）、代词式动词、宾语代词（le、la、lui、leur、y、en）、比较级，以及住房、购物、健康、交通、工作等日常话题。\n\n**在本站：**\n- **课程：** 学习 A2 课程；回头重做练习出错的 A1 课程。\n- **闪卡背词：** 完成 A1 后进入 A2；每天复习时间控制在 20–30 分钟。\n- **听力 / 阅读：** 做 A2 题组，再尝试一些 B1 题目来拔高。\n- **写作：** 开始练习 TCF 任务 1 类型的短信息（60–120 词：邀请、感谢、询问信息）。\n- **口语：** 反复练习任务 1，直到能连续两分钟谈论自己而不停顿。"
+      },
+      {
+        "headingEn": "Phase 3 — B1: expressing opinions",
+        "headingZh": "第三阶段——B1：表达观点",
+        "bodyEn": "**Goals:** simple future and conditional, an introduction to the subjunctive (il faut que, je veux que), relative pronouns (qui, que, où, dont), linking words (d'abord, ensuite, cependant, donc, par contre), giving and justifying opinions, and telling stories in the past.\n\n**On this site:**\n- **Learn:** B1 lessons.\n- **Flashcards:** B1 deck; prioritise connectors and opinion phrases.\n- **Listening / Reading:** B1 sets every day; add B2 questions once you score about 80% at B1.\n- **Writing:** task 2 (120–150 words: article, blog post, experience).\n- **Speaking:** task 2 role-plays; practise asking ten or more different questions about one situation.\n- **Mock exam:** take your first full mock now as a diagnostic, even if the score is low. It shows which skill to prioritise.",
+        "bodyZh": "**目标：** 简单将来时和条件式、虚拟式入门（il faut que、je veux que）、关系代词（qui、que、où、dont）、连接词（d'abord、ensuite、cependant、donc、par contre）、表达并论证观点，以及用过去时讲述经历。\n\n**在本站：**\n- **课程：** B1 课程。\n- **闪卡背词：** B1 词库；优先掌握连接词和表达观点的句型。\n- **听力 / 阅读：** 每天做 B1 题组；B1 正确率达到约 80% 后加入 B2 题目。\n- **写作：** 任务 2（120–150 词：文章、博客、经历叙述）。\n- **口语：** 任务 2 角色扮演；练习针对同一情境提出十个以上不同的问题。\n- **模拟考试：** 现在就做第一次完整模拟考作为诊断，即使分数不高也没关系，它能告诉你该优先提升哪项技能。"
+      },
+      {
+        "headingEn": "Phase 4 — B2: exam readiness",
+        "headingZh": "第四阶段——B2：备考冲刺",
+        "bodyEn": "**Goals:** the subjunctive in full, concession and argument (bien que, même si, néanmoins, en revanche), the passive and reported speech, abstract topics (environment, technology, work, education, immigration, health), and exam strategy.\n\n**On this site:**\n- **Listening / Reading:** B2 and C1 sets. NCLC 7 usually means getting most B2-level questions right and some C1 questions too.\n- **Writing:** task 3 (compare two documents and give your view, 120–180 words), then all three tasks together under a 60-minute timer.\n- **Speaking:** task 3 opinion answers with a clear position, two or three arguments, examples and a conclusion, recorded and timed.\n- **Mock exam:** one full mock every one to two weeks. Book the real test when your estimates are above NCLC 7 in every skill in several mocks in a row, remembering that they are only estimates.",
+        "bodyZh": "**目标：** 全面掌握虚拟式、让步与论证（bien que、même si、néanmoins、en revanche）、被动语态和间接引语、抽象话题（环境、科技、工作、教育、移民、健康），以及应试策略。\n\n**在本站：**\n- **听力 / 阅读：** B2 和 C1 题组。达到 NCLC 7 通常需要答对大部分 B2 题和部分 C1 题。\n- **写作：** 任务 3（比较两份材料并表达观点，120–180 词），再在 60 分钟计时下完成全部三个任务。\n- **口语：** 任务 3 观点表达：立场清晰、两到三个论点、例子和结论，并录音计时。\n- **模拟考试：** 每一到两周做一次完整模拟考。当连续几次模拟考中每一项的估分都高于 NCLC 7 时再报名正式考试，同时记住这些只是估算。"
+      },
+      {
+        "headingEn": "Sample weekly schedule (about 8–10 hours)",
+        "headingZh": "每周学习安排示例（约 8–10 小时）",
+        "bodyEn": "Adapt it to your life; consistency beats long weekend sessions. Do your **flashcard reviews every day** (15–20 minutes) on top of the plan below.",
+        "bodyZh": "根据自己的生活调整；持之以恒胜过周末突击。在下面的安排之外，**每天复习闪卡**（15–20 分钟）。",
+        "table": {
+          "headers": ["Day 日期", "Main focus 主要内容", "Time 时长"],
+          "rows": [
+            ["Mon 周一", "New lesson + exercises 新课 + 练习", "60 min"],
+            ["Tue 周二", "Listening practice + 15 min shadowing 听力练习 + 15 分钟跟读", "60 min"],
+            ["Wed 周三", "Lesson review + grammar exercises 复习课程 + 语法练习", "60 min"],
+            ["Thu 周四", "Reading practice + 15 min dictation 阅读练习 + 15 分钟听写", "60 min"],
+            ["Fri 周五", "Timed writing task, then correct it 限时写作并自我修改", "60 min"],
+            ["Sat 周六", "Speaking task (record yourself) + French podcast or TV 口语任务（录音）+ 法语播客或电视", "90–120 min"],
+            ["Sun 周日", "Rest, or one mock-exam section from phase 3 on 休息，或从第三阶段起做一节模拟考", "0–60 min"]
+          ]
+        }
+      },
+      {
+        "headingEn": "Techniques and free resources",
+        "headingZh": "学习方法与免费资源",
+        "bodyEn": "- **Shadowing:** play a short clip and repeat it aloud just behind the speaker, copying rhythm and intonation. Ten to fifteen minutes a day noticeably improves pronunciation and listening.\n- **Dictation:** write down a short audio passage, then compare it with the transcript. It trains listening, spelling and agreement, which are exactly what costs points in writing.\n- **Error log:** keep a list of your recurring mistakes (gender, agreement, verb endings) and check every new piece of writing against it.\n- **RFI « Français facile »:** a daily news bulletin in simple French with transcripts (« Journal en français facile ») and exercises by level.\n- **TV5MONDE « Apprendre le français »:** free videos with exercises, organised by level from A1 upwards.\n- **Radio-Canada (ICI Première, OHdio):** Canadian news, radio shows and podcasts in French. From B1 on, they are a good way to get used to Canadian accents and topics.\n- **Speak early:** find a conversation partner or tutor by phase 2. The speaking test rewards fluency, and you can only build it by talking.",
+        "bodyZh": "- **跟读（shadowing）：** 播放一小段音频，紧跟说话人大声复述，模仿节奏和语调。每天 10–15 分钟就能明显改善发音和听力。\n- **听写：** 把一小段音频写下来，再与原文对照。它能训练听力、拼写和性数配合，而这些正是写作中最容易丢分的地方。\n- **错题本：** 记录你反复出现的错误（阴阳性、配合、动词词尾），每次写作后都对照检查。\n- **RFI « Français facile »：** 每日用简单法语播报的新闻（« Journal en français facile »），附文字稿，并有分级练习。\n- **TV5MONDE « Apprendre le français »：** 免费视频配练习，从 A1 起按等级分类。\n- **Radio-Canada（ICI Première、OHdio）：** 加拿大法语新闻、广播节目和播客。从 B1 起，是熟悉加拿大口音和话题的好途径。\n- **尽早开口：** 第二阶段时就找语伴或老师。口语考试看重流利度，而流利度只能靠多说来培养。"
+      },
+      {
+        "headingEn": "Important: general information only",
+        "headingZh": "重要提示：仅供一般参考",
+        "bodyEn": "This plan is general guidance; hour estimates vary widely between learners and are not guarantees. Nothing here is legal or immigration advice. Language requirements are set by IRCC and can change, so check the official IRCC pages (linked below) before planning, and consult a licensed immigration consultant (RCIC) or a lawyer for advice about your own case.",
+        "bodyZh": "本计划仅为一般性指导；学时估算因人而异，并不构成保证。本文内容不构成任何法律或移民建议。语言要求由 IRCC 制定并可能变化，制定计划前请查看 IRCC 官方网页（见下方链接）；如需针对个人情况的建议，请咨询持牌移民顾问（RCIC）或律师。"
+      }
+    ],
+    "sources": [
+      { "label": "IRCC — Comprehensive Ranking System (CRS) criteria (French NCLC 7 requirement)", "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/check-score/crs-criteria.html" },
+      { "label": "IRCC — How to find your language level based on your test results", "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/eligibility/language-results.html" },
+      { "label": "US Department of State — Foreign Service Institute language training", "url": "https://www.state.gov/national-foreign-affairs-training-center/foreign-language-training" },
+      { "label": "RFI — Le français facile (resource)", "url": "https://francaisfacile.rfi.fr/" },
+      { "label": "TV5MONDE — Apprendre le français (resource)", "url": "https://apprendre.tv5monde.com/" },
+      { "label": "Radio-Canada — OHdio (resource)", "url": "https://ici.radio-canada.ca/ohdio" }
+    ]
+  }
+]

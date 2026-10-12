@@ -1,0 +1,4226 @@
+[
+  {
+    "id": "a2-01",
+    "level": "A2",
+    "titleFr": "Le passé composé avec avoir",
+    "titleEn": "The passé composé with avoir",
+    "titleZh": "复合过去时（助动词 avoir）",
+    "goalsEn": [
+      "Form the passé composé with avoir + past participle",
+      "Build regular past participles (-é, -i, -u) and learn the 10 most common irregular ones",
+      "Make negative sentences and questions in the past",
+      "Use past time expressions such as hier and la semaine dernière"
+    ],
+    "goalsZh": [
+      "用 avoir + 过去分词构成复合过去时",
+      "掌握规则过去分词（-é、-i、-u）和 10 个最常用的不规则过去分词",
+      "用过去时造否定句和疑问句",
+      "使用 hier、la semaine dernière 等表示过去的时间表达"
+    ],
+    "sections": [
+      {
+        "type": "text",
+        "en": "The **passé composé** is the main tense for talking about **completed actions in the past**: what you did yesterday, last week or last year. It covers both *I worked* and *I have worked* in English.\n\nIt has two parts:\n**auxiliary verb (avoir or être) in the present + past participle**\n\nMost verbs use **avoir**. This lesson focuses on them; the verbs that use être come in the next lesson.",
+        "zh": "**复合过去时（passé composé）**是表达**过去已完成动作**的主要时态：昨天、上周或去年做了什么。它相当于英语的一般过去时（I worked）和现在完成时（I have worked）。\n\n它由两部分组成：\n**助动词（avoir 或 être）的现在时 + 过去分词**\n\n大多数动词用 **avoir** 作助动词。本课先学这些动词，用 être 的动词放在下一课。"
+      },
+      {
+        "type": "table",
+        "caption": "parler in the passé composé / parler 的复合过去时",
+        "headers": [
+          "Pronoun / 人称",
+          "avoir",
+          "Participle / 分词",
+          "Meaning / 意思"
+        ],
+        "rows": [
+          [
+            "je (j')",
+            "ai",
+            "parlé",
+            "I spoke / 我说了"
+          ],
+          [
+            "tu",
+            "as",
+            "parlé",
+            "you spoke / 你说了"
+          ],
+          [
+            "il / elle / on",
+            "a",
+            "parlé",
+            "he / she / we spoke / 他/她/我们说了"
+          ],
+          [
+            "nous",
+            "avons",
+            "parlé",
+            "we spoke / 我们说了"
+          ],
+          [
+            "vous",
+            "avez",
+            "parlé",
+            "you spoke / 您/你们说了"
+          ],
+          [
+            "ils / elles",
+            "ont",
+            "parlé",
+            "they spoke / 他们/她们说了"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "caption": "Regular past participles / 规则过去分词",
+        "headers": [
+          "Infinitive ending / 不定式词尾",
+          "Participle ending / 分词词尾",
+          "Examples / 例子"
+        ],
+        "rows": [
+          [
+            "-er",
+            "-é",
+            "parler → parlé, manger → mangé, travailler → travaillé"
+          ],
+          [
+            "-ir (most verbs / 大多数)",
+            "-i",
+            "finir → fini, choisir → choisi, dormir → dormi"
+          ],
+          [
+            "-re",
+            "-u",
+            "vendre → vendu, attendre → attendu, répondre → répondu"
+          ]
+        ]
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "fr": "Hier, j'ai travaillé jusqu'à 18 heures.",
+            "en": "Yesterday I worked until 6 p.m.",
+            "zh": "昨天我工作到下午六点。"
+          },
+          {
+            "fr": "Nous avons mangé dans un restaurant libanais.",
+            "en": "We ate in a Lebanese restaurant.",
+            "zh": "我们在一家黎巴嫩餐馆吃了饭。"
+          },
+          {
+            "fr": "Tu as fini ton rapport ?",
+            "en": "Have you finished your report?",
+            "zh": "你写完报告了吗？"
+          },
+          {
+            "fr": "Elle a choisi un appartement près du métro.",
+            "en": "She chose an apartment near the metro.",
+            "zh": "她选了一套靠近地铁的公寓。"
+          },
+          {
+            "fr": "Ils ont attendu le bus pendant vingt minutes.",
+            "en": "They waited for the bus for twenty minutes.",
+            "zh": "他们等公交车等了二十分钟。"
+          },
+          {
+            "fr": "J'ai répondu à ton courriel ce matin.",
+            "en": "I answered your email this morning.",
+            "zh": "我今天早上回复了你的邮件。"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "caption": "Common irregular past participles / 常见不规则过去分词",
+        "headers": [
+          "Infinitive / 不定式",
+          "Participle / 分词",
+          "Example / 例句"
+        ],
+        "rows": [
+          [
+            "faire — to do, make / 做",
+            "fait",
+            "J'ai fait les courses."
+          ],
+          [
+            "prendre — to take / 拿、乘坐",
+            "pris",
+            "Il a pris le train."
+          ],
+          [
+            "avoir — to have / 有",
+            "eu",
+            "Nous avons eu de la chance."
+          ],
+          [
+            "être — to be / 是",
+            "été",
+            "Elle a été malade."
+          ],
+          [
+            "voir — to see / 看见",
+            "vu",
+            "Tu as vu ce film ?"
+          ],
+          [
+            "dire — to say / 说",
+            "dit",
+            "Ils ont dit bonjour."
+          ],
+          [
+            "mettre — to put / 放、穿",
+            "mis",
+            "J'ai mis mon manteau."
+          ],
+          [
+            "pouvoir — can / 能够",
+            "pu",
+            "Vous avez pu dormir ?"
+          ],
+          [
+            "vouloir — to want / 想要",
+            "voulu",
+            "Elle a voulu partir."
+          ],
+          [
+            "devoir — must / 必须",
+            "dû",
+            "J'ai dû travailler samedi."
+          ]
+        ]
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "fr": "J'ai fait mes devoirs après l'école.",
+            "en": "I did my homework after school.",
+            "zh": "我放学后做了作业。"
+          },
+          {
+            "fr": "Nous avons pris un taxi pour aller à l'aéroport.",
+            "en": "We took a taxi to go to the airport.",
+            "zh": "我们坐出租车去了机场。"
+          },
+          {
+            "fr": "Tu as eu ton permis de conduire ?",
+            "en": "Did you get your driver's licence?",
+            "zh": "你拿到驾照了吗？"
+          },
+          {
+            "fr": "Ils ont vu les chutes du Niagara l'été dernier.",
+            "en": "They saw Niagara Falls last summer.",
+            "zh": "他们去年夏天看了尼亚加拉瀑布。"
+          },
+          {
+            "fr": "Qu'est-ce que tu as dit ?",
+            "en": "What did you say?",
+            "zh": "你说了什么？"
+          },
+          {
+            "fr": "J'ai mis les clés sur la table.",
+            "en": "I put the keys on the table.",
+            "zh": "我把钥匙放在桌子上了。"
+          },
+          {
+            "fr": "Je n'ai pas pu venir à la fête.",
+            "en": "I couldn't come to the party.",
+            "zh": "我没能来参加聚会。"
+          },
+          {
+            "fr": "Nous avons dû remplir beaucoup de formulaires.",
+            "en": "We had to fill out a lot of forms.",
+            "zh": "我们不得不填写很多表格。"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "en": "**Negative:** *ne … pas* goes around the auxiliary (avoir), not around the participle:\n*Je **n'**ai **pas** compris.* — I didn't understand.\n\n**Questions** (from informal to formal):\n• *Tu as fini ?* (rising intonation)\n• *Est-ce que tu as fini ?*\n• *As-tu fini ?* (inversion; with il/elle add -t-: *A-t-il fini ?*)\n\n**Useful time markers:** *hier* (yesterday), *hier soir* (last night), *ce matin* (this morning), *la semaine dernière* (last week), *l'année dernière* (last year), *il y a deux jours* (two days ago), *déjà* (already).\n\n**Same family, same participle:** *prendre → pris*, so *apprendre → appris*, *comprendre → compris*. Other useful ones: *boire → bu*, *lire → lu*, *écrire → écrit*, *ouvrir → ouvert*, *recevoir → reçu*.",
+        "zh": "**否定：** *ne … pas* 放在助动词 avoir 的两边，而不是放在过去分词两边：\n*Je **n'**ai **pas** compris.* —— 我没听懂。\n\n**疑问**（从口语到正式）：\n• *Tu as fini ?*（语调上扬）\n• *Est-ce que tu as fini ?*\n• *As-tu fini ?*（倒装；il/elle 时要加 -t-：*A-t-il fini ?*）\n\n**常用时间标志：** *hier*（昨天）、*hier soir*（昨晚）、*ce matin*（今天早上）、*la semaine dernière*（上周）、*l'année dernière*（去年）、*il y a deux jours*（两天前）、*déjà*（已经）。\n\n**同族动词，分词相同：** *prendre → pris*，所以 *apprendre → appris*、*comprendre → compris*。其他常用的：*boire → bu*、*lire → lu*、*écrire → écrit*、*ouvrir → ouvert*、*recevoir → reçu*。"
+      },
+      {
+        "type": "tip",
+        "en": "**Watch out!**\n• Short adverbs like *déjà, bien, beaucoup, trop, encore* usually go **between** avoir and the participle: *J'ai **déjà** mangé.* *Tu as **bien** dormi ?*\n• *eu* (from avoir) is pronounced like the French letter **u** [y], not like *euh*.\n• *dû* keeps its circumflex accent so it isn't confused with *du* (some / of the).\n• Don't confuse *j'ai parlé* [e] (passé composé) with *je parlais* [ɛ] (imparfait, lesson 3): open your mouth a little more for -ais.",
+        "zh": "**注意！**\n• *déjà、bien、beaucoup、trop、encore* 等短副词通常放在 avoir 和过去分词**之间**：*J'ai **déjà** mangé.*（我已经吃过了。）*Tu as **bien** dormi ?*（你睡得好吗？）\n• *eu*（avoir 的过去分词）读作法语字母 **u** 的音 [y]，不读 *euh*。\n• *dû* 保留长音符，以免和 *du*（部分冠词 / de + le）混淆。\n• 不要把 *j'ai parlé* [e]（复合过去时）和 *je parlais* [ɛ]（未完成过去时，第 3 课）混淆：读 -ais 时嘴巴张得稍大一些。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "mcq",
+        "prompt": "Choose the past participle of « prendre ». / 选出 « prendre » 的过去分词。",
+        "options": [
+          "prendu",
+          "prendé",
+          "pris",
+          "prit"
+        ],
+        "answer": 2,
+        "explanationEn": "prendre is irregular: its participle is pris (also appris, compris).",
+        "explanationZh": "prendre 是不规则动词，过去分词是 pris（apprendre → appris、comprendre → compris 同理）。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Hier soir, nous ___ un film à la télé.",
+        "answers": [
+          "avons vu"
+        ],
+        "hint": "(voir)",
+        "en": "Last night we watched a film on TV.",
+        "zh": "昨晚我们在电视上看了一部电影。"
+      },
+      {
+        "type": "fill",
+        "prompt": "J'___ mes devoirs après l'école.",
+        "answers": [
+          "ai fait"
+        ],
+        "hint": "(faire)",
+        "en": "I did my homework after school.",
+        "zh": "我放学后做了作业。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Elle ___ le bus de 8 heures.",
+        "answers": [
+          "a pris"
+        ],
+        "hint": "(prendre)",
+        "en": "She took the 8 o'clock bus.",
+        "zh": "她坐了八点的公交车。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Which negative sentence is correct? / 哪个否定句是正确的？",
+        "options": [
+          "Je n'ai mangé pas.",
+          "Je ne pas ai mangé.",
+          "Je ne mangé pas.",
+          "Je n'ai pas mangé."
+        ],
+        "answer": 3,
+        "explanationEn": "ne … pas surrounds the auxiliary: n'ai pas + participle.",
+        "explanationZh": "ne … pas 包住助动词：n'ai pas + 过去分词。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Je n'ai pas ___ le temps de manger.",
+        "answers": [
+          "eu"
+        ],
+        "hint": "(avoir)",
+        "en": "I didn't have time to eat.",
+        "zh": "我没有时间吃饭。"
+      },
+      {
+        "type": "listen",
+        "text": "J'ai fini mon travail à six heures.",
+        "options": [
+          "Je finis mon travail à six heures.",
+          "J'ai fini mon travail à six heures.",
+          "Je finirai mon travail à six heures.",
+          "J'ai fini mon travail à dix heures."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "mcq",
+        "prompt": "Complete / 填空: « Vous ___ attendre longtemps ? » (devoir)",
+        "options": [
+          "avez dû",
+          "êtes dû",
+          "avez du",
+          "avez devu"
+        ],
+        "answer": 0,
+        "explanationEn": "devoir takes avoir, and its participle is dû, with a circumflex accent.",
+        "explanationZh": "devoir 用 avoir 作助动词，过去分词是带长音符的 dû。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Mes parents ___ leur maison l'année dernière.",
+        "answers": [
+          "ont vendu"
+        ],
+        "hint": "(vendre)",
+        "en": "My parents sold their house last year.",
+        "zh": "我父母去年卖掉了他们的房子。"
+      },
+      {
+        "type": "listen",
+        "text": "Nous avons mis la table.",
+        "options": [
+          "Nous mettons la table.",
+          "Nous allons mettre la table.",
+          "Vous avez mis la table.",
+          "Nous avons mis la table."
+        ],
+        "answer": 3
+      },
+      {
+        "type": "order",
+        "words": [
+          "Nous",
+          "l'été",
+          "dernier.",
+          "visité",
+          "avons",
+          "Montréal"
+        ],
+        "answer": "Nous avons visité Montréal l'été dernier.",
+        "en": "We visited Montreal last summer.",
+        "zh": "我们去年夏天游览了蒙特利尔。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Which expression fits? / 哪个时间表达合适？ « ___, j'ai téléphoné à ma sœur. »",
+        "options": [
+          "Demain",
+          "Hier soir",
+          "La semaine prochaine",
+          "Dans deux jours"
+        ],
+        "answer": 1,
+        "explanationEn": "The passé composé describes the past, so we need a past time marker: hier soir (last night).",
+        "explanationZh": "复合过去时表示过去，所以要用表示过去的时间词：hier soir（昨晚）。"
+      },
+      {
+        "type": "order",
+        "words": [
+          "Elle",
+          "avec",
+          "voulu",
+          "pas",
+          "nous.",
+          "n'a",
+          "venir"
+        ],
+        "answer": "Elle n'a pas voulu venir avec nous.",
+        "en": "She didn't want to come with us.",
+        "zh": "她不愿意和我们一起来。"
+      }
+    ]
+  },
+  {
+    "id": "a2-02",
+    "level": "A2",
+    "titleFr": "Le passé composé avec être",
+    "titleEn": "The passé composé with être",
+    "titleZh": "复合过去时（助动词 être）",
+    "goalsEn": [
+      "Recognize the verbs that use être (DR MRS VANDERTRAMP)",
+      "Make the past participle agree with the subject",
+      "Use pronominal (reflexive) verbs in the passé composé"
+    ],
+    "goalsZh": [
+      "认识用 être 作助动词的动词（DR MRS VANDERTRAMP）",
+      "让过去分词与主语性数配合",
+      "在复合过去时中使用代词式（自反）动词"
+    ],
+    "sections": [
+      {
+        "type": "text",
+        "en": "A small group of verbs uses **être** instead of avoir in the passé composé. Most of them describe **movement** (going, coming, leaving, arriving) or a **change of state** (being born, dying, becoming).\n\nAll **pronominal verbs** (verbs with *se*, like *se lever*) also use être.\n\nA classic way to remember the list is the acronym **DR MRS VANDERTRAMP**.",
+        "zh": "有一小部分动词在复合过去时中用 **être** 而不用 avoir 作助动词。它们大多表示**位置移动**（去、来、离开、到达）或**状态变化**（出生、死亡、变成）。\n\n所有**代词式动词**（带 *se* 的动词，如 *se lever*）也都用 être。\n\n一个经典的记忆方法是首字母缩写 **DR MRS VANDERTRAMP**。"
+      },
+      {
+        "type": "table",
+        "caption": "DR MRS VANDERTRAMP + passer",
+        "headers": [
+          "Letter / 字母",
+          "Verb / 动词",
+          "Participle / 分词",
+          "Meaning / 意思"
+        ],
+        "rows": [
+          [
+            "D",
+            "devenir",
+            "devenu",
+            "to become / 变成"
+          ],
+          [
+            "R",
+            "revenir",
+            "revenu",
+            "to come back / 回来"
+          ],
+          [
+            "M",
+            "monter",
+            "monté",
+            "to go up / 上去"
+          ],
+          [
+            "R",
+            "rester",
+            "resté",
+            "to stay / 停留"
+          ],
+          [
+            "S",
+            "sortir",
+            "sorti",
+            "to go out / 出去"
+          ],
+          [
+            "V",
+            "venir",
+            "venu",
+            "to come / 来"
+          ],
+          [
+            "A",
+            "aller",
+            "allé",
+            "to go / 去"
+          ],
+          [
+            "N",
+            "naître",
+            "né",
+            "to be born / 出生"
+          ],
+          [
+            "D",
+            "descendre",
+            "descendu",
+            "to go down / 下去"
+          ],
+          [
+            "E",
+            "entrer",
+            "entré",
+            "to enter / 进入"
+          ],
+          [
+            "R",
+            "rentrer",
+            "rentré",
+            "to go back home / 回家"
+          ],
+          [
+            "T",
+            "tomber",
+            "tombé",
+            "to fall / 摔倒、掉落"
+          ],
+          [
+            "R",
+            "retourner",
+            "retourné",
+            "to return / 返回"
+          ],
+          [
+            "A",
+            "arriver",
+            "arrivé",
+            "to arrive / 到达"
+          ],
+          [
+            "M",
+            "mourir",
+            "mort",
+            "to die / 死亡"
+          ],
+          [
+            "P",
+            "partir",
+            "parti",
+            "to leave / 离开"
+          ],
+          [
+            "+",
+            "passer (par)",
+            "passé",
+            "to pass by / 经过"
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "en": "With être, the past participle **agrees with the subject**, like an adjective:\n• feminine → add **-e**: *elle est allé**e***\n• masculine plural → add **-s**: *ils sont allé**s***\n• feminine plural → add **-es**: *elles sont allé**es***\n\nA mixed group (men + women) takes the masculine plural. In most cases the agreement is **only visible in writing**: *allé, allée, allés* all sound the same.",
+        "zh": "用 être 时，过去分词要像形容词一样**与主语性数配合**：\n• 阴性 → 加 **-e**：*elle est allé**e***\n• 阳性复数 → 加 **-s**：*ils sont allé**s***\n• 阴性复数 → 加 **-es**：*elles sont allé**es***\n\n男女混合的群体用阳性复数。大多数情况下，配合**只在书写上体现**：*allé、allée、allés* 读音完全相同。"
+      },
+      {
+        "type": "table",
+        "caption": "aller in the passé composé / aller 的复合过去时",
+        "headers": [
+          "Pronoun / 人称",
+          "être",
+          "Participle / 分词",
+          "Meaning / 意思"
+        ],
+        "rows": [
+          [
+            "je",
+            "suis",
+            "allé(e)",
+            "I went / 我去了"
+          ],
+          [
+            "tu",
+            "es",
+            "allé(e)",
+            "you went / 你去了"
+          ],
+          [
+            "il",
+            "est",
+            "allé",
+            "he went / 他去了"
+          ],
+          [
+            "elle",
+            "est",
+            "allée",
+            "she went / 她去了"
+          ],
+          [
+            "on",
+            "est",
+            "allé(e)s",
+            "we went / 我们去了"
+          ],
+          [
+            "nous",
+            "sommes",
+            "allé(e)s",
+            "we went / 我们去了"
+          ],
+          [
+            "vous",
+            "êtes",
+            "allé(e)(s)",
+            "you went / 您/你们去了"
+          ],
+          [
+            "ils",
+            "sont",
+            "allés",
+            "they went (m.) / 他们去了"
+          ],
+          [
+            "elles",
+            "sont",
+            "allées",
+            "they went (f.) / 她们去了"
+          ]
+        ]
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "fr": "Je suis arrivé au Canada en 2023.",
+            "en": "I arrived in Canada in 2023.",
+            "zh": "我 2023 年来到了加拿大。"
+          },
+          {
+            "fr": "Ma sœur est née à Shanghai.",
+            "en": "My sister was born in Shanghai.",
+            "zh": "我姐姐出生在上海。"
+          },
+          {
+            "fr": "Nous sommes allés au cinéma samedi.",
+            "en": "We went to the cinema on Saturday.",
+            "zh": "我们星期六去看了电影。"
+          },
+          {
+            "fr": "Les enfants sont sortis jouer dehors.",
+            "en": "The children went outside to play.",
+            "zh": "孩子们出去外面玩了。"
+          },
+          {
+            "fr": "Elles sont restées à la maison à cause de la neige.",
+            "en": "They (f.) stayed home because of the snow.",
+            "zh": "因为下雪，她们待在了家里。"
+          },
+          {
+            "fr": "Il est tombé dans l'escalier.",
+            "en": "He fell on the stairs.",
+            "zh": "他在楼梯上摔倒了。"
+          },
+          {
+            "fr": "Vous êtes partis à quelle heure ?",
+            "en": "What time did you leave?",
+            "zh": "你们几点出发的？"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "en": "**Pronominal verbs** (*se lever, se réveiller, s'habiller, se promener, s'amuser, se coucher…*) always use être. The reflexive pronoun stays **before** the auxiliary, and the participle agrees with the subject.\n\n*Je **me suis** levé(e) à 7 heures.*\n\nIn the negative, *ne … pas* surrounds the pronoun + auxiliary:\n*Elle **ne** s'est **pas** réveillée.*",
+        "zh": "**代词式动词**（*se lever、se réveiller、s'habiller、se promener、s'amuser、se coucher* 等）一律用 être。自反代词放在助动词**之前**，过去分词与主语配合。\n\n*Je **me suis** levé(e) à 7 heures.*（我 7 点起床了。）\n\n否定时，*ne … pas* 包住“代词 + 助动词”：\n*Elle **ne** s'est **pas** réveillée.*（她没醒。）"
+      },
+      {
+        "type": "table",
+        "caption": "se lever in the passé composé / se lever 的复合过去时",
+        "headers": [
+          "Affirmative / 肯定",
+          "Negative / 否定"
+        ],
+        "rows": [
+          [
+            "je me suis levé(e)",
+            "je ne me suis pas levé(e)"
+          ],
+          [
+            "tu t'es levé(e)",
+            "tu ne t'es pas levé(e)"
+          ],
+          [
+            "il s'est levé / elle s'est levée",
+            "il ne s'est pas levé / elle ne s'est pas levée"
+          ],
+          [
+            "nous nous sommes levé(e)s",
+            "nous ne nous sommes pas levé(e)s"
+          ],
+          [
+            "vous vous êtes levé(e)(s)",
+            "vous ne vous êtes pas levé(e)(s)"
+          ],
+          [
+            "ils se sont levés / elles se sont levées",
+            "ils ne se sont pas levés / elles ne se sont pas levées"
+          ]
+        ]
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "fr": "Ce matin, je me suis réveillée très tôt.",
+            "en": "This morning I (f.) woke up very early.",
+            "zh": "今天早上我（女性）醒得很早。"
+          },
+          {
+            "fr": "Nous nous sommes promenés au bord du lac.",
+            "en": "We went for a walk by the lake.",
+            "zh": "我们在湖边散了步。"
+          },
+          {
+            "fr": "Tu t'es bien amusé à la fête ?",
+            "en": "Did you have fun at the party?",
+            "zh": "你在聚会上玩得开心吗？"
+          },
+          {
+            "fr": "Ils se sont mariés l'année dernière.",
+            "en": "They got married last year.",
+            "zh": "他们去年结婚了。"
+          },
+          {
+            "fr": "Elle ne s'est pas couchée avant minuit.",
+            "en": "She didn't go to bed before midnight.",
+            "zh": "她半夜之前没睡。"
+          }
+        ]
+      },
+      {
+        "type": "tip",
+        "en": "**Common mistakes**\n• ✗ *J'ai allé* → ✓ *Je **suis** allé(e)*. ✗ *Il a venu* → ✓ *Il **est** venu*.\n• *monter, descendre, sortir, rentrer, passer, retourner* take **avoir** when they have a direct object: *Je **suis** monté.* (I went up) but *J'**ai** monté les valises.* (I carried the suitcases up).\n• *mort* (mourir) is a case where agreement changes the sound: *il est mort* [mɔʁ] / *elle est morte* [mɔʁt].",
+        "zh": "**常见错误**\n• ✗ *J'ai allé* → ✓ *Je **suis** allé(e)*；✗ *Il a venu* → ✓ *Il **est** venu*。\n• *monter、descendre、sortir、rentrer、passer、retourner* 后面带直接宾语时改用 **avoir**：*Je **suis** monté.*（我上楼了）但 *J'**ai** monté les valises.*（我把行李箱搬上楼了）。\n• *mort*（mourir 的分词）的配合会改变读音：*il est mort* [mɔʁ] / *elle est morte* [mɔʁt]。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "mcq",
+        "prompt": "Choose the auxiliary / 选择助动词: « Elle ___ arrivée à Toronto lundi. »",
+        "options": [
+          "a",
+          "est",
+          "ai",
+          "es"
+        ],
+        "answer": 1,
+        "explanationEn": "arriver is a DR MRS VANDERTRAMP verb, so it takes être: elle est arrivée.",
+        "explanationZh": "arriver 属于 DR MRS VANDERTRAMP 动词，用 être：elle est arrivée。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Nous ___ au marché samedi matin.",
+        "answers": [
+          "sommes allés",
+          "sommes allées",
+          "sommes allé(e)s"
+        ],
+        "hint": "(aller)",
+        "en": "We went to the market on Saturday morning.",
+        "zh": "我们星期六早上去了市场。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Marie ___ à 6 heures ce matin.",
+        "answers": [
+          "s'est levée"
+        ],
+        "hint": "(se lever)",
+        "en": "Marie got up at 6 this morning.",
+        "zh": "玛丽今天早上 6 点起床。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Which sentence is correct? / 哪个句子正确？",
+        "options": [
+          "Ils ont partis hier.",
+          "Ils sont parti hier.",
+          "Ils ont parti hier.",
+          "Ils sont partis hier."
+        ],
+        "answer": 3,
+        "explanationEn": "partir takes être, and the participle agrees with ils (masculine plural): partis.",
+        "explanationZh": "partir 用 être，过去分词与 ils（阳性复数）配合：partis。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Mes sœurs ___ en retard au mariage.",
+        "answers": [
+          "sont arrivées"
+        ],
+        "hint": "(arriver)",
+        "en": "My sisters arrived late at the wedding.",
+        "zh": "我的姐妹们参加婚礼迟到了。"
+      },
+      {
+        "type": "listen",
+        "text": "Elle est née à Québec.",
+        "options": [
+          "Elle est venue à Québec.",
+          "Elle est allée à Québec.",
+          "Elle est née à Québec.",
+          "Elle est restée à Québec."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "mcq",
+        "prompt": "Which verb uses avoir in the passé composé? / 哪个动词在复合过去时中用 avoir？",
+        "options": [
+          "manger",
+          "venir",
+          "tomber",
+          "rester"
+        ],
+        "answer": 0,
+        "explanationEn": "venir, tomber and rester are on the être list; manger takes avoir: j'ai mangé.",
+        "explanationZh": "venir、tomber、rester 都用 être；manger 用 avoir：j'ai mangé。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Complete / 填空: « Les enfants sont ___ dans le jardin. » (sortir)",
+        "options": [
+          "sorti",
+          "sortis",
+          "sortie",
+          "sorties"
+        ],
+        "answer": 1,
+        "explanationEn": "les enfants is masculine plural (or a mixed group), so add -s: sortis.",
+        "explanationZh": "les enfants 是阳性复数（或男女混合），所以加 -s：sortis。"
+      },
+      {
+        "type": "listen",
+        "text": "Je me suis réveillé tard.",
+        "options": [
+          "Je me réveille tard.",
+          "Je me réveillais tard.",
+          "Je me réveillerai tard.",
+          "Je me suis réveillé tard."
+        ],
+        "answer": 3
+      },
+      {
+        "type": "order",
+        "words": [
+          "sommes",
+          "très",
+          "hier",
+          "soir.",
+          "Nous",
+          "tard",
+          "rentrés"
+        ],
+        "answer": "Nous sommes rentrés très tard hier soir.",
+        "en": "We came home very late last night.",
+        "zh": "我们昨晚很晚才回家。"
+      },
+      {
+        "type": "order",
+        "words": [
+          "pas",
+          "s'est",
+          "ne",
+          "Elle",
+          "reposée",
+          "week-end.",
+          "ce"
+        ],
+        "answer": "Elle ne s'est pas reposée ce week-end.",
+        "en": "She didn't rest this weekend.",
+        "zh": "她这个周末没有休息。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Je ___ chez moi tout le week-end.",
+        "answers": [
+          "suis resté",
+          "suis restée",
+          "suis resté(e)"
+        ],
+        "hint": "(rester)",
+        "en": "I stayed home all weekend.",
+        "zh": "我整个周末都待在家里。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Choose the auxiliary / 选择助动词: « J'___ monté les valises au troisième étage. »",
+        "options": [
+          "suis",
+          "ai"
+        ],
+        "answer": 1,
+        "explanationEn": "Here monter has a direct object (les valises), so it takes avoir.",
+        "explanationZh": "这里 monter 带有直接宾语（les valises），所以用 avoir。"
+      }
+    ]
+  },
+  {
+    "id": "a2-03",
+    "level": "A2",
+    "titleFr": "L'imparfait",
+    "titleEn": "The imperfect tense (imparfait)",
+    "titleZh": "未完成过去时",
+    "goalsEn": [
+      "Form the imparfait from the nous form of the present",
+      "Describe people, places, weather and feelings in the past",
+      "Talk about past habits (what you used to do)"
+    ],
+    "goalsZh": [
+      "用现在时 nous 的变位构成未完成过去时",
+      "描述过去的人物、地点、天气和感受",
+      "谈论过去的习惯（以前常做的事）"
+    ],
+    "sections": [
+      {
+        "type": "text",
+        "en": "The **imparfait** is the second main past tense. Where the passé composé tells **what happened**, the imparfait describes **how things were**:\n• descriptions: people, places, weather, age, feelings\n• **habits** and repeated actions (*used to…*, *would…*)\n• actions **in progress** in the past (*was doing…*)\n\nThink of it as the background of a picture, with no clear beginning or end.",
+        "zh": "**未完成过去时（imparfait）**是另一个主要的过去时。复合过去时讲**发生了什么**，而未完成过去时描述**当时是什么样子**：\n• 描述：人物、地点、天气、年龄、感受\n• 过去的**习惯**和反复发生的动作（“以前常常……”）\n• 过去**正在进行**的动作（“当时正在……”）\n\n可以把它想象成一幅画的背景，没有明确的开始和结束。"
+      },
+      {
+        "type": "text",
+        "en": "**Formation: one rule for almost every verb**\n1. Take the **nous** form of the present: *nous **parl**ons*\n2. Remove **-ons**: *parl-*\n3. Add the endings **-ais, -ais, -ait, -ions, -iez, -aient**.\n\nThe only irregular stem is **être → ét-** (*j'étais*).",
+        "zh": "**构成：几乎所有动词都适用一条规则**\n1. 取现在时 **nous** 的变位：*nous **parl**ons*\n2. 去掉 **-ons**：*parl-*\n3. 加上词尾 **-ais、-ais、-ait、-ions、-iez、-aient**。\n\n唯一不规则的词根是 **être → ét-**（*j'étais*）。"
+      },
+      {
+        "type": "table",
+        "caption": "From nous to the imparfait / 从 nous 到未完成过去时",
+        "headers": [
+          "Infinitive / 不定式",
+          "nous (présent)",
+          "Stem / 词根",
+          "je (imparfait)"
+        ],
+        "rows": [
+          [
+            "parler",
+            "nous parlons",
+            "parl-",
+            "je parlais"
+          ],
+          [
+            "finir",
+            "nous finissons",
+            "finiss-",
+            "je finissais"
+          ],
+          [
+            "prendre",
+            "nous prenons",
+            "pren-",
+            "je prenais"
+          ],
+          [
+            "faire",
+            "nous faisons",
+            "fais-",
+            "je faisais"
+          ],
+          [
+            "avoir",
+            "nous avons",
+            "av-",
+            "j'avais"
+          ],
+          [
+            "aller",
+            "nous allons",
+            "all-",
+            "j'allais"
+          ],
+          [
+            "boire",
+            "nous buvons",
+            "buv-",
+            "je buvais"
+          ],
+          [
+            "être",
+            "nous sommes",
+            "ét- (irregular / 不规则)",
+            "j'étais"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "caption": "Full conjugation / 完整变位",
+        "headers": [
+          "Pronoun / 人称",
+          "Ending / 词尾",
+          "habiter",
+          "être"
+        ],
+        "rows": [
+          [
+            "je (j')",
+            "-ais",
+            "j'habitais",
+            "j'étais"
+          ],
+          [
+            "tu",
+            "-ais",
+            "tu habitais",
+            "tu étais"
+          ],
+          [
+            "il / elle / on",
+            "-ait",
+            "il habitait",
+            "il était"
+          ],
+          [
+            "nous",
+            "-ions",
+            "nous habitions",
+            "nous étions"
+          ],
+          [
+            "vous",
+            "-iez",
+            "vous habitiez",
+            "vous étiez"
+          ],
+          [
+            "ils / elles",
+            "-aient",
+            "ils habitaient",
+            "ils étaient"
+          ]
+        ]
+      },
+      {
+        "type": "tip",
+        "en": "**Pronunciation and spelling**\n• *-ais, -ait, -aient* all sound exactly the same [ɛ]: *je parlais, il parlait, ils parlaient*.\n• Verbs in **-ger** keep an *e* before *a* to keep the soft g: *je mang**e**ais* (but *nous mangions*).\n• Verbs in **-cer** use *ç* before *a*: *je commen**ç**ais* (but *nous commencions*).\n• Verbs in **-ier** have a double i with nous/vous: *nous étud**ii**ons*.",
+        "zh": "**发音和拼写**\n• *-ais、-ait、-aient* 读音完全相同 [ɛ]：*je parlais、il parlait、ils parlaient*。\n• 以 **-ger** 结尾的动词在 *a* 前保留 *e*，以保持软音 g：*je mang**e**ais*（但 *nous mangions*）。\n• 以 **-cer** 结尾的动词在 *a* 前用 *ç*：*je commen**ç**ais*（但 *nous commencions*）。\n• 以 **-ier** 结尾的动词，nous/vous 形式有两个 i：*nous étud**ii**ons*。"
+      },
+      {
+        "type": "text",
+        "en": "**When to use the imparfait**\n1. **Description** in the past: *Il faisait froid. La maison était petite. J'avais dix ans.*\n2. **Habits**: *Le dimanche, nous allions chez mes grands-parents.*\n3. **Ongoing actions / background**: *Je regardais la télé…*\n4. **Polite requests**: *Je voulais vous demander quelque chose.*\n\n**Signal words:** *avant* (before, in the past), *autrefois* (in the old days), *d'habitude* (usually), *souvent* (often), *tous les jours* (every day), *le lundi* (on Mondays), *quand j'étais petit(e)* (when I was little).",
+        "zh": "**什么时候用未完成过去时**\n1. **描述**过去：*Il faisait froid.*（当时天很冷。）*La maison était petite.*（房子很小。）*J'avais dix ans.*（我当时十岁。）\n2. **习惯**：*Le dimanche, nous allions chez mes grands-parents.*（以前每个星期天我们都去祖父母家。）\n3. **正在进行的动作 / 背景**：*Je regardais la télé…*（我当时正在看电视……）\n4. **委婉的请求**：*Je voulais vous demander quelque chose.*（我想问您一件事。）\n\n**标志词：** *avant*（以前）、*autrefois*（从前）、*d'habitude*（通常）、*souvent*（经常）、*tous les jours*（每天）、*le lundi*（每逢星期一）、*quand j'étais petit(e)*（我小时候）。"
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "fr": "Quand j'étais petite, j'habitais à Chengdu.",
+            "en": "When I (f.) was little, I lived in Chengdu.",
+            "zh": "我小时候住在成都。"
+          },
+          {
+            "fr": "Il faisait très froid et il neigeait.",
+            "en": "It was very cold and it was snowing.",
+            "zh": "当时天很冷，还在下雪。"
+          },
+          {
+            "fr": "Mon premier appartement était petit mais lumineux.",
+            "en": "My first apartment was small but bright.",
+            "zh": "我的第一套公寓很小，但很明亮。"
+          },
+          {
+            "fr": "Mon grand-père avait les cheveux blancs et portait toujours un chapeau.",
+            "en": "My grandfather had white hair and always wore a hat.",
+            "zh": "我爷爷头发花白，总是戴着一顶帽子。"
+          },
+          {
+            "fr": "Nous étions fatigués mais contents.",
+            "en": "We were tired but happy.",
+            "zh": "我们很累，但很开心。"
+          }
+        ]
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "fr": "Avant, je prenais le métro tous les jours.",
+            "en": "Before, I used to take the metro every day.",
+            "zh": "以前我每天都坐地铁。"
+          },
+          {
+            "fr": "Le samedi, ma mère faisait des raviolis chinois.",
+            "en": "On Saturdays, my mother used to make Chinese dumplings.",
+            "zh": "以前每到星期六，我妈妈都会包饺子。"
+          },
+          {
+            "fr": "D'habitude, nous allions à la plage en juillet.",
+            "en": "We usually went to the beach in July.",
+            "zh": "我们以前通常七月去海边。"
+          },
+          {
+            "fr": "Tu jouais d'un instrument quand tu étais jeune ?",
+            "en": "Did you play an instrument when you were young?",
+            "zh": "你年轻的时候弹过乐器吗？"
+          },
+          {
+            "fr": "Autrefois, les gens écrivaient beaucoup de lettres.",
+            "en": "In the old days, people wrote a lot of letters.",
+            "zh": "从前，人们常常写信。"
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "mcq",
+        "prompt": "What is the imparfait stem of « finir »? / « finir » 的未完成过去时词根是什么？",
+        "options": [
+          "fin-",
+          "fini-",
+          "finiss-",
+          "finir-"
+        ],
+        "answer": 2,
+        "explanationEn": "nous finissons → remove -ons → finiss- (je finissais).",
+        "explanationZh": "nous finissons → 去掉 -ons → finiss-（je finissais）。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Quand j'étais petit, je ___ au tennis tous les samedis.",
+        "answers": [
+          "jouais"
+        ],
+        "hint": "(jouer)",
+        "en": "When I was little, I played tennis every Saturday.",
+        "zh": "我小时候每个星期六都打网球。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Il ___ très froid ce jour-là.",
+        "answers": [
+          "faisait"
+        ],
+        "hint": "(faire)",
+        "en": "It was very cold that day.",
+        "zh": "那天非常冷。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Nous ___ dans un petit appartement à Ottawa.",
+        "answers": [
+          "habitions"
+        ],
+        "hint": "(habiter)",
+        "en": "We lived in a small apartment in Ottawa.",
+        "zh": "我们以前住在渥太华的一套小公寓里。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Avant, mes parents ___ beaucoup de thé.",
+        "answers": [
+          "buvaient"
+        ],
+        "hint": "(boire)",
+        "en": "My parents used to drink a lot of tea.",
+        "zh": "以前我父母喝很多茶。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Imparfait of « être » with vous: / « être » 的未完成过去时（vous）：",
+        "options": [
+          "vous seriez",
+          "vous êtiez",
+          "vous étez",
+          "vous étiez"
+        ],
+        "answer": 3,
+        "explanationEn": "être has the irregular stem ét- + the regular ending -iez: vous étiez.",
+        "explanationZh": "être 的不规则词根 ét- 加规则词尾 -iez：vous étiez。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Which sentence describes a past habit? / 哪个句子描述过去的习惯？",
+        "options": [
+          "Hier, j'ai pris le métro.",
+          "Le lundi, je prenais le métro.",
+          "Demain, je prendrai le métro.",
+          "Je prends le métro maintenant."
+        ],
+        "answer": 1,
+        "explanationEn": "« Le lundi » (on Mondays) + imparfait = a repeated action in the past.",
+        "explanationZh": "« Le lundi »（每逢星期一）+ 未完成过去时 = 过去反复发生的动作。"
+      },
+      {
+        "type": "listen",
+        "text": "Elle avait vingt ans.",
+        "options": [
+          "Elle a vingt ans.",
+          "Elle aura vingt ans.",
+          "Elle avait vingt ans.",
+          "Elle a eu vingt ans."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "listen",
+        "text": "Nous mangions toujours ensemble.",
+        "options": [
+          "Nous mangions toujours ensemble.",
+          "Nous mangeons toujours ensemble.",
+          "Nous avons mangé ensemble.",
+          "Nous mangerons toujours ensemble."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "order",
+        "words": [
+          "le",
+          "Il",
+          "brillait.",
+          "et",
+          "soleil",
+          "faisait",
+          "beau"
+        ],
+        "answer": "Il faisait beau et le soleil brillait.",
+        "en": "The weather was nice and the sun was shining.",
+        "zh": "天气很好，阳光灿烂。"
+      },
+      {
+        "type": "order",
+        "words": [
+          "j'étais",
+          "enfant,",
+          "campagne.",
+          "la",
+          "Quand",
+          "à",
+          "j'habitais"
+        ],
+        "answer": "Quand j'étais enfant, j'habitais à la campagne.",
+        "en": "When I was a child, I lived in the countryside.",
+        "zh": "我小时候住在乡下。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Tu ___ souvent tes grands-parents ?",
+        "answers": [
+          "voyais"
+        ],
+        "hint": "(voir)",
+        "en": "Did you often see your grandparents?",
+        "zh": "你以前经常见你的祖父母吗？"
+      },
+      {
+        "type": "fill",
+        "prompt": "Je ___ toujours mes cours à 8 heures.",
+        "answers": [
+          "commençais"
+        ],
+        "hint": "(commencer)",
+        "en": "I always started my classes at 8.",
+        "zh": "我以前总是八点开始上课。"
+      }
+    ]
+  },
+  {
+    "id": "a2-04",
+    "level": "A2",
+    "titleFr": "Passé composé ou imparfait ?",
+    "titleEn": "Passé composé or imparfait?",
+    "titleZh": "复合过去时还是未完成过去时？",
+    "goalsEn": [
+      "Decide between the passé composé and the imparfait",
+      "Tell a short story with a background and events",
+      "Recognize the signal words for each tense"
+    ],
+    "goalsZh": [
+      "判断该用复合过去时还是未完成过去时",
+      "讲述一个有背景、有事件的小故事",
+      "识别两种时态各自的标志词"
+    ],
+    "sections": [
+      {
+        "type": "text",
+        "en": "In a story, the two past tenses work as a team:\n• **Imparfait = the setting.** What was the situation? What was going on? *Il était 10 heures. Il pleuvait. Je lisais.*\n• **Passé composé = the events.** What happened? What came next? *Soudain, le téléphone a sonné. J'ai répondu.*\n\nA good test: if the sentence answers « Et après ? » (And then what happened?), it's a passé composé event.",
+        "zh": "讲故事时，两种过去时互相配合：\n• **未完成过去时 = 场景。** 当时是什么情况？正在发生什么？*Il était 10 heures. Il pleuvait. Je lisais.*（当时十点，正在下雨，我在看书。）\n• **复合过去时 = 事件。** 发生了什么？接下来呢？*Soudain, le téléphone a sonné. J'ai répondu.*（突然电话响了，我接了。）\n\n一个好方法：如果句子回答的是 « Et après ? »（然后呢？），那就是用复合过去时的事件。"
+      },
+      {
+        "type": "table",
+        "caption": "Comparison / 对比",
+        "headers": [
+          "Imparfait",
+          "Passé composé"
+        ],
+        "rows": [
+          [
+            "Description, background / 描述、背景 — *Il faisait nuit.*",
+            "Event, single action / 事件、单次动作 — *La voiture s'est arrêtée.*"
+          ],
+          [
+            "Habit / 习惯 — *Le dimanche, on mangeait chez ma grand-mère.*",
+            "One time / 一次 — *Dimanche dernier, on a mangé au restaurant.*"
+          ],
+          [
+            "Action in progress / 进行中 — *Je dormais…*",
+            "Interrupting action / 打断 — *…quand le réveil a sonné.*"
+          ],
+          [
+            "No defined end / 无明确结束 — *Elle habitait à Paris.*",
+            "Limited duration / 有限时长 — *Elle a habité à Paris pendant trois ans.*"
+          ],
+          [
+            "d'habitude, souvent, tous les jours, autrefois, avant, pendant que",
+            "soudain, tout à coup, un jour, hier, ce matin, une fois, d'abord, ensuite, enfin"
+          ]
+        ]
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "fr": "Je prenais ma douche quand quelqu'un a sonné à la porte.",
+            "en": "I was taking a shower when someone rang the doorbell.",
+            "zh": "我正在洗澡，这时有人按了门铃。"
+          },
+          {
+            "fr": "Nous mangions quand il y a eu une panne d'électricité.",
+            "en": "We were eating when there was a power outage.",
+            "zh": "我们正在吃饭，突然停电了。"
+          },
+          {
+            "fr": "Elle traversait la rue quand elle a vu son ancien professeur.",
+            "en": "She was crossing the street when she saw her former teacher.",
+            "zh": "她正在过马路时看到了她以前的老师。"
+          },
+          {
+            "fr": "Il pleuvait, alors nous sommes restés à l'intérieur.",
+            "en": "It was raining, so we stayed inside.",
+            "zh": "当时在下雨，所以我们待在了室内。"
+          },
+          {
+            "fr": "Pendant que je travaillais, les enfants jouaient dans le salon.",
+            "en": "While I was working, the children were playing in the living room.",
+            "zh": "我工作的时候，孩子们在客厅里玩。"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "en": "**A short story.** Read it sentence by sentence and notice how the tenses alternate: the imparfait sets the scene, the passé composé moves the action forward.",
+        "zh": "**一个小故事。** 逐句阅读，注意两种时态如何交替：未完成过去时布置场景，复合过去时推动情节发展。"
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "fr": "C'était un samedi de janvier.",
+            "en": "It was a Saturday in January.",
+            "zh": "那是一月的一个星期六。"
+          },
+          {
+            "fr": "Il faisait moins vingt et tout était blanc.",
+            "en": "It was minus twenty and everything was white.",
+            "zh": "气温零下二十度，到处一片雪白。"
+          },
+          {
+            "fr": "J'attendais le bus et j'avais très froid.",
+            "en": "I was waiting for the bus and I was very cold.",
+            "zh": "我正在等公交车，觉得非常冷。"
+          },
+          {
+            "fr": "Tout à coup, une voiture s'est arrêtée devant moi.",
+            "en": "Suddenly, a car stopped in front of me.",
+            "zh": "突然，一辆车停在了我面前。"
+          },
+          {
+            "fr": "C'était ma voisine, Mme Gagnon.",
+            "en": "It was my neighbour, Mrs. Gagnon.",
+            "zh": "原来是我的邻居加尼翁太太。"
+          },
+          {
+            "fr": "Elle a baissé la vitre et elle m'a proposé de monter.",
+            "en": "She rolled down the window and offered me a ride.",
+            "zh": "她摇下车窗，让我上车。"
+          },
+          {
+            "fr": "J'ai accepté avec plaisir, et nous sommes arrivés au centre-ville en dix minutes.",
+            "en": "I gladly accepted, and we got downtown in ten minutes.",
+            "zh": "我高兴地接受了，我们十分钟就到了市中心。"
+          }
+        ]
+      },
+      {
+        "type": "tip",
+        "en": "**Verbs that change meaning**\nSome verbs are usually in the imparfait because they describe a state, but in the passé composé they express a **moment of change**:\n• *Je savais* (I knew) → *J'ai su* (I found out)\n• *Il avait peur* (he was afraid) → *Il a eu peur* (he got scared)\n• *Je connaissais Paul* (I knew Paul) → *J'ai connu Paul en 2020* (I met Paul in 2020)\n• *Elle pouvait* (she was able to) → *Elle a pu* (she managed to)",
+        "zh": "**意思会变化的动词**\n有些动词表示状态，通常用未完成过去时；但用复合过去时时，表示**某一刻的变化**：\n• *Je savais*（我当时知道）→ *J'ai su*（我得知了）\n• *Il avait peur*（他当时很害怕）→ *Il a eu peur*（他吓了一跳）\n• *Je connaissais Paul*（我那时认识保罗）→ *J'ai connu Paul en 2020*（我 2020 年认识了保罗）\n• *Elle pouvait*（她当时能够）→ *Elle a pu*（她终于做到了）"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "mcq",
+        "prompt": "Complete / 填空: « Il ___ quand je suis sorti. » (pleuvoir)",
+        "options": [
+          "a plu",
+          "pleuvait",
+          "pleut",
+          "pleuvra"
+        ],
+        "answer": 1,
+        "explanationEn": "The rain is the background (in progress) when the event (je suis sorti) happens: imparfait.",
+        "explanationZh": "下雨是事件（je suis sorti）发生时的背景（正在进行），用未完成过去时。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Complete / 填空: « Soudain, quelqu'un ___ à la porte. » (frapper)",
+        "options": [
+          "a frappé",
+          "frappait",
+          "frappe",
+          "frappera"
+        ],
+        "answer": 0,
+        "explanationEn": "soudain (suddenly) introduces a single event: passé composé.",
+        "explanationZh": "soudain（突然）引出一个单次事件，用复合过去时。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Je ___ ma douche quand le téléphone a sonné.",
+        "answers": [
+          "prenais"
+        ],
+        "hint": "(prendre)",
+        "en": "I was taking a shower when the phone rang.",
+        "zh": "我正在洗澡，这时电话响了。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Quand nous ___ petits, nous allions à la plage chaque été.",
+        "answers": [
+          "étions"
+        ],
+        "hint": "(être)",
+        "en": "When we were little, we went to the beach every summer.",
+        "zh": "我们小时候每年夏天都去海边。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Hier soir, nous ___ un bon film.",
+        "answers": [
+          "avons regardé"
+        ],
+        "hint": "(regarder)",
+        "en": "Last night we watched a good film.",
+        "zh": "昨晚我们看了一部好电影。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Elle ___ en Chine pendant cinq ans, puis elle est venue au Canada.",
+        "answers": [
+          "a habité"
+        ],
+        "hint": "(habiter)",
+        "en": "She lived in China for five years, then she came to Canada.",
+        "zh": "她在中国住了五年，然后来到了加拿大。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Which expression usually signals the passé composé? / 哪个表达通常提示用复合过去时？",
+        "options": [
+          "d'habitude",
+          "souvent",
+          "autrefois",
+          "tout à coup"
+        ],
+        "answer": 3,
+        "explanationEn": "tout à coup (all of a sudden) marks a sudden event. The others express habits.",
+        "explanationZh": "tout à coup（突然）表示突发事件，其他三个都表示习惯。"
+      },
+      {
+        "type": "listen",
+        "text": "Il dormait quand je suis rentré.",
+        "options": [
+          "Il a dormi quand je suis rentré.",
+          "Il dort quand je rentre.",
+          "Il dormait quand je rentrais.",
+          "Il dormait quand je suis rentré."
+        ],
+        "answer": 3
+      },
+      {
+        "type": "listen",
+        "text": "Tout à coup, elle a eu peur.",
+        "options": [
+          "Tout à coup, elle avait peur.",
+          "Tout à coup, elle a peur.",
+          "Tout à coup, elle a eu peur.",
+          "Tout à coup, elle aura peur."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "order",
+        "words": [
+          "Montréal.",
+          "arrivés",
+          "neigeait",
+          "Il",
+          "nous",
+          "quand",
+          "à",
+          "sommes"
+        ],
+        "answer": "Il neigeait quand nous sommes arrivés à Montréal.",
+        "en": "It was snowing when we arrived in Montreal.",
+        "zh": "我们到达蒙特利尔时正在下雪。"
+      },
+      {
+        "type": "order",
+        "words": [
+          "devoirs.",
+          "mon",
+          "que",
+          "Pendant",
+          "faisait",
+          "fils",
+          "cuisinais,",
+          "je",
+          "ses"
+        ],
+        "answer": "Pendant que je cuisinais, mon fils faisait ses devoirs.",
+        "en": "While I was cooking, my son was doing his homework.",
+        "zh": "我做饭的时候，儿子在写作业。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "« J'ai su la nouvelle hier. » What does « j'ai su » mean? / « j'ai su » 是什么意思？",
+        "options": [
+          "I knew / 我知道",
+          "I found out / 我得知了",
+          "I used to know / 我以前知道",
+          "I will know / 我将会知道"
+        ],
+        "answer": 1,
+        "explanationEn": "savoir in the passé composé expresses the moment you learned something: I found out.",
+        "explanationZh": "savoir 用复合过去时表示“得知”的那一刻：我得知了。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Ce matin, il ___ très froid, alors j'ai mis mon gros manteau.",
+        "answers": [
+          "faisait"
+        ],
+        "hint": "(faire)",
+        "en": "This morning it was very cold, so I put on my heavy coat.",
+        "zh": "今天早上很冷，所以我穿上了厚外套。"
+      }
+    ]
+  },
+  {
+    "id": "a2-05",
+    "level": "A2",
+    "titleFr": "Les pronoms compléments d'objet direct",
+    "titleEn": "Direct object pronouns",
+    "titleZh": "直接宾语代词",
+    "goalsEn": [
+      "Identify the direct object of a verb",
+      "Replace it with me, te, le, la, l', nous, vous, les",
+      "Place the pronoun correctly (negative, infinitive, passé composé) and make the participle agree"
+    ],
+    "goalsZh": [
+      "找出动词的直接宾语",
+      "用 me、te、le、la、l'、nous、vous、les 替换直接宾语",
+      "正确放置代词（否定句、不定式、复合过去时），并让过去分词配合"
+    ],
+    "sections": [
+      {
+        "type": "text",
+        "en": "A **direct object** (COD, *complément d'objet direct*) receives the action directly, **with no preposition**. It answers the question *qui ?* (whom?) or *quoi ?* (what?).\n\n*Je regarde **la télé**.* → *Je **la** regarde.*\n*Tu connais **mes parents** ?* → *Tu **les** connais ?*\n\nUsing a pronoun avoids repeating the same noun again and again.",
+        "zh": "**直接宾语**（COD，*complément d'objet direct*）直接承受动作，**前面没有介词**。它回答 *qui ?*（谁？）或 *quoi ?*（什么？）的问题。\n\n*Je regarde **la télé**.* → *Je **la** regarde.*（我看电视 → 我看它。）\n*Tu connais **mes parents** ?* → *Tu **les** connais ?*（你认识我父母吗 → 你认识他们吗？）\n\n用代词可以避免一遍又一遍地重复同一个名词。"
+      },
+      {
+        "type": "table",
+        "caption": "Direct object pronouns / 直接宾语代词",
+        "headers": [
+          "Pronoun / 代词",
+          "Meaning / 意思",
+          "Example / 例句"
+        ],
+        "rows": [
+          [
+            "me (m')",
+            "me / 我",
+            "Il **m'**appelle tous les jours."
+          ],
+          [
+            "te (t')",
+            "you / 你",
+            "Je **te** vois demain."
+          ],
+          [
+            "le (l')",
+            "him, it (m.) / 他、它（阳性）",
+            "Le livre ? Je **le** lis."
+          ],
+          [
+            "la (l')",
+            "her, it (f.) / 她、它（阴性）",
+            "La voiture ? Je **la** prends."
+          ],
+          [
+            "nous",
+            "us / 我们",
+            "Ils **nous** invitent."
+          ],
+          [
+            "vous",
+            "you (formal, plural) / 您、你们",
+            "Je **vous** remercie."
+          ],
+          [
+            "les",
+            "them / 他们、它们",
+            "Les clés ? Je **les** cherche."
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "en": "**Where does the pronoun go?** In general, **before the verb** it belongs to:\n• **Present** (and other one-word tenses): *Je **le** connais.*\n• **Negative**: *ne* + pronoun + verb + *pas*: *Je ne **le** connais pas.*\n• **Verb + infinitive** (aller, vouloir, pouvoir, devoir…): before the infinitive: *Je vais **le** faire.* *Tu peux **m'**aider ?*\n• **Passé composé**: before avoir: *Je **l'**ai vu.*\n• **Positive command**: after the verb, with a hyphen: *Regarde-**le** !* (me → moi: *Aide-**moi** !*)",
+        "zh": "**代词放在哪里？** 一般放在它所属的**动词前面**：\n• **现在时**（及其他单个词的时态）：*Je **le** connais.*\n• **否定句**：*ne* + 代词 + 动词 + *pas*：*Je ne **le** connais pas.*\n• **动词 + 不定式**（aller、vouloir、pouvoir、devoir 等）：放在不定式前：*Je vais **le** faire.* *Tu peux **m'**aider ?*\n• **复合过去时**：放在 avoir 前：*Je **l'**ai vu.*\n• **肯定命令式**：放在动词后，用连字符连接：*Regarde-**le** !*（me 变成 moi：*Aide-**moi** !*）"
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "fr": "Tu prends le métro ? — Oui, je le prends tous les matins.",
+            "en": "Do you take the metro? — Yes, I take it every morning.",
+            "zh": "你坐地铁吗？——是的，我每天早上都坐。"
+          },
+          {
+            "fr": "Où est ma carte d'assurance maladie ? Je la cherche partout !",
+            "en": "Where is my health insurance card? I'm looking for it everywhere!",
+            "zh": "我的医保卡在哪儿？我到处找！"
+          },
+          {
+            "fr": "Je ne vous entends pas bien.",
+            "en": "I can't hear you well.",
+            "zh": "我听不太清您说话。"
+          },
+          {
+            "fr": "Ces chaussures ? Je vais les essayer.",
+            "en": "These shoes? I'm going to try them on.",
+            "zh": "这双鞋？我要试一试。"
+          },
+          {
+            "fr": "Mon chef m'appelle souvent le soir.",
+            "en": "My boss often calls me in the evening.",
+            "zh": "我老板经常晚上给我打电话。"
+          },
+          {
+            "fr": "Les devoirs ? Fais-les maintenant !",
+            "en": "The homework? Do it now!",
+            "zh": "作业？现在就做！"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "en": "**Passé composé + direct object pronoun: agreement!**\nWhen a direct object pronoun comes **before avoir**, the past participle agrees with it in gender and number:\n*J'ai vu **Marie**.* → *Je **l'**ai vu**e**.*\n*Tu as pris **les clés** ?* → *Tu **les** as pris**es** ?*\n\nMost of the time you only see it in writing, but with participles ending in a consonant you can hear it: *pris → prise* [pʁiz], *fait → faite* [fɛt], *mis → mise* [miz].",
+        "zh": "**复合过去时 + 直接宾语代词：要配合！**\n当直接宾语代词放在 **avoir 前面**时，过去分词要与这个代词性数配合：\n*J'ai vu **Marie**.* → *Je **l'**ai vu**e**.*（我看到了玛丽 → 我看到了她。）\n*Tu as pris **les clés** ?* → *Tu **les** as pris**es** ?*（你拿钥匙了吗 → 你拿了吗？）\n\n大多数情况下只在书写中体现，但以辅音结尾的分词能听出来：*pris → prise* [pʁiz]、*fait → faite* [fɛt]、*mis → mise* [miz]。"
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "fr": "La lettre ? Je l'ai envoyée hier.",
+            "en": "The letter? I sent it yesterday.",
+            "zh": "那封信？我昨天寄出去了。"
+          },
+          {
+            "fr": "Tes amis ? Je les ai rencontrés au parc.",
+            "en": "Your friends? I met them at the park.",
+            "zh": "你的朋友们？我在公园碰到他们了。"
+          },
+          {
+            "fr": "Cette photo ? Je l'ai prise à Banff.",
+            "en": "This photo? I took it in Banff.",
+            "zh": "这张照片？是我在班夫拍的。"
+          },
+          {
+            "fr": "Le film ? Nous ne l'avons pas vu.",
+            "en": "The film? We haven't seen it.",
+            "zh": "那部电影？我们没看过。"
+          },
+          {
+            "fr": "Il nous a invités chez lui.",
+            "en": "He invited us to his place.",
+            "zh": "他邀请我们去他家。"
+          }
+        ]
+      },
+      {
+        "type": "tip",
+        "en": "**Watch out!**\n• *le* and *la* become **l'** before a vowel or silent h: *Je l'aime. Je l'habille.*\n• Some verbs take a direct object in French but a preposition in English: *écouter* (listen **to**), *regarder* (look **at**), *chercher* (look **for**), *attendre* (wait **for**), *payer* (pay **for**). So *Je **l'**attends.* = I'm waiting **for him/her**.\n• Verbs with *à* + person (*parler à, téléphoner à*) do NOT use le/la/les: see the next lesson (*lui, leur*).",
+        "zh": "**注意！**\n• *le* 和 *la* 在元音或哑音 h 前变成 **l'**：*Je l'aime. Je l'habille.*\n• 有些动词在英语里需要介词，但在法语里直接带宾语：*écouter*（听）、*regarder*（看）、*chercher*（找）、*attendre*（等）、*payer*（付钱买）。所以 *Je **l'**attends.* = 我在等他/她。\n• 带 *à* + 人的动词（*parler à、téléphoner à*）不用 le/la/les：请看下一课（*lui、leur*）。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "mcq",
+        "prompt": "Choose the pronoun / 选择代词: « Tu regardes ce film ? — Oui, je ___ regarde. »",
+        "options": [
+          "la",
+          "le",
+          "les",
+          "lui"
+        ],
+        "answer": 1,
+        "explanationEn": "ce film is masculine singular → le.",
+        "explanationZh": "ce film 是阳性单数 → le。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Choose the pronoun / 选择代词: « Tu connais mes collègues ? — Oui, je ___ connais bien. »",
+        "options": [
+          "le",
+          "leur",
+          "la",
+          "les"
+        ],
+        "answer": 3,
+        "explanationEn": "mes collègues is plural and a direct object (connaître quelqu'un) → les.",
+        "explanationZh": "mes collègues 是复数，且是直接宾语（connaître quelqu'un）→ les。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Tu cherches ta clé ? — Oui, je ___ cherche partout !",
+        "answers": [
+          "la"
+        ],
+        "en": "Are you looking for your key? — Yes, I'm looking for it everywhere!",
+        "zh": "你在找钥匙吗？——是的，我到处找！"
+      },
+      {
+        "type": "fill",
+        "prompt": "Le gâteau ? Je vais ___ préparer ce soir.",
+        "answers": [
+          "le"
+        ],
+        "en": "The cake? I'm going to make it tonight.",
+        "zh": "蛋糕？我今晚做。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Les documents ? Je les ai ___ hier.",
+        "answers": [
+          "envoyés"
+        ],
+        "hint": "(envoyer)",
+        "en": "The documents? I sent them yesterday.",
+        "zh": "那些文件？我昨天发出去了。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Ta sœur ? Je l'ai ___ au supermarché.",
+        "answers": [
+          "vue"
+        ],
+        "hint": "(voir)",
+        "en": "Your sister? I saw her at the supermarket.",
+        "zh": "你姐姐？我在超市看到她了。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Replace « Paul » with a pronoun / 用代词替换 « Paul »: « Je ne connais pas Paul. »",
+        "options": [
+          "Je ne le connais pas.",
+          "Je ne connais le pas.",
+          "Je le ne connais pas.",
+          "Je ne connais pas le."
+        ],
+        "answer": 0,
+        "explanationEn": "Order: ne + pronoun + verb + pas.",
+        "explanationZh": "语序：ne + 代词 + 动词 + pas。"
+      },
+      {
+        "type": "listen",
+        "text": "Je t'attends devant la gare.",
+        "options": [
+          "Je l'attends devant la gare.",
+          "Je les attends devant la gare.",
+          "Je t'attends devant la gare.",
+          "Je vous attends devant la gare."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "listen",
+        "text": "Nous les avons invités.",
+        "options": [
+          "Nous l'avons invité.",
+          "Nous les avons invités.",
+          "Nous les invitons.",
+          "Vous les avez invités."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "order",
+        "words": [
+          "trouvées.",
+          "ai",
+          "Je",
+          "les",
+          "ne",
+          "pas"
+        ],
+        "answer": "Je ne les ai pas trouvées.",
+        "en": "I didn't find them.",
+        "zh": "我没找到它们。"
+      },
+      {
+        "type": "order",
+        "words": [
+          "voir",
+          "Elle",
+          "demain.",
+          "veut",
+          "nous"
+        ],
+        "answer": "Elle veut nous voir demain.",
+        "en": "She wants to see us tomorrow.",
+        "zh": "她想明天见我们。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Vous m'appelez ce soir ? — Oui, je ___ appelle à 20 h.",
+        "answers": [
+          "vous"
+        ],
+        "en": "Will you call me tonight? — Yes, I'll call you at 8 p.m.",
+        "zh": "您今晚给我打电话吗？——是的，我晚上八点给您打。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Choose the pronoun / 选择代词: « La radio ? Mon père ___ écoute tous les matins. »",
+        "options": [
+          "la",
+          "le",
+          "lui",
+          "l'"
+        ],
+        "answer": 3,
+        "explanationEn": "la radio is feminine, and la becomes l' before a vowel (écoute). écouter takes a direct object in French.",
+        "explanationZh": "la radio 是阴性，la 在元音（écoute）前变成 l'。法语中 écouter 直接带宾语。"
+      }
+    ]
+  },
+  {
+    "id": "a2-06",
+    "level": "A2",
+    "titleFr": "Les pronoms lui, leur, y et en",
+    "titleEn": "Indirect object pronouns (lui, leur), y and en",
+    "titleZh": "间接宾语代词（lui、leur）以及 y 和 en",
+    "goalsEn": [
+      "Replace à + a person with lui or leur",
+      "Use y for places and for à + a thing",
+      "Use en for de + a thing and for quantities"
+    ],
+    "goalsZh": [
+      "用 lui 或 leur 替换“à + 人”",
+      "用 y 替换地点以及“à + 物”",
+      "用 en 替换“de + 物”以及表示数量"
+    ],
+    "sections": [
+      {
+        "type": "text",
+        "en": "An **indirect object** (COI) is a person introduced by **à**: *Je parle **à Sophie**.* Replace it with:\n• **lui** = to him **or** to her\n• **leur** = to them\n\nFor *me, te, nous, vous*, the forms are the same as the direct object pronouns.\n\nCommon verbs with **à + person**: *parler à, téléphoner à, répondre à, écrire à, demander à, dire à, donner à, envoyer à, offrir à, montrer à, sourire à*.",
+        "zh": "**间接宾语**（COI）是由 **à** 引出的人：*Je parle **à Sophie**.*（我和索菲说话。）可以替换成：\n• **lui** = 给他 **或** 给她\n• **leur** = 给他们/她们\n\n*me、te、nous、vous* 的形式和直接宾语代词相同。\n\n常见的“动词 + **à + 人**”：*parler à、téléphoner à、répondre à、écrire à、demander à、dire à、donner à、envoyer à、offrir à、montrer à、sourire à*。"
+      },
+      {
+        "type": "table",
+        "caption": "Direct vs indirect object pronouns / 直接与间接宾语代词",
+        "headers": [
+          "Person / 人称",
+          "Direct (COD) / 直接",
+          "Indirect (COI) / 间接"
+        ],
+        "rows": [
+          [
+            "je",
+            "me (m')",
+            "me (m')"
+          ],
+          [
+            "tu",
+            "te (t')",
+            "te (t')"
+          ],
+          [
+            "il / elle",
+            "le / la (l')",
+            "lui"
+          ],
+          [
+            "nous",
+            "nous",
+            "nous"
+          ],
+          [
+            "vous",
+            "vous",
+            "vous"
+          ],
+          [
+            "ils / elles",
+            "les",
+            "leur"
+          ]
+        ]
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "fr": "Tu as téléphoné à ta mère ? — Oui, je lui ai téléphoné hier.",
+            "en": "Did you call your mother? — Yes, I called her yesterday.",
+            "zh": "你给你妈妈打电话了吗？——打了，我昨天给她打的。"
+          },
+          {
+            "fr": "Je leur écris un courriel.",
+            "en": "I'm writing them an email.",
+            "zh": "我在给他们写一封邮件。"
+          },
+          {
+            "fr": "Qu'est-ce que tu offres à ton frère ? — Je lui offre un livre.",
+            "en": "What are you giving your brother? — I'm giving him a book.",
+            "zh": "你送你弟弟什么？——我送他一本书。"
+          },
+          {
+            "fr": "Le propriétaire ne nous répond pas.",
+            "en": "The landlord isn't answering us.",
+            "zh": "房东不回复我们。"
+          },
+          {
+            "fr": "Je vais leur demander conseil.",
+            "en": "I'm going to ask them for advice.",
+            "zh": "我要去问问他们的意见。"
+          }
+        ]
+      },
+      {
+        "type": "tip",
+        "en": "**Watch out!**\n• The pronoun **leur** never takes an -s: *Je **leur** parle.* Don't confuse it with the possessive *leurs* (*leurs enfants* = their children).\n• **No agreement** with lui/leur in the passé composé: *Je **lui** ai parlé* (even if *lui* = Marie).\n• *penser à* + a person uses *à lui / à elle*, not *lui*: *Je pense **à elle**.*",
+        "zh": "**注意！**\n• 代词 **leur** 永远不加 -s：*Je **leur** parle.* 不要和主有形容词 *leurs* 混淆（*leurs enfants* = 他们的孩子们）。\n• 复合过去时中，过去分词**不与** lui/leur 配合：*Je **lui** ai parlé*（即使 *lui* 指的是玛丽）。\n• *penser à* + 人时用 *à lui / à elle*，而不是 *lui*：*Je pense **à elle**.*（我在想她。）"
+      },
+      {
+        "type": "text",
+        "en": "**y** replaces:\n• a **place** introduced by *à, en, chez, dans, sur…*: *Tu vas **à Montréal** ?* → *Oui, j'**y** vais.*\n• **à + a thing / idea**: *Tu penses **à ton entrevue** ?* → *Oui, j'**y** pense.*\n\nLike other pronouns, it goes before the verb: *Je n'**y** suis jamais allé.* *Nous allons **y** habiter.*",
+        "zh": "**y** 替换：\n• 由 *à、en、chez、dans、sur* 等引出的**地点**：*Tu vas **à Montréal** ?* → *Oui, j'**y** vais.*（你去蒙特利尔吗？——是的，我去那儿。）\n• **à + 物/事**：*Tu penses **à ton entrevue** ?* → *Oui, j'**y** pense.*（你在想面试的事吗？——是的，我在想。）\n\n和其他代词一样，y 放在动词前：*Je n'**y** suis jamais allé.*（我从没去过那里。）*Nous allons **y** habiter.*（我们将住在那里。）"
+      },
+      {
+        "type": "text",
+        "en": "**en** replaces:\n• **de + a thing** (often with *du, de la, des*): *Tu veux **du café** ?* → *Oui, j'**en** veux.*\n• a **quantity**: keep the number or quantity word at the end: *Tu as **des enfants** ?* → *Oui, j'**en** ai **deux**.* *Il y **en** a **beaucoup**.*\n• verbs with **de**, like *avoir besoin de, parler de*: *J'**en** ai besoin.*\n• **de + a place** (coming from): *Tu reviens **du bureau** ?* → *Oui, j'**en** reviens.*",
+        "zh": "**en** 替换：\n• **de + 物**（常与 *du、de la、des* 连用）：*Tu veux **du café** ?* → *Oui, j'**en** veux.*（你要咖啡吗？——要。）\n• **数量**：数字或数量词放在句末：*Tu as **des enfants** ?* → *Oui, j'**en** ai **deux**.*（你有孩子吗？——有，两个。）*Il y **en** a **beaucoup**.*（有很多。）\n• 带 **de** 的动词，如 *avoir besoin de、parler de*：*J'**en** ai besoin.*（我需要它。）\n• **de + 地点**（从……来）：*Tu reviens **du bureau** ?* → *Oui, j'**en** reviens.*（你从办公室回来吗？——是的。）"
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "fr": "Tu es déjà allé à Vancouver ? — Oui, j'y suis allé l'été dernier.",
+            "en": "Have you ever been to Vancouver? — Yes, I went there last summer.",
+            "zh": "你去过温哥华吗？——去过，我去年夏天去的。"
+          },
+          {
+            "fr": "Elle habite à Laval ? — Oui, elle y habite depuis 2021.",
+            "en": "Does she live in Laval? — Yes, she has lived there since 2021.",
+            "zh": "她住在拉瓦尔吗？——是的，她从 2021 年起就住在那儿。"
+          },
+          {
+            "fr": "Je ne veux pas y penser maintenant.",
+            "en": "I don't want to think about it now.",
+            "zh": "我现在不想去想这件事。"
+          },
+          {
+            "fr": "Il reste du lait ? — Non, il n'y en a plus.",
+            "en": "Is there any milk left? — No, there isn't any more.",
+            "zh": "还有牛奶吗？——没了。"
+          },
+          {
+            "fr": "Combien de pommes voulez-vous ? — J'en voudrais un kilo.",
+            "en": "How many apples would you like? — I'd like a kilo.",
+            "zh": "您要多少苹果？——我要一公斤。"
+          },
+          {
+            "fr": "Tu as besoin de la voiture ? — Oui, j'en ai besoin ce soir.",
+            "en": "Do you need the car? — Yes, I need it tonight.",
+            "zh": "你需要用车吗？——是的，我今晚要用。"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "caption": "Summary / 总结",
+        "headers": [
+          "Pronoun / 代词",
+          "Replaces / 替换",
+          "Example / 例句"
+        ],
+        "rows": [
+          [
+            "lui",
+            "à + one person / à + 一个人",
+            "Je **lui** parle."
+          ],
+          [
+            "leur",
+            "à + several people / à + 多个人",
+            "Je **leur** parle."
+          ],
+          [
+            "y",
+            "a place, à + thing / 地点、à + 物",
+            "J'**y** vais. J'**y** pense."
+          ],
+          [
+            "en",
+            "de + thing, a quantity / de + 物、数量",
+            "J'**en** veux. J'**en** ai trois."
+          ]
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "mcq",
+        "prompt": "Choose the pronoun / 选择代词: « Tu as téléphoné à ta mère ? — Oui, je ___ ai téléphoné. »",
+        "options": [
+          "l'",
+          "la",
+          "lui",
+          "leur"
+        ],
+        "answer": 2,
+        "explanationEn": "téléphoner à + one person → lui (for a man or a woman).",
+        "explanationZh": "téléphoner à + 一个人 → lui（男女都用）。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Choose the pronoun / 选择代词: « Tu parles souvent à tes voisins ? — Oui, je ___ parle tous les jours. »",
+        "options": [
+          "leur",
+          "les",
+          "leurs",
+          "lui"
+        ],
+        "answer": 0,
+        "explanationEn": "parler à + several people → leur, which never takes an -s.",
+        "explanationZh": "parler à + 多个人 → leur，永远不加 -s。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Tu vas à la banque ? — Oui, j'___ vais cet après-midi.",
+        "answers": [
+          "y"
+        ],
+        "en": "Are you going to the bank? — Yes, I'm going there this afternoon.",
+        "zh": "你去银行吗？——是的，我今天下午去。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Vous avez des enfants ? — Oui, nous ___ avons trois.",
+        "answers": [
+          "en"
+        ],
+        "en": "Do you have children? — Yes, we have three.",
+        "zh": "你们有孩子吗？——有，三个。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Qu'est-ce que tu offres à ton père ? — Je ___ offre une montre.",
+        "answers": [
+          "lui"
+        ],
+        "en": "What are you giving your father? — I'm giving him a watch.",
+        "zh": "你送你爸爸什么？——我送他一块手表。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Elle répond aux clients ? — Oui, elle ___ répond par courriel.",
+        "answers": [
+          "leur"
+        ],
+        "en": "Does she answer the customers? — Yes, she answers them by email.",
+        "zh": "她回复客户吗？——是的，她通过邮件回复他们。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Best answer / 最佳回答: « Tu veux du thé ? — Oui, ___ »",
+        "options": [
+          "je le veux un peu.",
+          "j'y veux un peu.",
+          "je lui veux un peu.",
+          "j'en veux un peu."
+        ],
+        "answer": 3,
+        "explanationEn": "du thé = de + a thing (partitive) → en.",
+        "explanationZh": "du thé = de + 物（部分冠词）→ en。"
+      },
+      {
+        "type": "listen",
+        "text": "Je leur ai écrit hier.",
+        "options": [
+          "Je lui ai écrit hier.",
+          "Je leur ai écrit hier.",
+          "Je l'ai écrit hier.",
+          "Je les ai écrits hier."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "listen",
+        "text": "Il y en a beaucoup.",
+        "options": [
+          "Il en a beaucoup.",
+          "Il n'y en a pas beaucoup.",
+          "Il y en a beaucoup.",
+          "Il y a beaucoup de monde."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "order",
+        "words": [
+          "encore",
+          "ai",
+          "pas",
+          "lui",
+          "répondu.",
+          "ne",
+          "Je"
+        ],
+        "answer": "Je ne lui ai pas encore répondu.",
+        "en": "I haven't answered him/her yet.",
+        "zh": "我还没有回复他/她。"
+      },
+      {
+        "type": "order",
+        "words": [
+          "kilos.",
+          "acheté",
+          "deux",
+          "Nous",
+          "avons",
+          "en"
+        ],
+        "answer": "Nous en avons acheté deux kilos.",
+        "en": "We bought two kilos (of them).",
+        "zh": "我们买了两公斤。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Best answer / 最佳回答: « Tu penses à tes vacances ? »",
+        "options": [
+          "Oui, j'y pense.",
+          "Oui, je leur pense.",
+          "Oui, je lui pense.",
+          "Oui, j'en pense."
+        ],
+        "answer": 0,
+        "explanationEn": "penser à + a thing (tes vacances) → y.",
+        "explanationZh": "penser à + 物（tes vacances）→ y。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Tu es déjà allée à Halifax ? — Non, je n'___ suis jamais allée.",
+        "answers": [
+          "y"
+        ],
+        "en": "Have you ever been to Halifax? — No, I've never been there.",
+        "zh": "你去过哈利法克斯吗？——没有，我从没去过。"
+      }
+    ]
+  },
+  {
+    "id": "a2-07",
+    "level": "A2",
+    "titleFr": "Comparer : le comparatif et le superlatif",
+    "titleEn": "Comparatives and superlatives",
+    "titleZh": "比较级和最高级",
+    "goalsEn": [
+      "Compare with plus … que, moins … que, aussi … que",
+      "Compare quantities and actions (plus de, autant de, travailler plus)",
+      "Use meilleur and mieux correctly",
+      "Say what is the best, the biggest, the least expensive"
+    ],
+    "goalsZh": [
+      "用 plus … que、moins … que、aussi … que 进行比较",
+      "比较数量和动作（plus de、autant de、travailler plus）",
+      "正确使用 meilleur 和 mieux",
+      "表达“最好的”“最大的”“最便宜的”"
+    ],
+    "sections": [
+      {
+        "type": "text",
+        "en": "To compare two things with an **adjective** or an **adverb**, put it between these words:\n• **plus** … **que** = more … than (+)\n• **moins** … **que** = less … than (−)\n• **aussi** … **que** = as … as (=)\n\nThe adjective still agrees with the noun it describes: *Ma sœur est plus grand**e** que moi.*\nAfter *que*, use stressed pronouns: *moi, toi, lui, elle, nous, vous, eux, elles*.",
+        "zh": "用**形容词**或**副词**比较两样东西时，把它放在以下词语中间：\n• **plus** … **que** = 比……更（+）\n• **moins** … **que** = 不如……（−）\n• **aussi** … **que** = 和……一样（=）\n\n形容词仍要与所修饰的名词配合：*Ma sœur est plus grand**e** que moi.*（我姐姐比我高。）\n*que* 后面用重读人称代词：*moi、toi、lui、elle、nous、vous、eux、elles*。"
+      },
+      {
+        "type": "table",
+        "caption": "Comparing / 比较",
+        "headers": [
+          "What / 比较对象",
+          "Structure / 结构",
+          "Example / 例句"
+        ],
+        "rows": [
+          [
+            "Adjective / 形容词",
+            "plus / moins / aussi + adj. + que",
+            "Montréal est **plus** grande **que** Québec."
+          ],
+          [
+            "Adverb / 副词",
+            "plus / moins / aussi + adv. + que",
+            "Il parle **moins** vite **que** toi."
+          ],
+          [
+            "Noun / 名词",
+            "plus de / moins de / autant de + noun + que",
+            "J'ai **autant de** travail **que** mon collègue."
+          ],
+          [
+            "Verb / 动词",
+            "verb + plus / moins / autant + que",
+            "Elle travaille **plus que** moi."
+          ]
+        ]
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "fr": "Le loyer est moins cher à Sherbrooke qu'à Montréal.",
+            "en": "Rent is cheaper in Sherbrooke than in Montreal.",
+            "zh": "舍布鲁克的房租比蒙特利尔便宜。"
+          },
+          {
+            "fr": "Le train est aussi rapide que l'avion sur ce trajet.",
+            "en": "The train is as fast as the plane on this route.",
+            "zh": "在这条线路上，火车和飞机一样快。"
+          },
+          {
+            "fr": "Cet hiver, il a fait plus froid que l'année dernière.",
+            "en": "This winter it was colder than last year.",
+            "zh": "今年冬天比去年更冷。"
+          },
+          {
+            "fr": "Mon fils lit plus de livres que moi.",
+            "en": "My son reads more books than I do.",
+            "zh": "我儿子读的书比我多。"
+          },
+          {
+            "fr": "Nous avons moins de temps libre qu'avant.",
+            "en": "We have less free time than before.",
+            "zh": "我们的空闲时间比以前少了。"
+          },
+          {
+            "fr": "Il dort autant que son frère.",
+            "en": "He sleeps as much as his brother.",
+            "zh": "他和他哥哥睡得一样多。"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "en": "**Irregular forms: bon and bien**\n• **bon** (good, adjective) → **meilleur(e)(s)** = better. Never say *plus bon*.\n• **bien** (well, adverb) → **mieux** = better. Never say *plus bien*.\n\n*Ce restaurant est **meilleur** que l'autre.* (adjective: describes the restaurant)\n*Elle cuisine **mieux** que moi.* (adverb: describes how she cooks)\n\n*mauvais* (bad) → *plus mauvais* or *pire* (worse).",
+        "zh": "**不规则形式：bon 和 bien**\n• **bon**（好的，形容词）→ **meilleur(e)(s)** = 更好的。不能说 *plus bon*。\n• **bien**（好地，副词）→ **mieux** = 更好地。不能说 *plus bien*。\n\n*Ce restaurant est **meilleur** que l'autre.*（这家餐厅比另一家好。形容词，修饰餐厅）\n*Elle cuisine **mieux** que moi.*（她做饭比我做得好。副词，修饰“做饭”）\n\n*mauvais*（坏的）→ *plus mauvais* 或 *pire*（更差的）。"
+      },
+      {
+        "type": "table",
+        "caption": "bon, bien, mauvais",
+        "headers": [
+          "Base / 原形",
+          "Comparative / 比较级",
+          "Superlative / 最高级"
+        ],
+        "rows": [
+          [
+            "bon (adj.)",
+            "meilleur(e)(s)",
+            "le / la / les meilleur(e)(s)"
+          ],
+          [
+            "bien (adv.)",
+            "mieux",
+            "le mieux"
+          ],
+          [
+            "mauvais (adj.)",
+            "plus mauvais / pire",
+            "le plus mauvais / le pire"
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "en": "**The superlative** (the most, the least):\n**le / la / les + plus / moins + adjective (+ de …)**\n\n*C'est la ville **la plus** chère **du** Canada.* — It's the most expensive city in Canada.\n*C'est le quartier **le moins** bruyant **de** la ville.* — It's the least noisy neighbourhood in the city.\n\nIf the adjective normally goes **before** the noun (*grand, petit, bon, beau, jeune…*), the superlative also goes before: *C'est **le plus grand** parc de la ville.*\nNote: *in* after a superlative is **de** (*du, de la, des*), not *dans*.",
+        "zh": "**最高级**（最……、最不……）：\n**le / la / les + plus / moins + 形容词 (+ de …)**\n\n*C'est la ville **la plus** chère **du** Canada.* —— 这是加拿大最贵的城市。\n*C'est le quartier **le moins** bruyant **de** la ville.* —— 这是城里最不吵的街区。\n\n如果形容词通常放在名词**前面**（*grand、petit、bon、beau、jeune* 等），最高级也放在前面：*C'est **le plus grand** parc de la ville.*（这是城里最大的公园。）\n注意：最高级后面表示“在……之中”用 **de**（*du、de la、des*），而不用 *dans*。"
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "fr": "Le Canada est le deuxième plus grand pays du monde.",
+            "en": "Canada is the second-largest country in the world.",
+            "zh": "加拿大是世界上面积第二大的国家。"
+          },
+          {
+            "fr": "C'est le meilleur café du quartier.",
+            "en": "It's the best coffee in the neighbourhood.",
+            "zh": "这是这个街区最好喝的咖啡。"
+          },
+          {
+            "fr": "Janvier est le mois le plus froid de l'année.",
+            "en": "January is the coldest month of the year.",
+            "zh": "一月是一年中最冷的月份。"
+          },
+          {
+            "fr": "Voici l'appartement le moins cher de la liste.",
+            "en": "Here is the least expensive apartment on the list.",
+            "zh": "这是清单上最便宜的公寓。"
+          },
+          {
+            "fr": "Dans notre classe, c'est Lina qui parle le mieux.",
+            "en": "In our class, Lina is the one who speaks best.",
+            "zh": "在我们班上，莉娜说得最好。"
+          }
+        ]
+      },
+      {
+        "type": "tip",
+        "en": "**Pronunciation and agreement**\n• *plus* before a consonant: [ply], *plus grand*. Before a vowel, make the liaison [plyz]: *plus intéressant*.\n• When *plus* compares actions (*Il travaille plus que moi*), it's usually pronounced [plys].\n• *meilleur* agrees: *une meilleure idée, les meilleurs amis*. *mieux* never changes.",
+        "zh": "**发音与配合**\n• *plus* 在辅音前读 [ply]：*plus grand*。在元音前要联诵，读 [plyz]：*plus intéressant*。\n• *plus* 比较动作时（*Il travaille plus que moi*），通常读 [plys]。\n• *meilleur* 要配合：*une meilleure idée、les meilleurs amis*；*mieux* 永远不变。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "mcq",
+        "prompt": "Complete / 填空 (+): « Le métro est ___ rapide ___ le bus. »",
+        "options": [
+          "plus / de",
+          "plus / que",
+          "aussi / comme",
+          "le plus / que"
+        ],
+        "answer": 1,
+        "explanationEn": "Comparative of superiority: plus + adjective + que.",
+        "explanationZh": "比较级（更……）：plus + 形容词 + que。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Complete / 填空 (bon, +): « Ce café est ___ que l'autre. »",
+        "options": [
+          "plus bon",
+          "mieux",
+          "meilleur",
+          "plus meilleur"
+        ],
+        "answer": 2,
+        "explanationEn": "bon is an adjective; its comparative is meilleur (never plus bon).",
+        "explanationZh": "bon 是形容词，比较级是 meilleur（不能说 plus bon）。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Complete / 填空 (bien, +): « Elle chante ___ que moi. »",
+        "options": [
+          "mieux",
+          "plus bien",
+          "meilleur",
+          "meilleure"
+        ],
+        "answer": 0,
+        "explanationEn": "chanter is a verb, so we need the adverb: bien → mieux.",
+        "explanationZh": "chanter 是动词，需要副词：bien → mieux。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Toronto est ___ grande que Montréal.",
+        "answers": [
+          "plus"
+        ],
+        "hint": "(+)",
+        "en": "Toronto is bigger than Montreal.",
+        "zh": "多伦多比蒙特利尔大。"
+      },
+      {
+        "type": "fill",
+        "prompt": "En hiver, il fait ___ froid à Vancouver qu'à Winnipeg.",
+        "answers": [
+          "moins"
+        ],
+        "hint": "(−)",
+        "en": "In winter, it's less cold in Vancouver than in Winnipeg.",
+        "zh": "冬天，温哥华没有温尼伯那么冷。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Ma sœur est ___ grande que moi : nous mesurons toutes les deux 1,65 m.",
+        "answers": [
+          "aussi"
+        ],
+        "hint": "(=)",
+        "en": "My sister is as tall as me: we're both 1.65 m.",
+        "zh": "我姐姐和我一样高：我们都是 1.65 米。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Cette année, j'ai ___ de travail que l'année dernière.",
+        "answers": [
+          "autant"
+        ],
+        "hint": "(=)",
+        "en": "This year I have as much work as last year.",
+        "zh": "今年我的工作和去年一样多。"
+      },
+      {
+        "type": "fill",
+        "prompt": "C'est la ___ pizza de la ville !",
+        "answers": [
+          "meilleure"
+        ],
+        "hint": "(bon, superlatif)",
+        "en": "It's the best pizza in town!",
+        "zh": "这是城里最好吃的披萨！"
+      },
+      {
+        "type": "listen",
+        "text": "C'est le quartier le plus calme de la ville.",
+        "options": [
+          "C'est le quartier le moins calme de la ville.",
+          "C'est un quartier très calme de la ville.",
+          "C'est le quartier le plus cher de la ville.",
+          "C'est le quartier le plus calme de la ville."
+        ],
+        "answer": 3
+      },
+      {
+        "type": "listen",
+        "text": "Il travaille moins que son frère.",
+        "options": [
+          "Il travaille plus que son frère.",
+          "Il travaille moins que son frère.",
+          "Il travaille autant que son frère.",
+          "Il travaille mieux que son frère."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "order",
+        "words": [
+          "est",
+          "France.",
+          "Canada",
+          "Le",
+          "la",
+          "plus",
+          "que",
+          "grand"
+        ],
+        "answer": "Le Canada est plus grand que la France.",
+        "en": "Canada is bigger than France.",
+        "zh": "加拿大比法国大。"
+      },
+      {
+        "type": "order",
+        "words": [
+          "C'est",
+          "meilleur",
+          "du",
+          "le",
+          "quartier.",
+          "restaurant"
+        ],
+        "answer": "C'est le meilleur restaurant du quartier.",
+        "en": "It's the best restaurant in the neighbourhood.",
+        "zh": "这是这个街区最好的餐厅。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Complete / 填空 (most populous): « Toronto est ___ du Canada. »",
+        "options": [
+          "la ville plus peuplée",
+          "la plus ville peuplée",
+          "la ville le plus peuplée",
+          "la ville la plus peuplée"
+        ],
+        "answer": 3,
+        "explanationEn": "peuplé goes after the noun, so repeat the article: la ville la plus peuplée.",
+        "explanationZh": "peuplé 放在名词后面，所以要重复冠词：la ville la plus peuplée。"
+      }
+    ]
+  },
+  {
+    "id": "a2-08",
+    "level": "A2",
+    "titleFr": "Le futur simple",
+    "titleEn": "The simple future",
+    "titleZh": "简单将来时",
+    "goalsEn": [
+      "Form the futur simple of regular verbs",
+      "Learn the most common irregular stems (ser-, aur-, ir-, fer-, pourr-…)",
+      "Talk about plans, predictions and promises",
+      "Use quand and si correctly with the future"
+    ],
+    "goalsZh": [
+      "构成规则动词的简单将来时",
+      "掌握最常用的不规则词根（ser-、aur-、ir-、fer-、pourr- 等）",
+      "谈论计划、预测和承诺",
+      "在将来时中正确使用 quand 和 si"
+    ],
+    "sections": [
+      {
+        "type": "text",
+        "en": "You already know the **near future** (*futur proche*): *Je **vais partir**.* The **futur simple** is a one-word future: *Je **partirai**.*\n\nIt's used for:\n• **predictions**: *Il neigera demain.*\n• **promises**: *Je t'appellerai.*\n• **plans**, especially further away or more formal: *L'année prochaine, nous déménagerons à Calgary.*\n\nIt's very common in writing, official messages and the TCF exam.",
+        "zh": "你已经学过**最近将来时**（*futur proche*）：*Je **vais partir**.* **简单将来时**（futur simple）只用一个词表示将来：*Je **partirai**.*\n\n它用于：\n• **预测**：*Il neigera demain.*（明天会下雪。）\n• **承诺**：*Je t'appellerai.*（我会给你打电话。）\n• **计划**，尤其是较远或较正式的计划：*L'année prochaine, nous déménagerons à Calgary.*（明年我们将搬到卡尔加里。）\n\n它在书面语、官方通知和 TCF 考试中非常常见。"
+      },
+      {
+        "type": "text",
+        "en": "**Formation:** infinitive + endings **-ai, -as, -a, -ons, -ez, -ont** (they look like the present of *avoir*!).\nVerbs in **-re** drop the final *e*: *prendre → je prendr**ai***.",
+        "zh": "**构成：** 不定式 + 词尾 **-ai、-as、-a、-ons、-ez、-ont**（和 *avoir* 的现在时变位很像！）。\n以 **-re** 结尾的动词去掉词尾的 *e*：*prendre → je prendr**ai***。"
+      },
+      {
+        "type": "table",
+        "caption": "Regular verbs / 规则动词",
+        "headers": [
+          "Pronoun / 人称",
+          "Ending / 词尾",
+          "parler",
+          "finir",
+          "prendre"
+        ],
+        "rows": [
+          [
+            "je (j')",
+            "-ai",
+            "je parlerai",
+            "je finirai",
+            "je prendrai"
+          ],
+          [
+            "tu",
+            "-as",
+            "tu parleras",
+            "tu finiras",
+            "tu prendras"
+          ],
+          [
+            "il / elle / on",
+            "-a",
+            "il parlera",
+            "il finira",
+            "il prendra"
+          ],
+          [
+            "nous",
+            "-ons",
+            "nous parlerons",
+            "nous finirons",
+            "nous prendrons"
+          ],
+          [
+            "vous",
+            "-ez",
+            "vous parlerez",
+            "vous finirez",
+            "vous prendrez"
+          ],
+          [
+            "ils / elles",
+            "-ont",
+            "ils parleront",
+            "ils finiront",
+            "ils prendront"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "caption": "Irregular stems (same endings) / 不规则词根（词尾相同）",
+        "headers": [
+          "Infinitive / 不定式",
+          "Stem / 词根",
+          "Example / 例句"
+        ],
+        "rows": [
+          [
+            "être",
+            "ser-",
+            "Je **serai** à l'heure."
+          ],
+          [
+            "avoir",
+            "aur-",
+            "Tu **auras** ta réponse lundi."
+          ],
+          [
+            "aller",
+            "ir-",
+            "Nous **irons** à Québec."
+          ],
+          [
+            "faire",
+            "fer-",
+            "Il **fera** chaud demain."
+          ],
+          [
+            "pouvoir",
+            "pourr-",
+            "Vous **pourrez** payer en ligne."
+          ],
+          [
+            "vouloir",
+            "voudr-",
+            "Elles **voudront** venir."
+          ],
+          [
+            "devoir",
+            "devr-",
+            "Tu **devras** signer ici."
+          ],
+          [
+            "venir",
+            "viendr-",
+            "Ils **viendront** samedi."
+          ],
+          [
+            "voir",
+            "verr-",
+            "On **verra** !"
+          ],
+          [
+            "savoir",
+            "saur-",
+            "Je le **saurai** demain."
+          ],
+          [
+            "envoyer",
+            "enverr-",
+            "Je vous **enverrai** le lien."
+          ],
+          [
+            "falloir",
+            "faudr-",
+            "Il **faudra** partir tôt."
+          ]
+        ]
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "fr": "Demain, il pleuvra toute la journée.",
+            "en": "Tomorrow it will rain all day.",
+            "zh": "明天会下一整天雨。"
+          },
+          {
+            "fr": "Je t'enverrai les photos ce soir.",
+            "en": "I'll send you the photos tonight.",
+            "zh": "我今晚把照片发给你。"
+          },
+          {
+            "fr": "Dans cinq ans, nous serons citoyens canadiens.",
+            "en": "In five years, we will be Canadian citizens.",
+            "zh": "五年后，我们将成为加拿大公民。"
+          },
+          {
+            "fr": "Vous aurez les résultats dans deux semaines.",
+            "en": "You will have the results in two weeks.",
+            "zh": "您两周后会拿到结果。"
+          },
+          {
+            "fr": "Est-ce que tu pourras m'aider samedi ?",
+            "en": "Will you be able to help me on Saturday?",
+            "zh": "你星期六能帮我吗？"
+          },
+          {
+            "fr": "Ils viendront nous voir en décembre.",
+            "en": "They'll come to see us in December.",
+            "zh": "他们十二月会来看我们。"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "en": "**quand + future**\nIn English we say *When I **arrive**, I'll call you* (present). In French, if the action is in the future, **both verbs are in the future**:\n*Quand j'**arriverai**, je t'**appellerai**.*\n\n**si + present → future**\nAfter *si* (if), use the **present**, never the future:\n*S'il **fait** beau, nous **irons** au parc.*",
+        "zh": "**quand + 将来时**\n英语说 *When I **arrive**, I'll call you*（从句用现在时）。法语中，如果动作发生在将来，**两个动词都用将来时**：\n*Quand j'**arriverai**, je t'**appellerai**.*（我到了以后给你打电话。）\n\n**si + 现在时 → 将来时**\n*si*（如果）后面用**现在时**，绝不用将来时：\n*S'il **fait** beau, nous **irons** au parc.*（如果天气好，我们就去公园。）"
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "fr": "Quand j'aurai mon diplôme, je chercherai un emploi.",
+            "en": "When I get my diploma, I'll look for a job.",
+            "zh": "等我拿到文凭，我就去找工作。"
+          },
+          {
+            "fr": "Quand tu seras à Montréal, tu visiteras le Vieux-Port.",
+            "en": "When you're in Montreal, you'll visit the Old Port.",
+            "zh": "你到蒙特利尔的时候，要去老港看看。"
+          },
+          {
+            "fr": "Si tu as le temps, tu pourras passer chez moi.",
+            "en": "If you have time, you can drop by my place.",
+            "zh": "如果你有时间，可以来我家坐坐。"
+          },
+          {
+            "fr": "S'il neige trop, l'école sera fermée.",
+            "en": "If it snows too much, the school will be closed.",
+            "zh": "如果雪下得太大，学校就会停课。"
+          }
+        ]
+      },
+      {
+        "type": "tip",
+        "en": "**Spelling and pronunciation**\n• Some -er verbs change their stem as in the present: *acheter → j'**achète**rai*, *appeler → j'**appelle**rai*, *se lever → je me **lève**rai*.\n• Don't mix up *voir → verr-* and *venir → viendr-*.\n• The **e** in *-erai* is often barely pronounced: *je parlerai* sounds like [ʒə paʁlʁe].\n• *nous serons* [səʁɔ̃] vs *nous sommes* [sɔm]: listen for the **r**, the sign of the future.",
+        "zh": "**拼写与发音**\n• 有些 -er 动词的词根变化和现在时一样：*acheter → j'**achète**rai*、*appeler → j'**appelle**rai*、*se lever → je me **lève**rai*。\n• 不要混淆 *voir → verr-* 和 *venir → viendr-*。\n• *-erai* 中的 **e** 常常几乎不发音：*je parlerai* 听起来像 [ʒə paʁlʁe]。\n• *nous serons* [səʁɔ̃] 和 *nous sommes* [sɔm]：注意听 **r**，它是将来时的标志。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "mcq",
+        "prompt": "Futur simple of « être » with nous / « être » 的简单将来时（nous）：",
+        "options": [
+          "nous sérons",
+          "nous serons",
+          "nous étrons",
+          "nous aurons"
+        ],
+        "answer": 1,
+        "explanationEn": "être has the irregular stem ser- (no accent) + -ons.",
+        "explanationZh": "être 的不规则词根是 ser-（没有重音符）+ -ons。"
+      },
+      {
+        "type": "fill",
+        "prompt": "L'année prochaine, j'___ 30 ans.",
+        "answers": [
+          "aurai"
+        ],
+        "hint": "(avoir)",
+        "en": "Next year I'll be 30.",
+        "zh": "明年我就 30 岁了。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Demain, nous ___ au bureau à vélo.",
+        "answers": [
+          "irons"
+        ],
+        "hint": "(aller)",
+        "en": "Tomorrow we'll go to the office by bike.",
+        "zh": "明天我们骑自行车去上班。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Quand tu ___ à Ottawa, appelle-moi !",
+        "answers": [
+          "arriveras"
+        ],
+        "hint": "(arriver)",
+        "en": "When you get to Ottawa, call me!",
+        "zh": "你到渥太华的时候给我打电话！"
+      },
+      {
+        "type": "fill",
+        "prompt": "Selon la météo, il ___ beau ce week-end.",
+        "answers": [
+          "fera"
+        ],
+        "hint": "(faire)",
+        "en": "According to the forecast, the weather will be nice this weekend.",
+        "zh": "根据天气预报，这个周末天气会很好。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Vous ___ remplir ce formulaire avant lundi.",
+        "answers": [
+          "devrez"
+        ],
+        "hint": "(devoir)",
+        "en": "You will have to fill out this form before Monday.",
+        "zh": "您需要在星期一之前填好这张表。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Which sentence is correct? / 哪个句子正确？",
+        "options": [
+          "Quand je suis à Montréal demain, je visiterai le musée.",
+          "S'il fera beau, nous irons au parc.",
+          "Quand je serai à Montréal, je visiterai le musée.",
+          "Si il fait beau, nous irons au parc."
+        ],
+        "answer": 2,
+        "explanationEn": "quand + future for a future action. After si use the present, and si + il becomes s'il.",
+        "explanationZh": "表示将来的动作时 quand 后用将来时；si 后用现在时，且 si + il 要缩写成 s'il。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Futur simple stem of « venir » / « venir » 的将来时词根：",
+        "options": [
+          "venir-",
+          "venr-",
+          "verr-",
+          "viendr-"
+        ],
+        "answer": 3,
+        "explanationEn": "venir → viendr- (je viendrai). verr- is the stem of voir.",
+        "explanationZh": "venir → viendr-（je viendrai）。verr- 是 voir 的词根。"
+      },
+      {
+        "type": "listen",
+        "text": "Nous verrons ce film demain.",
+        "options": [
+          "Nous verrons ce film demain.",
+          "Nous allons voir ce film demain.",
+          "Nous viendrons voir ce film demain.",
+          "Nous avons vu ce film hier."
+        ],
+        "answer": 0
+      },
+      {
+        "type": "listen",
+        "text": "Ils pourront venir samedi.",
+        "options": [
+          "Ils peuvent venir samedi.",
+          "Ils pourront venir samedi.",
+          "Ils voudront venir samedi.",
+          "Ils devront venir samedi."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "order",
+        "words": [
+          "demain",
+          "matin.",
+          "Je",
+          "enverrai",
+          "document",
+          "le",
+          "vous"
+        ],
+        "answer": "Je vous enverrai le document demain matin.",
+        "en": "I'll send you the document tomorrow morning.",
+        "zh": "我明天早上把文件发给您。"
+      },
+      {
+        "type": "order",
+        "words": [
+          "resterons",
+          "pleut,",
+          "S'il",
+          "la",
+          "maison.",
+          "nous",
+          "à"
+        ],
+        "answer": "S'il pleut, nous resterons à la maison.",
+        "en": "If it rains, we'll stay home.",
+        "zh": "如果下雨，我们就待在家里。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Elle ___ nous voir dimanche prochain.",
+        "answers": [
+          "viendra"
+        ],
+        "hint": "(venir)",
+        "en": "She will come to see us next Sunday.",
+        "zh": "她下星期天会来看我们。"
+      }
+    ]
+  },
+  {
+    "id": "a2-09",
+    "level": "A2",
+    "titleFr": "Travail, logement, rendez-vous : des structures utiles",
+    "titleEn": "Work, housing and appointments: useful structures",
+    "titleZh": "工作、住房和预约：实用句型",
+    "goalsEn": [
+      "Express obligation with il faut + infinitive",
+      "Express needs with avoir besoin de",
+      "Say what you have just done (venir de) and what you are doing right now (être en train de)",
+      "Handle everyday situations: job search, renting, booking appointments"
+    ],
+    "goalsZh": [
+      "用 il faut + 不定式表达必要性或义务",
+      "用 avoir besoin de 表达需要",
+      "表达刚刚做完的事（venir de）和正在做的事（être en train de）",
+      "应对日常情景：找工作、租房、预约"
+    ],
+    "sections": [
+      {
+        "type": "text",
+        "en": "When you settle in a new country, you constantly need to say **what is necessary**, **what you need**, **what you have just done** and **what you are doing right now**. Four short structures cover all of this. They are all followed by an **infinitive**, so you only conjugate one verb.",
+        "zh": "在一个新的国家安顿下来时，你会经常需要表达**必须做什么**、**需要什么**、**刚刚做了什么**以及**正在做什么**。四个简短的句型就能涵盖这些。它们后面都接**不定式**，所以只需变位一个动词。"
+      },
+      {
+        "type": "table",
+        "caption": "Four key structures / 四个关键句型",
+        "headers": [
+          "Structure / 句型",
+          "Meaning / 意思",
+          "Example / 例句"
+        ],
+        "rows": [
+          [
+            "il faut + infinitive",
+            "it is necessary to, you have to / 必须、需要",
+            "**Il faut** réserver à l'avance."
+          ],
+          [
+            "avoir besoin de + noun / infinitive",
+            "to need / 需要",
+            "J'**ai besoin d'**un rendez-vous."
+          ],
+          [
+            "venir de + infinitive",
+            "to have just done / 刚刚做了",
+            "Je **viens de** signer le bail."
+          ],
+          [
+            "être en train de + infinitive",
+            "to be (busy) doing / 正在做",
+            "Elle **est en train de** passer une entrevue."
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "en": "**il faut** is impersonal: the subject is always *il*, whoever has to do it.\n• *Il faut apporter une pièce d'identité.* — You have to bring ID.\n• *Il faut un permis de travail.* — A work permit is required. (il faut + noun)\n• Past: *il fallait* / *il a fallu*. Future: *il faudra*.\n\n**Careful:** **il ne faut pas** = you **must not**: *Il ne faut pas fumer ici.* To say *you don't have to*, use *ce n'est pas nécessaire de…* or *tu n'es pas obligé(e) de…*.\nTo name the person, use **devoir**: *Je dois travailler samedi.*",
+        "zh": "**il faut** 是无人称结构：不管是谁要做，主语永远是 *il*。\n• *Il faut apporter une pièce d'identité.* —— 必须带身份证件。\n• *Il faut un permis de travail.* —— 需要工作许可。（il faut + 名词）\n• 过去时：*il fallait* / *il a fallu*；将来时：*il faudra*。\n\n**注意：** **il ne faut pas** = **不许、不可以**：*Il ne faut pas fumer ici.*（这里禁止吸烟。）表达“不必”要用 *ce n'est pas nécessaire de…* 或 *tu n'es pas obligé(e) de…*。\n要指明具体的人，用 **devoir**：*Je dois travailler samedi.*（我星期六得上班。）"
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "fr": "Pour ce poste, il faut parler français et anglais.",
+            "en": "For this position, you need to speak French and English.",
+            "zh": "这个职位要求会说法语和英语。"
+          },
+          {
+            "fr": "Il faut payer le loyer le premier du mois.",
+            "en": "You have to pay the rent on the first of the month.",
+            "zh": "房租必须在每月一号支付。"
+          },
+          {
+            "fr": "Il ne faut pas oublier ta carte d'assurance maladie.",
+            "en": "You must not forget your health insurance card.",
+            "zh": "千万别忘了你的医保卡。"
+          },
+          {
+            "fr": "Il faudra envoyer votre CV avant vendredi.",
+            "en": "You will need to send your CV before Friday.",
+            "zh": "您需要在星期五之前发送简历。"
+          },
+          {
+            "fr": "Il fallait attendre trois mois pour avoir un rendez-vous.",
+            "en": "You had to wait three months to get an appointment.",
+            "zh": "当时要等三个月才能约上。"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "en": "**avoir besoin de** (to need): conjugate *avoir*, then *de* (→ *d'* before a vowel) + noun or infinitive.\n• *J'ai besoin **d'**un appartement avec deux chambres.*\n• *Nous avons besoin **de** parler au propriétaire.*\n• With a pronoun: *Tu as besoin de la voiture ? — Oui, j'**en** ai besoin.*\n\n**venir de** + infinitive = to have **just** done something (very recent past). **être en train de** + infinitive = to be **in the middle of** doing something right now.",
+        "zh": "**avoir besoin de**（需要）：变位 *avoir*，再加 *de*（元音前变成 *d'*）+ 名词或不定式。\n• *J'ai besoin **d'**un appartement avec deux chambres.*（我需要一套两居室的公寓。）\n• *Nous avons besoin **de** parler au propriétaire.*（我们需要和房东谈谈。）\n• 用代词：*Tu as besoin de la voiture ? — Oui, j'**en** ai besoin.*（你需要用车吗？——是的，我需要。）\n\n**venir de** + 不定式 = **刚刚**做了某事（最近的过去）。**être en train de** + 不定式 = 此刻**正在**做某事。"
+      },
+      {
+        "type": "table",
+        "caption": "venir de / être en train de",
+        "headers": [
+          "Pronoun / 人称",
+          "venir de + inf. (just did / 刚刚)",
+          "être en train de + inf. (doing now / 正在)"
+        ],
+        "rows": [
+          [
+            "je",
+            "je viens de manger",
+            "je suis en train de manger"
+          ],
+          [
+            "tu",
+            "tu viens d'arriver",
+            "tu es en train de lire"
+          ],
+          [
+            "il / elle / on",
+            "il vient de partir",
+            "elle est en train de cuisiner"
+          ],
+          [
+            "nous",
+            "nous venons de signer",
+            "nous sommes en train de déménager"
+          ],
+          [
+            "vous",
+            "vous venez d'appeler",
+            "vous êtes en train de remplir le formulaire"
+          ],
+          [
+            "ils / elles",
+            "ils viennent de finir",
+            "elles sont en train de travailler"
+          ]
+        ]
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "fr": "Je voudrais prendre rendez-vous avec le docteur Roy, s'il vous plaît.",
+            "en": "I'd like to make an appointment with Dr. Roy, please.",
+            "zh": "我想预约罗伊医生，谢谢。"
+          },
+          {
+            "fr": "Désolé, le docteur vient de partir. Pouvez-vous rappeler demain ?",
+            "en": "Sorry, the doctor has just left. Can you call back tomorrow?",
+            "zh": "抱歉，医生刚走。您能明天再打来吗？"
+          },
+          {
+            "fr": "Je viens de recevoir une offre d'emploi !",
+            "en": "I've just received a job offer!",
+            "zh": "我刚收到一份工作录用通知！"
+          },
+          {
+            "fr": "Nous sommes en train de chercher un logement près de l'école.",
+            "en": "We are looking for housing near the school.",
+            "zh": "我们正在找学校附近的住房。"
+          },
+          {
+            "fr": "J'ai besoin d'une attestation d'emploi pour la banque.",
+            "en": "I need an employment letter for the bank.",
+            "zh": "我需要一份在职证明交给银行。"
+          },
+          {
+            "fr": "Elle ne peut pas répondre : elle est en train de conduire.",
+            "en": "She can't answer: she's driving.",
+            "zh": "她现在不能接电话，她正在开车。"
+          }
+        ]
+      },
+      {
+        "type": "tip",
+        "en": "**Useful words in Canada**\n• *un courriel* = an email (Québec; *un e-mail / un mail* in France)\n• *une entrevue* = a job interview (Québec; *un entretien* in France)\n• *le bail* = the lease, *le loyer* = the rent, *le propriétaire* = the landlord\n• In Québec, apartments are described by number of rooms: *un 3 ½* (« trois et demie ») = living room + kitchen + one bedroom, and the ½ is the bathroom.\n• *Il faut que…* is followed by the subjunctive (B1). For now, use **il faut + infinitive**.",
+        "zh": "**在加拿大常用的词**\n• *un courriel* = 电子邮件（魁北克用法；法国常说 *un e-mail / un mail*）\n• *une entrevue* = 求职面试（魁北克用法；法国说 *un entretien*）\n• *le bail* = 租约，*le loyer* = 房租，*le propriétaire* = 房东\n• 在魁北克，公寓按房间数描述：*un 3 ½*（读作 « trois et demie »）= 客厅 + 厨房 + 一间卧室，½ 指卫生间。\n• *Il faut que…* 后面要用虚拟式（B1 内容）。现阶段先用 **il faut + 不定式**。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "mcq",
+        "prompt": "« Je ___ de trouver un emploi ! » (I have just found a job / 我刚找到工作！)",
+        "options": [
+          "suis",
+          "viens",
+          "vais",
+          "dois"
+        ],
+        "answer": 1,
+        "explanationEn": "venir de + infinitive = to have just done something.",
+        "explanationZh": "venir de + 不定式 = 刚刚做了某事。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Pour louer cet appartement, il ___ payer le premier mois à l'avance.",
+        "answers": [
+          "faut"
+        ],
+        "en": "To rent this apartment, you have to pay the first month in advance.",
+        "zh": "租这套公寓，必须提前支付第一个月的房租。"
+      },
+      {
+        "type": "fill",
+        "prompt": "J'ai ___ d'une lettre de référence pour ma demande.",
+        "answers": [
+          "besoin"
+        ],
+        "en": "I need a reference letter for my application.",
+        "zh": "我的申请需要一封推荐信。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Ne la dérange pas, elle est en ___ de travailler.",
+        "answers": [
+          "train"
+        ],
+        "en": "Don't disturb her, she's working.",
+        "zh": "别打扰她，她正在工作。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Nous ___ de signer le bail ce matin.",
+        "answers": [
+          "venons"
+        ],
+        "hint": "(venir, présent)",
+        "en": "We just signed the lease this morning.",
+        "zh": "我们今天早上刚签了租约。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Ils ___ en train de visiter un appartement.",
+        "answers": [
+          "sont"
+        ],
+        "hint": "(être)",
+        "en": "They are visiting an apartment right now.",
+        "zh": "他们正在看一套公寓。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "« Il ne faut pas fumer ici. » means / 意思是：",
+        "options": [
+          "You don't have to smoke here. / 你不必在这里吸烟。",
+          "He doesn't smoke here. / 他不在这里吸烟。",
+          "You must not smoke here. / 这里禁止吸烟。",
+          "It isn't necessary to smoke here. / 没必要在这里吸烟。"
+        ],
+        "answer": 2,
+        "explanationEn": "il ne faut pas = it is forbidden / you must not.",
+        "explanationZh": "il ne faut pas = 禁止、不可以。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Choose the pronoun / 选择代词: « Tu as besoin de ton passeport ? — Oui, j'___ ai besoin. »",
+        "options": [
+          "en",
+          "y",
+          "le",
+          "lui"
+        ],
+        "answer": 0,
+        "explanationEn": "avoir besoin de + thing → en.",
+        "explanationZh": "avoir besoin de + 物 → en。"
+      },
+      {
+        "type": "listen",
+        "text": "Je viens d'envoyer mon CV.",
+        "options": [
+          "Je vais envoyer mon CV.",
+          "Je dois envoyer mon CV.",
+          "J'ai besoin d'envoyer mon CV.",
+          "Je viens d'envoyer mon CV."
+        ],
+        "answer": 3
+      },
+      {
+        "type": "listen",
+        "text": "Il faudra prendre rendez-vous en ligne.",
+        "options": [
+          "Il faut prendre rendez-vous en ligne.",
+          "Il faudra prendre rendez-vous en ligne.",
+          "Il fallait prendre rendez-vous en ligne.",
+          "Il ne faut pas prendre rendez-vous en ligne."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "order",
+        "words": [
+          "Nous",
+          "chercher",
+          "un",
+          "de",
+          "en",
+          "sommes",
+          "train",
+          "logement."
+        ],
+        "answer": "Nous sommes en train de chercher un logement.",
+        "en": "We are looking for housing.",
+        "zh": "我们正在找住房。"
+      },
+      {
+        "type": "order",
+        "words": [
+          "faut",
+          "apporter",
+          "d'identité.",
+          "une",
+          "Il",
+          "pièce"
+        ],
+        "answer": "Il faut apporter une pièce d'identité.",
+        "en": "You have to bring a piece of ID.",
+        "zh": "必须携带身份证件。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Le dentiste ___ de partir, rappelez demain matin.",
+        "answers": [
+          "vient"
+        ],
+        "hint": "(venir)",
+        "en": "The dentist has just left; call back tomorrow morning.",
+        "zh": "牙医刚走，请明天早上再打来。"
+      }
+    ]
+  },
+  {
+    "id": "a2-10",
+    "level": "A2",
+    "titleFr": "Les pronoms relatifs qui, que, où",
+    "titleEn": "Relative pronouns qui, que, où",
+    "titleZh": "关系代词 qui、que、où",
+    "goalsEn": [
+      "Join two sentences with a relative pronoun",
+      "Choose between qui (subject) and que (object)",
+      "Use où for places and moments in time"
+    ],
+    "goalsZh": [
+      "用关系代词连接两个句子",
+      "区分 qui（主语）和 que（宾语）",
+      "用 où 表示地点和时间"
+    ],
+    "sections": [
+      {
+        "type": "text",
+        "en": "Relative pronouns link two sentences that share a noun, so you don't repeat it:\n*J'ai une voisine. **Ma voisine** est infirmière.*\n→ *J'ai une voisine **qui** est infirmière.*\n\nThey work like *who, which, that, where, when* in English, but French **never drops them**: English can say *the book I read*, French must say *le livre **que** j'ai lu*.",
+        "zh": "关系代词把两个有共同名词的句子连起来，避免重复：\n*J'ai une voisine. **Ma voisine** est infirmière.*（我有一个邻居。我的邻居是护士。）\n→ *J'ai une voisine **qui** est infirmière.*（我有一个当护士的邻居。）\n\n它们相当于英语的 *who、which、that、where、when*，汉语里常用“……的”来表达。注意：法语中关系代词**不能省略**：英语可以说 *the book I read*，法语必须说 *le livre **que** j'ai lu*。"
+      },
+      {
+        "type": "table",
+        "caption": "qui, que, où",
+        "headers": [
+          "Pronoun / 代词",
+          "Replaces / 替换",
+          "Usually followed by / 后面通常接",
+          "Example / 例句"
+        ],
+        "rows": [
+          [
+            "qui",
+            "the subject / 主语",
+            "a verb / 动词",
+            "l'homme **qui** parle"
+          ],
+          [
+            "que (qu')",
+            "the direct object / 直接宾语",
+            "subject + verb / 主语 + 动词",
+            "le livre **que** je lis"
+          ],
+          [
+            "où",
+            "a place or a time / 地点或时间",
+            "subject + verb / 主语 + 动词",
+            "la ville **où** j'habite"
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "en": "**qui** replaces the **subject** of the second sentence. It's followed by a **verb** (sometimes with an object pronoun or *ne* in between). *qui* **never** becomes *qu'*:\n*C'est un collègue **qui** aime le hockey.*\n*Le bus **qui** arrive va au centre-ville.*",
+        "zh": "**qui** 替换第二个句子的**主语**，后面通常紧跟**动词**（有时中间有宾语代词或 *ne*）。*qui* **永远不**缩写成 *qu'*：\n*C'est un collègue **qui** aime le hockey.*（这是一位喜欢冰球的同事。）\n*Le bus **qui** arrive va au centre-ville.*（正在进站的公交车开往市中心。）"
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "fr": "J'ai une amie qui parle cinq langues.",
+            "en": "I have a friend who speaks five languages.",
+            "zh": "我有一个会说五种语言的朋友。"
+          },
+          {
+            "fr": "C'est le train qui va à Québec.",
+            "en": "It's the train that goes to Quebec City.",
+            "zh": "这是开往魁北克城的火车。"
+          },
+          {
+            "fr": "Les étudiants qui ont fini peuvent partir.",
+            "en": "The students who have finished can leave.",
+            "zh": "做完的学生可以走了。"
+          },
+          {
+            "fr": "Je cherche un appartement qui n'est pas trop cher.",
+            "en": "I'm looking for an apartment that isn't too expensive.",
+            "zh": "我在找一套不太贵的公寓。"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "en": "**que** replaces the **direct object**. It's followed by a **subject + verb**. Before a vowel it becomes **qu'**:\n*Le film **que** nous avons vu était excellent.*\n*La personne **qu'**il attend est en retard.*\n\nIn the passé composé, the participle agrees with the noun that *que* replaces, because it's a direct object placed before the verb: *la maison **que** j'ai achet**ée***.",
+        "zh": "**que** 替换**直接宾语**，后面接**主语 + 动词**。在元音前变成 **qu'**：\n*Le film **que** nous avons vu était excellent.*（我们看的那部电影非常好。）\n*La personne **qu'**il attend est en retard.*（他等的那个人迟到了。）\n\n在复合过去时中，过去分词要与 *que* 所替代的名词配合，因为直接宾语放在了动词前面：*la maison **que** j'ai achet**ée***（我买的那栋房子）。"
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "fr": "Le gâteau que tu as fait est délicieux.",
+            "en": "The cake you made is delicious.",
+            "zh": "你做的蛋糕很好吃。"
+          },
+          {
+            "fr": "C'est une chanson que j'écoute souvent.",
+            "en": "It's a song I often listen to.",
+            "zh": "这是我经常听的一首歌。"
+          },
+          {
+            "fr": "Les documents qu'on m'a demandés sont prêts.",
+            "en": "The documents I was asked for are ready.",
+            "zh": "要求我提供的文件已经准备好了。"
+          },
+          {
+            "fr": "Voici la collègue que je t'ai présentée hier.",
+            "en": "Here's the colleague I introduced to you yesterday.",
+            "zh": "这就是我昨天给你介绍的那位同事。"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "en": "**où** replaces a **place** (*where*) or a **moment in time** (*when*):\n*C'est la ville **où** je suis né.* — the city where I was born\n*Je me souviens du jour **où** nous sommes arrivés.* — the day (when) we arrived\nAfter a time word, French uses **où**, never *quand*.",
+        "zh": "**où** 替换**地点**（……的地方）或**时间**（……的时候）：\n*C'est la ville **où** je suis né.* —— 这是我出生的城市。\n*Je me souviens du jour **où** nous sommes arrivés.* —— 我记得我们到达的那一天。\n在表示时间的词后面，法语用 **où**，而不用 *quand*。"
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "fr": "Le quartier où j'habite est très calme.",
+            "en": "The neighbourhood where I live is very quiet.",
+            "zh": "我住的街区很安静。"
+          },
+          {
+            "fr": "C'est le restaurant où nous avons fêté mon anniversaire.",
+            "en": "It's the restaurant where we celebrated my birthday.",
+            "zh": "这就是我们庆祝我生日的那家餐厅。"
+          },
+          {
+            "fr": "L'année où je suis arrivée, il a beaucoup neigé.",
+            "en": "The year I arrived, it snowed a lot.",
+            "zh": "我来的那一年下了很多雪。"
+          },
+          {
+            "fr": "Montre-moi l'endroit où tu as perdu ton téléphone.",
+            "en": "Show me the place where you lost your phone.",
+            "zh": "带我去你丢手机的地方看看。"
+          }
+        ]
+      },
+      {
+        "type": "tip",
+        "en": "**Quick trick:** look at the word right after the gap.\n• A **verb** comes next → **qui** (*la femme ___ chante* → *qui*).\n• A **subject** (je, tu, il, Marie…) comes next → **que** or **où**. Then ask: is it a place or a time? → **où**. Otherwise → **que**.\n• Remember: *que* + vowel → *qu'*, but *qui* never changes: *qui arrive*, *qu'il aime*.",
+        "zh": "**小窍门：** 看空格后面紧跟的词。\n• 后面是**动词** → 用 **qui**（*la femme ___ chante* → *qui*）。\n• 后面是**主语**（je、tu、il、Marie 等）→ 用 **que** 或 **où**。再判断：表示地点或时间吗？→ **où**；否则 → **que**。\n• 记住：*que* 在元音前变 *qu'*，而 *qui* 永远不变：*qui arrive*、*qu'il aime*。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "mcq",
+        "prompt": "Complete / 填空: « J'ai une amie ___ travaille à l'hôpital. »",
+        "options": [
+          "que",
+          "qui",
+          "où",
+          "qu'"
+        ],
+        "answer": 1,
+        "explanationEn": "A verb (travaille) follows and the friend is its subject → qui.",
+        "explanationZh": "后面是动词（travaille），朋友是它的主语 → qui。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Complete / 填空: « Le film ___ nous avons vu était génial. »",
+        "options": [
+          "qui",
+          "où",
+          "quoi",
+          "que"
+        ],
+        "answer": 3,
+        "explanationEn": "A subject (nous) follows and the film is the direct object of voir → que.",
+        "explanationZh": "后面是主语（nous），电影是 voir 的直接宾语 → que。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Complete / 填空: « C'est la ville ___ je suis né. »",
+        "options": [
+          "où",
+          "que",
+          "qui",
+          "quand"
+        ],
+        "answer": 0,
+        "explanationEn": "la ville is a place → où.",
+        "explanationZh": "la ville 是地点 → où。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Voici le collègue ___ m'a aidé à trouver ce travail.",
+        "answers": [
+          "qui"
+        ],
+        "en": "Here's the colleague who helped me find this job.",
+        "zh": "这就是帮我找到这份工作的同事。"
+      },
+      {
+        "type": "fill",
+        "prompt": "La robe ___ tu portes est très jolie.",
+        "answers": [
+          "que"
+        ],
+        "en": "The dress you're wearing is very pretty.",
+        "zh": "你穿的裙子很漂亮。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Je me souviens du jour ___ nous sommes arrivés au Canada.",
+        "answers": [
+          "où"
+        ],
+        "en": "I remember the day we arrived in Canada.",
+        "zh": "我记得我们到达加拿大的那一天。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Le restaurant ___ nous allons souvent est fermé le lundi.",
+        "answers": [
+          "où"
+        ],
+        "en": "The restaurant we often go to is closed on Mondays.",
+        "zh": "我们常去的那家餐厅星期一不营业。"
+      },
+      {
+        "type": "fill",
+        "prompt": "C'est un livre ___ tout le monde aime.",
+        "answers": [
+          "que"
+        ],
+        "en": "It's a book that everybody loves.",
+        "zh": "这是一本人人都喜欢的书。"
+      },
+      {
+        "type": "listen",
+        "text": "C'est l'appartement que nous avons visité.",
+        "options": [
+          "C'est l'appartement qui nous a plu.",
+          "C'est l'appartement où nous habitons.",
+          "C'est l'appartement que nous avons visité.",
+          "C'est l'appartement que nous allons visiter."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "listen",
+        "text": "Le quartier où j'habite est très calme.",
+        "options": [
+          "Le quartier que j'aime est très calme.",
+          "Le quartier où j'habite est très calme.",
+          "Le quartier où j'habitais était très calme.",
+          "Le quartier qui est là est très calme."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "order",
+        "words": [
+          "qui",
+          "ma",
+          "La",
+          "voisine.",
+          "femme",
+          "est",
+          "parle"
+        ],
+        "answer": "La femme qui parle est ma voisine.",
+        "en": "The woman who is talking is my neighbour.",
+        "zh": "正在说话的那位女士是我的邻居。"
+      },
+      {
+        "type": "order",
+        "words": [
+          "où",
+          "ville",
+          "je",
+          "est",
+          "Montréal",
+          "travaille.",
+          "la"
+        ],
+        "answer": "Montréal est la ville où je travaille.",
+        "en": "Montreal is the city where I work.",
+        "zh": "蒙特利尔是我工作的城市。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Combine / 合并句子: « J'ai acheté un vélo. Le vélo est rouge. »",
+        "options": [
+          "Le vélo qui j'ai acheté est rouge.",
+          "Le vélo où j'ai acheté est rouge.",
+          "Le vélo que j'ai acheté il est rouge.",
+          "Le vélo que j'ai acheté est rouge."
+        ],
+        "answer": 3,
+        "explanationEn": "le vélo is the direct object of acheter → que. Don't repeat the subject with il.",
+        "explanationZh": "le vélo 是 acheter 的直接宾语 → que。不要再用 il 重复主语。"
+      }
+    ]
+  },
+  {
+    "id": "a2-11",
+    "level": "A2",
+    "titleFr": "Le conditionnel présent",
+    "titleEn": "The present conditional",
+    "titleZh": "条件式现在时",
+    "goalsEn": [
+      "Form the conditional (future stem + imparfait endings)",
+      "Make polite requests: je voudrais, pourriez-vous, j'aimerais",
+      "Express wishes and give advice: tu devrais, à ta place…"
+    ],
+    "goalsZh": [
+      "构成条件式（将来时词根 + 未完成过去时词尾）",
+      "礼貌地提出请求：je voudrais、pourriez-vous、j'aimerais",
+      "表达愿望和提出建议：tu devrais、à ta place…"
+    ],
+    "sections": [
+      {
+        "type": "text",
+        "en": "The **conditional** corresponds to *would* in English: *I **would** like*, *you **should***, *it **would** be*. At A2, it's above all the tense of **politeness**, **wishes** and **advice**: essential at the doctor's, in shops, at work and in the TCF speaking test.\n\n**Formation:** the **stem of the futur simple** + the **endings of the imparfait** (-ais, -ais, -ait, -ions, -iez, -aient).",
+        "zh": "**条件式**相当于英语的 *would*：*I **would** like*（我想要）、*you **should***（你应该）、*it **would** be*（那会是）。在 A2 阶段，它主要用于表达**礼貌**、**愿望**和**建议**：在看医生、购物、工作以及 TCF 口语考试中都必不可少。\n\n**构成：** **简单将来时的词根** + **未完成过去时的词尾**（-ais、-ais、-ait、-ions、-iez、-aient）。"
+      },
+      {
+        "type": "table",
+        "caption": "Conjugation / 变位",
+        "headers": [
+          "Pronoun / 人称",
+          "aimer",
+          "pouvoir",
+          "être"
+        ],
+        "rows": [
+          [
+            "je (j')",
+            "j'aimerais",
+            "je pourrais",
+            "je serais"
+          ],
+          [
+            "tu",
+            "tu aimerais",
+            "tu pourrais",
+            "tu serais"
+          ],
+          [
+            "il / elle / on",
+            "il aimerait",
+            "il pourrait",
+            "il serait"
+          ],
+          [
+            "nous",
+            "nous aimerions",
+            "nous pourrions",
+            "nous serions"
+          ],
+          [
+            "vous",
+            "vous aimeriez",
+            "vous pourriez",
+            "vous seriez"
+          ],
+          [
+            "ils / elles",
+            "ils aimeraient",
+            "ils pourraient",
+            "ils seraient"
+          ]
+        ]
+      },
+      {
+        "type": "table",
+        "caption": "Irregular stems (same as the future) / 不规则词根（与将来时相同）",
+        "headers": [
+          "Infinitive / 不定式",
+          "Stem / 词根",
+          "Conditional / 条件式"
+        ],
+        "rows": [
+          [
+            "être",
+            "ser-",
+            "je serais"
+          ],
+          [
+            "avoir",
+            "aur-",
+            "j'aurais"
+          ],
+          [
+            "aller",
+            "ir-",
+            "j'irais"
+          ],
+          [
+            "faire",
+            "fer-",
+            "je ferais"
+          ],
+          [
+            "pouvoir",
+            "pourr-",
+            "je pourrais"
+          ],
+          [
+            "vouloir",
+            "voudr-",
+            "je voudrais"
+          ],
+          [
+            "devoir",
+            "devr-",
+            "je devrais"
+          ],
+          [
+            "venir",
+            "viendr-",
+            "je viendrais"
+          ],
+          [
+            "voir",
+            "verr-",
+            "je verrais"
+          ],
+          [
+            "savoir",
+            "saur-",
+            "je saurais"
+          ],
+          [
+            "falloir",
+            "faudr-",
+            "il faudrait"
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "en": "**1. Politeness**: the conditional softens requests.\n• *Je veux…* (I want, can sound rude) → *Je **voudrais**…* (I would like)\n• *Pouvez-vous… ?* → *Pourriez-vous… ?* (Could you…?)\n• *J'**aimerais** savoir si…* (I would like to know if…)\n• *Est-ce que vous **auriez** un moment ?* (Would you have a moment?)\n• *Ça vous **dérangerait** de… ?* (Would you mind…?)",
+        "zh": "**1. 礼貌**：条件式让请求变得委婉。\n• *Je veux…*（我要……，听起来可能不礼貌）→ *Je **voudrais**…*（我想要……）\n• *Pouvez-vous… ?* → *Pourriez-vous… ?*（您能否……？）\n• *J'**aimerais** savoir si…*（我想知道是否……）\n• *Est-ce que vous **auriez** un moment ?*（您有空吗？）\n• *Ça vous **dérangerait** de… ?*（您介意……吗？）"
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "fr": "Je voudrais un café au lait, s'il vous plaît.",
+            "en": "I'd like a coffee with milk, please.",
+            "zh": "我想要一杯牛奶咖啡，谢谢。"
+          },
+          {
+            "fr": "Pourriez-vous parler plus lentement, s'il vous plaît ?",
+            "en": "Could you speak more slowly, please?",
+            "zh": "您能说慢一点吗？"
+          },
+          {
+            "fr": "J'aimerais prendre rendez-vous pour la semaine prochaine.",
+            "en": "I'd like to make an appointment for next week.",
+            "zh": "我想预约下周的时间。"
+          },
+          {
+            "fr": "Est-ce que vous auriez une table pour quatre personnes ?",
+            "en": "Would you have a table for four?",
+            "zh": "请问有四个人的桌子吗？"
+          },
+          {
+            "fr": "Ça vous dérangerait de fermer la fenêtre ?",
+            "en": "Would you mind closing the window?",
+            "zh": "您介意关一下窗户吗？"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "en": "**2. Wishes and dreams**: *J'**aimerais** vivre au bord de la mer.* *Ce **serait** génial !*\n\n**3. Advice**:\n• **tu devrais / vous devriez** + infinitive = you should\n• **à ta place, je** + conditional = if I were you, I would…\n• **il faudrait** + infinitive = it would be necessary to, you should\n\n**4. Hypothesis** (preview): **si + imparfait → conditional**\n*Si j'**avais** le temps, je **voyagerais** plus.* — If I had time, I would travel more.",
+        "zh": "**2. 愿望和梦想**：*J'**aimerais** vivre au bord de la mer.*（我想住在海边。）*Ce **serait** génial !*（那就太棒了！）\n\n**3. 建议**：\n• **tu devrais / vous devriez** + 不定式 = 你/您应该……\n• **à ta place, je** + 条件式 = 如果我是你，我会……\n• **il faudrait** + 不定式 = 应该……、最好……\n\n**4. 假设**（预习）：**si + 未完成过去时 → 条件式**\n*Si j'**avais** le temps, je **voyagerais** plus.* —— 如果我有时间，我会多去旅行。"
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "fr": "Tu es fatigué ? Tu devrais te reposer.",
+            "en": "You're tired? You should rest.",
+            "zh": "你累了吗？你应该休息一下。"
+          },
+          {
+            "fr": "Vous devriez réserver à l'avance, c'est souvent complet.",
+            "en": "You should book in advance; it's often full.",
+            "zh": "您最好提前预订，那里经常客满。"
+          },
+          {
+            "fr": "À ta place, je prendrais le bus : c'est plus rapide.",
+            "en": "If I were you, I'd take the bus: it's faster.",
+            "zh": "如果我是你，我会坐公交车，更快。"
+          },
+          {
+            "fr": "Il faudrait renouveler ton passeport avant l'été.",
+            "en": "You should renew your passport before the summer.",
+            "zh": "你最好在夏天之前更新护照。"
+          },
+          {
+            "fr": "Nous aimerions acheter une maison un jour.",
+            "en": "We would like to buy a house one day.",
+            "zh": "我们希望有一天能买一套房子。"
+          },
+          {
+            "fr": "Si j'habitais à Vancouver, je ferais du ski tous les week-ends.",
+            "en": "If I lived in Vancouver, I'd go skiing every weekend.",
+            "zh": "如果我住在温哥华，我每个周末都会去滑雪。"
+          }
+        ]
+      },
+      {
+        "type": "tip",
+        "en": "**Common mistakes**\n• Never use the conditional right after *si*: ✗ *Si j'aurais le temps…* → ✓ *Si j'**avais** le temps…*\n• Conditional vs future: *je voudrais / je voudrai*, *je serais / je serai*. The conditional ends in **-ais** [ɛ], the future in **-ai** [e]. Many speakers pronounce them almost the same, so context matters.\n• Conditional vs imparfait: *je pourrais* (conditional) has the **r** of the future stem; *je pouvais* (imparfait) doesn't.",
+        "zh": "**常见错误**\n• *si* 后面绝不能直接用条件式：✗ *Si j'aurais le temps…* → ✓ *Si j'**avais** le temps…*\n• 条件式与将来时：*je voudrais / je voudrai*，*je serais / je serai*。条件式以 **-ais** [ɛ] 结尾，将来时以 **-ai** [e] 结尾。很多人读起来几乎一样，所以要靠上下文判断。\n• 条件式与未完成过去时：*je pourrais*（条件式）带有将来时词根的 **r**；*je pouvais*（未完成过去时）没有。"
+      }
+    ],
+    "exercises": [
+      {
+        "type": "mcq",
+        "prompt": "The most polite way to order at a café / 在咖啡馆点单最礼貌的说法：",
+        "options": [
+          "Je veux un café.",
+          "Donne-moi un café.",
+          "Un café, vite !",
+          "Je voudrais un café, s'il vous plaît."
+        ],
+        "answer": 3,
+        "explanationEn": "je voudrais (conditional) + s'il vous plaît is the standard polite request.",
+        "explanationZh": "je voudrais（条件式）+ s'il vous plaît 是标准的礼貌请求。"
+      },
+      {
+        "type": "fill",
+        "prompt": "___-vous m'aider, s'il vous plaît ?",
+        "answers": [
+          "Pourriez"
+        ],
+        "hint": "(pouvoir)",
+        "en": "Could you help me, please?",
+        "zh": "您能帮帮我吗？"
+      },
+      {
+        "type": "fill",
+        "prompt": "Tu as mal au dos ? Tu ___ voir un physiothérapeute.",
+        "answers": [
+          "devrais"
+        ],
+        "hint": "(devoir)",
+        "en": "Your back hurts? You should see a physiotherapist.",
+        "zh": "你背疼吗？你应该去看看理疗师。"
+      },
+      {
+        "type": "fill",
+        "prompt": "J'___ visiter le Yukon un jour.",
+        "answers": [
+          "aimerais"
+        ],
+        "hint": "(aimer)",
+        "en": "I'd like to visit the Yukon one day.",
+        "zh": "我希望有一天能去育空看看。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Si j'avais plus d'argent, j'___ une maison.",
+        "answers": [
+          "achèterais"
+        ],
+        "hint": "(acheter)",
+        "en": "If I had more money, I'd buy a house.",
+        "zh": "如果我有更多钱，我会买一栋房子。"
+      },
+      {
+        "type": "fill",
+        "prompt": "À ta place, je ___ un cours de français intensif.",
+        "answers": [
+          "prendrais"
+        ],
+        "hint": "(prendre)",
+        "en": "If I were you, I'd take an intensive French course.",
+        "zh": "如果我是你，我会报一个法语强化班。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Conditional of « être » with il / « être » 的条件式（il）：",
+        "options": [
+          "il serait",
+          "il sera",
+          "il était",
+          "il soit"
+        ],
+        "answer": 0,
+        "explanationEn": "stem ser- + imparfait ending -ait = il serait. il sera is the future.",
+        "explanationZh": "词根 ser- + 未完成过去时词尾 -ait = il serait。il sera 是将来时。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Complete / 填空: « Si j'___ le temps, je viendrais avec toi. »",
+        "options": [
+          "aurais",
+          "avais",
+          "aurai",
+          "ai"
+        ],
+        "answer": 1,
+        "explanationEn": "si + imparfait, then conditional: Si j'avais…, je viendrais.",
+        "explanationZh": "si + 未完成过去时，主句用条件式：Si j'avais…, je viendrais。"
+      },
+      {
+        "type": "listen",
+        "text": "Vous devriez parler à votre médecin.",
+        "options": [
+          "Vous devez parler à votre médecin.",
+          "Vous devrez parler à votre médecin.",
+          "Vous devriez parler à votre médecin.",
+          "Vous deviez parler à votre médecin."
+        ],
+        "answer": 2
+      },
+      {
+        "type": "listen",
+        "text": "Ce serait plus simple en ligne.",
+        "options": [
+          "Ce sera plus simple en ligne.",
+          "C'est plus simple en ligne.",
+          "C'était plus simple en ligne.",
+          "Ce serait plus simple en ligne."
+        ],
+        "answer": 3
+      },
+      {
+        "type": "order",
+        "words": [
+          "pour",
+          "réserver",
+          "Je",
+          "voudrais",
+          "table",
+          "une",
+          "personnes.",
+          "deux"
+        ],
+        "answer": "Je voudrais réserver une table pour deux personnes.",
+        "en": "I'd like to book a table for two.",
+        "zh": "我想预订一张两人桌。"
+      },
+      {
+        "type": "order",
+        "words": [
+          "devrais",
+          "Tu",
+          "peu",
+          "dormir",
+          "plus.",
+          "un"
+        ],
+        "answer": "Tu devrais dormir un peu plus.",
+        "en": "You should sleep a little more.",
+        "zh": "你应该多睡一会儿。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Which sentence gives advice? / 哪句是在提建议？",
+        "options": [
+          "Je voudrais un rendez-vous.",
+          "Vous devriez réserver à l'avance.",
+          "Nous aimerions partir en vacances.",
+          "Pourriez-vous répéter ?"
+        ],
+        "answer": 1,
+        "explanationEn": "devoir in the conditional (vous devriez) = you should: advice.",
+        "explanationZh": "devoir 的条件式（vous devriez）= 您应该：表示建议。"
+      }
+    ]
+  },
+  {
+    "id": "a2-12",
+    "level": "A2",
+    "titleFr": "Expressions de temps et négations",
+    "titleEn": "Time expressions and negation",
+    "titleZh": "时间表达与否定",
+    "goalsEn": [
+      "Use depuis, il y a, pendant, dans and en to talk about time",
+      "Choose the right tense with each time expression",
+      "Use ne … jamais, ne … plus, ne … rien, ne … personne",
+      "Place negations correctly in the passé composé"
+    ],
+    "goalsZh": [
+      "用 depuis、il y a、pendant、dans 和 en 谈论时间",
+      "为每个时间表达选择正确的时态",
+      "使用 ne … jamais、ne … plus、ne … rien、ne … personne",
+      "在复合过去时中正确放置否定词"
+    ],
+    "sections": [
+      {
+        "type": "text",
+        "en": "Five little words are essential to say **when** and **for how long** something happens. They are often confused because they don't match English *for, since, ago, in* (or Chinese 了, 以前, 以后) one-to-one. Pay attention to the **tense** used with each one.",
+        "zh": "有五个小词对于表达**什么时候**以及**持续多久**至关重要。它们和英语的 *for、since、ago、in* 或汉语的“了、以前、以后”并不一一对应，所以常被混淆。请特别注意每个词搭配的**时态**。"
+      },
+      {
+        "type": "table",
+        "caption": "Time expressions / 时间表达",
+        "headers": [
+          "Expression / 表达",
+          "Meaning / 意思",
+          "Usual tense / 常用时态",
+          "Example / 例句"
+        ],
+        "rows": [
+          [
+            "depuis + duration / date",
+            "since, for (still true now) / 自从、已经……（至今仍在继续）",
+            "présent",
+            "J'habite à Calgary **depuis** trois ans."
+          ],
+          [
+            "il y a + duration",
+            "ago / ……以前",
+            "passé composé",
+            "Je suis arrivé **il y a** trois ans."
+          ],
+          [
+            "pendant + duration",
+            "for, during (a closed period) / 在……期间、持续……",
+            "any tense / 各种时态",
+            "J'ai étudié **pendant** deux heures."
+          ],
+          [
+            "dans + duration",
+            "in (from now) / ……之后",
+            "futur, présent",
+            "Le train part **dans** dix minutes."
+          ],
+          [
+            "en + duration",
+            "in (time needed to do it) / 用了……时间",
+            "any tense / 各种时态",
+            "J'ai fait l'exercice **en** cinq minutes."
+          ]
+        ]
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "fr": "Nous sommes au Canada depuis 2022.",
+            "en": "We have been in Canada since 2022.",
+            "zh": "我们从 2022 年起就在加拿大了。"
+          },
+          {
+            "fr": "J'apprends le français depuis six mois.",
+            "en": "I have been learning French for six months.",
+            "zh": "我学法语已经六个月了。"
+          },
+          {
+            "fr": "Elle a commencé ce travail il y a deux semaines.",
+            "en": "She started this job two weeks ago.",
+            "zh": "她两周前开始做这份工作。"
+          },
+          {
+            "fr": "Pendant les vacances, nous avons visité la Gaspésie.",
+            "en": "During the holidays, we visited the Gaspé Peninsula.",
+            "zh": "假期里，我们游览了加斯佩半岛。"
+          },
+          {
+            "fr": "Le médecin vous recevra dans vingt minutes.",
+            "en": "The doctor will see you in twenty minutes.",
+            "zh": "医生二十分钟后接待您。"
+          },
+          {
+            "fr": "On peut aller de Montréal à Ottawa en deux heures.",
+            "en": "You can get from Montreal to Ottawa in two hours.",
+            "zh": "从蒙特利尔到渥太华两个小时就能到。"
+          }
+        ]
+      },
+      {
+        "type": "tip",
+        "en": "**Watch out!**\n• *I **have lived** here **for** three years* → *J'**habite** ici **depuis** trois ans.* Use the **present** with *depuis*, because it's still true.\n• Questions: *Depuis quand… ?* (since when?) / *Depuis combien de temps… ?* (for how long?)\n• *dans* vs *en*: *Je pars **dans** une heure* (an hour from now) / *Je fais le trajet **en** une heure* (it takes me an hour).\n• *en* is also used with months, years and most seasons: *en mai, en 2025, en été, en hiver*, but *au printemps*.",
+        "zh": "**注意！**\n• *I **have lived** here **for** three years* → *J'**habite** ici **depuis** trois ans.*（我在这里住了三年了。）因为现在仍然住在这里，*depuis* 要搭配**现在时**。\n• 提问：*Depuis quand… ?*（从什么时候开始？）/ *Depuis combien de temps… ?*（多长时间了？）\n• *dans* 和 *en*：*Je pars **dans** une heure*（我一小时后出发）/ *Je fais le trajet **en** une heure*（这段路我要花一小时）。\n• *en* 也用于月份、年份和大多数季节：*en mai、en 2025、en été、en hiver*，但要说 *au printemps*。"
+      },
+      {
+        "type": "text",
+        "en": "**Negation beyond pas**\nLike *ne … pas*, these negations surround the conjugated verb. *ne* becomes *n'* before a vowel.\n\nAfter a negation, *un, une, des, du, de la* become **de** (*d'*): *Je n'ai **plus de** voiture.*\n\nIn everyday spoken French, people often drop *ne*: *J'ai jamais vu ça.* Always keep it in writing and in the exam.",
+        "zh": "**pas 以外的否定**\n和 *ne … pas* 一样，这些否定词包住变位动词。*ne* 在元音前变成 *n'*。\n\n否定之后，*un、une、des、du、de la* 要变成 **de**（*d'*）：*Je n'ai **plus de** voiture.*（我不再有车了。）\n\n日常口语中，人们常常省略 *ne*：*J'ai jamais vu ça.*（我从没见过这个。）但书面语和考试中一定要保留。"
+      },
+      {
+        "type": "table",
+        "caption": "Negations / 否定形式",
+        "headers": [
+          "Negation / 否定",
+          "Meaning / 意思",
+          "Opposite of / 对应的肯定词",
+          "Example / 例句"
+        ],
+        "rows": [
+          [
+            "ne … pas",
+            "not / 不",
+            "—",
+            "Je **ne** travaille **pas** le lundi."
+          ],
+          [
+            "ne … jamais",
+            "never / 从不",
+            "toujours, souvent, parfois, déjà",
+            "Il **ne** boit **jamais** de café."
+          ],
+          [
+            "ne … plus",
+            "no longer, not anymore / 不再",
+            "encore, toujours",
+            "Nous **n'**habitons **plus** à Toronto."
+          ],
+          [
+            "ne … rien",
+            "nothing / 什么都不",
+            "quelque chose, tout",
+            "Je **ne** comprends **rien**."
+          ],
+          [
+            "ne … personne",
+            "nobody / 谁都不",
+            "quelqu'un, tout le monde",
+            "Je **ne** connais **personne** ici."
+          ]
+        ]
+      },
+      {
+        "type": "text",
+        "en": "**Position in the passé composé**\n• *jamais, plus, rien* go **between** the auxiliary and the participle, like *pas*: *Je n'ai **jamais** vu la mer. Il n'a **rien** mangé.*\n• *personne* goes **after** the participle: *Je n'ai vu **personne**.*\n• *rien* and *personne* can also be the **subject**, with no *pas*: *Personne n'est venu.* *Rien n'a changé.*",
+        "zh": "**在复合过去时中的位置**\n• *jamais、plus、rien* 和 *pas* 一样，放在助动词和过去分词**之间**：*Je n'ai **jamais** vu la mer.*（我从没见过大海。）*Il n'a **rien** mangé.*（他什么都没吃。）\n• *personne* 放在过去分词**之后**：*Je n'ai vu **personne**.*（我谁都没看见。）\n• *rien* 和 *personne* 也可以作**主语**，这时不加 *pas*：*Personne n'est venu.*（没有人来。）*Rien n'a changé.*（什么都没变。）"
+      },
+      {
+        "type": "examples",
+        "items": [
+          {
+            "fr": "Je ne suis jamais allé au Nunavut.",
+            "en": "I've never been to Nunavut.",
+            "zh": "我从没去过努纳武特。"
+          },
+          {
+            "fr": "Elle ne fume plus depuis deux ans.",
+            "en": "She hasn't smoked for two years.",
+            "zh": "她已经两年不抽烟了。"
+          },
+          {
+            "fr": "Il n'y a rien dans le frigo.",
+            "en": "There's nothing in the fridge.",
+            "zh": "冰箱里什么都没有。"
+          },
+          {
+            "fr": "Je n'ai vu personne au bureau ce matin.",
+            "en": "I didn't see anyone at the office this morning.",
+            "zh": "我今天早上在办公室谁也没看见。"
+          },
+          {
+            "fr": "Personne ne m'a appelé aujourd'hui.",
+            "en": "Nobody called me today.",
+            "zh": "今天没有人给我打电话。"
+          },
+          {
+            "fr": "Nous n'avons plus de lait.",
+            "en": "We don't have any more milk.",
+            "zh": "我们没有牛奶了。"
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "mcq",
+        "prompt": "Complete / 填空: « J'habite à Edmonton ___ cinq ans. »",
+        "options": [
+          "il y a",
+          "depuis",
+          "dans",
+          "en"
+        ],
+        "answer": 1,
+        "explanationEn": "Present tense + a situation that is still true → depuis.",
+        "explanationZh": "现在时 + 至今仍在继续的情况 → depuis。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Complete / 填空: « Je suis arrivé au Canada ___ deux ans. »",
+        "options": [
+          "depuis",
+          "pendant",
+          "dans",
+          "il y a"
+        ],
+        "answer": 3,
+        "explanationEn": "A finished action (passé composé) + how long ago → il y a.",
+        "explanationZh": "已完成的动作（复合过去时）+ 多久以前 → il y a。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Le cours commence ___ dix minutes, dépêche-toi !",
+        "answers": [
+          "dans"
+        ],
+        "en": "The class starts in ten minutes, hurry up!",
+        "zh": "课十分钟后开始，快点！"
+      },
+      {
+        "type": "fill",
+        "prompt": "Nous avons voyagé au Mexique ___ deux semaines.",
+        "answers": [
+          "pendant"
+        ],
+        "en": "We travelled in Mexico for two weeks.",
+        "zh": "我们在墨西哥旅行了两个星期。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Il a écrit ce rapport ___ une heure seulement.",
+        "answers": [
+          "en"
+        ],
+        "en": "He wrote this report in only one hour.",
+        "zh": "他只用了一个小时就写完了这份报告。"
+      },
+      {
+        "type": "fill",
+        "prompt": "Je n'ai ___ mangé de poutine. Ça a l'air bon !",
+        "answers": [
+          "jamais"
+        ],
+        "hint": "(never / 从不)",
+        "en": "I've never eaten poutine. It looks good!",
+        "zh": "我从没吃过肉汁奶酪薯条（poutine）。看起来很好吃！"
+      },
+      {
+        "type": "fill",
+        "prompt": "Elle ne fume ___ : elle a arrêté l'année dernière.",
+        "answers": [
+          "plus"
+        ],
+        "hint": "(not anymore / 不再)",
+        "en": "She doesn't smoke anymore: she quit last year.",
+        "zh": "她不抽烟了：她去年戒了。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Best answer / 最佳回答: « Tu as vu quelqu'un au bureau ? — Non, ___ »",
+        "options": [
+          "je n'ai personne vu.",
+          "je n'ai vu rien.",
+          "je n'ai vu personne.",
+          "je n'ai pas vu quelqu'un."
+        ],
+        "answer": 2,
+        "explanationEn": "personne goes after the participle: je n'ai vu personne.",
+        "explanationZh": "personne 放在过去分词之后：je n'ai vu personne。"
+      },
+      {
+        "type": "mcq",
+        "prompt": "Complete / 填空: « Tu veux quelque chose ? — Non, je ne veux ___, merci. »",
+        "options": [
+          "rien",
+          "personne",
+          "jamais",
+          "plus de"
+        ],
+        "answer": 0,
+        "explanationEn": "The opposite of quelque chose (something) is rien (nothing).",
+        "explanationZh": "quelque chose（某物）的否定是 rien（什么都不）。"
+      },
+      {
+        "type": "listen",
+        "text": "Je n'ai plus de voiture.",
+        "options": [
+          "Je n'ai pas de voiture.",
+          "Je n'ai jamais eu de voiture.",
+          "J'ai une nouvelle voiture.",
+          "Je n'ai plus de voiture."
+        ],
+        "answer": 3
+      },
+      {
+        "type": "listen",
+        "text": "Il est parti il y a une heure.",
+        "options": [
+          "Il part dans une heure.",
+          "Il est parti il y a une heure.",
+          "Il est là depuis une heure.",
+          "Il a dormi pendant une heure."
+        ],
+        "answer": 1
+      },
+      {
+        "type": "order",
+        "words": [
+          "Nous",
+          "n'avons",
+          "compris.",
+          "rien"
+        ],
+        "answer": "Nous n'avons rien compris.",
+        "en": "We didn't understand anything.",
+        "zh": "我们什么都没听懂。"
+      },
+      {
+        "type": "order",
+        "words": [
+          "travaille",
+          "depuis",
+          "trois",
+          "mois.",
+          "ici",
+          "Je"
+        ],
+        "answer": "Je travaille ici depuis trois mois.",
+        "en": "I've been working here for three months.",
+        "zh": "我在这里工作三个月了。"
+      },
+      {
+        "type": "fill",
+        "prompt": "___ n'est venu à la réunion.",
+        "answers": [
+          "Personne"
+        ],
+        "hint": "(nobody / 没有人)",
+        "en": "Nobody came to the meeting.",
+        "zh": "没有人来开会。"
+      }
+    ]
+  }
+]

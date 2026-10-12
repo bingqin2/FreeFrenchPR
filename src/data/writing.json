@@ -1,0 +1,636 @@
+[
+  {
+    "id": "w1-01",
+    "task": 1,
+    "level": "A2",
+    "titleEn": "Housewarming invitation",
+    "titleZh": "乔迁聚会邀请",
+    "promptFr": "Vous venez d'emménager dans un nouvel appartement. Écrivez un message à votre ami Julien pour l'inviter à votre pendaison de crémaillère. Précisez la date, l'adresse, comment venir et ce qu'il peut apporter.\n(60 mots minimum / 120 mots maximum)",
+    "promptEn": "You have just moved into a new apartment. Write a message to your friend Julien inviting him to your housewarming party. Give the date, the address, how to get there and what he can bring.\n(60 words minimum / 120 words maximum)",
+    "promptZh": "你刚搬进一套新公寓。给你的朋友 Julien 写一条消息，邀请他参加你的乔迁聚会。请说明日期、地址、怎么过来以及他可以带些什么。\n（最少 60 词 / 最多 120 词）",
+    "minWords": 60,
+    "maxWords": 120,
+    "modelAnswer": "Salut Julien,\n\nJ'espère que tu vas bien ! Comme tu le sais, je viens d'emménager dans mon nouvel appartement, dans le quartier Rosemont. Pour fêter ça, j'organise une petite pendaison de crémaillère le samedi 14 juin à partir de 19 h.\n\nL'adresse, c'est le 4520, rue Saint-Zotique, au troisième étage. Le plus simple, c'est de prendre le métro jusqu'à la station Beaubien, puis de marcher une dizaine de minutes.\n\nJe m'occupe des plats, mais tu peux apporter un dessert ou quelque chose à boire si tu veux. Dis-moi avant jeudi si tu peux venir !\n\nÀ bientôt,\nAmira",
+    "usefulPhrases": [
+      "Je viens d'emménager dans…",
+      "Pour fêter ça, j'organise…",
+      "le samedi 14 juin à partir de 19 h",
+      "L'adresse, c'est…",
+      "Le plus simple, c'est de prendre…",
+      "Tu peux apporter… si tu veux.",
+      "Dis-moi avant jeudi si tu peux venir.",
+      "J'ai hâte de te faire visiter !"
+    ]
+  },
+  {
+    "id": "w1-02",
+    "task": 1,
+    "level": "A2",
+    "titleEn": "A favour from your neighbour",
+    "titleZh": "请邻居帮忙",
+    "promptFr": "Vous partez en vacances pendant deux semaines. Écrivez un mot à votre voisine, Mme Leblanc, pour lui demander d'arroser vos plantes et de récupérer votre courrier. Expliquez-lui précisément ce qu'elle doit faire.\n(60 mots minimum / 120 mots maximum)",
+    "promptEn": "You are going on holiday for two weeks. Write a note to your neighbour, Mrs Leblanc, asking her to water your plants and collect your mail. Explain exactly what she needs to do.\n(60 words minimum / 120 words maximum)",
+    "promptZh": "你要去度假两周。给你的邻居 Leblanc 太太写一张便条，请她帮你浇花并代收信件。具体说明她需要做些什么。\n（最少 60 词 / 最多 120 词）",
+    "minWords": 60,
+    "maxWords": 120,
+    "modelAnswer": "Bonjour Madame Leblanc,\n\nJe pars chez ma sœur à Vancouver du 3 au 17 août et je voulais vous demander un petit service. Pourriez-vous arroser mes plantes pendant mon absence ? Il suffit de le faire deux fois par semaine, le lundi et le jeudi, sauf pour le cactus, qui n'a besoin de rien.\n\nJe vous serais aussi très reconnaissant de récupérer mon courrier. Vous pouvez simplement le poser sur la table de la cuisine.\n\nJe vous laisse un double des clés dans votre boîte aux lettres. En cas de problème, n'hésitez pas à m'écrire au 514 555-0182.\n\nMerci mille fois !\n\nKarim, appartement 6",
+    "usefulPhrases": [
+      "Je voulais vous demander un petit service.",
+      "Pourriez-vous… pendant mon absence ?",
+      "Il suffit de…",
+      "deux fois par semaine",
+      "Je vous serais très reconnaissant(e) de…",
+      "Je vous laisse un double des clés.",
+      "En cas de problème, n'hésitez pas à…",
+      "Merci mille fois !"
+    ]
+  },
+  {
+    "id": "w1-03",
+    "task": 1,
+    "level": "A2",
+    "titleEn": "Missed team meeting",
+    "titleZh": "错过团队会议",
+    "promptFr": "Vous étiez malade et vous n'avez pas pu assister à une réunion d'équipe importante. Écrivez un courriel à votre collègue Sophie pour expliquer votre absence et lui demander ce qui a été décidé.\n(60 mots minimum / 120 mots maximum)",
+    "promptEn": "You were sick and could not attend an important team meeting. Write an email to your colleague Sophie explaining your absence and asking her what was decided.\n(60 words minimum / 120 words maximum)",
+    "promptZh": "你生病了，没能参加一次重要的团队会议。给同事 Sophie 写一封电子邮件，解释你缺席的原因，并问她会上做了哪些决定。\n（最少 60 词 / 最多 120 词）",
+    "minWords": 60,
+    "maxWords": 120,
+    "modelAnswer": "Bonjour Sophie,\n\nJe suis désolé de ne pas avoir pu assister à la réunion de ce matin. Je me suis réveillé avec une forte fièvre et mon médecin m'a conseillé de rester à la maison deux ou trois jours.\n\nJe sais que nous devions parler du nouveau calendrier du projet. Pourrais-tu me dire ce qui a été décidé ? J'aimerais surtout savoir qui va préparer la présentation pour le client et quelle est la nouvelle date limite.\n\nSi tu as pris des notes, est-ce que tu pourrais me les envoyer ? Comme ça, je pourrai avancer un peu depuis chez moi dès que j'irai mieux.\n\nMerci d'avance et à bientôt,\nDavid",
+    "usefulPhrases": [
+      "Je suis désolé(e) de ne pas avoir pu assister à…",
+      "Je me suis réveillé(e) avec une forte fièvre.",
+      "Mon médecin m'a conseillé de…",
+      "Pourrais-tu me dire ce qui a été décidé ?",
+      "J'aimerais surtout savoir…",
+      "Est-ce que tu pourrais m'envoyer tes notes ?",
+      "dès que j'irai mieux",
+      "Merci d'avance."
+    ]
+  },
+  {
+    "id": "w1-04",
+    "task": 1,
+    "level": "A2",
+    "titleEn": "Describing your new city",
+    "titleZh": "介绍你的新城市",
+    "promptFr": "Vous venez de vous installer au Canada. Écrivez un courriel à un ami resté dans votre pays d'origine pour lui décrire votre nouvelle ville et votre vie quotidienne.\n(60 mots minimum / 120 mots maximum)",
+    "promptEn": "You have just settled in Canada. Write an email to a friend who stayed in your home country describing your new city and your daily life.\n(60 words minimum / 120 words maximum)",
+    "promptZh": "你刚在加拿大安顿下来。给一位留在家乡的朋友写一封电子邮件，向他介绍你的新城市和你的日常生活。\n（最少 60 词 / 最多 120 词）",
+    "minWords": 60,
+    "maxWords": 120,
+    "modelAnswer": "Cher Thomas,\n\nMe voici installé à Québec depuis un mois ! La ville est magnifique, surtout le Vieux-Québec avec ses petites rues en pierre et ses maisons colorées. J'habite un petit appartement dans le quartier Saint-Roch, près de plein de cafés.\n\nPour l'instant, je suis des cours de français le matin et je cherche du travail l'après-midi. Le week-end, je me promène sur les plaines d'Abraham ou au bord du fleuve. Les gens sont très accueillants.\n\nLe plus difficile, c'est le froid : il paraît qu'en hiver, la température peut descendre à moins trente ! Il va falloir que j'achète un vrai manteau.\n\nEt toi, quoi de neuf ? Écris-moi vite !\n\nLin",
+    "usefulPhrases": [
+      "Me voici installé(e) à… depuis…",
+      "La ville est magnifique, surtout…",
+      "J'habite dans le quartier…, près de…",
+      "Pour l'instant, je…",
+      "Le week-end, je me promène…",
+      "Le plus difficile, c'est…",
+      "Il paraît que…",
+      "Et toi, quoi de neuf ?"
+    ]
+  },
+  {
+    "id": "w1-05",
+    "task": 1,
+    "level": "A2",
+    "titleEn": "Declining a birthday invitation",
+    "titleZh": "婉拒生日邀请",
+    "promptFr": "Votre collègue Marc vous invite à sa fête d'anniversaire samedi soir, mais vous n'êtes pas disponible. Répondez-lui : remerciez-le, expliquez pourquoi vous ne pouvez pas venir et proposez-lui une autre activité.\n(60 mots minimum / 120 mots maximum)",
+    "promptEn": "Your colleague Marc has invited you to his birthday party on Saturday evening, but you are not available. Reply to him: thank him, explain why you cannot come and suggest another activity.\n(60 words minimum / 120 words maximum)",
+    "promptZh": "你的同事 Marc 邀请你周六晚上参加他的生日聚会，但你没空。给他回信：感谢他，解释你不能去的原因，并提议另一项活动。\n（最少 60 词 / 最多 120 词）",
+    "minWords": 60,
+    "maxWords": 120,
+    "modelAnswer": "Salut Marc,\n\nMerci beaucoup pour ton invitation, ça me fait vraiment plaisir ! Malheureusement, je ne pourrai pas venir samedi soir. Mes parents arrivent de Lyon ce jour-là et je dois aller les chercher à l'aéroport vers 22 h. C'est la première fois qu'ils viennent me voir au Canada, alors je ne veux pas les laisser seuls.\n\nPar contre, j'aimerais beaucoup fêter ton anniversaire autrement. Que dirais-tu d'un brunch la semaine prochaine ? Je connais un petit restaurant près du bureau qui fait des crêpes délicieuses. C'est moi qui t'invite, bien sûr !\n\nPasse une super soirée et joyeux anniversaire en avance !\n\nInès",
+    "usefulPhrases": [
+      "Merci beaucoup pour ton invitation.",
+      "Malheureusement, je ne pourrai pas venir…",
+      "Je dois aller chercher… à l'aéroport.",
+      "Par contre, j'aimerais beaucoup…",
+      "Que dirais-tu d'un… ?",
+      "C'est moi qui t'invite !",
+      "Passe une super soirée !",
+      "Joyeux anniversaire en avance !"
+    ]
+  },
+  {
+    "id": "w1-06",
+    "task": 1,
+    "level": "A2",
+    "titleEn": "Your first climbing class",
+    "titleZh": "第一次攀岩课",
+    "promptFr": "Vous avez commencé une nouvelle activité sportive. Écrivez un message à votre amie Léa pour lui raconter votre première séance et lui proposer de vous accompagner la prochaine fois.\n(60 mots minimum / 120 mots maximum)",
+    "promptEn": "You have taken up a new sport. Write a message to your friend Léa telling her about your first session and suggesting she come with you next time.\n(60 words minimum / 120 words maximum)",
+    "promptZh": "你开始了一项新的体育活动。给你的朋友 Léa 写一条消息，讲述你的第一次课程，并邀请她下次和你一起去。\n（最少 60 词 / 最多 120 词）",
+    "minWords": 60,
+    "maxWords": 120,
+    "modelAnswer": "Coucou Léa,\n\nDevine quoi ! Samedi dernier, j'ai enfin essayé l'escalade dans la nouvelle salle près de chez moi. J'avais un peu peur au début, mais le moniteur était très patient. Il nous a d'abord montré comment mettre le harnais et faire les nœuds, puis on a commencé sur des murs faciles.\n\nAu bout d'une heure, j'avais mal aux bras, mais j'étais tellement fière d'arriver en haut du mur ! L'ambiance est super sympa.\n\nJ'ai pris un abonnement de trois mois. Ça te dirait de venir avec moi ? La première séance est gratuite. On pourrait y aller mercredi soir, après le travail.\n\nBisous,\nMei",
+    "usefulPhrases": [
+      "Devine quoi !",
+      "J'ai enfin essayé…",
+      "J'avais un peu peur au début, mais…",
+      "Il nous a d'abord montré comment…, puis…",
+      "Au bout d'une heure, …",
+      "J'étais tellement fier/fière de…",
+      "Ça te dirait de venir avec moi ?",
+      "On pourrait y aller…"
+    ]
+  },
+  {
+    "id": "w1-07",
+    "task": 1,
+    "level": "B1",
+    "titleEn": "A day at the sugar shack",
+    "titleZh": "糖屋一日游",
+    "promptFr": "Le week-end dernier, vous avez passé une journée à la cabane à sucre avec des amis. Écrivez un message à votre ami Omar, qui n'a pas pu venir, pour lui raconter comment la journée s'est passée.\n(60 mots minimum / 120 mots maximum)",
+    "promptEn": "Last weekend you spent a day at a sugar shack with friends. Write a message to your friend Omar, who could not come, telling him how the day went.\n(60 words minimum / 120 words maximum)",
+    "promptZh": "上周末你和朋友们去糖屋（枫糖小屋）玩了一天。给没能去的朋友 Omar 写一条消息，告诉他这一天过得怎么样。\n（最少 60 词 / 最多 120 词）",
+    "minWords": 60,
+    "maxWords": 120,
+    "modelAnswer": "Salut Omar,\n\nDommage que tu n'aies pas pu venir dimanche ! On a passé une journée géniale à la cabane à sucre. Nous sommes partis de Montréal vers 10 h et nous sommes arrivés une heure plus tard, juste à temps pour le repas.\n\nOn a goûté aux plats traditionnels : soupe aux pois, fèves au lard et, bien sûr, des crêpes avec beaucoup de sirop d'érable ! Ensuite, on a fait une balade en carriole et on a mangé de la tire sur la neige. Julie en a pris au moins cinq !\n\nJe t'envoie les photos ce soir. J'espère que tu seras des nôtres la prochaine fois !\n\nÀ plus,\nSara",
+    "usefulPhrases": [
+      "Dommage que tu n'aies pas pu venir !",
+      "On a passé une journée géniale à…",
+      "Nous sommes partis vers… et nous sommes arrivés…",
+      "juste à temps pour…",
+      "On a goûté aux plats traditionnels.",
+      "Ensuite, on a fait…",
+      "Je t'envoie les photos ce soir.",
+      "J'espère que tu seras des nôtres la prochaine fois."
+    ]
+  },
+  {
+    "id": "w1-08",
+    "task": 1,
+    "level": "B1",
+    "titleEn": "Planning a friend's visit",
+    "titleZh": "安排朋友来访",
+    "promptFr": "Un ami va venir passer une semaine dans votre ville. Écrivez-lui un message pour lui proposer un programme de visites et lui donner quelques conseils pratiques (météo, vêtements, transports).\n(60 mots minimum / 120 mots maximum)",
+    "promptEn": "A friend is coming to spend a week in your city. Write him a message suggesting a sightseeing programme and giving some practical advice (weather, clothing, transport).\n(60 words minimum / 120 words maximum)",
+    "promptZh": "一位朋友要来你所在的城市住一周。给他写一条消息，提出一个参观行程，并给他一些实用建议（天气、衣着、交通）。\n（最少 60 词 / 最多 120 词）",
+    "minWords": 60,
+    "maxWords": 120,
+    "modelAnswer": "Salut Hugo,\n\nJ'ai hâte de te voir à Ottawa la semaine prochaine ! Voici ce que je te propose. Lundi, on pourrait visiter la colline du Parlement, puis se promener au marché By. Mardi, on ira au Musée canadien de l'histoire, de l'autre côté de la rivière, à Gatineau. S'il fait beau, on fera du vélo le long du canal Rideau mercredi.\n\nQuelques conseils : en octobre, il fait souvent frais le matin, alors apporte un pull et une veste imperméable. Pour te déplacer, achète une carte Presto, valable dans les autobus et le train léger.\n\nEnvoie-moi l'heure de ton arrivée, je viendrai te chercher à la gare.\n\nÀ très vite,\nYanis",
+    "usefulPhrases": [
+      "J'ai hâte de te voir !",
+      "Voici ce que je te propose.",
+      "On pourrait visiter…, puis…",
+      "S'il fait beau, on fera…",
+      "Quelques conseils pratiques : …",
+      "Il fait souvent frais le matin, alors apporte…",
+      "Pour te déplacer, …",
+      "Je viendrai te chercher à la gare."
+    ]
+  },
+  {
+    "id": "w2-01",
+    "task": 2,
+    "level": "B1",
+    "titleEn": "Volunteering at a food bank",
+    "titleZh": "在食物银行做志愿者",
+    "promptFr": "Vous avez participé à une activité de bénévolat dans votre quartier. Vous écrivez un article pour le blogue de l'association afin de raconter cette expérience et d'expliquer ce qu'elle vous a apporté.\n(120 mots minimum / 150 mots maximum)",
+    "promptEn": "You took part in a volunteering activity in your neighbourhood. You write an article for the organisation's blog to describe the experience and explain what you gained from it.\n(120 words minimum / 150 words maximum)",
+    "promptZh": "你参加了社区里的一次志愿活动。请为该协会的博客写一篇文章，讲述这次经历，并说明它给你带来了什么收获。\n（最少 120 词 / 最多 150 词）",
+    "minWords": 120,
+    "maxWords": 150,
+    "modelAnswer": "Une matinée qui change le regard\n\nSamedi dernier, j'ai participé pour la première fois à la distribution alimentaire organisée par notre association. Avec une quinzaine d'autres bénévoles, j'ai trié des fruits et légumes, préparé des paniers et accueilli les familles.\n\nAu début, j'étais un peu intimidé, car je ne savais pas comment m'adresser aux personnes qui venaient chercher de l'aide. Mais très vite, l'ambiance chaleureuse m'a mis à l'aise. Une dame âgée m'a même raconté son arrivée au Québec dans les années soixante-dix.\n\nCette expérience m'a beaucoup appris. J'ai compris que la précarité peut toucher n'importe qui et qu'un simple sourire compte autant qu'un panier bien rempli. En plus, j'ai pratiqué mon français et rencontré des voisins formidables.\n\nJe recommande vivement cette activité à tous ceux qui disposent de quelques heures par mois !",
+    "usefulPhrases": [
+      "J'ai participé pour la première fois à…",
+      "Avec une quinzaine d'autres bénévoles, …",
+      "Au début, j'étais un peu intimidé(e), car…",
+      "Très vite, l'ambiance m'a mis(e) à l'aise.",
+      "Cette expérience m'a beaucoup appris.",
+      "J'ai compris que…",
+      "En plus, …",
+      "Je recommande vivement… à tous ceux qui…"
+    ]
+  },
+  {
+    "id": "w2-02",
+    "task": 2,
+    "level": "B2",
+    "titleEn": "Remote work: my experience",
+    "titleZh": "远程办公：我的经历",
+    "promptFr": "Le magazine interne de votre entreprise demande aux employés de partager leur expérience du télétravail. Rédigez un article dans lequel vous racontez comment vous travaillez à distance et donnez votre opinion sur les avantages et les inconvénients de cette formule.\n(120 mots minimum / 150 mots maximum)",
+    "promptEn": "Your company's in-house magazine is asking employees to share their experience of working from home. Write an article describing how you work remotely and giving your opinion on the advantages and drawbacks of this arrangement.\n(120 words minimum / 150 words maximum)",
+    "promptZh": "公司内刊邀请员工分享远程办公的经历。请写一篇文章，讲述你如何远程工作，并就这种工作方式的优缺点发表你的看法。\n（最少 120 词 / 最多 150 词）",
+    "minWords": 120,
+    "maxWords": 150,
+    "modelAnswer": "Le télétravail, deux ans plus tard\n\nDepuis deux ans, je travaille de chez moi trois jours par semaine. Au début, j'installais mon ordinateur sur la table de la cuisine et j'avais du mal à séparer ma vie professionnelle de ma vie privée. Aujourd'hui, j'ai aménagé un petit bureau et je respecte des horaires fixes.\n\nLes avantages sont nombreux. Je gagne près de deux heures de transport par jour, ce qui me permet de faire du sport le matin et de passer plus de temps avec mes enfants. Je suis aussi plus concentré, loin du bruit de l'aire ouverte.\n\nCependant, le télétravail a ses limites. Les échanges informels avec les collègues me manquent, et certaines décisions se prennent sans moi, autour de la machine à café.\n\nÀ mon avis, la formule hybride reste la meilleure : elle concilie autonomie et vie d'équipe.",
+    "usefulPhrases": [
+      "Depuis deux ans, je…",
+      "Au début, j'avais du mal à…",
+      "Aujourd'hui, j'ai aménagé…",
+      "Les avantages sont nombreux.",
+      "…, ce qui me permet de…",
+      "Cependant, … a ses limites.",
+      "… me manquent.",
+      "À mon avis, la formule hybride concilie… et…"
+    ]
+  },
+  {
+    "id": "w2-03",
+    "task": 2,
+    "level": "B2",
+    "titleEn": "Complaint about a flight",
+    "titleZh": "航班投诉信",
+    "promptFr": "Vous avez récemment pris l'avion et le voyage s'est très mal passé. Écrivez une lettre au service à la clientèle de la compagnie aérienne pour raconter ce qui s'est passé, exprimer votre mécontentement et demander une compensation.\n(120 mots minimum / 150 mots maximum)",
+    "promptEn": "You recently travelled by plane and the trip went very badly. Write a letter to the airline's customer service describing what happened, expressing your dissatisfaction and asking for compensation.\n(120 words minimum / 150 words maximum)",
+    "promptZh": "你最近乘坐飞机出行，旅途非常糟糕。给航空公司的客服写一封信，讲述发生了什么，表达你的不满，并要求赔偿。\n（最少 120 词 / 最多 150 词）",
+    "minWords": 120,
+    "maxWords": 150,
+    "modelAnswer": "Madame, Monsieur,\n\nJe vous écris au sujet du vol 482 du 12 mars, entre Toronto et Halifax. Ce trajet, qui devait durer deux heures, s'est transformé en véritable cauchemar.\n\nD'abord, le départ a été retardé de quatre heures sans aucune explication. Les employés au comptoir ne savaient rien, et on ne nous a offert ni repas ni boisson. Ensuite, à l'arrivée, j'ai découvert que ma valise était restée à Toronto. Elle ne m'a été livrée que trois jours plus tard, ce qui m'a obligée à acheter des vêtements pour un entretien d'embauche.\n\nJe trouve inacceptable qu'une compagnie traite ainsi ses passagers. Je vous demande donc le remboursement de ces achats, dont vous trouverez les reçus ci-joints, ainsi qu'une indemnité pour le retard.\n\nVeuillez agréer, Madame, Monsieur, mes salutations distinguées.\n\nNadia Benali",
+    "usefulPhrases": [
+      "Je vous écris au sujet de…",
+      "… s'est transformé en véritable cauchemar.",
+      "D'abord, … Ensuite, …",
+      "sans aucune explication",
+      "ce qui m'a obligé(e) à…",
+      "Je trouve inacceptable que… (+ subjonctif)",
+      "Je vous demande donc…",
+      "dont vous trouverez les reçus ci-joints",
+      "Veuillez agréer, Madame, Monsieur, mes salutations distinguées."
+    ]
+  },
+  {
+    "id": "w2-04",
+    "task": 2,
+    "level": "B1",
+    "titleEn": "A winter festival review",
+    "titleZh": "冬季节庆活动评述",
+    "promptFr": "Vous avez assisté à un festival d'hiver dans votre ville. Écrivez un article pour le journal local dans lequel vous racontez votre visite et donnez votre avis sur l'organisation de l'événement.\n(120 mots minimum / 150 mots maximum)",
+    "promptEn": "You attended a winter festival in your city. Write an article for the local newspaper describing your visit and giving your opinion on how the event was organised.\n(120 words minimum / 150 words maximum)",
+    "promptZh": "你参加了所在城市的一个冬季节庆活动。为当地报纸写一篇文章，讲述你的参观经历，并对活动的组织情况发表看法。\n（最少 120 词 / 最多 150 词）",
+    "minWords": 120,
+    "maxWords": 150,
+    "modelAnswer": "Un festival qui réchauffe l'hiver\n\nLe week-end dernier, je me suis rendue pour la première fois au Festival des lanternes, installé au bord du lac. Malgré un froid de moins quinze degrés, des milliers de familles étaient au rendez-vous.\n\nDès l'entrée, j'ai été émerveillée par les sculptures lumineuses géantes, qui représentaient des animaux de la forêt boréale. Mes enfants ont adoré la glissade sur tubes et l'atelier de fabrication de lanternes. Le soir, un concert de musique traditionnelle a clôturé la journée dans une ambiance très festive.\n\nCôté organisation, le bilan est plutôt positif : l'entrée était gratuite et les bénévoles, très souriants. En revanche, les files d'attente devant les stands de nourriture étaient interminables, et il manquait de toilettes.\n\nMalgré ces petits défauts, je recommande cet événement, qui prouve qu'on peut profiter de l'hiver au lieu de le subir !",
+    "usefulPhrases": [
+      "Je me suis rendu(e) pour la première fois à…",
+      "Malgré un froid de…, des milliers de… étaient au rendez-vous.",
+      "Dès l'entrée, j'ai été émerveillé(e) par…",
+      "… a clôturé la journée.",
+      "Côté organisation, le bilan est plutôt positif.",
+      "En revanche, …",
+      "Il manquait de…",
+      "Malgré ces petits défauts, je recommande…"
+    ]
+  },
+  {
+    "id": "w2-05",
+    "task": 2,
+    "level": "B1",
+    "titleEn": "How I learned French",
+    "titleZh": "我是如何学法语的",
+    "promptFr": "Sur un forum destiné aux nouveaux arrivants, on vous demande de raconter comment vous avez appris le français et de donner des conseils à ceux qui commencent.\n(120 mots minimum / 150 mots maximum)",
+    "promptEn": "On a forum for newcomers, you are asked to describe how you learned French and to give advice to people who are just starting.\n(120 words minimum / 150 words maximum)",
+    "promptZh": "在一个面向新移民的论坛上，有人请你讲讲你是如何学会法语的，并给初学者一些建议。\n（最少 120 词 / 最多 150 词）",
+    "minWords": 120,
+    "maxWords": 150,
+    "modelAnswer": "Mon parcours avec le français\n\nQuand je suis arrivé à Montréal il y a trois ans, je ne connaissais que quelques mots de français. Les premiers mois ont été difficiles : je comprenais à peine mes collègues et j'évitais de téléphoner.\n\nJ'ai alors suivi des cours gratuits de francisation. Ils m'ont donné de bonnes bases en grammaire, mais c'est surtout en dehors de la classe que j'ai progressé. Je regardais des séries québécoises sous-titrées, j'écoutais la radio en cuisinant et je participais à un café-rencontre chaque jeudi.\n\nSi j'avais un conseil à donner aux nouveaux arrivants, ce serait de ne pas avoir peur de faire des erreurs : les gens apprécient vraiment l'effort. Ensuite, pratiquez un peu chaque jour plutôt que beaucoup une fois par semaine.\n\nAujourd'hui, je travaille entièrement en français, et j'en suis très fier !",
+    "usefulPhrases": [
+      "Quand je suis arrivé(e), je ne connaissais que…",
+      "Les premiers mois ont été difficiles.",
+      "Je comprenais à peine…",
+      "C'est surtout… que j'ai progressé.",
+      "Si j'avais un conseil à donner, ce serait de…",
+      "Ne pas avoir peur de faire des erreurs.",
+      "plutôt que…",
+      "Aujourd'hui, … et j'en suis très fier/fière."
+    ]
+  },
+  {
+    "id": "w2-06",
+    "task": 2,
+    "level": "B2",
+    "titleEn": "Composting at home",
+    "titleZh": "家庭厨余堆肥",
+    "promptFr": "Votre ville a récemment mis en place la collecte des résidus alimentaires (compost). Rédigez un article pour le bulletin de votre quartier dans lequel vous racontez comment cela se passe chez vous et donnez votre opinion sur cette mesure.\n(120 mots minimum / 150 mots maximum)",
+    "promptEn": "Your city recently introduced food-waste (compost) collection. Write an article for your neighbourhood newsletter describing how it works in your home and giving your opinion on the measure.\n(120 words minimum / 150 words maximum)",
+    "promptZh": "你所在的城市最近开始收集厨余垃圾（堆肥）。为社区简报写一篇文章，讲述你家是如何执行的，并就这项措施发表你的看法。\n（最少 120 词 / 最多 150 词）",
+    "minWords": 120,
+    "maxWords": 150,
+    "modelAnswer": "Le compost, six mois après\n\nDepuis le printemps, chaque foyer de notre arrondissement a reçu un bac brun pour les résidus alimentaires. J'avoue que j'étais sceptique : je craignais les mauvaises odeurs et je pensais que ce serait compliqué.\n\nFinalement, la routine s'est installée rapidement. Nous gardons un petit seau sous l'évier pour les épluchures, le marc de café et les restes de repas, puis nous le vidons dans le bac chaque semaine. En été, il faut le rincer souvent, mais l'odeur reste supportable. Résultat : notre poubelle est presque deux fois moins pleine.\n\nÀ mon avis, cette mesure est indispensable, car les déchets organiques enfouis produisent du méthane, un puissant gaz à effet de serre. Je regrette seulement que la ville n'ait pas mieux informé les habitants : beaucoup de mes voisins ne savent toujours pas quoi mettre dans le bac.",
+    "usefulPhrases": [
+      "J'avoue que j'étais sceptique.",
+      "Je craignais que… / Je craignais les…",
+      "Finalement, la routine s'est installée rapidement.",
+      "Résultat : …",
+      "deux fois moins…",
+      "À mon avis, cette mesure est indispensable, car…",
+      "Je regrette seulement que… (+ subjonctif)",
+      "ne savent toujours pas…"
+    ]
+  },
+  {
+    "id": "w2-07",
+    "task": 2,
+    "level": "B1",
+    "titleEn": "A week without social media",
+    "titleZh": "一周不用社交媒体",
+    "promptFr": "Vous avez décidé de passer une semaine sans réseaux sociaux. Racontez cette expérience dans un billet de blogue et dites si vous la recommanderiez à vos lecteurs.\n(120 mots minimum / 150 mots maximum)",
+    "promptEn": "You decided to spend a week without social media. Describe the experience in a blog post and say whether you would recommend it to your readers.\n(120 words minimum / 150 words maximum)",
+    "promptZh": "你决定一周不使用社交媒体。在一篇博客文章中讲述这段经历，并说明你是否会向读者推荐。\n（最少 120 词 / 最多 150 词）",
+    "minWords": 120,
+    "maxWords": 150,
+    "modelAnswer": "Sept jours sans réseaux sociaux\n\nLe mois dernier, je me suis rendu compte que je passais plus de trois heures par jour sur mon téléphone. J'ai donc supprimé toutes mes applications de réseaux sociaux pendant une semaine.\n\nLes deux premiers jours ont été les plus durs. Je prenais mon téléphone sans réfléchir dès que j'attendais l'autobus, et j'avais peur de rater des nouvelles de mes amis.\n\nPuis, peu à peu, j'ai retrouvé du temps pour des activités que j'avais abandonnées : j'ai terminé deux romans, je me suis remis à cuisiner et j'ai appelé ma grand-mère au lieu de lui envoyer des émojis. Surtout, je dormais beaucoup mieux, puisque je ne faisais plus défiler de vidéos au lit.\n\nJe recommande vraiment cette expérience. Depuis, je n'ai pas tout supprimé, mais je me limite à trente minutes par jour.",
+    "usefulPhrases": [
+      "Je me suis rendu compte que…",
+      "J'ai donc décidé de…",
+      "Les premiers jours ont été les plus durs.",
+      "dès que…",
+      "Peu à peu, j'ai retrouvé…",
+      "Je me suis remis(e) à…",
+      "au lieu de…",
+      "Surtout, …",
+      "Je recommande vraiment cette expérience."
+    ]
+  },
+  {
+    "id": "w2-08",
+    "task": 2,
+    "level": "B2",
+    "titleEn": "Living with roommates",
+    "titleZh": "合租生活",
+    "promptFr": "Un site Web destiné aux étudiants étrangers cherche des témoignages sur la colocation. Racontez votre expérience et donnez votre avis : la colocation est-elle une bonne solution pour les étudiants ?\n(120 mots minimum / 150 mots maximum)",
+    "promptEn": "A website for international students is looking for testimonials about sharing a flat. Describe your experience and give your opinion: is flat-sharing a good solution for students?\n(120 words minimum / 150 words maximum)",
+    "promptZh": "一个面向国际学生的网站正在征集合租经历。请讲述你的经历并发表看法：合租对学生来说是好的选择吗？\n（最少 120 词 / 最多 150 词）",
+    "minWords": 120,
+    "maxWords": 150,
+    "modelAnswer": "La colocation : mon expérience\n\nPendant ma maîtrise à Sherbrooke, j'ai partagé un grand appartement avec trois étudiants : une Française, un Mexicain et un Québécois. Pour moi qui arrivais de Chine, c'était une excellente façon de m'intégrer.\n\nBien sûr, tout n'a pas toujours été facile. Au début, nous nous disputions souvent à propos du ménage et de la vaisselle qui s'accumulait dans l'évier. Nous avons finalement créé un tableau des tâches, et l'ambiance s'est nettement améliorée.\n\nCela dit, les avantages ont largement compensé ces petits conflits. Mon loyer était presque deux fois moins cher que celui d'un studio, et je n'étais jamais seule pendant les longues soirées d'hiver. Nous cuisinions souvent ensemble, ce qui m'a fait découvrir des plats du monde entier.\n\nÀ mon avis, la colocation est idéale pour les étudiants, à condition de fixer des règles claires dès le départ.",
+    "usefulPhrases": [
+      "Pendant mes études à…, j'ai partagé…",
+      "C'était une excellente façon de…",
+      "Bien sûr, tout n'a pas toujours été facile.",
+      "Nous nous disputions souvent à propos de…",
+      "L'ambiance s'est nettement améliorée.",
+      "Cela dit, les avantages ont largement compensé…",
+      "…, ce qui m'a fait découvrir…",
+      "à condition de… dès le départ"
+    ]
+  },
+  {
+    "id": "w3-01",
+    "task": 3,
+    "level": "B2",
+    "titleEn": "Phones at school",
+    "titleZh": "学校是否应禁止手机",
+    "promptFr": "Thème : Faut-il interdire les téléphones portables à l'école ?\nLisez les deux documents ci-dessous, qui présentent des points de vue opposés. Rédigez ensuite un texte en deux parties :\n1) résumez brièvement les deux points de vue (40 à 60 mots) ;\n2) donnez votre propre opinion et justifiez-la (80 à 120 mots).\n(120 mots minimum / 180 mots maximum)",
+    "promptEn": "Topic: Should mobile phones be banned at school?\nRead the two documents below, which present opposing views. Then write a text in two parts:\n1) briefly summarise both points of view (40–60 words);\n2) give and justify your own opinion (80–120 words).\n(120 words minimum / 180 words maximum)",
+    "promptZh": "主题：学校是否应该禁止学生使用手机？\n阅读下面两篇观点相反的文章，然后写一篇分两部分的短文：\n1）简要概括两种观点（40–60 词）；\n2）提出并论证你自己的观点（80–120 词）。\n（最少 120 词 / 最多 180 词）",
+    "minWords": 120,
+    "maxWords": 180,
+    "documents": [
+      {
+        "title": "Document 1 — Pour une école sans téléphone",
+        "text": "Depuis que notre établissement a interdit les téléphones portables, y compris pendant les pauses, l'ambiance a profondément changé. Les élèves discutent entre eux dans la cour, jouent au ballon et lisent davantage. Les enseignants constatent aussi une meilleure concentration en classe : plus de notifications qui interrompent les cours, plus de vidéos filmées à l'insu des professeurs. Enfin, le harcèlement en ligne a nettement diminué pendant les heures de classe. L'école doit rester un lieu où l'on apprend à se concentrer et à vivre ensemble, loin des écrans qui occupent déjà le reste de la journée des jeunes."
+      },
+      {
+        "title": "Document 2 — Apprendre à s'en servir plutôt qu'interdire",
+        "text": "Interdire le téléphone à l'école, c'est fermer les yeux sur le monde dans lequel vivent nos adolescents. Bien utilisé, le téléphone est un formidable outil pédagogique : il permet de chercher une définition, de traduire un mot, de photographier un schéma au tableau ou de travailler avec des applications éducatives. De plus, de nombreux parents tiennent à pouvoir joindre leur enfant en cas d'urgence. Plutôt que de bannir cet objet, l'école devrait apprendre aux élèves à s'en servir de manière responsable, en fixant des règles claires. C'est précisément ce rôle éducatif que l'on attend d'elle."
+      }
+    ],
+    "modelAnswer": "Le premier document défend l'interdiction totale des téléphones à l'école : selon l'auteur, elle améliore la concentration, favorise les échanges entre élèves et réduit le harcèlement. Le second, au contraire, voit dans le téléphone un outil pédagogique utile et estime que l'école doit apprendre aux jeunes à l'utiliser de façon responsable.\n\nPour ma part, je pense qu'une interdiction pendant les cours est nécessaire, mais qu'une interdiction totale serait excessive. Il est évident que les notifications nuisent à la concentration : même un téléphone posé sur la table détourne l'attention. Cependant, les élèves passeront leur vie d'adulte entourés d'écrans, et l'école est justement l'endroit idéal pour leur apprendre à les maîtriser. Je propose donc une solution intermédiaire : les téléphones seraient rangés dans un casier pendant les cours, sauf lorsque l'enseignant décide de les utiliser pour une activité précise. On concilierait ainsi concentration et éducation au numérique.",
+    "usefulPhrases": [
+      "Le premier document défend…",
+      "Selon l'auteur, …",
+      "Le second, au contraire, voit dans… un…",
+      "Pour ma part, je pense que…",
+      "Il est évident que…",
+      "Cependant, …",
+      "Je propose donc une solution intermédiaire : …",
+      "On concilierait ainsi… et…"
+    ]
+  },
+  {
+    "id": "w3-02",
+    "task": 3,
+    "level": "B2",
+    "titleEn": "Free public transit",
+    "titleZh": "公共交通是否应该免费",
+    "promptFr": "Thème : Les transports en commun devraient-ils être gratuits ?\nLisez les deux documents ci-dessous, qui présentent des points de vue opposés. Rédigez ensuite un texte en deux parties :\n1) résumez brièvement les deux points de vue (40 à 60 mots) ;\n2) donnez votre propre opinion et justifiez-la (80 à 120 mots).\n(120 mots minimum / 180 mots maximum)",
+    "promptEn": "Topic: Should public transit be free?\nRead the two documents below, which present opposing views. Then write a text in two parts:\n1) briefly summarise both points of view (40–60 words);\n2) give and justify your own opinion (80–120 words).\n(120 words minimum / 180 words maximum)",
+    "promptZh": "主题：公共交通应该免费吗？\n阅读下面两篇观点相反的文章，然后写一篇分两部分的短文：\n1）简要概括两种观点（40–60 词）；\n2）提出并论证你自己的观点（80–120 词）。\n（最少 120 词 / 最多 180 词）",
+    "minWords": 120,
+    "maxWords": 180,
+    "documents": [
+      {
+        "title": "Document 1 — Des transports gratuits pour tous",
+        "text": "Plusieurs villes européennes ont rendu leurs autobus gratuits, et les résultats sont encourageants : la fréquentation a fortement augmenté et de nombreux habitants ont laissé leur voiture au garage. La gratuité est d'abord une mesure de justice sociale, car elle permet aux ménages modestes, aux étudiants et aux aînés de se déplacer librement. C'est aussi un moyen efficace de réduire les embouteillages et la pollution de l'air. Alors que le coût de la vie ne cesse d'augmenter, offrir des transports gratuits, c'est investir dans une ville plus juste et plus verte."
+      },
+      {
+        "title": "Document 2 — La gratuité a un prix",
+        "text": "Rien n'est vraiment gratuit : si les usagers ne paient plus leur titre de transport, ce sont les contribuables qui financent le réseau. Or, dans beaucoup de grandes villes, les autobus et le métro sont déjà saturés aux heures de pointe. Supprimer les tarifs attirerait encore plus de monde, sans améliorer le service. Plusieurs études montrent d'ailleurs que les nouveaux usagers sont souvent d'anciens piétons ou cyclistes, et non des automobilistes. Mieux vaudrait utiliser l'argent public pour augmenter la fréquence des passages, créer de nouvelles lignes et offrir des tarifs réduits à ceux qui en ont réellement besoin."
+      }
+    ],
+    "modelAnswer": "Le premier texte soutient la gratuité des transports en commun, qu'il présente comme une mesure de justice sociale permettant aussi de réduire la circulation et la pollution. Le second s'y oppose : selon son auteur, la gratuité coûte cher aux contribuables, surcharge les réseaux et attire surtout des piétons et des cyclistes.\n\nÀ mon avis, la gratuité totale n'est pas la priorité. Dans ma ville, le principal obstacle à l'utilisation de l'autobus n'est pas le prix, mais la fréquence : attendre vingt minutes par moins vingt degrés décourage n'importe qui. Un réseau gratuit mais lent ne convaincra jamais les automobilistes. En revanche, je suis tout à fait favorable à des tarifs solidaires, calculés selon le revenu, ainsi qu'à la gratuité pour les enfants et les aînés. Ce compromis protégerait les plus vulnérables tout en conservant les ressources nécessaires pour améliorer le service.",
+    "usefulPhrases": [
+      "Le premier texte soutient…, qu'il présente comme…",
+      "Le second s'y oppose : selon son auteur, …",
+      "À mon avis, … n'est pas la priorité.",
+      "Le principal obstacle à…, ce n'est pas…, mais…",
+      "En revanche, je suis tout à fait favorable à…",
+      "calculés selon le revenu",
+      "Ce compromis permettrait de… tout en…",
+      "les plus vulnérables"
+    ]
+  },
+  {
+    "id": "w3-03",
+    "task": 3,
+    "level": "B2",
+    "titleEn": "The four-day work week",
+    "titleZh": "四天工作制",
+    "promptFr": "Thème : Faut-il adopter la semaine de travail de quatre jours ?\nLisez les deux documents ci-dessous, qui présentent des points de vue opposés. Rédigez ensuite un texte en deux parties :\n1) résumez brièvement les deux points de vue (40 à 60 mots) ;\n2) donnez votre propre opinion et justifiez-la (80 à 120 mots).\n(120 mots minimum / 180 mots maximum)",
+    "promptEn": "Topic: Should we adopt the four-day work week?\nRead the two documents below, which present opposing views. Then write a text in two parts:\n1) briefly summarise both points of view (40–60 words);\n2) give and justify your own opinion (80–120 words).\n(120 words minimum / 180 words maximum)",
+    "promptZh": "主题：是否应该实行每周四天工作制？\n阅读下面两篇观点相反的文章，然后写一篇分两部分的短文：\n1）简要概括两种观点（40–60 词）；\n2）提出并论证你自己的观点（80–120 词）。\n（最少 120 词 / 最多 180 词）",
+    "minWords": 120,
+    "maxWords": 180,
+    "documents": [
+      {
+        "title": "Document 1 — Travailler moins, travailler mieux",
+        "text": "Plusieurs expériences menées en Europe l'ont montré : passer à la semaine de quatre jours, sans baisse de salaire, ne réduit pas la productivité. Au contraire, les employés reposés sont plus motivés, plus créatifs et moins souvent malades. Les entreprises qui ont tenté l'aventure constatent aussi qu'il devient plus facile d'attirer et de garder les talents. Quant aux salariés, ils disposent enfin de temps pour leur famille, leur santé ou leurs projets personnels. À l'heure où l'épuisement professionnel se multiplie, la semaine de quatre jours n'est pas un luxe, mais une nécessité."
+      },
+      {
+        "title": "Document 2 — Une fausse bonne idée",
+        "text": "La semaine de quatre jours séduit, mais elle est loin de convenir à tous les secteurs. Dans un hôpital, une école ou un commerce, les besoins ne disparaissent pas le cinquième jour : il faudrait embaucher davantage, alors que la main-d'œuvre manque déjà. Pour les petites entreprises, ce changement représenterait un coût difficile à assumer. Par ailleurs, concentrer le même travail sur quatre jours peut allonger les journées et augmenter le stress. Plutôt que d'imposer un modèle unique, il serait préférable de laisser chaque entreprise négocier avec ses employés des horaires flexibles adaptés à sa réalité."
+      }
+    ],
+    "modelAnswer": "Selon le premier document, la semaine de quatre jours améliore la motivation et la santé des employés sans nuire à la productivité, tout en aidant les entreprises à recruter. Le second estime au contraire que cette formule est inadaptée à de nombreux secteurs, coûteuse pour les petites entreprises et source de stress.\n\nPersonnellement, je suis plutôt favorable à la semaine de quatre jours, mais pas sous la forme d'une règle imposée à tous. Dans mon ancien emploi, nous avons testé cette organisation pendant six mois : l'équipe était plus efficace, car les réunions inutiles avaient disparu. Néanmoins, je reconnais que ce modèle ne peut pas s'appliquer de la même façon dans un hôpital ou une épicerie. À mon sens, l'État devrait encourager les expériences, par exemple grâce à des aides financières, tout en laissant employeurs et salariés choisir ensemble la formule la plus adaptée. La souplesse me semble la clé du succès.",
+    "usefulPhrases": [
+      "Selon le premier document, …",
+      "sans nuire à…",
+      "Le second estime au contraire que…",
+      "Personnellement, je suis plutôt favorable à…, mais…",
+      "Dans mon ancien emploi, …",
+      "Néanmoins, je reconnais que…",
+      "À mon sens, …",
+      "… me semble la clé du succès."
+    ]
+  },
+  {
+    "id": "w3-04",
+    "task": 3,
+    "level": "C1",
+    "titleEn": "Limiting mass tourism",
+    "titleZh": "限制大众旅游",
+    "promptFr": "Thème : Faut-il limiter le nombre de visiteurs dans les sites touristiques très fréquentés ?\nLisez les deux documents ci-dessous, qui présentent des points de vue opposés. Rédigez ensuite un texte en deux parties :\n1) résumez brièvement les deux points de vue (40 à 60 mots) ;\n2) donnez votre propre opinion et justifiez-la (80 à 120 mots).\n(120 mots minimum / 180 mots maximum)",
+    "promptEn": "Topic: Should the number of visitors to very popular tourist sites be limited?\nRead the two documents below, which present opposing views. Then write a text in two parts:\n1) briefly summarise both points of view (40–60 words);\n2) give and justify your own opinion (80–120 words).\n(120 words minimum / 180 words maximum)",
+    "promptZh": "主题：是否应该限制热门旅游景点的游客数量？\n阅读下面两篇观点相反的文章，然后写一篇分两部分的短文：\n1）简要概括两种观点（40–60 词）；\n2）提出并论证你自己的观点（80–120 词）。\n（最少 120 词 / 最多 180 词）",
+    "minWords": 120,
+    "maxWords": 180,
+    "documents": [
+      {
+        "title": "Document 1 — Protéger les lieux et leurs habitants",
+        "text": "Chaque été, des villes comme Venise ou Dubrovnik, et certains parcs nationaux des Rocheuses, sont envahis par des foules de visiteurs. Les habitants, chassés par la hausse des loyers liée aux locations touristiques, quittent les centres historiques. Les sentiers s'érodent, les déchets s'accumulent et la faune est dérangée. Limiter le nombre de visiteurs, grâce à des réservations obligatoires ou à des quotas quotidiens, n'est pas une punition : c'est la seule façon de préserver ces lieux pour les générations futures. Un site détruit par le tourisme n'attirera plus personne demain."
+      },
+      {
+        "title": "Document 2 — Le voyage doit rester accessible à tous",
+        "text": "Imposer des quotas ou des droits d'entrée revient à réserver les plus beaux endroits du monde à ceux qui peuvent payer ou planifier leur voyage des mois à l'avance. De plus, de nombreuses régions dépendent économiquement du tourisme : restaurateurs, guides et hôteliers verraient leurs revenus chuter. Le problème n'est pas tant le nombre de visiteurs que leur concentration au même endroit et à la même période. Il vaudrait mieux faire connaître des destinations moins fréquentées, encourager les voyages hors saison et améliorer les infrastructures plutôt que de fermer la porte aux voyageurs."
+      }
+    ],
+    "modelAnswer": "Le premier document plaide pour une limitation du nombre de visiteurs dans les sites très fréquentés, afin de protéger l'environnement et les habitants. Le second s'oppose aux quotas, qui rendraient le voyage inégalitaire et nuiraient aux économies locales ; il propose plutôt de mieux répartir les touristes dans l'espace et dans le temps.\n\nSelon moi, ces deux approches sont complémentaires, mais certains lieux exigent des limites strictes. L'été dernier, au parc national de Banff, il fallait presque faire la queue sur certains sentiers, ce qui gâchait complètement l'expérience. Pour les écosystèmes fragiles, un système de réservation me paraît donc indispensable. L'argument de l'équité n'en demeure pas moins légitime : les réservations devraient être gratuites ou peu coûteuses, et une partie des places pourrait être attribuée par tirage au sort. Parallèlement, les offices de tourisme devraient promouvoir les régions méconnues, qui gagneraient à accueillir ces visiteurs.",
+    "usefulPhrases": [
+      "Le premier document plaide pour…",
+      "Le second s'oppose à…, qui…",
+      "Il propose plutôt de…",
+      "Selon moi, ces deux approches sont complémentaires.",
+      "… me paraît donc indispensable.",
+      "… n'en demeure pas moins légitime.",
+      "Parallèlement, …",
+      "… gagneraient à…"
+    ]
+  },
+  {
+    "id": "w3-05",
+    "task": 3,
+    "level": "B2",
+    "titleEn": "A tax on sugary drinks",
+    "titleZh": "含糖饮料税",
+    "promptFr": "Thème : Faut-il taxer les boissons sucrées ?\nLisez les deux documents ci-dessous, qui présentent des points de vue opposés. Rédigez ensuite un texte en deux parties :\n1) résumez brièvement les deux points de vue (40 à 60 mots) ;\n2) donnez votre propre opinion et justifiez-la (80 à 120 mots).\n(120 mots minimum / 180 mots maximum)",
+    "promptEn": "Topic: Should sugary drinks be taxed?\nRead the two documents below, which present opposing views. Then write a text in two parts:\n1) briefly summarise both points of view (40–60 words);\n2) give and justify your own opinion (80–120 words).\n(120 words minimum / 180 words maximum)",
+    "promptZh": "主题：是否应该对含糖饮料征税？\n阅读下面两篇观点相反的文章，然后写一篇分两部分的短文：\n1）简要概括两种观点（40–60 词）；\n2）提出并论证你自己的观点（80–120 词）。\n（最少 120 词 / 最多 180 词）",
+    "minWords": 120,
+    "maxWords": 180,
+    "documents": [
+      {
+        "title": "Document 1 — Taxer le sucre pour protéger la santé",
+        "text": "L'obésité et le diabète de type 2 progressent rapidement, notamment chez les jeunes, et coûtent des milliards de dollars au système de santé. Les boissons sucrées en sont l'une des principales causes : une seule canette contient souvent l'équivalent de huit à dix morceaux de sucre. Plusieurs pays ont déjà adopté une taxe sur ces produits, et les fabricants ont réagi en réduisant la quantité de sucre dans leurs recettes. L'argent récolté pourrait financer des programmes de sport et d'alimentation saine dans les écoles. Taxer le sucre, c'est investir dans la santé publique."
+      },
+      {
+        "title": "Document 2 — Une taxe injuste et inefficace",
+        "text": "Les taxes sur les produits sucrés touchent d'abord les ménages modestes, qui consacrent une plus grande part de leur budget à l'alimentation. Elles pénalisent aussi les consommateurs raisonnables, qui boivent une boisson gazeuse de temps en temps. Surtout, rien ne prouve qu'elles réduisent réellement l'obésité : les gens peuvent simplement se tourner vers d'autres produits tout aussi caloriques. L'État ne devrait pas décider à la place des citoyens de ce qu'ils mettent dans leur assiette. Il serait plus efficace d'investir dans l'éducation nutritionnelle et de rendre les fruits et légumes plus abordables."
+      }
+    ],
+    "modelAnswer": "Le premier document défend une taxe sur les boissons sucrées, jugées en partie responsables de l'obésité et du diabète, en soulignant qu'elle pousse les fabricants à modifier leurs recettes. Le second dénonce une mesure qui pénalise les ménages modestes, dont l'efficacité reste douteuse, et préfère miser sur l'éducation.\n\nPour ma part, je suis favorable à cette taxe, à condition que ses recettes servent directement à la prévention. L'argument de la liberté individuelle ne me convainc pas : nous acceptons déjà des taxes sur le tabac et l'alcool, parce que leurs effets pèsent sur toute la société. De plus, l'exemple des pays qui l'ont adoptée montre que les entreprises réduisent le sucre lorsqu'elles y sont contraintes. Je reconnais néanmoins que cette taxe peut peser sur les familles à faible revenu. C'est pourquoi l'argent récolté devrait financer, par exemple, des fruits gratuits dans les écoles. La taxe deviendrait alors un véritable outil de santé publique.",
+    "usefulPhrases": [
+      "Le premier document défend…, en soulignant que…",
+      "Le second dénonce une mesure qui…",
+      "dont l'efficacité reste douteuse",
+      "miser sur…",
+      "Je suis favorable à…, à condition que… (+ subjonctif)",
+      "L'argument de… ne me convainc pas.",
+      "Je reconnais néanmoins que…",
+      "C'est pourquoi…"
+    ]
+  },
+  {
+    "id": "w3-06",
+    "task": 3,
+    "level": "C1",
+    "titleEn": "AI tools for homework",
+    "titleZh": "用人工智能做作业",
+    "promptFr": "Thème : Les élèves devraient-ils pouvoir utiliser l'intelligence artificielle pour leurs travaux scolaires ?\nLisez les deux documents ci-dessous, qui présentent des points de vue opposés. Rédigez ensuite un texte en deux parties :\n1) résumez brièvement les deux points de vue (40 à 60 mots) ;\n2) donnez votre propre opinion et justifiez-la (80 à 120 mots).\n(120 mots minimum / 180 mots maximum)",
+    "promptEn": "Topic: Should students be allowed to use artificial intelligence for their schoolwork?\nRead the two documents below, which present opposing views. Then write a text in two parts:\n1) briefly summarise both points of view (40–60 words);\n2) give and justify your own opinion (80–120 words).\n(120 words minimum / 180 words maximum)",
+    "promptZh": "主题：是否应该允许学生使用人工智能完成作业？\n阅读下面两篇观点相反的文章，然后写一篇分两部分的短文：\n1）简要概括两种观点（40–60 词）；\n2）提出并论证你自己的观点（80–120 词）。\n（最少 120 词 / 最多 180 词）",
+    "minWords": 120,
+    "maxWords": 180,
+    "documents": [
+      {
+        "title": "Document 1 — L'IA, un assistant précieux pour apprendre",
+        "text": "Les outils d'intelligence artificielle font désormais partie du quotidien des étudiants, et c'est une chance. Un élève qui ne comprend pas un exercice peut obtenir une explication personnalisée à tout moment, sans attendre le prochain cours. Pour ceux qui apprennent une langue seconde, l'IA permet de corriger un texte et de comprendre ses erreurs. Ces outils seront omniprésents dans le monde du travail : refuser de les intégrer à l'école reviendrait à préparer les jeunes à une société qui n'existe plus. Il faut donc apprendre aux élèves à les utiliser avec méthode et esprit critique."
+      },
+      {
+        "title": "Document 2 — Le risque de ne plus réfléchir",
+        "text": "Lorsqu'une machine rédige une dissertation en quelques secondes, à quoi bon apprendre à construire un raisonnement ? De nombreux enseignants constatent que des élèves rendent des travaux impeccables qu'ils sont incapables d'expliquer. L'effort, les hésitations et même les erreurs font partie de l'apprentissage : c'est en cherchant que l'on comprend. Par ailleurs, ces outils produisent parfois des informations fausses, présentées avec assurance, que les jeunes ne savent pas toujours repérer. Avant de confier nos devoirs à l'IA, assurons-nous que les élèves maîtrisent les compétences de base : lire, écrire et raisonner par eux-mêmes."
+      }
+    ],
+    "modelAnswer": "Le premier texte voit dans l'intelligence artificielle un outil pédagogique précieux, capable d'offrir des explications personnalisées et de préparer les jeunes au monde du travail. Le second, en revanche, craint que l'IA ne dispense les élèves de réfléchir et rappelle qu'elle commet des erreurs difficiles à détecter.\n\nÀ mon avis, il serait illusoire d'interdire ces outils, mais leur usage doit être encadré. En tant qu'apprenant de français, j'utilise moi-même l'IA pour relire mes textes, et elle m'aide réellement à repérer mes fautes récurrentes. En revanche, je ne lui demande jamais d'écrire à ma place, car je sais que je ne progresserais pas. Tout dépend donc de la manière dont on s'en sert. Les écoles devraient enseigner explicitement ces bonnes pratiques et adapter leurs évaluations, par exemple en privilégiant les examens oraux et les travaux réalisés en classe. L'IA deviendrait ainsi un tuteur plutôt qu'un substitut à la réflexion.",
+    "usefulPhrases": [
+      "Le premier texte voit dans… un…",
+      "Le second, en revanche, craint que… ne… (+ subjonctif)",
+      "Il serait illusoire de…",
+      "… doit être encadré.",
+      "En tant qu'apprenant(e) de…, …",
+      "Tout dépend de la manière dont…",
+      "en privilégiant…",
+      "… deviendrait ainsi… plutôt qu'…"
+    ]
+  },
+  {
+    "id": "w3-07",
+    "task": 3,
+    "level": "B2",
+    "titleEn": "Mandatory volunteering for teens",
+    "titleZh": "中学生义务志愿服务",
+    "promptFr": "Thème : Le bénévolat devrait-il être obligatoire pour obtenir son diplôme d'études secondaires ?\nLisez les deux documents ci-dessous, qui présentent des points de vue opposés. Rédigez ensuite un texte en deux parties :\n1) résumez brièvement les deux points de vue (40 à 60 mots) ;\n2) donnez votre propre opinion et justifiez-la (80 à 120 mots).\n(120 mots minimum / 180 mots maximum)",
+    "promptEn": "Topic: Should volunteering be compulsory to obtain a high-school diploma?\nRead the two documents below, which present opposing views. Then write a text in two parts:\n1) briefly summarise both points of view (40–60 words);\n2) give and justify your own opinion (80–120 words).\n(120 words minimum / 180 words maximum)",
+    "promptZh": "主题：志愿服务是否应成为获得高中文凭的必要条件？\n阅读下面两篇观点相反的文章，然后写一篇分两部分的短文：\n1）简要概括两种观点（40–60 词）；\n2）提出并论证你自己的观点（80–120 词）。\n（最少 120 词 / 最多 180 词）",
+    "minWords": 120,
+    "maxWords": 180,
+    "documents": [
+      {
+        "title": "Document 1 — Une obligation qui forme des citoyens",
+        "text": "En Ontario, les élèves doivent effectuer quarante heures de service communautaire pour obtenir leur diplôme d'études secondaires. Cette exigence devrait exister partout. En aidant une banque alimentaire, une bibliothèque ou un centre pour aînés, les adolescents découvrent des réalités qu'ils ignoraient et développent leur sens des responsabilités. Beaucoup d'entre eux continuent d'ailleurs à faire du bénévolat après le secondaire. Ces expériences constituent aussi un atout sur un curriculum vitae et permettent d'explorer des métiers. Une société solidaire se construit dès l'adolescence."
+      },
+      {
+        "title": "Document 2 — Le bénévolat ne s'impose pas",
+        "text": "Le principe même du bénévolat repose sur la liberté : on donne de son temps parce qu'on le souhaite. Lorsqu'il devient obligatoire, il se transforme en simple formalité administrative que les élèves cherchent à remplir le plus vite possible. De plus, tous les jeunes ne sont pas égaux face à cette exigence : ceux qui travaillent après l'école pour aider leur famille ou qui vivent loin des grands centres ont moins d'occasions de s'engager. Plutôt que d'imposer des heures, les écoles devraient faire découvrir le milieu communautaire et valoriser les élèves qui choisissent de s'y investir."
+      }
+    ],
+    "modelAnswer": "D'après le premier document, le bénévolat obligatoire au secondaire, comme en Ontario, développe le sens des responsabilités, encourage un engagement durable et enrichit le parcours des jeunes. Le second juge au contraire qu'une obligation dénature le bénévolat, réduit à une formalité, et désavantage les élèves qui travaillent ou vivent en région éloignée.\n\nPersonnellement, je suis favorable à cette obligation, à condition qu'elle reste souple. Un ami a commencé ses heures de bénévolat à contrecœur dans un refuge pour animaux ; il y travaille aujourd'hui comme technicien en santé animale. Sans cette exigence, il n'aurait sans doute jamais poussé la porte de cet organisme. Cela dit, le second texte soulève un vrai problème d'équité. Les écoles devraient donc reconnaître des formes d'engagement variées, comme l'aide aux devoirs, et proposer des activités en ligne aux élèves des régions éloignées. L'obligation deviendrait alors une ouverture plutôt qu'une contrainte.",
+    "usefulPhrases": [
+      "D'après le premier document, …",
+      "Le second juge au contraire que…",
+      "à condition qu'elle reste souple",
+      "à contrecœur",
+      "Sans cette exigence, il n'aurait sans doute jamais…",
+      "Cela dit, le second texte soulève un vrai problème de…",
+      "Les écoles devraient donc…",
+      "… deviendrait alors… plutôt qu'…"
+    ]
+  },
+  {
+    "id": "w3-08",
+    "task": 3,
+    "level": "B2",
+    "titleEn": "Online shopping vs local shops",
+    "titleZh": "网购与社区小店",
+    "promptFr": "Thème : Faut-il privilégier les commerces de proximité plutôt que les achats en ligne ?\nLisez les deux documents ci-dessous, qui présentent des points de vue opposés. Rédigez ensuite un texte en deux parties :\n1) résumez brièvement les deux points de vue (40 à 60 mots) ;\n2) donnez votre propre opinion et justifiez-la (80 à 120 mots).\n(120 mots minimum / 180 mots maximum)",
+    "promptEn": "Topic: Should we favour local shops over online shopping?\nRead the two documents below, which present opposing views. Then write a text in two parts:\n1) briefly summarise both points of view (40–60 words);\n2) give and justify your own opinion (80–120 words).\n(120 words minimum / 180 words maximum)",
+    "promptZh": "主题：我们是否应该优先选择社区实体店而不是网购？\n阅读下面两篇观点相反的文章，然后写一篇分两部分的短文：\n1）简要概括两种观点（40–60 词）；\n2）提出并论证你自己的观点（80–120 词）。\n（最少 120 词 / 最多 180 词）",
+    "minWords": 120,
+    "maxWords": 180,
+    "documents": [
+      {
+        "title": "Document 1 — Le commerce en ligne, un progrès pour les consommateurs",
+        "text": "Acheter en ligne est devenu un réflexe pour des millions de Canadiens, et ce n'est pas un hasard. On peut comparer les prix en quelques clics, lire les avis d'autres clients et se faire livrer à domicile, parfois dès le lendemain. Pour les personnes à mobilité réduite, les parents débordés ou les habitants des régions éloignées, c'est un service précieux. Le commerce en ligne offre aussi un choix immense, bien supérieur à celui d'un magasin de quartier. Plutôt que de culpabiliser les consommateurs, les petits commerces devraient eux aussi développer leur présence sur Internet."
+      },
+      {
+        "title": "Document 2 — Sauvons nos commerces de proximité",
+        "text": "Chaque colis commandé en ligne a un coût invisible : emballages jetés, camions de livraison qui encombrent les rues, retours gratuits qui finissent parfois à la poubelle. Pendant ce temps, les librairies, les quincailleries et les boutiques indépendantes ferment les unes après les autres, et les rues commerçantes se vident. Or, ces commerces créent des emplois locaux, offrent des conseils personnalisés et font vivre nos quartiers. Acheter près de chez soi, c'est faire un choix qui va bien au-delà du prix : c'est choisir le type de ville dans lequel on veut vivre."
+      }
+    ],
+    "modelAnswer": "Le premier document met en avant les avantages du commerce en ligne : des prix faciles à comparer, un choix immense et la livraison à domicile, particulièrement utile pour certaines personnes. Le second insiste au contraire sur son coût environnemental et social, et défend les commerces de proximité, qui créent des emplois et animent les quartiers.\n\nJe pense qu'il n'est pas réaliste de renoncer complètement aux achats en ligne, mais que nous devrions les faire de manière plus réfléchie. Il m'arrive de commander sur Internet des articles introuvables dans ma ville, et ce service m'est alors très utile. En revanche, pour les livres, les vêtements ou l'épicerie, je préfère désormais les boutiques de mon quartier : les conseils d'un libraire passionné valent bien quelques dollars de plus. Selon moi, la solution passe aussi par les commerçants eux-mêmes : en proposant la commande en ligne et le retrait en magasin, ils peuvent combiner le meilleur des deux mondes.",
+    "usefulPhrases": [
+      "Le premier document met en avant…",
+      "Le second insiste au contraire sur…",
+      "Il n'est pas réaliste de…, mais…",
+      "Il m'arrive de…",
+      "En revanche, …",
+      "… valent bien quelques dollars de plus.",
+      "Selon moi, la solution passe par…",
+      "combiner le meilleur des deux mondes"
+    ]
+  }
+]

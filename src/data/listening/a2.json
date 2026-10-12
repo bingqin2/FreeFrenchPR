@@ -1,0 +1,309 @@
+[
+  {
+    "id": "lis-a2-001",
+    "level": "A2",
+    "kind": "message",
+    "context": "Un message sur un répondeur.",
+    "script": [
+      { "speaker": "N", "text": "Bonjour, ici la clinique dentaire du Plateau. Ce message est pour Madame Nguyen. Votre rendez-vous de mardi matin est annulé, parce que le docteur Roy est malade. Pouvez-vous nous rappeler pour choisir une nouvelle date ? Notre numéro est le cinq, un, quatre, trois, neuf, six, douze, vingt. Merci et bonne journée." }
+    ],
+    "question": "Pourquoi la clinique appelle-t-elle Madame Nguyen ?",
+    "options": ["Pour confirmer le rendez-vous de mardi", "Pour lui donner la nouvelle adresse de la clinique", "Pour annoncer l'annulation de son rendez-vous", "Pour lui demander son numéro de téléphone"],
+    "answer": 2,
+    "explanationEn": "The clinic says « Votre rendez-vous de mardi matin est annulé » (your Tuesday morning appointment is cancelled) because the dentist is sick, and asks her to call back to choose a new date.",
+    "explanationZh": "诊所说 « Votre rendez-vous de mardi matin est annulé »（您周二上午的预约取消了），因为医生生病了，并请她回电选择新日期。"
+  },
+  {
+    "id": "lis-a2-002",
+    "level": "A2",
+    "kind": "announcement",
+    "context": "Dans un supermarché.",
+    "script": [
+      { "speaker": "N", "text": "Chers clients, bonjour. Aujourd'hui seulement, toutes les fraises du Québec sont à moitié prix au rayon des fruits et légumes. Profitez-en ! Nous vous rappelons que le magasin ferme à vingt et une heures. Merci de faire vos achats chez nous." }
+    ],
+    "question": "Quelle est la promotion ?",
+    "options": ["Les fraises coûtent deux fois moins cher.", "Tous les fruits sont gratuits.", "Les légumes du Québec sont en solde toute la semaine.", "Le magasin reste ouvert plus tard."],
+    "answer": 0,
+    "explanationEn": "« Toutes les fraises du Québec sont à moitié prix » — the strawberries are half price, so they cost half as much (« deux fois moins cher »). The offer is for today only (« aujourd'hui seulement »).",
+    "explanationZh": "« toutes les fraises du Québec sont à moitié prix »（所有魁北克草莓半价），也就是便宜一半（« deux fois moins cher »），而且仅限今天（« aujourd'hui seulement »）。"
+  },
+  {
+    "id": "lis-a2-003",
+    "level": "A2",
+    "kind": "dialogue",
+    "context": "Au téléphone, une personne cherche un appartement.",
+    "script": [
+      { "speaker": "A", "text": "Bonjour, je vous appelle pour l'appartement de la rue Saint-Denis. Il est encore libre ?" },
+      { "speaker": "B", "text": "Oui. C'est un trois et demie au deuxième étage, à mille deux cents dollars par mois." },
+      { "speaker": "A", "text": "Est-ce que le chauffage est compris ?" },
+      { "speaker": "B", "text": "Oui, le chauffage et l'eau chaude sont compris, mais pas l'électricité." }
+    ],
+    "question": "Qu'est-ce qui n'est pas compris dans le loyer ?",
+    "options": ["Le chauffage", "L'eau chaude", "Le chauffage et l'eau chaude", "L'électricité"],
+    "answer": 3,
+    "explanationEn": "The owner says « le chauffage et l'eau chaude sont compris, mais pas l'électricité » — heating and hot water are included, electricity is not. (In Quebec, a « trois et demie » is a one-bedroom apartment.)",
+    "explanationZh": "房东说 « le chauffage et l'eau chaude sont compris, mais pas l'électricité »（暖气和热水包含在内，但电费不包含）。（在魁北克，« trois et demie » 指一室一厅的公寓。）"
+  },
+  {
+    "id": "lis-a2-004",
+    "level": "A2",
+    "kind": "announcement",
+    "context": "Dans une gare.",
+    "script": [
+      { "speaker": "N", "text": "Votre attention, s'il vous plaît. Le train numéro six cent vingt-deux à destination de Toronto, prévu à quinze heures dix, partira de la voie sept, et non de la voie quatre. Nous nous excusons pour ce changement." }
+    ],
+    "question": "Qu'est-ce qui change ?",
+    "options": ["L'heure de départ du train", "La voie de départ du train", "La destination du train", "Le numéro du train"],
+    "answer": 1,
+    "explanationEn": "The train « partira de la voie sept, et non de la voie quatre » — it leaves from track 7 instead of track 4. The time (15:10) and the destination (Toronto) do not change.",
+    "explanationZh": "火车 « partira de la voie sept, et non de la voie quatre »（将从 7 号轨道而不是 4 号轨道出发）。时间（15:10）和目的地（多伦多）都没有变。"
+  },
+  {
+    "id": "lis-a2-005",
+    "level": "A2",
+    "kind": "dialogue",
+    "context": "Deux amis font des projets pour le week-end.",
+    "script": [
+      { "speaker": "A", "text": "Tu fais quoi samedi ? On va au cinéma avec Sophie, tu viens ?" },
+      { "speaker": "B", "text": "J'aimerais bien, mais samedi, je travaille toute la journée. Par contre, dimanche, je suis libre." },
+      { "speaker": "A", "text": "D'accord. Alors on peut faire un pique-nique au parc dimanche midi." },
+      { "speaker": "B", "text": "Super idée ! J'apporte les boissons." }
+    ],
+    "question": "Qu'est-ce qu'ils vont faire ensemble ?",
+    "options": ["Aller au cinéma samedi", "Faire un pique-nique dimanche", "Travailler samedi", "Acheter des boissons samedi"],
+    "answer": 1,
+    "explanationEn": "The second person works all day Saturday (« samedi, je travaille toute la journée »), so they agree on « un pique-nique au parc dimanche midi » (a picnic in the park on Sunday at noon).",
+    "explanationZh": "第二个人周六全天上班（« samedi, je travaille toute la journée »），所以他们约定 « un pique-nique au parc dimanche midi »（周日中午在公园野餐）。"
+  },
+  {
+    "id": "lis-a2-006",
+    "level": "A2",
+    "kind": "message",
+    "context": "Un message pour Marc.",
+    "script": [
+      { "speaker": "N", "text": "Salut Marc, c'est Isabelle, du bureau. La réunion de demain avec les clients est déplacée. Elle n'est plus à neuf heures, mais à onze heures, toujours dans la salle B. N'oublie pas ton ordinateur portable. À demain !" }
+    ],
+    "question": "À quelle heure est la réunion maintenant ?",
+    "options": ["À 9 heures", "À 10 heures", "À 9 heures, dans la salle B", "À 11 heures"],
+    "answer": 3,
+    "explanationEn": "« Elle n'est plus à neuf heures, mais à onze heures » — the meeting is no longer at 9, but at 11. The room (salle B) stays the same.",
+    "explanationZh": "« Elle n'est plus à neuf heures, mais à onze heures »（会议不再是 9 点，而是 11 点）。会议室（B 室）不变。"
+  },
+  {
+    "id": "lis-a2-007",
+    "level": "A2",
+    "kind": "dialogue",
+    "context": "À la pharmacie.",
+    "script": [
+      { "speaker": "A", "text": "Bonjour, j'ai mal à la gorge depuis trois jours. Vous avez quelque chose pour ça ?" },
+      { "speaker": "B", "text": "Vous avez de la fièvre ?" },
+      { "speaker": "A", "text": "Non, pas de fièvre." },
+      { "speaker": "B", "text": "Alors, prenez ces pastilles trois fois par jour. Si ça ne va pas mieux dans deux jours, allez voir un médecin." }
+    ],
+    "question": "Quel conseil la personne reçoit-elle à la pharmacie ?",
+    "options": ["Prendre des pastilles et voir un médecin si ça continue", "Aller tout de suite chez le médecin", "Prendre un médicament contre la fièvre", "Rester au lit pendant trois jours"],
+    "answer": 0,
+    "explanationEn": "The advice is « prenez ces pastilles trois fois par jour » and « si ça ne va pas mieux dans deux jours, allez voir un médecin » (see a doctor if it is not better in two days). There is no fever.",
+    "explanationZh": "建议是 « prenez ces pastilles trois fois par jour »（这些含片一天三次），并且 « si ça ne va pas mieux dans deux jours, allez voir un médecin »（如果两天后没好转就去看医生）。这个人没有发烧。"
+  },
+  {
+    "id": "lis-a2-008",
+    "level": "A2",
+    "kind": "announcement",
+    "context": "Dans un musée.",
+    "script": [
+      { "speaker": "N", "text": "Mesdames et messieurs, le musée fermera ses portes dans quinze minutes. Nous vous invitons à vous diriger vers la sortie. La boutique du musée, au rez-de-chaussée, reste ouverte jusqu'à dix-huit heures trente. Merci de votre visite et à bientôt." }
+    ],
+    "question": "Qu'est-ce qui reste ouvert plus longtemps ?",
+    "options": ["Les salles d'exposition", "La cafétéria", "La boutique", "Le vestiaire"],
+    "answer": 2,
+    "explanationEn": "« La boutique du musée, au rez-de-chaussée, reste ouverte jusqu'à dix-huit heures trente » — the shop stays open until 6:30 p.m., while the museum closes in 15 minutes.",
+    "explanationZh": "« La boutique du musée ... reste ouverte jusqu'à dix-huit heures trente »（博物馆商店营业到 18:30），而博物馆本身 15 分钟后关闭。"
+  },
+  {
+    "id": "lis-a2-009",
+    "level": "A2",
+    "kind": "dialogue",
+    "context": "Le premier jour dans un nouveau travail.",
+    "script": [
+      { "speaker": "A", "text": "Bienvenue dans l'équipe, Amina ! Voici ton bureau, à côté de la fenêtre." },
+      { "speaker": "B", "text": "Merci ! Et où est-ce que je peux manger le midi ?" },
+      { "speaker": "A", "text": "Il y a une cuisine au troisième étage, avec un micro-ondes et un frigo. Beaucoup de collègues mangent là." },
+      { "speaker": "B", "text": "Parfait, merci !" }
+    ],
+    "question": "Où se trouve la cuisine ?",
+    "options": ["À côté de la fenêtre", "Au rez-de-chaussée", "Dans le bureau d'Amina", "Au troisième étage"],
+    "answer": 3,
+    "explanationEn": "« Il y a une cuisine au troisième étage » — the kitchen is on the third floor. « À côté de la fenêtre » is where Amina's desk is.",
+    "explanationZh": "« Il y a une cuisine au troisième étage »（三楼有厨房）。« à côté de la fenêtre »（窗边）是 Amina 办公桌的位置。"
+  },
+  {
+    "id": "lis-a2-010",
+    "level": "A2",
+    "kind": "announcement",
+    "context": "Dans le métro de Montréal.",
+    "script": [
+      { "speaker": "N", "text": "Avis aux usagers de la STM. En raison de travaux, la station Berri-UQAM sera fermée sur la ligne verte samedi et dimanche. Des autobus gratuits remplaceront le métro entre les stations Place-des-Arts et Papineau. Merci de votre compréhension." }
+    ],
+    "question": "Que propose la STM pendant les travaux ?",
+    "options": ["Des billets de métro gratuits", "De prendre la ligne orange", "Des autobus gratuits entre deux stations", "Un remboursement des billets"],
+    "answer": 2,
+    "explanationEn": "« Des autobus gratuits remplaceront le métro entre les stations Place-des-Arts et Papineau » — free buses replace the metro between two stations.",
+    "explanationZh": "« Des autobus gratuits remplaceront le métro entre les stations Place-des-Arts et Papineau »（免费公交车将在两站之间代替地铁）。"
+  },
+  {
+    "id": "lis-a2-011",
+    "level": "A2",
+    "kind": "dialogue",
+    "context": "Au téléphone avec un restaurant.",
+    "script": [
+      { "speaker": "A", "text": "Restaurant Chez Lucie, bonjour." },
+      { "speaker": "B", "text": "Bonjour, je voudrais réserver une table pour quatre personnes vendredi soir, vers vingt heures." },
+      { "speaker": "A", "text": "Je regrette, vendredi à vingt heures, c'est complet. J'ai une table à dix-neuf heures ou à vingt et une heures trente." },
+      { "speaker": "B", "text": "Bon, alors dix-neuf heures, ça me va." }
+    ],
+    "question": "À quelle heure est la réservation ?",
+    "options": ["À 19 heures", "À 20 heures", "À 21 heures 30", "À 21 heures"],
+    "answer": 0,
+    "explanationEn": "8 p.m. is full (« c'est complet »), so the caller chooses another time: « alors dix-neuf heures, ça me va » (7 p.m. is fine).",
+    "explanationZh": "20 点已经订满（« c'est complet »），所以打电话的人选了 « alors dix-neuf heures, ça me va »（那就 19 点吧）。"
+  },
+  {
+    "id": "lis-a2-012",
+    "level": "A2",
+    "kind": "message",
+    "context": "Un message de l'école.",
+    "script": [
+      { "speaker": "N", "text": "Bonjour, ici le secrétariat de l'école primaire des Érables. Votre fils Léo a mal au ventre, il est à l'infirmerie. Ce n'est pas grave, mais il veut rentrer à la maison. Pouvez-vous venir le chercher avant midi ? Merci beaucoup." }
+    ],
+    "question": "Qu'est-ce que l'école demande aux parents ?",
+    "options": ["D'appeler le médecin de Léo", "De venir chercher Léo avant midi", "D'apporter des médicaments à l'école", "De venir à une réunion à midi"],
+    "answer": 1,
+    "explanationEn": "The school asks « Pouvez-vous venir le chercher avant midi ? » (can you come and pick him up before noon?). It is « pas grave » (not serious).",
+    "explanationZh": "学校问 « Pouvez-vous venir le chercher avant midi ? »（您能在中午前来接他吗？）。情况 « pas grave »（不严重）。"
+  },
+  {
+    "id": "lis-a2-013",
+    "level": "A2",
+    "kind": "dialogue",
+    "context": "À l'accueil d'un centre sportif.",
+    "script": [
+      { "speaker": "A", "text": "Bonjour, je voudrais m'inscrire au cours de natation pour adultes." },
+      { "speaker": "B", "text": "Très bien. Il y a un cours le lundi soir et un cours le samedi matin. Le prix est de quatre-vingts dollars pour dix semaines." },
+      { "speaker": "A", "text": "Le samedi matin, c'est parfait pour moi." }
+    ],
+    "question": "Combien coûte le cours ?",
+    "options": ["80 dollars pour dix semaines", "18 dollars par semaine", "80 dollars par semaine", "10 dollars par cours"],
+    "answer": 0,
+    "explanationEn": "« Le prix est de quatre-vingts dollars pour dix semaines » — 80 dollars for the whole ten weeks, not per week.",
+    "explanationZh": "« Le prix est de quatre-vingts dollars pour dix semaines »（十周一共 80 加元），不是每周 80 加元。"
+  },
+  {
+    "id": "lis-a2-014",
+    "level": "A2",
+    "kind": "announcement",
+    "context": "Dans un aéroport.",
+    "script": [
+      { "speaker": "N", "text": "Les passagers du vol numéro huit cent cinquante à destination de Vancouver sont priés de se présenter à la porte vingt-deux. L'embarquement commence immédiatement. Merci de préparer votre carte d'embarquement et une pièce d'identité." }
+    ],
+    "question": "Que doivent faire les passagers ?",
+    "options": ["Attendre une nouvelle annonce", "Aller au comptoir d'enregistrement", "Changer de vol", "Aller à la porte 22 pour embarquer"],
+    "answer": 3,
+    "explanationEn": "Passengers « sont priés de se présenter à la porte vingt-deux » and « l'embarquement commence immédiatement » — go to gate 22, boarding starts now.",
+    "explanationZh": "乘客 « sont priés de se présenter à la porte vingt-deux »（请前往 22 号登机口），« l'embarquement commence immédiatement »（立即开始登机）。"
+  },
+  {
+    "id": "lis-a2-015",
+    "level": "A2",
+    "kind": "dialogue",
+    "context": "Dans un magasin de vêtements.",
+    "script": [
+      { "speaker": "A", "text": "Bonjour, j'ai acheté cette chemise la semaine dernière, mais elle est trop petite." },
+      { "speaker": "B", "text": "Vous avez votre reçu ?" },
+      { "speaker": "A", "text": "Oui, le voici." },
+      { "speaker": "B", "text": "Vous voulez l'échanger contre une taille plus grande ou avoir un remboursement ?" },
+      { "speaker": "A", "text": "Je préfère l'échanger, merci." }
+    ],
+    "question": "Que veut faire la personne qui a acheté la chemise ?",
+    "options": ["Avoir un remboursement", "Acheter une deuxième chemise", "Échanger la chemise", "Garder la chemise"],
+    "answer": 2,
+    "explanationEn": "The customer says « Je préfère l'échanger » (I'd rather exchange it) — for a bigger size, instead of getting a refund.",
+    "explanationZh": "顾客说 « Je préfère l'échanger »（我更想换货），换大一号，而不是退款。"
+  },
+  {
+    "id": "lis-a2-016",
+    "level": "A2",
+    "kind": "message",
+    "context": "Un message de Tom pour son amie Sarah.",
+    "script": [
+      { "speaker": "N", "text": "Coucou Sarah, c'est Tom. Tu te souviens ? Je déménage samedi prochain. Est-ce que tu peux m'aider ? J'ai besoin de quelqu'un avec une voiture pour transporter des boîtes. Je t'invite à manger une pizza le soir pour te remercier ! Rappelle-moi." }
+    ],
+    "question": "Pourquoi Tom demande-t-il de l'aide à Sarah ?",
+    "options": ["Parce qu'elle a beaucoup de boîtes", "Parce qu'elle a une voiture", "Parce qu'elle connaît son nouveau quartier", "Parce qu'elle fait de bonnes pizzas"],
+    "answer": 1,
+    "explanationEn": "Tom says « J'ai besoin de quelqu'un avec une voiture pour transporter des boîtes » (I need someone with a car to move boxes), so he asks Sarah because she has a car. The pizza is his way of saying thank you.",
+    "explanationZh": "Tom 说 « J'ai besoin de quelqu'un avec une voiture pour transporter des boîtes »（我需要一个有车的人帮忙运箱子），所以他找有车的 Sarah。披萨是他用来感谢她的。"
+  },
+  {
+    "id": "lis-a2-017",
+    "level": "A2",
+    "kind": "dialogue",
+    "context": "À la bibliothèque.",
+    "script": [
+      { "speaker": "A", "text": "Bonjour, je voudrais emprunter ces trois livres." },
+      { "speaker": "B", "text": "Votre carte de bibliothèque, s'il vous plaît. Vous pouvez les garder trois semaines." },
+      { "speaker": "A", "text": "Et si je n'ai pas fini de les lire ?" },
+      { "speaker": "B", "text": "Pas de problème, vous pouvez renouveler le prêt sur notre site Internet." }
+    ],
+    "question": "Comment peut-on garder les livres plus longtemps ?",
+    "options": ["En payant une amende", "En revenant à la bibliothèque", "En renouvelant le prêt en ligne", "En téléphonant à la bibliothèque"],
+    "answer": 2,
+    "explanationEn": "The librarian says « vous pouvez renouveler le prêt sur notre site Internet » — you can renew the loan online.",
+    "explanationZh": "图书管理员说 « vous pouvez renouveler le prêt sur notre site Internet »（可以在我们网站上续借）。"
+  },
+  {
+    "id": "lis-a2-018",
+    "level": "A2",
+    "kind": "radio",
+    "context": "La météo à la radio.",
+    "script": [
+      { "speaker": "N", "text": "Voici la météo pour demain à Montréal. Le matin, il y aura des nuages et un peu de pluie. L'après-midi, le soleil reviendra et il fera environ vingt-deux degrés. Le soir, il fera plus frais. Bonne journée !" }
+    ],
+    "question": "Quel temps fera-t-il demain après-midi ?",
+    "options": ["Il pleuvra.", "Il fera nuageux et frais.", "Il neigera.", "Il fera beau."],
+    "answer": 3,
+    "explanationEn": "« L'après-midi, le soleil reviendra et il fera environ vingt-deux degrés » — sunny and about 22 °C, so nice weather. The rain is in the morning and the cooler air in the evening.",
+    "explanationZh": "« L'après-midi, le soleil reviendra et il fera environ vingt-deux degrés »（下午出太阳，约 22 度），天气好。早上有雨，晚上才变凉。"
+  },
+  {
+    "id": "lis-a2-019",
+    "level": "A2",
+    "kind": "dialogue",
+    "context": "Au téléphone avec une clinique.",
+    "script": [
+      { "speaker": "A", "text": "Clinique médicale du Parc, bonjour." },
+      { "speaker": "B", "text": "Bonjour, je voudrais un rendez-vous avec le docteur Tremblay, s'il vous plaît." },
+      { "speaker": "A", "text": "Le docteur Tremblay est en vacances jusqu'au quinze juin. Vous voulez voir un autre médecin ?" },
+      { "speaker": "B", "text": "Non merci, je préfère attendre son retour. Ce n'est pas urgent." }
+    ],
+    "question": "Que décide la personne qui appelle ?",
+    "options": ["Voir un autre médecin", "Attendre le retour du docteur Tremblay", "Aller à l'hôpital", "Partir en vacances jusqu'au 15 juin"],
+    "answer": 1,
+    "explanationEn": "The caller says « je préfère attendre son retour » (I'd rather wait until he is back), because « ce n'est pas urgent ». It is the doctor who is on vacation.",
+    "explanationZh": "打电话的人说 « je préfère attendre son retour »（我宁愿等他回来），因为 « ce n'est pas urgent »（不紧急）。休假的是医生。"
+  },
+  {
+    "id": "lis-a2-020",
+    "level": "A2",
+    "kind": "announcement",
+    "context": "Dans un centre commercial.",
+    "script": [
+      { "speaker": "N", "text": "Votre attention, s'il vous plaît. Un petit garçon de cinq ans, qui s'appelle Hugo, attend ses parents à l'accueil du centre commercial, près de l'entrée principale. Il porte un manteau rouge. Merci." }
+    ],
+    "question": "Où les parents d'Hugo doivent-ils aller ?",
+    "options": ["À l'accueil, près de l'entrée principale", "À la sortie du stationnement", "Au magasin de vêtements pour enfants", "Au rayon des jouets"],
+    "answer": 0,
+    "explanationEn": "Hugo « attend ses parents à l'accueil du centre commercial, près de l'entrée principale » — at the information desk near the main entrance.",
+    "explanationZh": "Hugo « attend ses parents à l'accueil du centre commercial, près de l'entrée principale »（在商场正门附近的服务台等父母）。"
+  }
+]
